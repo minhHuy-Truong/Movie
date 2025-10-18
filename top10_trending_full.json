@@ -53,8 +53,8 @@
         "id": 1156594,
         "imdb_id": "tt33311244",
         "origin_country": [
-          "US",
-          "ES"
+          "ES",
+          "US"
         ],
         "original_language": "es",
         "original_title": "Culpa nuestra",
@@ -99,12 +99,12 @@
         "tagline": "",
         "title": "Our Fault",
         "video": false,
-        "vote_average": 8.015,
-        "vote_count": 131
+        "vote_average": 8.191,
+        "vote_count": 152
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.015,
+      "tmdb_vote_average": 8.191,
       "omdb": {
         "Title": "Culpa nuestra",
         "Year": "2025",
@@ -176,7 +176,7 @@
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Our Fault": 6,
+            "Our Fault": 5,
             "isPartial": false
           },
           {
@@ -286,7 +286,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Our Fault": 9,
+            "Our Fault": 8,
             "isPartial": false
           },
           {
@@ -426,7 +426,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "V84wS73wzWGqnlltiQN9EGRUnKI",
+          "etag": "8p8YFtPgDMB6mDPVYB4peCLSEo8",
           "id": "4ZDvKct1U4s",
           "snippet": {
             "publishedAt": "2025-09-10T14:00:05Z",
@@ -498,8 +498,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "2854203",
-            "likeCount": "30801",
+            "viewCount": "2856039",
+            "likeCount": "30807",
             "favoriteCount": "0",
             "commentCount": "634"
           }
@@ -1603,7 +1603,7 @@
           },
           {
             "date": "2025-03-16T00:00:00",
-            "TRON: Ares": 1,
+            "TRON: Ares": 0,
             "isPartial": false
           },
           {
@@ -1618,7 +1618,7 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "TRON: Ares": 23,
+            "TRON: Ares": 22,
             "isPartial": false
           },
           {
@@ -1698,7 +1698,7 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "TRON: Ares": 5,
+            "TRON: Ares": 4,
             "isPartial": false
           },
           {
@@ -1738,7 +1738,7 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "TRON: Ares": 15,
+            "TRON: Ares": 14,
             "isPartial": false
           },
           {
@@ -1748,7 +1748,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "TRON: Ares": 100,
+            "TRON: Ares": 98,
             "isPartial": false
           },
           {
@@ -1773,7 +1773,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "_pRH8mChVfP_1Aym8OZSeKFAnaU",
+          "etag": "dM0AUFMw0DF8RLdgIkKbJ3_-eRI",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -1818,10 +1818,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "12125552",
-            "likeCount": "178348",
+            "viewCount": "12127744",
+            "likeCount": "178363",
             "favoriteCount": "0",
-            "commentCount": "14429"
+            "commentCount": "14431"
           }
         }
       ],
@@ -2904,7 +2904,7 @@
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Woman in Cabin 10": 3,
+            "The Woman in Cabin 10": 4,
             "isPartial": false
           },
           {
@@ -3034,7 +3034,7 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Woman in Cabin 10": 1,
+            "The Woman in Cabin 10": 2,
             "isPartial": false
           },
           {
@@ -3054,7 +3054,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Woman in Cabin 10": 4,
+            "The Woman in Cabin 10": 5,
             "isPartial": false
           },
           {
@@ -3064,12 +3064,12 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Woman in Cabin 10": 1,
+            "The Woman in Cabin 10": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Woman in Cabin 10": 1,
+            "The Woman in Cabin 10": 2,
             "isPartial": false
           },
           {
@@ -3084,7 +3084,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Woman in Cabin 10": 40,
+            "The Woman in Cabin 10": 49,
             "isPartial": false
           },
           {
@@ -3109,7 +3109,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "tvRcGUy5qt9pcs-CjSm5hrVTpOs",
+          "etag": "RZf_5FsnpAgJiatVrbWjjtam8ms",
           "id": "1QbfJzTPY4w",
           "snippet": {
             "publishedAt": "2025-08-26T12:00:02Z",
@@ -3180,10 +3180,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "5553490",
-            "likeCount": "38584",
+            "viewCount": "5554364",
+            "likeCount": "38587",
             "favoriteCount": "0",
-            "commentCount": "2150"
+            "commentCount": "2152"
           }
         }
       ],
@@ -4490,7 +4490,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "OlO1ryRbiAlNP9HHoRBNv0A7NT4",
+          "etag": "kO14cPyKspul32OM68ErwU6Q5pA",
           "id": "fsQgc9pCyDU",
           "snippet": {
             "publishedAt": "2025-04-07T13:00:01Z",
@@ -4535,8 +4535,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "27512051",
-            "likeCount": "226842",
+            "viewCount": "27512203",
+            "likeCount": "226844",
             "favoriteCount": "0",
             "commentCount": "14028"
           }
@@ -5819,7 +5819,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "xXx": 94,
+            "xXx": 95,
             "isPartial": false
           },
           {
@@ -5844,7 +5844,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Zn_Sz96ERMPXGcwM-kfyBbmDQcM",
+          "etag": "xVqW7_y6-YeX4lR3facSKRD5jvU",
           "id": "NgPdDDzVhkA",
           "snippet": {
             "publishedAt": "2022-08-09T19:00:15Z",
@@ -5889,7 +5889,7 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8214358",
+            "viewCount": "8214439",
             "likeCount": "7217",
             "favoriteCount": "0",
             "commentCount": "289"
@@ -6741,69 +6741,93 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
+      "tmdb_id": 1197137,
+      "imdb_id": "tt29644189",
+      "title": "Black Phone 2",
+      "release_date": "2025-10-15",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Adventure"
+        "Horror",
+        "Thriller",
+        "Drama"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
+        "Blumhouse Productions",
+        "Universal Pictures",
+        "Crooked Highway",
+        "Divide / Conquer"
       ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+      "runtime": 114,
+      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
     },
     "commercial": {
-      "budget": 200000000,
-      "revenue": 521651414,
+      "budget": 30000000,
+      "revenue": 2780824,
       "opening_weekend": null,
-      "roi": 2.608,
+      "roi": 0.093,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
-        "belongs_to_collection": null,
-        "budget": 200000000,
+        "backdrop_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
+        "belongs_to_collection": {
+          "id": 1197140,
+          "name": "The Black Phone Collection",
+          "poster_path": "/m3WF523eq438w3rIh4JcLKGoIBd.jpg",
+          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
+        },
+        "budget": 30000000,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 27,
+            "name": "Horror"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
+        "homepage": "http://www.blackphonemovie.com",
+        "id": 1197137,
+        "imdb_id": "tt29644189",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 177.1666,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "original_title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "popularity": 103.1513,
+        "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
         "production_companies": [
           {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
             "origin_country": "US"
           },
           {
-            "id": 176762,
-            "logo_path": null,
-            "name": "Kevin Feige Productions",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 162439,
+            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+            "name": "Crooked Highway",
+            "origin_country": "US"
+          },
+          {
+            "id": 89115,
+            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+            "name": "Divide / Conquer",
             "origin_country": "US"
           }
         ],
@@ -6813,69 +6837,65 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-07-23",
-        "revenue": 521651414,
-        "runtime": 115,
+        "release_date": "2025-10-15",
+        "revenue": 2780824,
+        "runtime": 114,
         "spoken_languages": [
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
+        "tagline": "Dead is just a word.",
+        "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.126,
-        "vote_count": 1993
+        "vote_average": 7.1,
+        "vote_count": 33
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.126,
+      "tmdb_vote_average": 7.1,
       "omdb": {
-        "Title": "The Fantastic Four: First Steps",
+        "Title": "Black Phone 2",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
+        "Rated": "R",
+        "Released": "17 Oct 2025",
         "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+        "Genre": "Horror",
+        "Director": "Scott Derrickson",
+        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
+        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
+        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
         "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
-            "Source": "Internet Movie Database",
-            "Value": "7.3/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "65/100"
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
           }
         ],
-        "Metascore": "65",
-        "imdbRating": "7.3",
-        "imdbVotes": "134,708",
-        "imdbID": "tt10676052",
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt29644189",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$272,903,891",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -6888,267 +6908,267 @@
         "interest_over_time": [
           {
             "date": "2024-10-13T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-10-20T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Fantastic 4: First Steps": 30,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Fantastic 4: First Steps": 7,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Fantastic 4: First Steps": 2,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Fantastic 4: First Steps": 2,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Fantastic 4: First Steps": 9,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Fantastic 4: First Steps": 7,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Fantastic 4: First Steps": 9,
+            "Black Phone 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Fantastic 4: First Steps": 10,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Fantastic 4: First Steps": 15,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Fantastic 4: First Steps": 19,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Fantastic 4: First Steps": 100,
+            "Black Phone 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Fantastic 4: First Steps": 98,
+            "Black Phone 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Fantastic 4: First Steps": 62,
+            "Black Phone 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Fantastic 4: First Steps": 35,
+            "Black Phone 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Fantastic 4: First Steps": 32,
+            "Black Phone 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Fantastic 4: First Steps": 26,
+            "Black Phone 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Fantastic 4: First Steps": 25,
+            "Black Phone 2": 10,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Fantastic 4: First Steps": 21,
+            "Black Phone 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Fantastic 4: First Steps": 18,
+            "Black Phone 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Fantastic 4: First Steps": 33,
+            "Black Phone 2": 15,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Fantastic 4: First Steps": 19,
+            "Black Phone 2": 25,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Fantastic 4: First Steps": 12,
+            "Black Phone 2": 31,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Fantastic 4: First Steps": 9,
+            "Black Phone 2": 100,
             "isPartial": true
           }
         ]
@@ -7168,59 +7188,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "283lLboMT6owz5s4p9fXhK6rdsY",
-          "id": "18QQWa5MEcs",
+          "etag": "n2KpjkzaVetms6dHNFo97Ct46bQ",
+          "id": "DdR-gzFZoDk",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "publishedAt": "2025-09-04T15:00:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Black Phone 2 | Official Trailer 2",
+            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Marvel Entertainment",
-            "tags": [
-              "marvel",
-              "comics"
-            ],
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+              "title": "Black Phone 2 | Official Trailer 2",
+              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16838301",
-            "likeCount": "310051",
+            "viewCount": "1076682",
+            "likeCount": "24052",
             "favoriteCount": "0",
-            "commentCount": "20517"
+            "commentCount": "1265"
           }
         }
       ],
@@ -7231,18 +7247,21 @@
     },
     "creative": {
       "director": [
-        "Matt Shakman"
+        "Scott Derrickson"
       ],
-      "writers": [],
+      "writers": [
+        "Scott Derrickson",
+        "C. Robert Cargill"
+      ],
       "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Demián Bichir",
+        "Miguel Mora",
+        "Jeremy Davies",
+        "Arianna Rivas",
+        "Maev Beaty"
       ],
       "star_power": {
         "actor_count": 8
@@ -8069,93 +8088,69 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 1197137,
-      "imdb_id": "tt29644189",
-      "title": "Black Phone 2",
-      "release_date": "2025-10-15",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "Horror",
-        "Thriller",
-        "Drama"
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Blumhouse Productions",
-        "Universal Pictures",
-        "Crooked Highway",
-        "Divide / Conquer"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 114,
-      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 2780824,
+      "budget": 200000000,
+      "revenue": 521651414,
       "opening_weekend": null,
-      "roi": 0.093,
+      "roi": 2.608,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
-        "belongs_to_collection": {
-          "id": 1197140,
-          "name": "The Black Phone Collection",
-          "poster_path": "/m3WF523eq438w3rIh4JcLKGoIBd.jpg",
-          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
-        },
-        "budget": 30000000,
+        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+        "belongs_to_collection": null,
+        "budget": 200000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "http://www.blackphonemovie.com",
-        "id": 1197137,
-        "imdb_id": "tt29644189",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Black Phone 2",
-        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-        "popularity": 103.1513,
-        "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 177.1666,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 162439,
-            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
-            "name": "Crooked Highway",
-            "origin_country": "US"
-          },
-          {
-            "id": 89115,
-            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-            "name": "Divide / Conquer",
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -8165,65 +8160,69 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-15",
-        "revenue": 2780824,
-        "runtime": 114,
+        "release_date": "2025-07-23",
+        "revenue": 521651414,
+        "runtime": 115,
         "spoken_languages": [
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "Dead is just a word.",
-        "title": "Black Phone 2",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 7.1,
-        "vote_count": 33
+        "vote_average": 7.126,
+        "vote_count": 1993
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.1,
+      "tmdb_vote_average": 7.126,
       "omdb": {
-        "Title": "Black Phone 2",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
         "Runtime": "114 min",
-        "Genre": "Horror",
-        "Director": "Scott Derrickson",
-        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
-        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
-        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
-            "Source": "Rotten Tomatoes",
-            "Value": "81%"
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt29644189",
+        "Metascore": "65",
+        "imdbRating": "7.3",
+        "imdbVotes": "134,708",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$272,903,891",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8236,267 +8235,267 @@
         "interest_over_time": [
           {
             "date": "2024-10-13T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-10-20T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 30,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Black Phone 2": 1,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Black Phone 2": 2,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Black Phone 2": 13,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Black Phone 2": 4,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Black Phone 2": 3,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Black Phone 2": 3,
+            "The Fantastic 4: First Steps": 10,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Black Phone 2": 4,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Black Phone 2": 5,
+            "The Fantastic 4: First Steps": 15,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Black Phone 2": 4,
+            "The Fantastic 4: First Steps": 19,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Black Phone 2": 6,
+            "The Fantastic 4: First Steps": 100,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Black Phone 2": 6,
+            "The Fantastic 4: First Steps": 98,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Black Phone 2": 7,
+            "The Fantastic 4: First Steps": 62,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Black Phone 2": 7,
+            "The Fantastic 4: First Steps": 35,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Black Phone 2": 8,
+            "The Fantastic 4: First Steps": 32,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Black Phone 2": 8,
+            "The Fantastic 4: First Steps": 26,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Black Phone 2": 10,
+            "The Fantastic 4: First Steps": 24,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Black Phone 2": 13,
+            "The Fantastic 4: First Steps": 21,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Black Phone 2": 9,
+            "The Fantastic 4: First Steps": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Black Phone 2": 15,
+            "The Fantastic 4: First Steps": 33,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Black Phone 2": 25,
+            "The Fantastic 4: First Steps": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Black Phone 2": 31,
+            "The Fantastic 4: First Steps": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Black Phone 2": 100,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": true
           }
         ]
@@ -8516,55 +8515,59 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "5l8trewIPbL4E6zwaBWTmRvgFeg",
-          "id": "DdR-gzFZoDk",
+          "etag": "qmMJ1yzSIDvS8rSPTjK9EvJ4jc8",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-09-04T15:00:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Black Phone 2 | Official Trailer 2",
-            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics"
+            ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Black Phone 2 | Official Trailer 2",
-              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1075517",
-            "likeCount": "24047",
+            "viewCount": "16838428",
+            "likeCount": "310051",
             "favoriteCount": "0",
-            "commentCount": "1264"
+            "commentCount": "20517"
           }
         }
       ],
@@ -8575,21 +8578,18 @@
     },
     "creative": {
       "director": [
-        "Scott Derrickson"
+        "Matt Shakman"
       ],
-      "writers": [
-        "Scott Derrickson",
-        "C. Robert Cargill"
-      ],
+      "writers": [],
       "cast_top": [
-        "Ethan Hawke",
-        "Mason Thames",
-        "Madeleine McGraw",
-        "Demián Bichir",
-        "Miguel Mora",
-        "Jeremy Davies",
-        "Arianna Rivas",
-        "Maev Beaty"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -9797,7 +9797,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Conjuring: Last Rites": 29,
+            "The Conjuring: Last Rites": 30,
             "isPartial": false
           },
           {
@@ -9807,7 +9807,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Conjuring: Last Rites": 82,
+            "The Conjuring: Last Rites": 83,
             "isPartial": false
           },
           {
@@ -9822,7 +9822,7 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Conjuring: Last Rites": 15,
+            "The Conjuring: Last Rites": 16,
             "isPartial": false
           },
           {
@@ -9852,7 +9852,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "FV9e_uWHaxTer9_0XUQ9qXGeHtg",
+          "etag": "kcHnP0AkqBHyYRoc6Ya1LpNE428",
           "id": "bMgfsdYoEEo",
           "snippet": {
             "publishedAt": "2025-07-31T16:00:56Z",
@@ -9919,8 +9919,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "24762622",
-            "likeCount": "222732",
+            "viewCount": "24763322",
+            "likeCount": "222737",
             "favoriteCount": "0",
             "commentCount": "6596"
           }
@@ -11216,7 +11216,7 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "A Big Bold Beautiful Journey": 41,
+            "A Big Bold Beautiful Journey": 42,
             "isPartial": true
           }
         ]
@@ -11236,7 +11236,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "v7GEJhZDbPafDjhC7DEriLNn_Os",
+          "etag": "Ras4jf7bmBwHUyrPDThuCSa5zOw",
           "id": "7t9cPtA9St0",
           "snippet": {
             "publishedAt": "2025-06-03T12:59:05Z",
@@ -11281,7 +11281,7 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "25343085",
+            "viewCount": "25343216",
             "likeCount": "34416",
             "favoriteCount": "0",
             "commentCount": "1911"
@@ -12551,7 +12551,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Interstellar": 40,
+            "Interstellar": 41,
             "isPartial": false
           },
           {
@@ -12576,7 +12576,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "TJ8UX_R1mfbMyBGUOq5k8OmIn00",
+          "etag": "f-L_5BAiyPuGnWhS77hdPItkJ7M",
           "id": "2LqzF5WauAw",
           "snippet": {
             "publishedAt": "2014-05-16T17:56:42Z",
@@ -12638,7 +12638,7 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8071128",
+            "viewCount": "8071163",
             "likeCount": "40693",
             "favoriteCount": "0",
             "commentCount": "3421"
