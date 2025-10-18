@@ -1,33 +1,25 @@
 name: API and Web Scrape Automation
-
 on:
   schedule:
     - cron: "0 */2 * * *"  # Chạy mỗi 2 giờ
   workflow_dispatch:  # Cho phép chạy thủ công
-
 permissions:
   contents: write   # 👈 Thêm quyền ghi vào repo để có thể push
-
 jobs:
   update_data:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout repo
       uses: actions/checkout@v4
-
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: "3.11"
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-        playwright install chromium
-        playwright install-deps chromium
-
+        python -m playwright install --with-deps chromium
     - name: Run crawler
       env:
         TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -36,7 +28,6 @@ jobs:
         X_API_KEY: ${{ secrets.X_API_KEY }}
         YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
       run: python upload_data.py
-
     - name: Commit and push results
       run: |
         git config user.name "github-actions[bot]"
