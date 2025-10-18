@@ -1,4 +1,3 @@
-dua theo file nay tao cho toi file requirement.txt : 
 import os
 import time
 import requests
