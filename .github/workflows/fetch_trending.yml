@@ -1,47 +1,46 @@
-name: Fetch Top Trending Movies
+name: API and Web Scrape Automation
 
 on:
   schedule:
-    - cron: "0 */4 * * *"  # chạy mỗi 4 giờ
-  workflow_dispatch:        # cho phép chạy thủ công
+    - cron: "0 */2 * * *"  # Chạy mỗi 2 giờ
+  workflow_dispatch:  # Cho phép chạy thủ công
+
+permissions:
+  contents: write   # 👈 Thêm quyền ghi vào repo để có thể push
 
 jobs:
-  build:
+  update_data:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repo
-      - name: Checkout code
-        uses: actions/checkout@v4
+    - name: Checkout repo
+      uses: actions/checkout@v4
 
-      # Setup Python
-      - name: Setup Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.11"
 
-      # Install dependencies
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        playwright install chromium
+        playwright install-deps chromium
 
-      # Run the automation script
-      - name: Run fetch script
-        env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
-          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
-          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
-          X_API_KEY: ${{ secrets.X_API_KEY }}
-          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: |
-          python ADY201m.py
-          
-      # Optional: Upload JSON & CSV as workflow artifacts
-      - name: Upload JSON & CSV
-        uses: actions/upload-artifact@v4
-        with:
-          name: trending-data
-          path: |
-            top10_trending_full.json
-            top10_trending.csv
+    - name: Run crawler
+      env:
+        TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+        X_API_KEY: ${{ secrets.X_API_KEY }}
+        YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      run: python upload_data.py
+
+    - name: Commit and push results
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add top10_trending_full.json top10_trending.csv
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update trending data - $(date +'%Y-%m-%d %H:%M:%S')"
+        git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
