@@ -160,7 +160,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "DcmvlPPIlDM1Pe1YzZySz2SZP4s",
+          "etag": "IYv7gHKIbse3rRZyZ5UArPdcUkw",
           "id": "4ZDvKct1U4s",
           "snippet": {
             "publishedAt": "2025-09-10T14:00:05Z",
@@ -232,8 +232,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "3101220",
-            "likeCount": "31457",
+            "viewCount": "3112436",
+            "likeCount": "31493",
             "favoriteCount": "0",
             "commentCount": "642"
           }
@@ -1141,7 +1141,7 @@
         "original_language": "en",
         "original_title": "Black Phone 2",
         "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-        "popularity": 154.1022,
+        "popularity": 164.8529,
         "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
         "production_companies": [
           {
@@ -1180,26 +1180,26 @@
         "runtime": 114,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
             "english_name": "Spanish",
             "iso_639_1": "es",
             "name": "Español"
+          },
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.349,
-        "vote_count": 73
+        "vote_average": 7.3,
+        "vote_count": 74
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.349,
+      "tmdb_vote_average": 7.3,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -1268,7 +1268,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "z-HH1bW0UcMUb8RbOIf3T-fJIg8",
+          "etag": "EGJy-_NS-EKpRmNo3FcHIBqXQus",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -1313,10 +1313,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1264944",
-            "likeCount": "25271",
+            "viewCount": "1273067",
+            "likeCount": "25314",
             "favoriteCount": "0",
-            "commentCount": "1341"
+            "commentCount": "1342"
           }
         }
       ],
@@ -2168,81 +2168,83 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 1290879,
-      "imdb_id": "tt7130300",
-      "title": "The Woman in Cabin 10",
-      "release_date": "2025-10-09",
+      "tmdb_id": 604079,
+      "imdb_id": "tt10374610",
+      "title": "The Long Walk",
+      "release_date": "2025-09-10",
       "release_year": "2025",
       "genres": [
-        "Mystery",
-        "Thriller",
-        "Crime"
+        "Horror",
+        "Thriller"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "SISTER",
-        "CBS Films",
-        "The Gotham Group"
+        "Lionsgate",
+        "about:blank",
+        "Vertigo Entertainment",
+        "Media Capital Technologies"
       ],
-      "runtime": 95,
-      "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth."
+      "runtime": 109,
+      "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 20000000,
+      "revenue": 42650783,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 2.133,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/9IHZeCusOd7RUaQpUrQJlKqjsUZ.jpg",
+        "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 20000000,
         "genres": [
           {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 27,
+            "name": "Horror"
           },
           {
             "id": 53,
             "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81222804",
-        "id": 1290879,
-        "imdb_id": "tt7130300",
+        "homepage": "https://www.thelongwalk.movie",
+        "id": 604079,
+        "imdb_id": "tt10374610",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Woman in Cabin 10",
-        "overview": "On a lavish yacht for an assignment, a journalist sees a passenger go overboard. But when no one believes her, she risks her life to uncover the truth.",
-        "popularity": 128.3207,
-        "poster_path": "/4kpdyePOlcELQQJcxXPF5GB1Adw.jpg",
+        "original_title": "The Long Walk",
+        "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+        "popularity": 28.4784,
+        "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
         "production_companies": [
           {
-            "id": 239315,
-            "logo_path": "/kL6jD0jB836NqSfBusvjmYX1wAB.png",
-            "name": "SISTER",
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
             "origin_country": "US"
           },
           {
-            "id": 5490,
-            "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
-            "name": "CBS Films",
+            "id": 161357,
+            "logo_path": "/kQlxsHQKQsDOXmKPZVqEyL827NJ.png",
+            "name": "about:blank",
             "origin_country": "US"
           },
           {
-            "id": 3672,
-            "logo_path": "/xpRwVe9NL5791oyUidzeRp8ezGj.png",
-            "name": "The Gotham Group",
+            "id": 829,
+            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 221429,
+            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+            "name": "Media Capital Technologies",
             "origin_country": "US"
           }
         ],
@@ -2252,69 +2254,68 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-09",
-        "revenue": 0,
-        "runtime": 95,
+        "release_date": "2025-09-10",
+        "revenue": 42650783,
+        "runtime": 109,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Norwegian",
-            "iso_639_1": "no",
-            "name": "Norsk"
           }
         ],
         "status": "Released",
-        "tagline": "They don't want you to believe what she saw.",
-        "title": "The Woman in Cabin 10",
+        "tagline": "The task is simple: walk or die.",
+        "title": "The Long Walk",
         "video": false,
-        "vote_average": 6.223,
-        "vote_count": 393
+        "vote_average": 7.0,
+        "vote_count": 277
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.223,
+      "tmdb_vote_average": 7.0,
       "omdb": {
-        "Title": "The Woman in Cabin 10",
+        "Title": "The Long Walk",
         "Year": "2025",
         "Rated": "R",
-        "Released": "10 Oct 2025",
-        "Runtime": "92 min",
-        "Genre": "Drama, Mystery, Thriller",
-        "Director": "Simon Stone",
-        "Writer": "Joe Shrapnel, Simon Stone, Ruth Ware",
-        "Actors": "Keira Knightley, Hannah Waddingham, Kaya Scodelario",
-        "Plot": "A travel writer stumbles upon a gruesome secret while traveling aboard a luxury cruise ship.",
+        "Released": "12 Sep 2025",
+        "Runtime": "108 min",
+        "Genre": "Thriller",
+        "Director": "Francis Lawrence",
+        "Writer": "JT Mollner, Stephen King",
+        "Actors": "Cooper Hoffman, David Jonsson, Garrett Wareing",
+        "Plot": "A group of teenage boys compete in an annual contest known as \"The Long Walk,\" in which they must maintain a certain walking speed or get shot.",
         "Language": "English",
-        "Country": "United States, United Kingdom",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNDY0YmEyNDMtNTQ0Yi00MWVmLWFiYjMtODM5NmUzZWQ5MDMxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States, Canada",
+        "Awards": "1 win total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.0/10"
+            "Value": "7.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
           },
           {
             "Source": "Metacritic",
-            "Value": "44/100"
+            "Value": "71/100"
           }
         ],
-        "Metascore": "44",
-        "imdbRating": "6.0",
-        "imdbVotes": "11,197",
-        "imdbID": "tt7130300",
+        "Metascore": "71",
+        "imdbRating": "7.3",
+        "imdbVotes": "28,536",
+        "imdbID": "tt10374610",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$32,171,621",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_woman_in_cabin_10\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_woman_in_cabin_10\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -2324,273 +2325,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Woman in Cabin 10": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Woman in Cabin 10": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Woman in Cabin 10": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Woman in Cabin 10": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Woman in Cabin 10": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Woman in Cabin 10": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Woman in Cabin 10": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Woman in Cabin 10": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Woman in Cabin 10": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Woman in Cabin 10": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Woman in Cabin 10": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Woman in Cabin 10": 47,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Woman in Cabin 10": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Woman in Cabin 10": 59,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -2607,81 +2342,79 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "9OIdeAwNoLHu6QhWtexsQtYNjBk",
-          "id": "1QbfJzTPY4w",
+          "etag": "nPOrsRZp6p5aOjsylO9_MFBt6ns",
+          "id": "vAtUHeMQ1F8",
           "snippet": {
-            "publishedAt": "2025-08-26T12:00:02Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "The Woman in Cabin 10 | Official Trailer | Netflix",
-            "description": "They don’t want you to believe what she saw.\n\nBased on the bestselling novel The Woman in Cabin 10 by Ruth Ware. While on board a luxury yacht for a travel assignment, a journalist (Keira Knightley) witnesses a passenger thrown overboard late at night, only to be told that it didn’t happen, as all passengers and crew are accounted for. Despite no one believing her, she continues to look for answers, putting her own life in danger.\n\nWatch The Woman in Cabin 10, only on Netflix: https://www.netflix.com/thewomanincabin10\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Woman in Cabin 10 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2025-05-07T14:59:58Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+            "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/1QbfJzTPY4w/default.jpg",
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/1QbfJzTPY4w/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/1QbfJzTPY4w/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/1QbfJzTPY4w/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/1QbfJzTPY4w/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Lionsgate Movies",
             "tags": [
-              "10",
-              "Amanda Collin",
-              "Art Malik",
-              "Cabin",
-              "Cabin 10",
-              "Christopher Rygh",
-              "Daniel Ings",
-              "David Ajala",
-              "David Morrissey",
-              "Drama",
-              "Gitte Witt",
-              "Gugu Mbatha-Raw",
-              "Guy Pearce",
-              "Hannah Waddingham",
-              "John MacMillan",
-              "Kaya Scodelario",
-              "Keira Knightley",
-              "Lisa Loven Kongsli",
-              "Mystery",
-              "Paul Kaye",
-              "Pippa Bennett-Warner",
-              "The Woman in Cabin 10",
-              "Thriller",
-              "Woman"
+              "The Long Walk",
+              "The Long Walk 2025 movie",
+              "The Long Walk 2025",
+              "The Long Walk 2025 film",
+              "The Long Walk official trailer",
+              "The Long Walk trailer",
+              "The Long Walk 2025 trailer",
+              "The Long Walk 2025 official trailer",
+              "Stephen King",
+              "The Long Walk Stephen King",
+              "dystopian",
+              "King novel",
+              "Stephen King novel",
+              "adaptation",
+              "Stephen King adaptation",
+              "police state",
+              "horror",
+              "totalitarian",
+              "regime",
+              "walking contest",
+              "annual contest",
+              "Psychological horror"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Woman in Cabin 10 | Official Trailer | Netflix",
-              "description": "They don’t want you to believe what she saw.\n\nBased on the bestselling novel The Woman in Cabin 10 by Ruth Ware. While on board a luxury yacht for a travel assignment, a journalist (Keira Knightley) witnesses a passenger thrown overboard late at night, only to be told that it didn’t happen, as all passengers and crew are accounted for. Despite no one believing her, she continues to look for answers, putting her own life in danger.\n\nWatch The Woman in Cabin 10, only on Netflix: https://www.netflix.com/thewomanincabin10\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Woman in Cabin 10 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+              "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "5664845",
-            "likeCount": "39127",
+            "viewCount": "16023126",
+            "likeCount": "66580",
             "favoriteCount": "0",
-            "commentCount": "2195"
+            "commentCount": "6910"
           }
         }
       ],
@@ -2692,18 +2425,18 @@
     },
     "creative": {
       "director": [
-        "Simon Stone"
+        "Francis Lawrence"
       ],
       "writers": [],
       "cast_top": [
-        "Keira Knightley",
-        "Guy Pearce",
-        "David Ajala",
-        "Gitte Witt",
-        "Art Malik",
-        "Gugu Mbatha-Raw",
-        "Hannah Waddingham",
-        "Kaya Scodelario"
+        "Cooper Hoffman",
+        "David Jonsson",
+        "Garrett Wareing",
+        "Tut Nyuot",
+        "Charlie Plummer",
+        "Ben Wang",
+        "Jordan Gonzalez",
+        "Joshua Odjick"
       ],
       "star_power": {
         "actor_count": 8
@@ -3528,171 +3261,165 @@
     ]
   },
   {
-    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
-    "title": "TRON: Ares",
-    "index": 3
-  },
-  {
-    "rank": 5,
+    "rank": 4,
     "metadata": {
-      "tmdb_id": 106646,
-      "imdb_id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "release_date": "2013-12-25",
-      "release_year": "2013",
+      "tmdb_id": 927254,
+      "imdb_id": "tt0498396",
+      "title": "The Twits",
+      "release_date": "2025-10-17",
+      "release_year": "2025",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
       ],
       "production_countries": [
+        "GB",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Red Granite Pictures",
-        "Appian Way",
-        "Sikelia Productions",
-        "EMJAG Productions"
+        "Jellyfish Pictures",
+        "The Roald Dahl Story Company",
+        "Netflix Animation"
       ],
-      "runtime": 180,
-      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
+      "runtime": 99,
+      "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down."
     },
     "commercial": {
-      "budget": 100000000,
-      "revenue": 407038432,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 4.07,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
+        "backdrop_path": "/4KIg3yxQcWbuXJ5xgiTLGguCtC.jpg",
         "belongs_to_collection": null,
-        "budget": 100000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
+            "id": 16,
+            "name": "Animation"
           },
           {
             "id": 35,
             "name": "Comedy"
+          },
+          {
+            "id": 10751,
+            "name": "Family"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "http://www.thewolfofwallstreet.com/",
-        "id": 106646,
-        "imdb_id": "tt0993846",
+        "homepage": "https://www.netflix.com/title/81612165",
+        "id": 927254,
+        "imdb_id": "tt0498396",
         "origin_country": [
+          "GB",
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Wolf of Wall Street",
-        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-        "popularity": 20.839,
-        "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "original_title": "The Twits",
+        "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
+        "popularity": 153.5439,
+        "poster_path": "/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg",
         "production_companies": [
           {
-            "id": 19177,
-            "logo_path": null,
-            "name": "Red Granite Pictures",
-            "origin_country": "US"
+            "id": 16879,
+            "logo_path": "/nS1Gvl3CuKLUkWsfHfxAigG0YVS.png",
+            "name": "Jellyfish Pictures",
+            "origin_country": "GB"
           },
           {
-            "id": 562,
-            "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
-            "name": "Appian Way",
-            "origin_country": "US"
+            "id": 214904,
+            "logo_path": "/9S6xSAsUiE1zuKzxayco7fD0p26.png",
+            "name": "The Roald Dahl Story Company",
+            "origin_country": "GB"
           },
           {
-            "id": 23243,
-            "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
-            "name": "Sikelia Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 14654,
-            "logo_path": null,
-            "name": "EMJAG Productions",
+            "id": 171251,
+            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+            "name": "Netflix Animation",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2013-12-25",
-        "revenue": 407038432,
-        "runtime": 180,
+        "release_date": "2025-10-17",
+        "revenue": 0,
+        "runtime": 99,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Earn. Spend. Party.",
-        "title": "The Wolf of Wall Street",
+        "tagline": "Once upon a time, there were two terrible Twits... But now, they've met their match.",
+        "title": "The Twits",
         "video": false,
-        "vote_average": 8.028,
-        "vote_count": 25072
+        "vote_average": 7.135,
+        "vote_count": 26
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.028,
+      "tmdb_vote_average": 7.135,
       "omdb": {
-        "Title": "The Wolf of Wall Street",
-        "Year": "2013",
-        "Rated": "R",
-        "Released": "25 Dec 2013",
-        "Runtime": "180 min",
-        "Genre": "Biography, Comedy, Crime",
-        "Director": "Martin Scorsese",
-        "Writer": "Terence Winter, Jordan Belfort",
-        "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
-        "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-        "Language": "English, French",
-        "Country": "United States",
-        "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "Title": "The Twits",
+        "Year": "2025",
+        "Rated": "PG",
+        "Released": "17 Oct 2025",
+        "Runtime": "98 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Phil Johnston, Todd Demong, Katie Shanahan",
+        "Writer": "Roald Dahl, Kirk DeMicco, Meg Favreau",
+        "Actors": "N/A",
+        "Plot": "Two orphans join forces with a family of magical animals to save their city from the powerful Mr. and Mrs. Twit, the meanest, smelliest, nastiest people in the world.",
+        "Language": "English",
+        "Country": "United States, United Kingdom",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYTNmODkxN2MtMzJlNC00ODc4LWFhNjctMTIzZTk5ODc0MjExXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.2/10"
+            "Value": "4.8/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "Value": "57%"
           },
           {
             "Source": "Metacritic",
-            "Value": "75/100"
+            "Value": "46/100"
           }
         ],
-        "Metascore": "75",
-        "imdbRating": "8.2",
-        "imdbVotes": "1,722,525",
-        "imdbID": "tt0993846",
+        "Metascore": "46",
+        "imdbRating": "4.8",
+        "imdbVotes": "1,174",
+        "imdbID": "tt0498396",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$116,900,694",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_twits\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_twits\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -3719,74 +3446,73 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Mr4vY9VtbIdpHNTntoKHWfRJAr0",
-          "id": "iszwuX1AK6A",
+          "etag": "7r-TZBu_XOOIBjOMmbYjWZJZIFs",
+          "id": "6l-y_Z5clR0",
           "snippet": {
-            "publishedAt": "2013-06-17T05:40:12Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Wolf of Wall Street Official Trailer",
-            "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com",
+            "publishedAt": "2025-10-20T16:29:35Z",
+            "channelId": "UCvuh5BJKwNyrnBaj_aWuyHw",
+            "title": "THE TWITS Trailer (2025)",
+            "description": "Official The Twits Movie Trailer 2025 | Subscribe ➤ https://abo.yt/ki | Netflix: 17 Oct 2025 | More https://KinoCheck.com/movie/74c/the-twits-2025?utm_source=youtube&utm_medium=description\nMr. and Mrs. Twit are the meanest, smelliest, nastiest people in the world who also happen to own and operate the most disgusting, most dangerous, most idiotic amusement park in the world, Twitlandia. But when the Twits rise to power in their town, two brave orphans and a family of magical animals are forced to become as tricky as the Twits in order to save the city.\n\nThe Twits rent/buy ➤ https://amzo.in/movie/74c/the-twits-2025\nMost popular movies right now ➤ https://amzo.in/bestsellermovies\nMost wanted movies of all time ➤ https://amzo.in/wishlistmovies\n\nNote | #TheTwits #Trailer courtesy of Netflix International B.V.. | All Rights Reserved. | https://amzo.in are affiliate-links. That add no additional cost to you, but will support our work through a small commission. | #KinoCheck®",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/default.jpg",
+                "url": "https://i.ytimg.com/vi/6l-y_Z5clR0/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6l-y_Z5clR0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6l-y_Z5clR0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/6l-y_Z5clR0/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6l-y_Z5clR0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
+            "channelTitle": "KinoCheck Family",
             "tags": [
-              "The Wold of Wall Street",
-              "Martin Scorsese",
-              "Leonardo DiCaprio",
-              "Jonah Hill",
-              "Margot Robbie",
-              "Matthew McConaughey",
-              "Jon Favreau",
-              "Kyle Chandler",
-              "Rob Reiner",
-              "Jean Dujardin",
-              "Pj Byrne",
-              "Kenneth Choi",
-              "Paramount Pictures",
-              "Trailer",
-              "The Wolf Of Wall Street (Film)",
-              "Official Trailer",
-              "New Trailer"
+              "2025",
+              "Amusement Park",
+              "Animals",
+              "Animation",
+              "Emilia Clarke",
+              "KinoCheck",
+              "Magic",
+              "Margo Martindale",
+              "Mean",
+              "Movie",
+              "Natalie Portman",
+              "The Twits",
+              "The Twits trailer",
+              "Twit",
+              "Twitlandia",
+              "trailer"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Wolf of Wall Street Official Trailer",
-              "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com"
+              "title": "THE TWITS Trailer (2025)",
+              "description": "Official The Twits Movie Trailer 2025 | Subscribe ➤ https://abo.yt/ki | Netflix: 17 Oct 2025 | More https://KinoCheck.com/movie/74c/the-twits-2025?utm_source=youtube&utm_medium=description\nMr. and Mrs. Twit are the meanest, smelliest, nastiest people in the world who also happen to own and operate the most disgusting, most dangerous, most idiotic amusement park in the world, Twitlandia. But when the Twits rise to power in their town, two brave orphans and a family of magical animals are forced to become as tricky as the Twits in order to save the city.\n\nThe Twits rent/buy ➤ https://amzo.in/movie/74c/the-twits-2025\nMost popular movies right now ➤ https://amzo.in/bestsellermovies\nMost wanted movies of all time ➤ https://amzo.in/wishlistmovies\n\nNote | #TheTwits #Trailer courtesy of Netflix International B.V.. | All Rights Reserved. | https://amzo.in are affiliate-links. That add no additional cost to you, but will support our work through a small commission. | #KinoCheck®"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "33504960",
-            "likeCount": "196500",
+            "viewCount": "2836",
+            "likeCount": "46",
             "favoriteCount": "0",
-            "commentCount": "13038"
+            "commentCount": "6"
           }
         }
       ],
@@ -3797,18 +3523,1075 @@
     },
     "creative": {
       "director": [
-        "Martin Scorsese"
+        "Phil Johnston"
+      ],
+      "writers": [
+        "Phil Johnston",
+        "Meg Favreau"
+      ],
+      "cast_top": [
+        "Margo Martindale",
+        "Johnny Vegas",
+        "Emilia Clarke",
+        "Sami Amber",
+        "Alan Tudyk",
+        "Maitreyi Ramakrishnan",
+        "Ryan Anderson Lopez",
+        "Phil Johnston"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 5,
+    "metadata": {
+      "tmdb_id": 533533,
+      "imdb_id": "tt6604188",
+      "title": "TRON: Ares",
+      "release_date": "2025-10-08",
+      "release_year": "2025",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Walt Disney Pictures",
+        "Sean Bailey Productions"
+      ],
+      "runtime": 119,
+      "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings."
+    },
+    "commercial": {
+      "budget": 180000000,
+      "revenue": 103000000,
+      "opening_weekend": null,
+      "roi": 0.572,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/np0dsehLDdbfyHFRtqCiL1GR0TQ.jpg",
+        "belongs_to_collection": {
+          "id": 63043,
+          "name": "TRON Collection",
+          "poster_path": "/l0iZbJXY8MPLSqibet4M2rzrBw4.jpg",
+          "backdrop_path": "/4INQEOQ96EvYmANsCZaad9VvRWW.jpg"
+        },
+        "budget": 180000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          }
+        ],
+        "homepage": "https://movies.disney.com/tron-ares",
+        "id": 533533,
+        "imdb_id": "tt6604188",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "TRON: Ares",
+        "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+        "popularity": 106.3815,
+        "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+        "production_companies": [
+          {
+            "id": 2,
+            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+            "name": "Walt Disney Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 23791,
+            "logo_path": null,
+            "name": "Sean Bailey Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-10-08",
+        "revenue": 103000000,
+        "runtime": 119,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "No going back.",
+        "title": "TRON: Ares",
+        "video": false,
+        "vote_average": 6.445,
+        "vote_count": 262
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 6.445,
+      "omdb": {
+        "Title": "Tron: Ares",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "10 Oct 2025",
+        "Runtime": "119 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Joachim Rønning",
+        "Writer": "Jesse Wigutow, David DiGilio, Steven Lisberger",
+        "Actors": "Evan Peters, Jeff Bridges, Jared Leto",
+        "Plot": "A highly sophisticated Program, Ares, is sent from the digital world into the real world on a dangerous mission.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzk0NjE4NzYtZjc5Ni00MTkxLTgyY2QtZjliOTA5N2U2YzM1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt6604188",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/tron_ares\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/tron_ares\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "U2qtf67GVomWA6ix2VnvUQSciMs",
+          "id": "YShVEXb7-ic",
+          "snippet": {
+            "publishedAt": "2025-07-17T16:00:55Z",
+            "channelId": "UC_5niPa-d35gg88HaS7RrIw",
+            "title": "Tron: Ares | Official Trailer",
+            "description": "Watch the brand-new trailer for Tron: Ares and experience it in theaters, filmed for IMAX, October 10.\n \nTron: Ares follows a highly sophisticated Program, Ares, who is sent from the digital world into the real world on a dangerous mission, marking humankind’s first encounter with A.I. beings. The feature film is directed by Joachim Rønning and stars Jared Leto, Greta Lee, Evan Peters, Hasan Minhaj, Jodie Turner-Smith, Arturo Castro, Cameron Monaghan, with Gillian Anderson, and Jeff Bridges. Sean Bailey, Jeffrey Silver, Justin Springer, Jared Leto, Emma Ludbrook and Steven Lisberger are the producers, with Russell Allen serving as executive producer.\n\nGrammy®-award winning rock band Nine Inch Nails composed the score for “Tron: Ares,” and today, the band dropped \"As Alive As You Need Me To Be\" —the soundtrack album’s first single and the first official music from the band in five years. Listen to \"As Alive As You Need Me To Be” and view the visualizer: https://nineinchnails.lnk.to/AAAYNMTB. The track is featured in the new trailer for “Tron: Ares.”\n \n“Tron: Ares (Original Motion Picture Soundtrack),” featuring all original music by Nine Inch Nails, will be released on September 19 via Interscope Records. The release marks the first-ever film score by the pioneering band, although bandmates Trent Reznor and Atticus Ross have composed 20 scores under their own names, winning two Oscars®, three Golden Globes®, a GRAMMY® and an Emmy® in the process.\n \nALBUM: https://NineInchNails.lnk.to/TRONAres\nSINGLE: https://NineInchNails.lnk.to/AAAYNMTB\nLYRIC VIDEO: https://youtu.be/-Sj-FmI5JfA\n\n► SUBSCRIBE to the channel to get notified when new Disney videos are posted: https://www.youtube.com/user/DisneysShows?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Disney shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Disney:\n\nTikTok: https://www.tiktok.com/@disney\nInstagram: https://www.instagram.com/disney/\nFacebook: https://www.facebook.com/Disney/\nX: https://x.com/disney\nWebsite: https://www.disney.com/\n\nExperience more stories by subscribing: \n\n/ @marvel\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/YShVEXb7-ic/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/YShVEXb7-ic/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/YShVEXb7-ic/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/YShVEXb7-ic/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/YShVEXb7-ic/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Disney",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Tron: Ares | Official Trailer",
+              "description": "Watch the brand-new trailer for Tron: Ares and experience it in theaters, filmed for IMAX, October 10.\n \nTron: Ares follows a highly sophisticated Program, Ares, who is sent from the digital world into the real world on a dangerous mission, marking humankind’s first encounter with A.I. beings. The feature film is directed by Joachim Rønning and stars Jared Leto, Greta Lee, Evan Peters, Hasan Minhaj, Jodie Turner-Smith, Arturo Castro, Cameron Monaghan, with Gillian Anderson, and Jeff Bridges. Sean Bailey, Jeffrey Silver, Justin Springer, Jared Leto, Emma Ludbrook and Steven Lisberger are the producers, with Russell Allen serving as executive producer.\n\nGrammy®-award winning rock band Nine Inch Nails composed the score for “Tron: Ares,” and today, the band dropped \"As Alive As You Need Me To Be\" —the soundtrack album’s first single and the first official music from the band in five years. Listen to \"As Alive As You Need Me To Be” and view the visualizer: https://nineinchnails.lnk.to/AAAYNMTB. The track is featured in the new trailer for “Tron: Ares.”\n \n“Tron: Ares (Original Motion Picture Soundtrack),” featuring all original music by Nine Inch Nails, will be released on September 19 via Interscope Records. The release marks the first-ever film score by the pioneering band, although bandmates Trent Reznor and Atticus Ross have composed 20 scores under their own names, winning two Oscars®, three Golden Globes®, a GRAMMY® and an Emmy® in the process.\n \nALBUM: https://NineInchNails.lnk.to/TRONAres\nSINGLE: https://NineInchNails.lnk.to/AAAYNMTB\nLYRIC VIDEO: https://youtu.be/-Sj-FmI5JfA\n\n► SUBSCRIBE to the channel to get notified when new Disney videos are posted: https://www.youtube.com/user/DisneysShows?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Disney shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Disney:\n\nTikTok: https://www.tiktok.com/@disney\nInstagram: https://www.instagram.com/disney/\nFacebook: https://www.facebook.com/Disney/\nX: https://x.com/disney\nWebsite: https://www.disney.com/\n\nExperience more stories by subscribing: \n\n/ @marvel\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "12368166",
+            "likeCount": "179699",
+            "favoriteCount": "0",
+            "commentCount": "14527"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Joachim Rønning"
       ],
       "writers": [],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie",
-        "Matthew McConaughey",
-        "Kyle Chandler",
-        "Rob Reiner",
-        "Jon Bernthal",
-        "Jon Favreau"
+        "Jared Leto",
+        "Greta Lee",
+        "Evan Peters",
+        "Gillian Anderson",
+        "Jodie Turner-Smith",
+        "Jeff Bridges",
+        "Hasan Minhaj",
+        "Arturo Castro"
       ],
       "star_power": {
         "actor_count": 8
@@ -4658,9 +5441,9 @@
     },
     "commercial": {
       "budget": 55000000,
-      "revenue": 482039735,
+      "revenue": 482068847,
       "opening_weekend": null,
-      "roi": 8.764,
+      "roi": 8.765,
       "distribution": null,
       "raw": {
         "adult": false,
@@ -4722,7 +5505,7 @@
           }
         ],
         "release_date": "2025-09-03",
-        "revenue": 482039735,
+        "revenue": 482068847,
         "runtime": 135,
         "spoken_languages": [
           {
@@ -4735,12 +5518,12 @@
         "tagline": "The case that ended it all.",
         "title": "The Conjuring: Last Rites",
         "video": false,
-        "vote_average": 6.976,
-        "vote_count": 1059
+        "vote_average": 6.971,
+        "vote_count": 1064
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.976,
+      "tmdb_vote_average": 6.971,
       "omdb": {
         "Title": "The Conjuring: Last Rites",
         "Year": "2025",
@@ -4805,7 +5588,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "f3dsACXBkAizRrUuce4P_M-dzbg",
+          "etag": "Z1DjdorEog7GkakBSilsVZv5hFI",
           "id": "bMgfsdYoEEo",
           "snippet": {
             "publishedAt": "2025-07-31T16:00:56Z",
@@ -4872,8 +5655,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "24849353",
-            "likeCount": "223155",
+            "viewCount": "24856769",
+            "likeCount": "223187",
             "favoriteCount": "0",
             "commentCount": "6619"
           }
@@ -5785,7 +6568,7 @@
         "original_language": "en",
         "original_title": "Mission: Impossible - The Final Reckoning",
         "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
-        "popularity": 147.1501,
+        "popularity": 133.9948,
         "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
         "production_companies": [
           {
@@ -5842,12 +6625,12 @@
         "tagline": "Our lives are the sum of our choices.",
         "title": "Mission: Impossible - The Final Reckoning",
         "video": false,
-        "vote_average": 7.274,
-        "vote_count": 1971
+        "vote_average": 7.271,
+        "vote_count": 1972
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.274,
+      "tmdb_vote_average": 7.271,
       "omdb": {
         "Title": "Mission: Impossible - The Final Reckoning",
         "Year": "2025",
@@ -5916,7 +6699,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "mMAvA0351Iwx00bhe_2k23_vY00",
+          "etag": "iNSOx7Wd6jpabDzBIpr2LJerxAw",
           "id": "fsQgc9pCyDU",
           "snippet": {
             "publishedAt": "2025-04-07T13:00:01Z",
@@ -5961,8 +6744,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "27535424",
-            "likeCount": "226884",
+            "viewCount": "27536955",
+            "likeCount": "226889",
             "favoriteCount": "0",
             "commentCount": "14035"
           }
@@ -6816,1102 +7599,6 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1241921,
-      "imdb_id": "tt13650700",
-      "title": "A Big Bold Beautiful Journey",
-      "release_date": "2025-09-17",
-      "release_year": "2025",
-      "genres": [
-        "Romance",
-        "Fantasy",
-        "Drama"
-      ],
-      "production_countries": [
-        "US",
-        "IE"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Imperative Entertainment",
-        "30WEST",
-        "Columbia Pictures",
-        "Chapel Place Productions",
-        "Tempo Basho",
-        "Original Films"
-      ],
-      "runtime": 109,
-      "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures."
-    },
-    "commercial": {
-      "budget": 45000000,
-      "revenue": 20171082,
-      "opening_weekend": null,
-      "roi": 0.448,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
-        "belongs_to_collection": null,
-        "budget": 45000000,
-        "genres": [
-          {
-            "id": 10749,
-            "name": "Romance"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          }
-        ],
-        "homepage": "https://abigboldbeautifuljourney.movie",
-        "id": 1241921,
-        "imdb_id": "tt13650700",
-        "origin_country": [
-          "IE",
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "A Big Bold Beautiful Journey",
-        "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
-        "popularity": 68.0735,
-        "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
-        "production_companies": [
-          {
-            "id": 81121,
-            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
-            "name": "Imperative Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 104363,
-            "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
-            "name": "30WEST",
-            "origin_country": "US"
-          },
-          {
-            "id": 5,
-            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-            "name": "Columbia Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 225329,
-            "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
-            "name": "Chapel Place Productions",
-            "origin_country": "IE"
-          },
-          {
-            "id": 274023,
-            "logo_path": null,
-            "name": "Tempo Basho",
-            "origin_country": "US"
-          },
-          {
-            "id": 253443,
-            "logo_path": null,
-            "name": "Original Films",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          }
-        ],
-        "release_date": "2025-09-17",
-        "revenue": 20171082,
-        "runtime": 109,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Relive your past. Change your future.",
-        "title": "A Big Bold Beautiful Journey",
-        "video": false,
-        "vote_average": 6.357,
-        "vote_count": 148
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 6.357,
-      "omdb": {
-        "Title": "A Big Bold Beautiful Journey",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "19 Sep 2025",
-        "Runtime": "109 min",
-        "Genre": "Drama, Fantasy, Romance",
-        "Director": "Kogonada",
-        "Writer": "Seth Reiss",
-        "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
-        "Plot": "Two strangers who meet at a mutual friend's wedding have the chance to relive important moments from their pasts, illuminating the path that led them to the present and gaining the opportunity to change their futures.",
-        "Language": "English",
-        "Country": "Ireland, United States",
-        "Awards": "1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwZWJiYjEtM2RkMi00ZDhjLTk4ZmMtZDQ2NDY2YTJkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.2/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "36%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "43/100"
-          }
-        ],
-        "Metascore": "43",
-        "imdbRating": "6.2",
-        "imdbVotes": "6,588",
-        "imdbID": "tt13650700",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$6,570,340",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "agRrJALUZhL2LtWlqojE6pd3Ue0",
-          "id": "7t9cPtA9St0",
-          "snippet": {
-            "publishedAt": "2025-06-03T12:59:05Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-            "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-              "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "25371600",
-            "likeCount": "34556",
-            "favoriteCount": "0",
-            "commentCount": "1925"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Kogonada"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Colin Farrell",
-        "Margot Robbie",
-        "Jennifer Grant",
-        "Hamish Linklater",
-        "Phoebe Waller-Bridge",
-        "Kevin Kline",
-        "Jodie Turner-Smith",
-        "Lily Rabe"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 9,
-    "metadata": {
       "tmdb_id": 617126,
       "imdb_id": "tt10676052",
       "title": "The Fantastic 4: First Steps",
@@ -8003,12 +7690,12 @@
         "tagline": "Welcome to the family.",
         "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 7.124,
-        "vote_count": 2020
+        "vote_average": 7.123,
+        "vote_count": 2021
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.124,
+      "tmdb_vote_average": 7.123,
       "omdb": {
         "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
@@ -8027,7 +7714,7 @@
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
@@ -8035,12 +7722,12 @@
           }
         ],
         "Metascore": "65",
-        "imdbRating": "7.3",
-        "imdbVotes": "134,708",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
         "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$272,903,891",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
@@ -8073,7 +7760,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "naHcCt_1g5BVyCo3DCS92t0VQSQ",
+          "etag": "Y7MdJoFqZkTG6Y7yWjszKEtB-ks",
           "id": "18QQWa5MEcs",
           "snippet": {
             "publishedAt": "2025-06-25T13:00:01Z",
@@ -8122,10 +7809,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "16858419",
-            "likeCount": "310098",
+            "viewCount": "16859658",
+            "likeCount": "310107",
             "favoriteCount": "0",
-            "commentCount": "20519"
+            "commentCount": "20514"
           }
         }
       ],
@@ -8972,83 +8659,106 @@
     ]
   },
   {
-    "rank": 10,
+    "rank": 9,
     "metadata": {
-      "tmdb_id": 1054867,
-      "imdb_id": "tt30144839",
-      "title": "One Battle After Another",
-      "release_date": "2025-09-23",
+      "tmdb_id": 1241921,
+      "imdb_id": "tt13650700",
+      "title": "A Big Bold Beautiful Journey",
+      "release_date": "2025-09-17",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Thriller",
-        "Crime"
+        "Romance",
+        "Fantasy",
+        "Drama"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "IE"
       ],
       "language": "en",
       "studio_distributor": [
-        "Warner Bros. Pictures",
-        "Ghoulardi Film Company",
-        "Domain Entertainment"
+        "Imperative Entertainment",
+        "30WEST",
+        "Columbia Pictures",
+        "Chapel Place Productions",
+        "Tempo Basho",
+        "Original Films"
       ],
-      "runtime": 162,
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
+      "runtime": 109,
+      "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures."
     },
     "commercial": {
-      "budget": 130000000,
-      "revenue": 162500000,
+      "budget": 45000000,
+      "revenue": 20171082,
       "opening_weekend": null,
-      "roi": 1.25,
+      "roi": 0.448,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
         "belongs_to_collection": null,
-        "budget": 130000000,
+        "budget": 45000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 10749,
+            "name": "Romance"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.onebattleafteranothermovie.com",
-        "id": 1054867,
-        "imdb_id": "tt30144839",
+        "homepage": "https://abigboldbeautifuljourney.movie",
+        "id": 1241921,
+        "imdb_id": "tt13650700",
         "origin_country": [
+          "IE",
           "US"
         ],
         "original_language": "en",
-        "original_title": "One Battle After Another",
-        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 83.1044,
-        "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "original_title": "A Big Bold Beautiful Journey",
+        "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
+        "popularity": 68.0735,
+        "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "production_companies": [
           {
-            "id": 174,
-            "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
-            "name": "Warner Bros. Pictures",
+            "id": 81121,
+            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+            "name": "Imperative Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 178,
+            "id": 104363,
+            "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+            "name": "30WEST",
+            "origin_country": "US"
+          },
+          {
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 225329,
+            "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
+            "name": "Chapel Place Productions",
+            "origin_country": "IE"
+          },
+          {
+            "id": 274023,
             "logo_path": null,
-            "name": "Ghoulardi Film Company",
+            "name": "Tempo Basho",
             "origin_country": "US"
           },
           {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 253443,
+            "logo_path": null,
+            "name": "Original Films",
             "origin_country": "US"
           }
         ],
@@ -9056,75 +8766,74 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
           }
         ],
-        "release_date": "2025-09-23",
-        "revenue": 162500000,
-        "runtime": 162,
+        "release_date": "2025-09-17",
+        "revenue": 20171082,
+        "runtime": 109,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "Some search for battle, others are born into it...",
-        "title": "One Battle After Another",
+        "tagline": "Relive your past. Change your future.",
+        "title": "A Big Bold Beautiful Journey",
         "video": false,
-        "vote_average": 7.771,
-        "vote_count": 935
+        "vote_average": 6.35,
+        "vote_count": 150
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.771,
+      "tmdb_vote_average": 6.35,
       "omdb": {
-        "Title": "One Battle After Another",
+        "Title": "A Big Bold Beautiful Journey",
         "Year": "2025",
         "Rated": "R",
-        "Released": "26 Sep 2025",
-        "Runtime": "161 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Paul Thomas Anderson",
-        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
-        "Actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
-        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-        "Language": "English, Spanish",
-        "Country": "United States",
-        "Awards": "3 wins & 2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Released": "19 Sep 2025",
+        "Runtime": "109 min",
+        "Genre": "Drama, Fantasy, Romance",
+        "Director": "Kogonada",
+        "Writer": "Seth Reiss",
+        "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
+        "Plot": "Two strangers who meet at a mutual friend's wedding have the chance to relive important moments from their pasts, illuminating the path that led them to the present and gaining the opportunity to change their futures.",
+        "Language": "English",
+        "Country": "Ireland, United States",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwZWJiYjEtM2RkMi00ZDhjLTk4ZmMtZDQ2NDY2YTJkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.3/10"
+            "Value": "6.2/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "96%"
+            "Value": "36%"
           },
           {
             "Source": "Metacritic",
-            "Value": "95/100"
+            "Value": "43/100"
           }
         ],
-        "Metascore": "95",
-        "imdbRating": "8.3",
-        "imdbVotes": "80,634",
-        "imdbID": "tt30144839",
+        "Metascore": "43",
+        "imdbRating": "6.2",
+        "imdbVotes": "6,588",
+        "imdbID": "tt13650700",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$43,765,663",
+        "BoxOffice": "$6,570,340",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9134,273 +8843,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "One Battle After Another": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "One Battle After Another": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 67,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 35,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -9417,75 +8860,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ZuNu22mpHW9R4efaXMkPJl56TXQ",
-          "id": "kQUPdVxZNPk",
+          "etag": "XvHaaDVwilGQCcsrsnMSJWgqWsA",
+          "id": "7t9cPtA9St0",
           "snippet": {
-            "publishedAt": "2025-07-24T12:30:06Z",
-            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
-            "title": "One Battle After Another | Official Trailer 2",
-            "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025.",
+            "publishedAt": "2025-06-03T12:59:05Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
+            "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/default.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Warner Bros.",
-            "tags": [
-              "Benicio Del Toro",
-              "Chase Infiniti",
-              "ComingSoon",
-              "Crime",
-              "Drama",
-              "Leonardo DiCaprio",
-              "Paul Thomas Anderson",
-              "Regina Hall",
-              "Sean Penn",
-              "September2025",
-              "Teyana Taylor",
-              "Thriller",
-              "Trailer",
-              "Trailer2025",
-              "WB",
-              "WBD",
-              "WarnerBros",
-              "WarnerBrothers"
-            ],
+            "channelTitle": "Sony Pictures Entertainment",
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "One Battle After Another | Official Trailer 2",
-              "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025."
+              "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
+              "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18510835",
-            "likeCount": "50095",
+            "viewCount": "25373141",
+            "likeCount": "34563",
             "favoriteCount": "0",
-            "commentCount": "3277"
+            "commentCount": "1929"
           }
         }
       ],
@@ -9496,20 +8919,1130 @@
     },
     "creative": {
       "director": [
-        "Paul Thomas Anderson"
+        "Kogonada"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Colin Farrell",
+        "Margot Robbie",
+        "Jennifer Grant",
+        "Hamish Linklater",
+        "Phoebe Waller-Bridge",
+        "Kevin Kline",
+        "Jodie Turner-Smith",
+        "Lily Rabe"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 10,
+    "metadata": {
+      "tmdb_id": 1078605,
+      "imdb_id": "tt26581740",
+      "title": "Weapons",
+      "release_date": "2025-08-04",
+      "release_year": "2025",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "New Line Cinema",
+        "Subconscious",
+        "Vertigo Entertainment",
+        "BoulderLight Pictures",
+        "Domain Entertainment"
+      ],
+      "runtime": 129,
+      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
+    },
+    "commercial": {
+      "budget": 38000000,
+      "revenue": 265894217,
+      "opening_weekend": null,
+      "roi": 6.997,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
+        "belongs_to_collection": {
+          "id": 1531466,
+          "name": "Weapons Collection",
+          "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
+          "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+        },
+        "budget": 38000000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
+          }
+        ],
+        "homepage": "https://www.warnerbros.com/movies/weapons",
+        "id": 1078605,
+        "imdb_id": "tt26581740",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Weapons",
+        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "popularity": 84.5816,
+        "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+        "production_companies": [
+          {
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 240675,
+            "logo_path": null,
+            "name": "Subconscious",
+            "origin_country": "US"
+          },
+          {
+            "id": 829,
+            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 18609,
+            "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+            "name": "BoulderLight Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-08-04",
+        "revenue": 265894217,
+        "runtime": 129,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Last night at 2:17 AM, every child from Mrs. Gandy's class woke up, got out of bed, went downstairs, opened the front door, walked into the dark ...and they never came back.",
+        "title": "Weapons",
+        "video": false,
+        "vote_average": 7.384,
+        "vote_count": 1934
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.384,
+      "omdb": {
+        "Title": "Weapons",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "08 Aug 2025",
+        "Runtime": "128 min",
+        "Genre": "Horror, Mystery",
+        "Director": "Zach Cregger",
+        "Writer": "Zach Cregger",
+        "Actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
+        "Plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "81/100"
+          }
+        ],
+        "Metascore": "81",
+        "imdbRating": "7.6",
+        "imdbVotes": "159,990",
+        "imdbID": "tt26581740",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$150,200,554",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "AF7E__vbeF-ANRy7pwI_b3XVOtc",
+          "id": "OpThntO9ixc",
+          "snippet": {
+            "publishedAt": "2025-04-29T13:17:07Z",
+            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+            "title": "Weapons | Official Trailer",
+            "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Warner Bros.",
+            "tags": [
+              "WB",
+              "WarnerBros",
+              "NewLineCinema",
+              "Weapons",
+              "ZachCregger",
+              "Horror",
+              "Thriller",
+              "NewTrailer",
+              "ComingSoon",
+              "IMAX",
+              "JoshBrolin",
+              "JuliaGarner",
+              "VertigoEntertainment",
+              "August2025",
+              "Subconscious",
+              "Barbarian",
+              "Alden Ehrenreich",
+              "Austin Abrams",
+              "Benedict Wong",
+              "Amy Madigan"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Weapons | Official Trailer",
+              "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "30723981",
+            "likeCount": "193382",
+            "favoriteCount": "0",
+            "commentCount": "11328"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Zach Cregger"
       ],
       "writers": [
-        "Paul Thomas Anderson"
+        "Zach Cregger"
       ],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Sean Penn",
-        "Chase Infiniti",
-        "Benicio del Toro",
-        "Regina Hall",
-        "Teyana Taylor",
-        "Wood Harris",
-        "Tony Goldwyn"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "star_power": {
         "actor_count": 8
