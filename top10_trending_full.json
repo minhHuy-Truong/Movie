@@ -160,7 +160,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "G6EzVucp_xdH_SiUToLO0uzp5a0",
+          "etag": "2gZ0feYH4Et5y1y5NkdMTSGtwug",
           "id": "4ZDvKct1U4s",
           "snippet": {
             "publishedAt": "2025-09-10T14:00:05Z",
@@ -232,8 +232,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "3140151",
-            "likeCount": "31579",
+            "viewCount": "3129605",
+            "likeCount": "31597",
             "favoriteCount": "0",
             "commentCount": "642"
           }
@@ -1084,88 +1084,88 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 604079,
-      "imdb_id": "tt10374610",
-      "title": "The Long Walk",
-      "release_date": "2025-09-10",
+      "tmdb_id": 1197137,
+      "imdb_id": "tt29644189",
+      "title": "Black Phone 2",
+      "release_date": "2025-10-15",
       "release_year": "2025",
       "genres": [
-        "Thriller",
         "Horror",
-        "Science Fiction"
+        "Thriller"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "about:blank",
-        "Vertigo Entertainment",
-        "Media Capital Technologies"
+        "Blumhouse Productions",
+        "Universal Pictures",
+        "Crooked Highway",
+        "Divide / Conquer"
       ],
-      "runtime": 109,
-      "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains."
+      "runtime": 114,
+      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
     },
     "commercial": {
-      "budget": 20000000,
-      "revenue": 42650783,
+      "budget": 30000000,
+      "revenue": 44965165,
       "opening_weekend": null,
-      "roi": 2.133,
+      "roi": 1.499,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
-        "belongs_to_collection": null,
-        "budget": 20000000,
+        "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+        "belongs_to_collection": {
+          "id": 1197140,
+          "name": "The Black Phone Collection",
+          "poster_path": "/m3WF523eq438w3rIh4JcLKGoIBd.jpg",
+          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
+        },
+        "budget": 30000000,
         "genres": [
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
           {
             "id": 27,
             "name": "Horror"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.thelongwalk.movie",
-        "id": 604079,
-        "imdb_id": "tt10374610",
+        "homepage": "http://www.blackphonemovie.com",
+        "id": 1197137,
+        "imdb_id": "tt29644189",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Long Walk",
-        "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-        "popularity": 78.6843,
-        "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+        "original_title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "popularity": 166.2241,
+        "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
             "origin_country": "US"
           },
           {
-            "id": 161357,
-            "logo_path": "/kQlxsHQKQsDOXmKPZVqEyL827NJ.png",
-            "name": "about:blank",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 829,
-            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-            "name": "Vertigo Entertainment",
+            "id": 162439,
+            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+            "name": "Crooked Highway",
             "origin_country": "US"
           },
           {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
+            "id": 89115,
+            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+            "name": "Divide / Conquer",
             "origin_country": "US"
           }
         ],
@@ -1175,68 +1175,73 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-10",
-        "revenue": 42650783,
-        "runtime": 109,
+        "release_date": "2025-10-15",
+        "revenue": 44965165,
+        "runtime": 114,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "The task is simple: walk or die.",
-        "title": "The Long Walk",
+        "tagline": "Dead is just a word.",
+        "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.009,
-        "vote_count": 294
+        "vote_average": 7.319,
+        "vote_count": 81
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.009,
+      "tmdb_vote_average": 7.319,
       "omdb": {
-        "Title": "The Long Walk",
+        "Title": "Black Phone 2",
         "Year": "2025",
         "Rated": "R",
-        "Released": "12 Sep 2025",
-        "Runtime": "108 min",
-        "Genre": "Thriller",
-        "Director": "Francis Lawrence",
-        "Writer": "JT Mollner, Stephen King",
-        "Actors": "Cooper Hoffman, David Jonsson, Garrett Wareing",
-        "Plot": "A group of teenage boys compete in an annual contest known as \"The Long Walk,\" in which they must maintain a certain walking speed or get shot.",
+        "Released": "17 Oct 2025",
+        "Runtime": "114 min",
+        "Genre": "Horror",
+        "Director": "Scott Derrickson",
+        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
+        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
+        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
         "Language": "English",
         "Country": "United States, Canada",
-        "Awards": "1 win total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.3/10"
+            "Value": "6.7/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "88%"
+            "Value": "81%"
           },
           {
             "Source": "Metacritic",
-            "Value": "71/100"
+            "Value": "59/100"
           }
         ],
-        "Metascore": "71",
-        "imdbRating": "7.3",
-        "imdbVotes": "28,536",
-        "imdbID": "tt10374610",
+        "Metascore": "59",
+        "imdbRating": "6.7",
+        "imdbVotes": "8,046",
+        "imdbID": "tt29644189",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$32,171,621",
+        "BoxOffice": "$27,332,040",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1263,79 +1268,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "RvShfoQ6G20lv-OXG2r-8tr2Lqs",
-          "id": "vAtUHeMQ1F8",
+          "etag": "Nu32RVXivQb48X_d-zi60OLLSdI",
+          "id": "DdR-gzFZoDk",
           "snippet": {
-            "publishedAt": "2025-05-07T14:59:58Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
-            "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King.",
+            "publishedAt": "2025-09-04T15:00:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Black Phone 2 | Official Trailer 2",
+            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/default.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
-            "tags": [
-              "The Long Walk",
-              "The Long Walk 2025 movie",
-              "The Long Walk 2025",
-              "The Long Walk 2025 film",
-              "The Long Walk official trailer",
-              "The Long Walk trailer",
-              "The Long Walk 2025 trailer",
-              "The Long Walk 2025 official trailer",
-              "Stephen King",
-              "The Long Walk Stephen King",
-              "dystopian",
-              "King novel",
-              "Stephen King novel",
-              "adaptation",
-              "Stephen King adaptation",
-              "police state",
-              "horror",
-              "totalitarian",
-              "regime",
-              "walking contest",
-              "annual contest",
-              "Psychological horror"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
-              "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King."
+              "title": "Black Phone 2 | Official Trailer 2",
+              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16067605",
-            "likeCount": "66746",
+            "viewCount": "1301627",
+            "likeCount": "25507",
             "favoriteCount": "0",
-            "commentCount": "6930"
+            "commentCount": "1359"
           }
         }
       ],
@@ -1346,18 +1327,21 @@
     },
     "creative": {
       "director": [
-        "Francis Lawrence"
+        "Scott Derrickson"
       ],
-      "writers": [],
+      "writers": [
+        "Scott Derrickson",
+        "C. Robert Cargill"
+      ],
       "cast_top": [
-        "Cooper Hoffman",
-        "David Jonsson",
-        "Garrett Wareing",
-        "Tut Nyuot",
-        "Charlie Plummer",
-        "Ben Wang",
-        "Jordan Gonzalez",
-        "Joshua Odjick"
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Demián Bichir",
+        "Miguel Mora",
+        "Jeremy Davies",
+        "Arianna Rivas",
+        "Maev Beaty"
       ],
       "star_power": {
         "actor_count": 8
@@ -2184,88 +2168,69 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 1197137,
-      "imdb_id": "tt29644189",
-      "title": "Black Phone 2",
-      "release_date": "2025-10-15",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Blumhouse Productions",
-        "Universal Pictures",
-        "Crooked Highway",
-        "Divide / Conquer"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 114,
-      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 44965165,
+      "budget": 200000000,
+      "revenue": 521651414,
       "opening_weekend": null,
-      "roi": 1.499,
+      "roi": 2.608,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
-        "belongs_to_collection": {
-          "id": 1197140,
-          "name": "The Black Phone Collection",
-          "poster_path": "/m3WF523eq438w3rIh4JcLKGoIBd.jpg",
-          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
-        },
-        "budget": 30000000,
+        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+        "belongs_to_collection": null,
+        "budget": 200000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "http://www.blackphonemovie.com",
-        "id": 1197137,
-        "imdb_id": "tt29644189",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Black Phone 2",
-        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-        "popularity": 164.8529,
-        "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 154.6451,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 162439,
-            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
-            "name": "Crooked Highway",
-            "origin_country": "US"
-          },
-          {
-            "id": 89115,
-            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-            "name": "Divide / Conquer",
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -2275,73 +2240,69 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-15",
-        "revenue": 44965165,
-        "runtime": 114,
+        "release_date": "2025-07-23",
+        "revenue": 521651414,
+        "runtime": 115,
         "spoken_languages": [
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "Dead is just a word.",
-        "title": "Black Phone 2",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 7.3,
-        "vote_count": 79
+        "vote_average": 7.123,
+        "vote_count": 2026
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.3,
+      "tmdb_vote_average": 7.123,
       "omdb": {
-        "Title": "Black Phone 2",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
         "Runtime": "114 min",
-        "Genre": "Horror",
-        "Director": "Scott Derrickson",
-        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
-        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
-        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "United States, Canada",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.7/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "81%"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "59/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "59",
-        "imdbRating": "6.7",
-        "imdbVotes": "8,046",
-        "imdbID": "tt29644189",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$27,332,040",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -2368,55 +2329,59 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "wgi5F-d4_TMYBKsnd8ewzCVc8s4",
-          "id": "DdR-gzFZoDk",
+          "etag": "OR1Qadgor3sri7dCswZfUYrc3Ho",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-09-04T15:00:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Black Phone 2 | Official Trailer 2",
-            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics"
+            ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Black Phone 2 | Official Trailer 2",
-              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1299458",
-            "likeCount": "25459",
+            "viewCount": "16863687",
+            "likeCount": "310107",
             "favoriteCount": "0",
-            "commentCount": "1355"
+            "commentCount": "20513"
           }
         }
       ],
@@ -2427,21 +2392,18 @@
     },
     "creative": {
       "director": [
-        "Scott Derrickson"
+        "Matt Shakman"
       ],
-      "writers": [
-        "Scott Derrickson",
-        "C. Robert Cargill"
-      ],
+      "writers": [],
       "cast_top": [
-        "Ethan Hawke",
-        "Mason Thames",
-        "Madeleine McGraw",
-        "Demián Bichir",
-        "Miguel Mora",
-        "Jeremy Davies",
-        "Arianna Rivas",
-        "Maev Beaty"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -3332,7 +3294,7 @@
         "original_language": "en",
         "original_title": "xXx",
         "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 121.3666,
+        "popularity": 132.268,
         "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "production_companies": [
           {
@@ -3456,7 +3418,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "d2WWGS7n-1bucQfU0OtPVdlWgkY",
+          "etag": "BWzC2Q4RSKeaylBenL-foAp-No8",
           "id": "NgPdDDzVhkA",
           "snippet": {
             "publishedAt": "2022-08-09T19:00:15Z",
@@ -3501,8 +3463,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8231236",
-            "likeCount": "7229",
+            "viewCount": "8231890",
+            "likeCount": "7230",
             "favoriteCount": "0",
             "commentCount": "288"
           }
@@ -4353,6 +4315,1106 @@
   {
     "rank": 5,
     "metadata": {
+      "tmdb_id": 604079,
+      "imdb_id": "tt10374610",
+      "title": "The Long Walk",
+      "release_date": "2025-09-10",
+      "release_year": "2025",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Science Fiction"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Lionsgate",
+        "about:blank",
+        "Vertigo Entertainment",
+        "Media Capital Technologies"
+      ],
+      "runtime": 109,
+      "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains."
+    },
+    "commercial": {
+      "budget": 20000000,
+      "revenue": 42650783,
+      "opening_weekend": null,
+      "roi": 2.133,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
+        "belongs_to_collection": null,
+        "budget": 20000000,
+        "genres": [
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ],
+        "homepage": "https://www.thelongwalk.movie",
+        "id": 604079,
+        "imdb_id": "tt10374610",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Long Walk",
+        "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
+        "popularity": 78.6843,
+        "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
+        "production_companies": [
+          {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+          },
+          {
+            "id": 161357,
+            "logo_path": "/kQlxsHQKQsDOXmKPZVqEyL827NJ.png",
+            "name": "about:blank",
+            "origin_country": "US"
+          },
+          {
+            "id": 829,
+            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 221429,
+            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+            "name": "Media Capital Technologies",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-09-10",
+        "revenue": 42650783,
+        "runtime": 109,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "The task is simple: walk or die.",
+        "title": "The Long Walk",
+        "video": false,
+        "vote_average": 7.009,
+        "vote_count": 294
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.009,
+      "omdb": {
+        "Title": "The Long Walk",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "12 Sep 2025",
+        "Runtime": "108 min",
+        "Genre": "Thriller",
+        "Director": "Francis Lawrence",
+        "Writer": "JT Mollner, Stephen King",
+        "Actors": "Cooper Hoffman, David Jonsson, Garrett Wareing",
+        "Plot": "A group of teenage boys compete in an annual contest known as \"The Long Walk,\" in which they must maintain a certain walking speed or get shot.",
+        "Language": "English",
+        "Country": "United States, Canada",
+        "Awards": "1 win total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNmE4YmIxNWQtMzJhMy00NDI5LWFmYjEtMGYyMmFhNzdjODVmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "71/100"
+          }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.3",
+        "imdbVotes": "28,536",
+        "imdbID": "tt10374610",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$32,171,621",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_long_walk_2025\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "pphXI6SDo12ASv8lyMajTVM-P1s",
+          "id": "vAtUHeMQ1F8",
+          "snippet": {
+            "publishedAt": "2025-05-07T14:59:58Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+            "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Lionsgate Movies",
+            "tags": [
+              "The Long Walk",
+              "The Long Walk 2025 movie",
+              "The Long Walk 2025",
+              "The Long Walk 2025 film",
+              "The Long Walk official trailer",
+              "The Long Walk trailer",
+              "The Long Walk 2025 trailer",
+              "The Long Walk 2025 official trailer",
+              "Stephen King",
+              "The Long Walk Stephen King",
+              "dystopian",
+              "King novel",
+              "Stephen King novel",
+              "adaptation",
+              "Stephen King adaptation",
+              "police state",
+              "horror",
+              "totalitarian",
+              "regime",
+              "walking contest",
+              "annual contest",
+              "Psychological horror"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+              "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "16078546",
+            "likeCount": "66792",
+            "favoriteCount": "0",
+            "commentCount": "6938"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Francis Lawrence"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Cooper Hoffman",
+        "David Jonsson",
+        "Garrett Wareing",
+        "Tut Nyuot",
+        "Charlie Plummer",
+        "Ben Wang",
+        "Jordan Gonzalez",
+        "Joshua Odjick"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 6,
+    "metadata": {
       "tmdb_id": 927254,
       "imdb_id": "tt0498396",
       "title": "The Twits",
@@ -4416,7 +5478,7 @@
         "original_language": "en",
         "original_title": "The Twits",
         "overview": "When the meanest, nastiest villains pull a trick to take over their town, two brave children team up with a family of magical animals to bring them down.",
-        "popularity": 153.5439,
+        "popularity": 149.9275,
         "poster_path": "/izYZGeOHhPWiga8Hb5P4JYfcH8T.jpg",
         "production_companies": [
           {
@@ -4536,7 +5598,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "jIVwxhCeqe5SBFj3XpnjfCM0ecA",
+          "etag": "QZkKgv_PnalDOIZQlHDhW8z4Z-E",
           "id": "dMZI0FkYLEs",
           "snippet": {
             "publishedAt": "2025-10-06T13:00:00Z",
@@ -4607,10 +5669,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1297304",
-            "likeCount": "9881",
+            "viewCount": "1288220",
+            "likeCount": "9884",
             "favoriteCount": "0",
-            "commentCount": "904"
+            "commentCount": "907"
           }
         }
       ],
@@ -5460,7 +6522,7 @@
     ]
   },
   {
-    "rank": 6,
+    "rank": 7,
     "metadata": {
       "tmdb_id": 533533,
       "imdb_id": "tt6604188",
@@ -5619,7 +6681,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "b1GTZ7Z_qx3dsif7l-Jh_kajsMQ",
+          "etag": "WzxYBveRTn0SeUFcPp1qum9JAPw",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -5664,10 +6726,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "12406566",
-            "likeCount": "179883",
+            "viewCount": "12393898",
+            "likeCount": "179920",
             "favoriteCount": "0",
-            "commentCount": "14544"
+            "commentCount": "14548"
           }
         }
       ],
@@ -6514,7 +7576,7 @@
     ]
   },
   {
-    "rank": 7,
+    "rank": 8,
     "metadata": {
       "tmdb_id": 1267905,
       "imdb_id": "tt31973693",
@@ -6575,7 +7637,7 @@
         "original_language": "en",
         "original_title": "The Roses",
         "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-        "popularity": 35.3951,
+        "popularity": 96.315,
         "poster_path": "/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
         "production_companies": [
           {
@@ -6627,12 +7689,12 @@
         "tagline": "This marriage ain't big enough for the both of them.",
         "title": "The Roses",
         "video": false,
-        "vote_average": 7.102,
-        "vote_count": 191
+        "vote_average": 7.1,
+        "vote_count": 195
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.102,
+      "tmdb_vote_average": 7.1,
       "omdb": {
         "Title": "The Roses",
         "Year": "2025",
@@ -6684,7 +7746,273 @@
     },
     "social": {
       "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
+        "interest_over_time": [
+          {
+            "date": "2024-10-20T00:00:00",
+            "The Roses": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2024-10-27T00:00:00",
+            "The Roses": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-03T00:00:00",
+            "The Roses": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-10T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-17T00:00:00",
+            "The Roses": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "The Roses": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "The Roses": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "The Roses": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "The Roses": 19,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "The Roses": 19,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "The Roses": 18,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "The Roses": 19,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "The Roses": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "The Roses": 29,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "The Roses": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "The Roses": 18,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "The Roses": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "The Roses": 18,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "The Roses": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "The Roses": 19,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "The Roses": 18,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "The Roses": 26,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "The Roses": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "The Roses": 24,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "The Roses": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "The Roses": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "The Roses": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "The Roses": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "The Roses": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "The Roses": 20,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "The Roses": 20,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "The Roses": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "The Roses": 20,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "The Roses": 24,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "The Roses": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "The Roses": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "The Roses": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "The Roses": 29,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "The Roses": 37,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "The Roses": 54,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "The Roses": 99,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "The Roses": 100,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "The Roses": 63,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "The Roses": 45,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "The Roses": 41,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "The Roses": 36,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "The Roses": 28,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "The Roses": 26,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "The Roses": 31,
+            "isPartial": true
+          }
+        ]
       },
       "x_search": {
         "attempts": [
@@ -6701,55 +8029,76 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "lhw3cvpNhvdBpDc_TO81qHIA1g0",
-          "id": "XkgMaS5gbaA",
+          "etag": "U-kDXGMVEHGZSPYoUeG0p7cX8FU",
+          "id": "ETBY06YJ2Q8",
           "snippet": {
-            "publishedAt": "2025-04-16T13:10:58Z",
-            "channelId": "UCor9rW6PgxSQ9vUPWQdnaYQ",
-            "title": "THE ROSES | Official Trailer | Searchlight Pictures",
-            "description": "All’s fair when love is war. THE ROSES, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney, Belinda Bromilow, Sunita Mani, Ncuti Gatwa, Jamie Demetriou, Zoë Chao and Kate McKinnon. Directed by Jay Roach, in theaters August 29th. #TheRoses\n\nLife seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch): successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo’s career nosedives while Ivy’s own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites. The Roses is a reimagining of the 1989 classic film The War of the Roses, based on the novel by Warren Adler.\n\nDirected by: Jay Roach\nScreenplay by: Tony McNamara\nProduced by: Jay Roach, Michelle Graham, p.g.a., Adam Ackland, p.g.a., Leah Clarke, p.g.a., Ed Sinclair, p.g.a., Tom Carver\nCast: Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney, Belinda Bromilow, Sunita Mani, Ncuti Gatwa, Jamie Demetriou, Zoë Chao, and Kate McKinnon\n\nSubscribe To Searchlight Pictures: https://www.youtube.com/searchlightpictures\n\nConnect with The Roses Online\nFollow The Roses on INSTAGRAM: https://www.instagram.com/therosesfilm\n#TheRoses #SearchlightPictures\n\nConnect with Searchlight Online\nVisit the Searchlight WEBSITE: https://www.searchlightpictures.com/\nFollow Searchlight on INSTAGRAM: https://www.instagram.com/searchlightpics\nFollow Searchlight on TIKTOK: https://www.tiktok.com/@searchlightpics\nFollow Searchlight on TWITTER: https://twitter.com/searchlightpics\nLike Searchlight on FACEBOOK: http://facebook.com/searchlightpics",
+            "publishedAt": "2025-04-16T18:54:43Z",
+            "channelId": "UCE8aa83wFg-VE1zcaVCZdIA",
+            "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+            "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/XkgMaS5gbaA/default.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/XkgMaS5gbaA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/XkgMaS5gbaA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/XkgMaS5gbaA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/XkgMaS5gbaA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "SearchlightPictures",
-            "categoryId": "24",
+            "channelTitle": "Moviefone",
+            "tags": [
+              "Moviefone",
+              "benedict cumberbatch",
+              "olivia colman",
+              "the roses trailer",
+              "the roses",
+              "the roses trailer benedict cumberbatch",
+              "the roses official trailer",
+              "the roses olivia colman",
+              "the roses benedict cumberbatch",
+              "benedict cumberbatch new movie trailer",
+              "the roses trailer cumberbatch",
+              "the roses movie trailer",
+              "trailer",
+              "benedict cumberbatch movies 2024",
+              "benedict cumberbatch new movie",
+              "benedict and olivia",
+              "cumberbatch colman kiss",
+              "war of the roses movie trailer",
+              "the roses trailer 2025"
+            ],
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "THE ROSES | Official Trailer | Searchlight Pictures",
-              "description": "All’s fair when love is war. THE ROSES, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney, Belinda Bromilow, Sunita Mani, Ncuti Gatwa, Jamie Demetriou, Zoë Chao and Kate McKinnon. Directed by Jay Roach, in theaters August 29th. #TheRoses\n\nLife seems easy for picture-perfect couple Ivy (Olivia Colman) and Theo (Benedict Cumberbatch): successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo’s career nosedives while Ivy’s own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites. The Roses is a reimagining of the 1989 classic film The War of the Roses, based on the novel by Warren Adler.\n\nDirected by: Jay Roach\nScreenplay by: Tony McNamara\nProduced by: Jay Roach, Michelle Graham, p.g.a., Adam Ackland, p.g.a., Leah Clarke, p.g.a., Ed Sinclair, p.g.a., Tom Carver\nCast: Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney, Belinda Bromilow, Sunita Mani, Ncuti Gatwa, Jamie Demetriou, Zoë Chao, and Kate McKinnon\n\nSubscribe To Searchlight Pictures: https://www.youtube.com/searchlightpictures\n\nConnect with The Roses Online\nFollow The Roses on INSTAGRAM: https://www.instagram.com/therosesfilm\n#TheRoses #SearchlightPictures\n\nConnect with Searchlight Online\nVisit the Searchlight WEBSITE: https://www.searchlightpictures.com/\nFollow Searchlight on INSTAGRAM: https://www.instagram.com/searchlightpics\nFollow Searchlight on TIKTOK: https://www.tiktok.com/@searchlightpics\nFollow Searchlight on TWITTER: https://twitter.com/searchlightpics\nLike Searchlight on FACEBOOK: http://facebook.com/searchlightpics"
+              "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+              "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "8424135",
-            "likeCount": "36244",
+            "viewCount": "100604",
+            "likeCount": "612",
             "favoriteCount": "0",
-            "commentCount": "1942"
+            "commentCount": "86"
           }
         }
       ],
@@ -7596,1413 +8945,106 @@
     ]
   },
   {
-    "rank": 8,
-    "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
-      "release_year": "2025",
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
-      ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
-    },
-    "commercial": {
-      "budget": 200000000,
-      "revenue": 521651414,
-      "opening_weekend": null,
-      "roi": 2.608,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
-        "belongs_to_collection": null,
-        "budget": 200000000,
-        "genres": [
-          {
-            "id": 878,
-            "name": "Science Fiction"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          }
-        ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 168.694,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
-        "production_companies": [
-          {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
-            "origin_country": "US"
-          },
-          {
-            "id": 176762,
-            "logo_path": null,
-            "name": "Kevin Feige Productions",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2025-07-23",
-        "revenue": 521651414,
-        "runtime": 115,
-        "spoken_languages": [
-          {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
-          },
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
-        "video": false,
-        "vote_average": 7.121,
-        "vote_count": 2025
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.121,
-      "omdb": {
-        "Title": "The Fantastic Four: First Steps",
-        "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
-        "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
-        "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "65/100"
-          }
-        ],
-        "Metascore": "65",
-        "imdbRating": "7.0",
-        "imdbVotes": "174,805",
-        "imdbID": "tt10676052",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$274,282,985",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Fantastic 4: First Steps": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Fantastic 4: First Steps": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Fantastic 4: First Steps": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Fantastic 4: First Steps": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Fantastic 4: First Steps": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Fantastic 4: First Steps": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Fantastic 4: First Steps": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Fantastic 4: First Steps": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Fantastic 4: First Steps": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Fantastic 4: First Steps": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Fantastic 4: First Steps": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Fantastic 4: First Steps": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Fantastic 4: First Steps": 62,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Fantastic 4: First Steps": 36,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Fantastic 4: First Steps": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Fantastic 4: First Steps": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Fantastic 4: First Steps": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Fantastic 4: First Steps": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Fantastic 4: First Steps": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Fantastic 4: First Steps": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Fantastic 4: First Steps": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Fantastic 4: First Steps": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Fantastic 4: First Steps": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Fantastic 4: First Steps": 9,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "kBLY9o2Ozj8BfSeuT6MeL3qubI0",
-          "id": "18QQWa5MEcs",
-          "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Marvel Entertainment",
-            "tags": [
-              "marvel",
-              "comics"
-            ],
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "16863084",
-            "likeCount": "310105",
-            "favoriteCount": "0",
-            "commentCount": "20513"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Matt Shakman"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1038392,
-      "imdb_id": "tt22898462",
-      "title": "The Conjuring: Last Rites",
-      "release_date": "2025-09-03",
+      "tmdb_id": 1241921,
+      "imdb_id": "tt13650700",
+      "title": "A Big Bold Beautiful Journey",
+      "release_date": "2025-09-17",
       "release_year": "2025",
       "genres": [
-        "Horror"
+        "Romance",
+        "Fantasy",
+        "Drama"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "IE"
       ],
       "language": "en",
       "studio_distributor": [
-        "New Line Cinema",
-        "Atomic Monster",
-        "The Safran Company",
-        "Domain Entertainment"
+        "Imperative Entertainment",
+        "30WEST",
+        "Columbia Pictures",
+        "Chapel Place Productions",
+        "Tempo Basho",
+        "Original Films"
       ],
-      "runtime": 135,
-      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront."
+      "runtime": 109,
+      "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures."
     },
     "commercial": {
-      "budget": 55000000,
-      "revenue": 482213847,
+      "budget": 45000000,
+      "revenue": 20171082,
       "opening_weekend": null,
-      "roi": 8.768,
+      "roi": 0.448,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/Fb8gyhkAQorxr98jllYoXurWvj.jpg",
-        "belongs_to_collection": {
-          "id": 313086,
-          "name": "The Conjuring Collection",
-          "poster_path": "/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
-          "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
-        },
-        "budget": 55000000,
+        "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+        "belongs_to_collection": null,
+        "budget": 45000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "http://www.theconjuringmovie.com",
-        "id": 1038392,
-        "imdb_id": "tt22898462",
+        "homepage": "https://abigboldbeautifuljourney.movie",
+        "id": 1241921,
+        "imdb_id": "tt13650700",
         "origin_country": [
+          "IE",
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Conjuring: Last Rites",
-        "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
-        "popularity": 257.207,
-        "poster_path": "/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",
+        "original_title": "A Big Bold Beautiful Journey",
+        "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
+        "popularity": 56.9244,
+        "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
         "production_companies": [
           {
-            "id": 12,
-            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-            "name": "New Line Cinema",
+            "id": 81121,
+            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+            "name": "Imperative Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 76907,
-            "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
-            "name": "Atomic Monster",
+            "id": 104363,
+            "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+            "name": "30WEST",
             "origin_country": "US"
           },
           {
-            "id": 11565,
-            "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-            "name": "The Safran Company",
+            "id": 5,
+            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+            "name": "Columbia Pictures",
             "origin_country": "US"
           },
           {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 225329,
+            "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
+            "name": "Chapel Place Productions",
+            "origin_country": "IE"
+          },
+          {
+            "id": 274023,
+            "logo_path": null,
+            "name": "Tempo Basho",
+            "origin_country": "US"
+          },
+          {
+            "id": 253443,
+            "logo_path": null,
+            "name": "Original Films",
             "origin_country": "US"
           }
         ],
@@ -9010,11 +9052,15 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
           }
         ],
-        "release_date": "2025-09-03",
-        "revenue": 482213847,
-        "runtime": 135,
+        "release_date": "2025-09-17",
+        "revenue": 20171082,
+        "runtime": 109,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -9023,53 +9069,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "The case that ended it all.",
-        "title": "The Conjuring: Last Rites",
+        "tagline": "Relive your past. Change your future.",
+        "title": "A Big Bold Beautiful Journey",
         "video": false,
-        "vote_average": 6.976,
-        "vote_count": 1071
+        "vote_average": 6.3,
+        "vote_count": 152
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.976,
+      "tmdb_vote_average": 6.3,
       "omdb": {
-        "Title": "The Conjuring: Last Rites",
+        "Title": "A Big Bold Beautiful Journey",
         "Year": "2025",
         "Rated": "R",
-        "Released": "05 Sep 2025",
-        "Runtime": "135 min",
-        "Genre": "Horror, Mystery, Thriller",
-        "Director": "Michael Chaves",
-        "Writer": "Ian Goldberg, Richard Naing, David Leslie Johnson-McGoldrick",
-        "Actors": "Vera Farmiga, Patrick Wilson, Elliot Cowan",
-        "Plot": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+        "Released": "19 Sep 2025",
+        "Runtime": "109 min",
+        "Genre": "Drama, Fantasy, Romance",
+        "Director": "Kogonada",
+        "Writer": "Seth Reiss",
+        "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
+        "Plot": "Two strangers who meet at a mutual friend's wedding have the chance to relive important moments from their pasts, illuminating the path that led them to the present and gaining the opportunity to change their futures.",
         "Language": "English",
-        "Country": "United States, United Kingdom, Canada",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "Ireland, United States",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwZWJiYjEtM2RkMi00ZDhjLTk4ZmMtZDQ2NDY2YTJkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "Value": "6.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
           },
           {
             "Source": "Metacritic",
-            "Value": "54/100"
+            "Value": "43/100"
           }
         ],
-        "Metascore": "54",
-        "imdbRating": "6.3",
-        "imdbVotes": "45,087",
-        "imdbID": "tt22898462",
+        "Metascore": "43",
+        "imdbRating": "6.2",
+        "imdbVotes": "6,588",
+        "imdbID": "tt13650700",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$168,273,036",
+        "BoxOffice": "$6,570,340",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_conjuring_last_rites\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_conjuring_last_rites\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9079,273 +9129,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Conjuring: Last Rites": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Conjuring: Last Rites": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Conjuring: Last Rites": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Conjuring: Last Rites": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Conjuring: Last Rites": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Conjuring: Last Rites": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Conjuring: Last Rites": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Conjuring: Last Rites": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Conjuring: Last Rites": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Conjuring: Last Rites": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Conjuring: Last Rites": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Conjuring: Last Rites": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Conjuring: Last Rites": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Conjuring: Last Rites": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Conjuring: Last Rites": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Conjuring: Last Rites": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Conjuring: Last Rites": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Conjuring: Last Rites": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Conjuring: Last Rites": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Conjuring: Last Rites": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Conjuring: Last Rites": 10,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -9362,77 +9146,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "0Ts8hZiufifWbVQsMiWcWUhK0WM",
-          "id": "bMgfsdYoEEo",
+          "etag": "6mCX9Lr8CqSbnRmy-xwT36_gpGg",
+          "id": "7t9cPtA9St0",
           "snippet": {
-            "publishedAt": "2025-07-31T16:00:56Z",
-            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
-            "title": "The Conjuring: Last Rites | Official Trailer",
-            "description": "Discover why this case ended it all. #TheConjuring: Last Rites - Only in Theaters September 5.\n\nFrom New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring universe, The Conjuring: Last Rites, directed by franchise veteran Michael Chaves and produced by franchise architects James Wan and Peter Safran.\n\nThe Conjuring: Last Rites delivers another thrilling chapter of the iconic Conjuring cinematic universe, based on real events.  Vera Farmiga and Patrick Wilson reunite for one last case as renowned, real-life paranormal investigators Ed and Lorraine Warren in a powerful and spine-chilling addition to the global box office-breaking franchise.\n\nFarmiga and Wilson star alongside Mia Tomlinson and Ben Hardy, who portray Ed and Lorraine’s daughter Judy Warren and her boyfriend, Tony Spera, as well as Steve Coulter returning as Father Gordon, Rebecca Calder, Elliot Cowan, Kíla Lord Cassidy, Beau Gadsdon, John Brotherton and Shannon Kook.\n\nChaves directs from a screenplay by Ian Goldberg & Richard Naing and David Leslie Johnson-McGoldrick, story by David Leslie Johnson-McGoldrick & James Wan, based on characters created by Chad Hayes & Carey W. Hayes.  The executive producers are Michael Clear, Judson Scott, Hans Ritter, David Leslie Johnson-McGoldrick, Natalia Safran, John Rickard and Michael Chaves.\n\nChaves is joined behind the camera by his creative team, including director of photography Eli Born, production designer John Frankish, editors Elliot Greenberg and Gregory Plotkin, visual effects supervisor Scott Edelstein, visual effects producer Eric Bruneau and costume designer Graham Churchyard, with casting by Rose Wicksteed and Sophie Kingston-Smith.  The music supervisor is Ian Broucek and the music is by composer Benjamin Wallfisch.\n\nNew Line Cinema Presents The Safran Company / An Atomic Monster Production, The Conjuring: Last Rites.  The film will be released worldwide by Warner Bros. Pictures and will be only in theaters and IMAX® in North America on September 5, 2025, and internationally beginning 3 September 2025.",
+            "publishedAt": "2025-06-03T12:59:05Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
+            "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/default.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Warner Bros.",
-            "tags": [
-              "BasedOnRealEvents",
-              "ComingSoon",
-              "ConjuringUniverse",
-              "Film",
-              "FinalChapter",
-              "Franchise",
-              "IMAX",
-              "LastCase",
-              "MichaelChaves",
-              "NewLineCinema",
-              "NewTrailer",
-              "PatrickWilson",
-              "September2025",
-              "TheConjuring",
-              "Thriller",
-              "Trailer",
-              "VeraFarmiga",
-              "WB",
-              "WarnerBros",
-              "WarnerBrothers"
-            ],
+            "channelTitle": "Sony Pictures Entertainment",
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Conjuring: Last Rites | Official Trailer",
-              "description": "Discover why this case ended it all. #TheConjuring: Last Rites - Only in Theaters September 5.\n\nFrom New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring universe, The Conjuring: Last Rites, directed by franchise veteran Michael Chaves and produced by franchise architects James Wan and Peter Safran.\n\nThe Conjuring: Last Rites delivers another thrilling chapter of the iconic Conjuring cinematic universe, based on real events.  Vera Farmiga and Patrick Wilson reunite for one last case as renowned, real-life paranormal investigators Ed and Lorraine Warren in a powerful and spine-chilling addition to the global box office-breaking franchise.\n\nFarmiga and Wilson star alongside Mia Tomlinson and Ben Hardy, who portray Ed and Lorraine’s daughter Judy Warren and her boyfriend, Tony Spera, as well as Steve Coulter returning as Father Gordon, Rebecca Calder, Elliot Cowan, Kíla Lord Cassidy, Beau Gadsdon, John Brotherton and Shannon Kook.\n\nChaves directs from a screenplay by Ian Goldberg & Richard Naing and David Leslie Johnson-McGoldrick, story by David Leslie Johnson-McGoldrick & James Wan, based on characters created by Chad Hayes & Carey W. Hayes.  The executive producers are Michael Clear, Judson Scott, Hans Ritter, David Leslie Johnson-McGoldrick, Natalia Safran, John Rickard and Michael Chaves.\n\nChaves is joined behind the camera by his creative team, including director of photography Eli Born, production designer John Frankish, editors Elliot Greenberg and Gregory Plotkin, visual effects supervisor Scott Edelstein, visual effects producer Eric Bruneau and costume designer Graham Churchyard, with casting by Rose Wicksteed and Sophie Kingston-Smith.  The music supervisor is Ian Broucek and the music is by composer Benjamin Wallfisch.\n\nNew Line Cinema Presents The Safran Company / An Atomic Monster Production, The Conjuring: Last Rites.  The film will be released worldwide by Warner Bros. Pictures and will be only in theaters and IMAX® in North America on September 5, 2025, and internationally beginning 3 September 2025."
+              "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
+              "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24871075",
-            "likeCount": "223244",
+            "viewCount": "25377853",
+            "likeCount": "34585",
             "favoriteCount": "0",
-            "commentCount": "6622"
+            "commentCount": "1929"
           }
         }
       ],
@@ -9443,18 +9205,18 @@
     },
     "creative": {
       "director": [
-        "Michael Chaves"
+        "Kogonada"
       ],
       "writers": [],
       "cast_top": [
-        "Vera Farmiga",
-        "Patrick Wilson",
-        "Mia Tomlinson",
-        "Ben Hardy",
-        "Rebecca Calder",
-        "Tilly Walker",
-        "Elliot Cowan",
-        "Shannon Kook"
+        "Colin Farrell",
+        "Margot Robbie",
+        "Jennifer Grant",
+        "Hamish Linklater",
+        "Phoebe Waller-Bridge",
+        "Kevin Kline",
+        "Jodie Turner-Smith",
+        "Lily Rabe"
       ],
       "star_power": {
         "actor_count": 8
@@ -10281,104 +10043,86 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1241921,
-      "imdb_id": "tt13650700",
-      "title": "A Big Bold Beautiful Journey",
-      "release_date": "2025-09-17",
+      "tmdb_id": 575265,
+      "imdb_id": "tt9603208",
+      "title": "Mission: Impossible - The Final Reckoning",
+      "release_date": "2025-05-17",
       "release_year": "2025",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Thriller"
       ],
       "production_countries": [
-        "US",
-        "IE"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Imperative Entertainment",
-        "30WEST",
-        "Columbia Pictures",
-        "Chapel Place Productions",
-        "Tempo Basho",
-        "Original Films"
+        "Paramount Pictures",
+        "Skydance Media",
+        "TC Productions"
       ],
-      "runtime": 109,
-      "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures."
+      "runtime": 170,
+      "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever."
     },
     "commercial": {
-      "budget": 45000000,
-      "revenue": 20171082,
+      "budget": 400000000,
+      "revenue": 598056261,
       "opening_weekend": null,
-      "roi": 0.448,
+      "roi": 1.495,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
-        "belongs_to_collection": null,
-        "budget": 45000000,
+        "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+        "belongs_to_collection": {
+          "id": 87359,
+          "name": "Mission: Impossible Collection",
+          "poster_path": "/geEjCGfdmRAA1skBPwojcdvnZ8A.jpg",
+          "backdrop_path": "/mroWh717g0Ah2c0rrPGW6f3EWMM.jpg"
+        },
+        "budget": 400000000,
         "genres": [
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 12,
+            "name": "Adventure"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://abigboldbeautifuljourney.movie",
-        "id": 1241921,
-        "imdb_id": "tt13650700",
+        "homepage": "https://www.missionimpossible.com",
+        "id": 575265,
+        "imdb_id": "tt9603208",
         "origin_country": [
-          "IE",
           "US"
         ],
         "original_language": "en",
-        "original_title": "A Big Bold Beautiful Journey",
-        "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
-        "popularity": 68.0735,
-        "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+        "original_title": "Mission: Impossible - The Final Reckoning",
+        "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity — which has infiltrated intelligence networks all over the globe — with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+        "popularity": 125.0577,
+        "poster_path": "/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg",
         "production_companies": [
           {
-            "id": 81121,
-            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
-            "name": "Imperative Entertainment",
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
             "origin_country": "US"
           },
           {
-            "id": 104363,
-            "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
-            "name": "30WEST",
+            "id": 82819,
+            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+            "name": "Skydance Media",
             "origin_country": "US"
           },
           {
-            "id": 5,
-            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-            "name": "Columbia Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 225329,
-            "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
-            "name": "Chapel Place Productions",
-            "origin_country": "IE"
-          },
-          {
-            "id": 274023,
+            "id": 21777,
             "logo_path": null,
-            "name": "Tempo Basho",
-            "origin_country": "US"
-          },
-          {
-            "id": 253443,
-            "logo_path": null,
-            "name": "Original Films",
+            "name": "TC Productions",
             "origin_country": "US"
           }
         ],
@@ -10386,74 +10130,85 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
           }
         ],
-        "release_date": "2025-09-17",
-        "revenue": 20171082,
-        "runtime": 109,
+        "release_date": "2025-05-17",
+        "revenue": 598056261,
+        "runtime": 170,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Inuktitut",
+            "iso_639_1": "iu",
+            "name": ""
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Relive your past. Change your future.",
-        "title": "A Big Bold Beautiful Journey",
+        "tagline": "Our lives are the sum of our choices.",
+        "title": "Mission: Impossible - The Final Reckoning",
         "video": false,
-        "vote_average": 6.348,
-        "vote_count": 151
+        "vote_average": 7.273,
+        "vote_count": 1976
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.348,
+      "tmdb_vote_average": 7.273,
       "omdb": {
-        "Title": "A Big Bold Beautiful Journey",
+        "Title": "Mission: Impossible - The Final Reckoning",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "19 Sep 2025",
-        "Runtime": "109 min",
-        "Genre": "Drama, Fantasy, Romance",
-        "Director": "Kogonada",
-        "Writer": "Seth Reiss",
-        "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
-        "Plot": "Two strangers who meet at a mutual friend's wedding have the chance to relive important moments from their pasts, illuminating the path that led them to the present and gaining the opportunity to change their futures.",
-        "Language": "English",
-        "Country": "Ireland, United States",
-        "Awards": "1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwZWJiYjEtM2RkMi00ZDhjLTk4ZmMtZDQ2NDY2YTJkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "PG-13",
+        "Released": "23 May 2025",
+        "Runtime": "169 min",
+        "Genre": "Action, Adventure, Thriller",
+        "Director": "Christopher McQuarrie",
+        "Writer": "Bruce Geller, Christopher McQuarrie, Erik Jendresen",
+        "Actors": "Tom Cruise, Hayley Atwell, Ving Rhames",
+        "Plot": "Hunt and the IMF pursue a dangerous AI called the Entity that's infiltrated global intelligence. With governments and a figure from his past in pursuit, Hunt races to stop it from forever changing the world.",
+        "Language": "English, French, Russian",
+        "Country": "United Kingdom, United States",
+        "Awards": "6 wins & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ5NGEyYTItMjNiMi00Y2EwLTkzOWItMjc5YjJiMjMyNTI0XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.2/10"
+            "Value": "7.3/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "36%"
+            "Value": "80%"
           },
           {
             "Source": "Metacritic",
-            "Value": "43/100"
+            "Value": "67/100"
           }
         ],
-        "Metascore": "43",
-        "imdbRating": "6.2",
-        "imdbVotes": "6,588",
-        "imdbID": "tt13650700",
+        "Metascore": "67",
+        "imdbRating": "7.3",
+        "imdbVotes": "160,935",
+        "imdbID": "tt9603208",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$6,570,340",
+        "BoxOffice": "$197,413,515",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/mission_impossible_the_final_reckoning\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/mission_impossible_the_final_reckoning\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10463,273 +10218,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "A Big Bold Beautiful Journey": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "A Big Bold Beautiful Journey": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "A Big Bold Beautiful Journey": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "A Big Bold Beautiful Journey": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "A Big Bold Beautiful Journey": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "A Big Bold Beautiful Journey": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "A Big Bold Beautiful Journey": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "A Big Bold Beautiful Journey": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "A Big Bold Beautiful Journey": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "A Big Bold Beautiful Journey": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "A Big Bold Beautiful Journey": 93,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "A Big Bold Beautiful Journey": 58,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "A Big Bold Beautiful Journey": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "A Big Bold Beautiful Journey": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "A Big Bold Beautiful Journey": 30,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -10746,55 +10235,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "rWe_qewqZFW7v44iVQOms9dZ3bY",
-          "id": "7t9cPtA9St0",
+          "etag": "Dr6kb9sbVDcgK6wdwMP6B9AwYdI",
+          "id": "fsQgc9pCyDU",
           "snippet": {
-            "publishedAt": "2025-06-03T12:59:05Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-            "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge",
+            "publishedAt": "2025-04-07T13:00:01Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Mission: Impossible – The Final Reckoning | Official Trailer (2025 Movie) - Tom Cruise",
+            "description": "Every choice, every mission, has all led to this. #Mission Impossible – The Final Reckoning. May 23, 2025.\n\nConnect with #MissionImpossible \nTikTok: https://www.tiktok.com/@missionimpossible\nInstagram: https://www.instagram.com/missionimpossible/\nTwitter: https://twitter.com/missionfilm/ \nFacebook: https://www.facebook.com/MissionImpossible/ \n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\n\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/default.jpg",
+                "url": "https://i.ytimg.com/vi/fsQgc9pCyDU/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fsQgc9pCyDU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fsQgc9pCyDU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/fsQgc9pCyDU/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/fsQgc9pCyDU/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
+            "channelTitle": "Paramount Pictures",
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-              "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge"
+              "title": "Mission: Impossible – The Final Reckoning | Official Trailer (2025 Movie) - Tom Cruise",
+              "description": "Every choice, every mission, has all led to this. #Mission Impossible – The Final Reckoning. May 23, 2025.\n\nConnect with #MissionImpossible \nTikTok: https://www.tiktok.com/@missionimpossible\nInstagram: https://www.instagram.com/missionimpossible/\nTwitter: https://twitter.com/missionfilm/ \nFacebook: https://www.facebook.com/MissionImpossible/ \n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\n\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "25376992",
-            "likeCount": "34581",
+            "viewCount": "27541175",
+            "likeCount": "226899",
             "favoriteCount": "0",
-            "commentCount": "1929"
+            "commentCount": "14038"
           }
         }
       ],
@@ -10805,18 +10294,21 @@
     },
     "creative": {
       "director": [
-        "Kogonada"
+        "Christopher McQuarrie"
       ],
-      "writers": [],
+      "writers": [
+        "Christopher McQuarrie",
+        "Erik Jendresen"
+      ],
       "cast_top": [
-        "Colin Farrell",
-        "Margot Robbie",
-        "Jennifer Grant",
-        "Hamish Linklater",
-        "Phoebe Waller-Bridge",
-        "Kevin Kline",
-        "Jodie Turner-Smith",
-        "Lily Rabe"
+        "Tom Cruise",
+        "Hayley Atwell",
+        "Ving Rhames",
+        "Simon Pegg",
+        "Esai Morales",
+        "Pom Klementieff",
+        "Henry Czerny",
+        "Holt McCallany"
       ],
       "star_power": {
         "actor_count": 8
