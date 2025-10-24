@@ -107,12 +107,12 @@
         "tagline": "The task is simple: walk or die.",
         "title": "The Long Walk",
         "video": false,
-        "vote_average": 6.9,
-        "vote_count": 364
+        "vote_average": 6.906,
+        "vote_count": 373
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.9,
+      "tmdb_vote_average": 6.906,
       "omdb": {
         "Title": "The Long Walk",
         "Year": "2025",
@@ -164,273 +164,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Long Walk": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Long Walk": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Long Walk": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Long Walk": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Long Walk": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Long Walk": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Long Walk": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Long Walk": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Long Walk": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Long Walk": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Long Walk": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Long Walk": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Long Walk": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Long Walk": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Long Walk": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Long Walk": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Long Walk": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Long Walk": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Long Walk": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Long Walk": 65,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Long Walk": 43,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Long Walk": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Long Walk": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Long Walk": 50,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -447,7 +181,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "JBaMj_dcwfMP2Jq7E7bdmpsnT1E",
+          "etag": "h0dHPDC_bEabqyN_ApzONvKEWhM",
           "id": "vAtUHeMQ1F8",
           "snippet": {
             "publishedAt": "2025-05-07T14:59:58Z",
@@ -516,10 +250,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "16206135",
-            "likeCount": "67370",
+            "viewCount": "16217337",
+            "likeCount": "67441",
             "favoriteCount": "0",
-            "commentCount": "7012"
+            "commentCount": "7024"
           }
         }
       ],
@@ -1368,26 +1102,26 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1156594,
-      "imdb_id": "tt33311244",
-      "title": "Our Fault",
-      "release_date": "2025-10-15",
+      "tmdb_id": 1290159,
+      "imdb_id": "tt32376165",
+      "title": "A House of Dynamite",
+      "release_date": "2025-10-02",
       "release_year": "2025",
       "genres": [
-        "Romance",
-        "Drama"
+        "War",
+        "Thriller"
       ],
       "production_countries": [
-        "ES",
         "US"
       ],
-      "language": "es",
+      "language": "en",
       "studio_distributor": [
-        "Pokeepsie Films",
-        "Amazon MGM Studios"
+        "First Light",
+        "Prologue Entertainment",
+        "Kingsgate Films"
       ],
       "runtime": 113,
-      "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?"
+      "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond."
     },
     "commercial": {
       "budget": 0,
@@ -1397,105 +1131,109 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
-        "belongs_to_collection": {
-          "id": 1156666,
-          "name": "Fault Collection",
-          "poster_path": "/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
-          "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
-        },
+        "backdrop_path": "/5SVRVwBfHCIkffiq0MmbdvnHWSz.jpg",
+        "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 10752,
+            "name": "War"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.amazon.com/gp/video/detail/B0DZF95RTJ",
-        "id": 1156594,
-        "imdb_id": "tt33311244",
+        "homepage": "https://www.ahouseofdynamitefilm.com",
+        "id": 1290159,
+        "imdb_id": "tt32376165",
         "origin_country": [
-          "ID",
           "US"
         ],
-        "original_language": "es",
-        "original_title": "Culpa nuestra",
-        "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
-        "popularity": 645.9296,
-        "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
+        "original_language": "en",
+        "original_title": "A House of Dynamite",
+        "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
+        "popularity": 18.451,
+        "poster_path": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
         "production_companies": [
           {
-            "id": 32485,
-            "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
-            "name": "Pokeepsie Films",
-            "origin_country": "ES"
+            "id": 20344,
+            "logo_path": null,
+            "name": "First Light",
+            "origin_country": "US"
           },
           {
-            "id": 210099,
-            "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
-            "name": "Amazon MGM Studios",
+            "id": 247171,
+            "logo_path": "/5745DrW9mdPOelyORtkpVD1FHL8.png",
+            "name": "Prologue Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 770,
+            "logo_path": null,
+            "name": "Kingsgate Films",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "ES",
-            "name": "Spain"
-          },
-          {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-15",
+        "release_date": "2025-10-02",
         "revenue": 0,
         "runtime": 113,
         "spoken_languages": [
           {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Our Fault",
+        "tagline": "Not if. When.",
+        "title": "A House of Dynamite",
         "video": false,
-        "vote_average": 7.727,
-        "vote_count": 357
+        "vote_average": 6.6,
+        "vote_count": 21
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.727,
+      "tmdb_vote_average": 6.6,
       "omdb": {
-        "Title": "Culpa Nuestra",
+        "Title": "A House of Dynamite",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "16 Oct 2025",
+        "Rated": "R",
+        "Released": "24 Oct 2025",
         "Runtime": "112 min",
-        "Genre": "Drama, Romance",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "Nicole Wallace, Gabriel Guevara, Álex Béjar",
-        "Plot": "Nick and Noah's relationship peaks before facing events testing if they're meant to be together or should part ways. Can they overcome their past despite strong feelings, or are love and forgiveness not enough?",
-        "Language": "Spanish",
-        "Country": "Spain",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Genre": "Drama, Thriller",
+        "Director": "Kathryn Bigelow",
+        "Writer": "Noah Oppenheim",
+        "Actors": "Rebecca Ferguson, Anthony Ramos, Idris Elba",
+        "Plot": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjAzMjQ4YTUtOGI1Yy00YTFkLTlkMDQtMDEwOWNjYmE3MTU1XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "Value": "7.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "84/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.5",
-        "imdbVotes": "3,229",
-        "imdbID": "tt33311244",
+        "Metascore": "84",
+        "imdbRating": "7.2",
+        "imdbVotes": "922",
+        "imdbID": "tt32376165",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -1504,7 +1242,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fault_in_our_stars\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fault_in_our_stars\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_house_of_dynamite\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_house_of_dynamite\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1531,82 +1269,83 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "VUarakZbNnM8dQo0rRDEARq7Nac",
-          "id": "4ZDvKct1U4s",
+          "etag": "HiIXEd3F0T0F70rP4mLHWj1Fgag",
+          "id": "_wpw2QHJNco",
           "snippet": {
-            "publishedAt": "2025-09-10T14:00:05Z",
-            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
-            "title": "Culpa Nuestra (Our Fault) - Official Trailer | Prime Video",
-            "description": "Your favorite story continues... The official Culpa Nuestra (Our Fault) trailer has arrived.\n\nJenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nCulpa Nuestra (Our Fault) - Official Trailer | Prime Video\nhttps://youtu.be/4ZDvKct1U4s\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#CulpaNuestra #OfficialTrailer #PrimeVideo",
+            "publishedAt": "2025-09-25T12:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "A HOUSE OF DYNAMITE | Official Trailer | Netflix",
+            "description": "From Academy Award winning director Kathryn Bigelow comes A HOUSE OF DYNAMITE. When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.\n\nStarring Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke.\n\nIn select theaters October 3 in the UK, globally October 10 and on Netflix October 24.\n\nWatch on Netflix: https://www.netflix.com/title/81744537\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nA HOUSE OF DYNAMITE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/default.jpg",
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Prime Video",
+            "channelTitle": "Netflix",
             "tags": [
-              "culpa nuestra official trailer",
-              "culpa nuestra trailer",
-              "official trailer",
-              "trailer",
-              "official trailer 2025",
-              "trailer 2025",
-              "prime video official trailer",
-              "new amazon trailer",
-              "culpa nuestra prime video",
-              "prime video culpa nuestra",
-              "prime video",
-              "amazon prime video",
-              "amazon prime",
-              "prime",
-              "amazon",
-              "our fault",
-              "culpa nuestra",
-              "culpa mia",
-              "culpa tuya",
-              "my fault london",
-              "culpa nuestra teaser",
-              "culpa nuestra movie",
-              "nick and noah culpa nuestra",
-              "noah and nick culpa nuestra",
-              "culpa nuestra ending"
+              "A House of Dynamite",
+              "Anthony Ramos",
+              "Award Season",
+              "Craft",
+              "Drama",
+              "Film",
+              "Film Festival",
+              "Gabriel Basso",
+              "Greta Lee",
+              "Idris Elba",
+              "Jared Harris",
+              "Jason Clarke",
+              "Jonah Hauer-King",
+              "Kathryn Bigelow",
+              "Moses Ingram",
+              "Netflix",
+              "Noah Oppenheim",
+              "Oscars",
+              "Political Thriller",
+              "Rebecca Ferguson",
+              "The Hurt Locker",
+              "Thriller",
+              "Tracy Letts",
+              "Venice Film Festival",
+              "War Movie",
+              "Zero Dark Thirty"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Culpa Nuestra (Our Fault) - Official Trailer | Prime Video",
-              "description": "Your favorite story continues... The official Culpa Nuestra (Our Fault) trailer has arrived.\n\nJenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nCulpa Nuestra (Our Fault) - Official Trailer | Prime Video\nhttps://youtu.be/4ZDvKct1U4s\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#CulpaNuestra #OfficialTrailer #PrimeVideo"
+              "title": "A HOUSE OF DYNAMITE | Official Trailer | Netflix",
+              "description": "From Academy Award winning director Kathryn Bigelow comes A HOUSE OF DYNAMITE. When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.\n\nStarring Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke.\n\nIn select theaters October 3 in the UK, globally October 10 and on Netflix October 24.\n\nWatch on Netflix: https://www.netflix.com/title/81744537\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nA HOUSE OF DYNAMITE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "3179000",
-            "likeCount": "31753",
+            "viewCount": "11197369",
+            "likeCount": "22093",
             "favoriteCount": "0",
-            "commentCount": "646"
+            "commentCount": "1456"
           }
         }
       ],
@@ -1617,18 +1356,20 @@
     },
     "creative": {
       "director": [
-        "Domingo González"
+        "Kathryn Bigelow"
       ],
-      "writers": [],
+      "writers": [
+        "Noah Oppenheim"
+      ],
       "cast_top": [
-        "Nicole Wallace",
-        "Gabriel Guevara",
-        "Gabriela Andrada",
-        "Marta Hazas",
-        "Goya Toledo",
-        "Iván Sánchez",
-        "Felipe Londoño",
-        "Fran Berenguer"
+        "Idris Elba",
+        "Rebecca Ferguson",
+        "Gabriel Basso",
+        "Jared Harris",
+        "Tracy Letts",
+        "Anthony Ramos",
+        "Moses Ingram",
+        "Greta Lee"
       ],
       "star_power": {
         "actor_count": 8
@@ -2455,154 +2196,165 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 1062722,
-      "imdb_id": "tt1312221",
-      "title": "Frankenstein",
-      "release_date": "2025-10-17",
+      "tmdb_id": 1267905,
+      "imdb_id": "tt31973693",
+      "title": "The Roses",
+      "release_date": "2025-08-27",
       "release_year": "2025",
       "genres": [
+        "Comedy",
         "Drama",
-        "Horror",
-        "Science Fiction"
+        "Romance"
       ],
       "production_countries": [
-        "US",
-        "CA"
+        "GB",
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Double Dare You",
-        "Demilo Films",
-        "Bluegrass Films"
+        "Searchlight Pictures",
+        "South of the River Pictures",
+        "SunnyMarch",
+        "Delirious Media"
       ],
-      "runtime": 150,
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
+      "runtime": 105,
+      "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites."
     },
     "commercial": {
-      "budget": 120000000,
-      "revenue": 0,
+      "budget": 30600000,
+      "revenue": 49589664,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 1.621,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/sy7Y4jCDsGPCzoQIEmxqAgPjAgr.jpg",
+        "backdrop_path": "/h4HSZjOeAoHQ3qPuy6x9Cyr69bS.jpg",
         "belongs_to_collection": null,
-        "budget": 120000000,
+        "budget": 30600000,
         "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
           {
             "id": 18,
             "name": "Drama"
           },
           {
-            "id": 27,
-            "name": "Horror"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 10749,
+            "name": "Romance"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81507921",
-        "id": 1062722,
-        "imdb_id": "tt1312221",
+        "homepage": "https://www.searchlightpictures.com/the-roses",
+        "id": 1267905,
+        "imdb_id": "tt31973693",
         "origin_country": [
+          "GB",
           "US"
         ],
         "original_language": "en",
-        "original_title": "Frankenstein",
-        "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 38.262,
-        "poster_path": "/olmud8EBCJUSSVkDw0r4KyLjRig.jpg",
+        "original_title": "The Roses",
+        "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
+        "popularity": 97.3762,
+        "poster_path": "/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
         "production_companies": [
           {
-            "id": 101082,
-            "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
-            "name": "Double Dare You",
+            "id": 127929,
+            "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+            "name": "Searchlight Pictures",
             "origin_country": "US"
           },
           {
-            "id": 10678,
-            "logo_path": null,
-            "name": "Demilo Films",
-            "origin_country": "CA"
+            "id": 167259,
+            "logo_path": "/bSwCootf79JLvjEKH9BC4pTOSUW.png",
+            "name": "South of the River Pictures",
+            "origin_country": "GB"
           },
           {
-            "id": 13778,
-            "logo_path": null,
-            "name": "Bluegrass Films",
+            "id": 92346,
+            "logo_path": "/qyqhyTbYHRmU2QcRomm4AeGiN0g.png",
+            "name": "SunnyMarch",
+            "origin_country": "GB"
+          },
+          {
+            "id": 189290,
+            "logo_path": "/1gF9HPrh9vy3LCMOjqF2b0RrdSe.png",
+            "name": "Delirious Media",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
           },
           {
-            "iso_3166_1": "CA",
-            "name": "Canada"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-17",
-        "revenue": 0,
-        "runtime": 150,
+        "release_date": "2025-08-27",
+        "revenue": 49589664,
+        "runtime": 105,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Only monsters play God.",
-        "title": "Frankenstein",
+        "tagline": "This marriage ain't big enough for the both of them.",
+        "title": "The Roses",
         "video": false,
-        "vote_average": 8.781,
-        "vote_count": 16
+        "vote_average": 7.031,
+        "vote_count": 229
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.781,
+      "tmdb_vote_average": 7.031,
       "omdb": {
-        "Title": "Frankenstein",
+        "Title": "The Roses",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "N/A",
-        "Runtime": "N/A",
-        "Genre": "Drama, Horror, Sci-Fi",
-        "Director": "Guillermo del Toro",
-        "Writer": "Mary Shelley, Guillermo del Toro",
-        "Actors": "Mia Goth, Burn Gorman, Charles Dance",
-        "Plot": "Dr. Pretorius tracks down Frankenstein's monster, who is believed to have died in a fire forty years before, in order to continue the experiments of Dr. Victor Frankenstein.",
-        "Language": "English, Danish",
-        "Country": "Mexico, United States, Canada, United Kingdom",
+        "Rated": "R",
+        "Released": "29 Aug 2025",
+        "Runtime": "105 min",
+        "Genre": "Comedy",
+        "Director": "Jay Roach",
+        "Writer": "Warren Adler, Tony McNamara",
+        "Actors": "Olivia Colman, Benedict Cumberbatch, Kate McKinnon",
+        "Plot": "A tinderbox of competition and resentments underneath the façade of a picture-perfect couple is ignited when the husband's professional dreams come crashing down.",
+        "Language": "English",
+        "Country": "United Kingdom, Australia, United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYTMzMjY4ZjgtZTQ4Ni00YTlhLTgwODktM2JkZDEzM2Q0ZDBmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzliNTEyYjEtNGE3Mi00ZDIzLTg1NzYtZDBhNTQ5ZDVkMmM3XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          },
+          {
             "Source": "Rotten Tomatoes",
-            "Value": "87%"
+            "Value": "65%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "58/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt1312221",
+        "Metascore": "58",
+        "imdbRating": "7.0",
+        "imdbVotes": "16,922",
+        "imdbID": "tt31973693",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$15,298,844",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_roses\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_roses\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -2629,86 +2381,76 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "fSWqmha4_lMloAhuqPeLXjanhwA",
-          "id": "8aulMPhE12g",
+          "etag": "tJmJ9IDmeSVYgw9_RmT6frdiyuE",
+          "id": "ETBY06YJ2Q8",
           "snippet": {
-            "publishedAt": "2025-10-01T13:00:01Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-            "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2025-04-16T18:54:43Z",
+            "channelId": "UCE8aa83wFg-VE1zcaVCZdIA",
+            "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+            "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/default.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Moviefone",
             "tags": [
-              "Academy Awards",
-              "Adaptation",
-              "Award Season",
-              "Boris Karloff",
-              "Bride of Frankenstein",
-              "Charles Dance",
-              "Christoph Waltz",
-              "Craft",
-              "Creature",
-              "Drama",
-              "Felix Kammerer",
-              "Film",
-              "Film Festival",
-              "Frankenstein",
-              "Gothic",
-              "Guillermo del Toro",
-              "Horror",
-              "Jacob Elordi",
-              "James Whale",
-              "Mary Shelley",
-              "Mia Goth",
-              "Monster",
-              "Monster Movie",
-              "Movie",
-              "Novel",
-              "Oscar Isaac",
-              "Oscars",
-              "Victor",
-              "Victor Frankenstein"
+              "Moviefone",
+              "benedict cumberbatch",
+              "olivia colman",
+              "the roses trailer",
+              "the roses",
+              "the roses trailer benedict cumberbatch",
+              "the roses official trailer",
+              "the roses olivia colman",
+              "the roses benedict cumberbatch",
+              "benedict cumberbatch new movie trailer",
+              "the roses trailer cumberbatch",
+              "the roses movie trailer",
+              "trailer",
+              "benedict cumberbatch movies 2024",
+              "benedict cumberbatch new movie",
+              "benedict and olivia",
+              "cumberbatch colman kiss",
+              "war of the roses movie trailer",
+              "the roses trailer 2025"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-              "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+              "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "9760564",
-            "likeCount": "150797",
+            "viewCount": "103852",
+            "likeCount": "627",
             "favoriteCount": "0",
-            "commentCount": "6038"
+            "commentCount": "86"
           }
         }
       ],
@@ -2719,18 +2461,18 @@
     },
     "creative": {
       "director": [
-        "Guillermo del Toro"
+        "Jay Roach"
       ],
       "writers": [],
       "cast_top": [
-        "Oscar Isaac",
-        "Jacob Elordi",
-        "Mia Goth",
-        "Christoph Waltz",
-        "Felix Kammerer",
-        "Charles Dance",
-        "David Bradley",
-        "Lars Mikkelsen"
+        "Olivia Colman",
+        "Benedict Cumberbatch",
+        "Kate McKinnon",
+        "Andy Samberg",
+        "Ncuti Gatwa",
+        "Sunita Mani",
+        "Zoë Chao",
+        "Jamie Demetriou"
       ],
       "star_power": {
         "actor_count": 8
@@ -3557,165 +3299,143 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1267905,
-      "imdb_id": "tt31973693",
-      "title": "The Roses",
-      "release_date": "2025-08-27",
+      "tmdb_id": 1156594,
+      "imdb_id": "tt33311244",
+      "title": "Our Fault",
+      "release_date": "2025-10-15",
       "release_year": "2025",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Romance",
+        "Drama"
       ],
       "production_countries": [
-        "GB",
+        "ES",
         "US"
       ],
-      "language": "en",
+      "language": "es",
       "studio_distributor": [
-        "Searchlight Pictures",
-        "South of the River Pictures",
-        "SunnyMarch",
-        "Delirious Media"
+        "Pokeepsie Films",
+        "Amazon MGM Studios"
       ],
-      "runtime": 105,
-      "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites."
+      "runtime": 113,
+      "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?"
     },
     "commercial": {
-      "budget": 30600000,
-      "revenue": 49589664,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 1.621,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/h4HSZjOeAoHQ3qPuy6x9Cyr69bS.jpg",
-        "belongs_to_collection": null,
-        "budget": 30600000,
+        "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+        "belongs_to_collection": {
+          "id": 1156666,
+          "name": "Fault Collection",
+          "poster_path": "/fR3AsfNeAmgGCy2CMFaOjIaIuA7.jpg",
+          "backdrop_path": "/7N9p8D39MXJDfm14zlBwW7mBh7g.jpg"
+        },
+        "budget": 0,
         "genres": [
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 10749,
+            "name": "Romance"
           },
           {
             "id": 18,
             "name": "Drama"
-          },
-          {
-            "id": 10749,
-            "name": "Romance"
           }
         ],
-        "homepage": "https://www.searchlightpictures.com/the-roses",
-        "id": 1267905,
-        "imdb_id": "tt31973693",
+        "homepage": "https://www.amazon.com/gp/video/detail/B0DZF95RTJ",
+        "id": 1156594,
+        "imdb_id": "tt33311244",
         "origin_country": [
-          "GB",
+          "ID",
           "US"
         ],
-        "original_language": "en",
-        "original_title": "The Roses",
-        "overview": "Life seems easy for picture-perfect couple Ivy and Theo: successful careers, a loving marriage, great kids. But beneath the façade of their supposed ideal life, a storm is brewing – as Theo's career nosedives while Ivy's own ambitions take off, a tinderbox of fierce competition and hidden resentment ignites.",
-        "popularity": 97.3762,
-        "poster_path": "/98n5HnCJ5LnXKIMNP9SBfVNyxCE.jpg",
+        "original_language": "es",
+        "original_title": "Culpa nuestra",
+        "overview": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
+        "popularity": 645.9296,
+        "poster_path": "/yzqHt4m1SeY9FbPrfZ0C2Hi9x1s.jpg",
         "production_companies": [
           {
-            "id": 127929,
-            "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
-            "name": "Searchlight Pictures",
-            "origin_country": "US"
+            "id": 32485,
+            "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+            "name": "Pokeepsie Films",
+            "origin_country": "ES"
           },
           {
-            "id": 167259,
-            "logo_path": "/bSwCootf79JLvjEKH9BC4pTOSUW.png",
-            "name": "South of the River Pictures",
-            "origin_country": "GB"
-          },
-          {
-            "id": 92346,
-            "logo_path": "/qyqhyTbYHRmU2QcRomm4AeGiN0g.png",
-            "name": "SunnyMarch",
-            "origin_country": "GB"
-          },
-          {
-            "id": 189290,
-            "logo_path": "/1gF9HPrh9vy3LCMOjqF2b0RrdSe.png",
-            "name": "Delirious Media",
+            "id": 210099,
+            "logo_path": "/d6HwljzlOzxJ4tXlrpRkNZaZMWL.png",
+            "name": "Amazon MGM Studios",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
+            "iso_3166_1": "ES",
+            "name": "Spain"
           },
           {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-08-27",
-        "revenue": 49589664,
-        "runtime": 105,
+        "release_date": "2025-10-15",
+        "revenue": 0,
+        "runtime": 113,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "This marriage ain't big enough for the both of them.",
-        "title": "The Roses",
+        "tagline": "",
+        "title": "Our Fault",
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 226
+        "vote_average": 7.727,
+        "vote_count": 357
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.0,
+      "tmdb_vote_average": 7.727,
       "omdb": {
-        "Title": "The Roses",
+        "Title": "Culpa Nuestra",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "29 Aug 2025",
-        "Runtime": "105 min",
-        "Genre": "Comedy",
-        "Director": "Jay Roach",
-        "Writer": "Warren Adler, Tony McNamara",
-        "Actors": "Olivia Colman, Benedict Cumberbatch, Kate McKinnon",
-        "Plot": "A tinderbox of competition and resentments underneath the façade of a picture-perfect couple is ignited when the husband's professional dreams come crashing down.",
-        "Language": "English",
-        "Country": "United Kingdom, Australia, United States",
+        "Rated": "N/A",
+        "Released": "16 Oct 2025",
+        "Runtime": "112 min",
+        "Genre": "Drama, Romance",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "Nicole Wallace, Gabriel Guevara, Álex Béjar",
+        "Plot": "Nick and Noah's relationship peaks before facing events testing if they're meant to be together or should part ways. Can they overcome their past despite strong feelings, or are love and forgiveness not enough?",
+        "Language": "Spanish",
+        "Country": "Spain",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYzliNTEyYjEtNGE3Mi00ZDIzLTg1NzYtZDBhNTQ5ZDVkMmM3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzUyNmUwODItZmZjZi00YWY0LTlhZWYtYTYxMjFjOGJhMzM2XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.0/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "65%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "58/100"
+            "Value": "5.5/10"
           }
         ],
-        "Metascore": "58",
-        "imdbRating": "7.0",
-        "imdbVotes": "16,922",
-        "imdbID": "tt31973693",
+        "Metascore": "N/A",
+        "imdbRating": "5.5",
+        "imdbVotes": "3,229",
+        "imdbID": "tt33311244",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$15,298,844",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_roses\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_roses\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fault_in_our_stars\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fault_in_our_stars\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -3742,76 +3462,82 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "_ljWf1-eunN81lun3LvDBRifEqg",
-          "id": "ETBY06YJ2Q8",
+          "etag": "cmS_9T_dcfC6GotJhmOTD-Do4h0",
+          "id": "4ZDvKct1U4s",
           "snippet": {
-            "publishedAt": "2025-04-16T18:54:43Z",
-            "channelId": "UCE8aa83wFg-VE1zcaVCZdIA",
-            "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
-            "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/",
+            "publishedAt": "2025-09-10T14:00:05Z",
+            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
+            "title": "Culpa Nuestra (Our Fault) - Official Trailer | Prime Video",
+            "description": "Your favorite story continues... The official Culpa Nuestra (Our Fault) trailer has arrived.\n\nJenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nCulpa Nuestra (Our Fault) - Official Trailer | Prime Video\nhttps://youtu.be/4ZDvKct1U4s\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#CulpaNuestra #OfficialTrailer #PrimeVideo",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/default.jpg",
+                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/4ZDvKct1U4s/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Moviefone",
+            "channelTitle": "Prime Video",
             "tags": [
-              "Moviefone",
-              "benedict cumberbatch",
-              "olivia colman",
-              "the roses trailer",
-              "the roses",
-              "the roses trailer benedict cumberbatch",
-              "the roses official trailer",
-              "the roses olivia colman",
-              "the roses benedict cumberbatch",
-              "benedict cumberbatch new movie trailer",
-              "the roses trailer cumberbatch",
-              "the roses movie trailer",
+              "culpa nuestra official trailer",
+              "culpa nuestra trailer",
+              "official trailer",
               "trailer",
-              "benedict cumberbatch movies 2024",
-              "benedict cumberbatch new movie",
-              "benedict and olivia",
-              "cumberbatch colman kiss",
-              "war of the roses movie trailer",
-              "the roses trailer 2025"
+              "official trailer 2025",
+              "trailer 2025",
+              "prime video official trailer",
+              "new amazon trailer",
+              "culpa nuestra prime video",
+              "prime video culpa nuestra",
+              "prime video",
+              "amazon prime video",
+              "amazon prime",
+              "prime",
+              "amazon",
+              "our fault",
+              "culpa nuestra",
+              "culpa mia",
+              "culpa tuya",
+              "my fault london",
+              "culpa nuestra teaser",
+              "culpa nuestra movie",
+              "nick and noah culpa nuestra",
+              "noah and nick culpa nuestra",
+              "culpa nuestra ending"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
-              "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/"
+              "title": "Culpa Nuestra (Our Fault) - Official Trailer | Prime Video",
+              "description": "Your favorite story continues... The official Culpa Nuestra (Our Fault) trailer has arrived.\n\nJenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n  \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nCulpa Nuestra (Our Fault) - Official Trailer | Prime Video\nhttps://youtu.be/4ZDvKct1U4s\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#CulpaNuestra #OfficialTrailer #PrimeVideo"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "103579",
-            "likeCount": "627",
+            "viewCount": "3186037",
+            "likeCount": "31765",
             "favoriteCount": "0",
-            "commentCount": "86"
+            "commentCount": "646"
           }
         }
       ],
@@ -3822,18 +3548,18 @@
     },
     "creative": {
       "director": [
-        "Jay Roach"
+        "Domingo González"
       ],
       "writers": [],
       "cast_top": [
-        "Olivia Colman",
-        "Benedict Cumberbatch",
-        "Kate McKinnon",
-        "Andy Samberg",
-        "Ncuti Gatwa",
-        "Sunita Mani",
-        "Zoë Chao",
-        "Jamie Demetriou"
+        "Nicole Wallace",
+        "Gabriel Guevara",
+        "Gabriela Andrada",
+        "Marta Hazas",
+        "Goya Toledo",
+        "Iván Sánchez",
+        "Felipe Londoño",
+        "Fran Berenguer"
       ],
       "star_power": {
         "actor_count": 8
@@ -4775,7 +4501,7 @@
         "title": "xXx",
         "video": false,
         "vote_average": 5.965,
-        "vote_count": 4596
+        "vote_count": 4597
       }
     },
     "ratings": {
@@ -4831,273 +4557,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "xXx": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "xXx": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "xXx": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "xXx": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "xXx": 86,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "xXx": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "xXx": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "xXx": 91,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "xXx": 90,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "xXx": 86,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "xXx": 90,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "xXx": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "xXx": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "xXx": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "xXx": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "xXx": 95,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "xXx": 90,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "xXx": 91,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "xXx": 90,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "xXx": 92,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "xXx": 93,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "xXx": 96,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "xXx": 92,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "xXx": 93,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "xXx": 93,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "xXx": 90,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "xXx": 86,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "xXx": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "xXx": 91,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "xXx": 89,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -5114,7 +4574,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "G-EOITveTFaqpKPZxp8yiA0wGCo",
+          "etag": "bXHpr7DGhU3Qtdd6HwENBUCKc_g",
           "id": "NgPdDDzVhkA",
           "snippet": {
             "publishedAt": "2022-08-09T19:00:15Z",
@@ -5159,8 +4619,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8248257",
-            "likeCount": "7243",
+            "viewCount": "8251851",
+            "likeCount": "7247",
             "favoriteCount": "0",
             "commentCount": "288"
           }
@@ -6183,273 +5643,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Black Phone 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Black Phone 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Black Phone 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Black Phone 2": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Black Phone 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Black Phone 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Black Phone 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Black Phone 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Black Phone 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Black Phone 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Black Phone 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Black Phone 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Black Phone 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Black Phone 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Black Phone 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Black Phone 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Black Phone 2": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Black Phone 2": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Black Phone 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Black Phone 2": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Black Phone 2": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Black Phone 2": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Black Phone 2": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Black Phone 2": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -6466,7 +5660,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Ay_e2KR6LzJMuwNLLdz06Qg7BcQ",
+          "etag": "Fg13OM4R_9gqecymnxKU8_fFSs4",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -6511,10 +5705,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1360780",
-            "likeCount": "25932",
+            "viewCount": "1366853",
+            "likeCount": "25962",
             "favoriteCount": "0",
-            "commentCount": "1401"
+            "commentCount": "1403"
           }
         }
       ],
@@ -7532,273 +6726,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Twits": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Twits": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Twits": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Twits": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Twits": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Twits": 54,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Twits": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -7815,7 +6743,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "198bIb9POxkUv7NoViOr-e71VnE",
+          "etag": "Uk3ziZDJHGMzymENGpIHBb_92RE",
           "id": "dMZI0FkYLEs",
           "snippet": {
             "publishedAt": "2025-10-06T13:00:00Z",
@@ -7886,8 +6814,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1313396",
-            "likeCount": "10096",
+            "viewCount": "1311336",
+            "likeCount": "10111",
             "favoriteCount": "0",
             "commentCount": "919"
           }
@@ -8741,104 +7669,69 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1241921,
-      "imdb_id": "tt13650700",
-      "title": "A Big Bold Beautiful Journey",
-      "release_date": "2025-09-17",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Drama"
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
-        "US",
-        "IE"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Imperative Entertainment",
-        "30WEST",
-        "Columbia Pictures",
-        "Chapel Place Productions",
-        "Tempo Basho",
-        "Original Films"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 109,
-      "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 45000000,
-      "revenue": 20171082,
+      "budget": 200000000,
+      "revenue": 521651414,
       "opening_weekend": null,
-      "roi": 0.448,
+      "roi": 2.608,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
         "belongs_to_collection": null,
-        "budget": 45000000,
+        "budget": 200000000,
         "genres": [
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "https://abigboldbeautifuljourney.movie",
-        "id": 1241921,
-        "imdb_id": "tt13650700",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
-          "IE",
           "US"
         ],
         "original_language": "en",
-        "original_title": "A Big Bold Beautiful Journey",
-        "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
-        "popularity": 38.0758,
-        "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 147.0012,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 81121,
-            "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
-            "name": "Imperative Entertainment",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 104363,
-            "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
-            "name": "30WEST",
-            "origin_country": "US"
-          },
-          {
-            "id": 5,
-            "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
-            "name": "Columbia Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 225329,
-            "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
-            "name": "Chapel Place Productions",
-            "origin_country": "IE"
-          },
-          {
-            "id": 274023,
+            "id": 176762,
             "logo_path": null,
-            "name": "Tempo Basho",
-            "origin_country": "US"
-          },
-          {
-            "id": 253443,
-            "logo_path": null,
-            "name": "Original Films",
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -8846,16 +7739,17 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
           }
         ],
-        "release_date": "2025-09-17",
-        "revenue": 20171082,
-        "runtime": 109,
+        "release_date": "2025-07-23",
+        "revenue": 521651414,
+        "runtime": 115,
         "spoken_languages": [
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
@@ -8863,57 +7757,53 @@
           }
         ],
         "status": "Released",
-        "tagline": "Relive your past. Change your future.",
-        "title": "A Big Bold Beautiful Journey",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 6.335,
-        "vote_count": 155
+        "vote_average": 7.116,
+        "vote_count": 2053
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.335,
+      "tmdb_vote_average": 7.116,
       "omdb": {
-        "Title": "A Big Bold Beautiful Journey",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "19 Sep 2025",
-        "Runtime": "109 min",
-        "Genre": "Drama, Fantasy, Romance",
-        "Director": "Kogonada",
-        "Writer": "Seth Reiss",
-        "Actors": "Colin Farrell, Margot Robbie, Phoebe Waller-Bridge",
-        "Plot": "Two strangers who meet at a mutual friend's wedding have the chance to relive important moments from their pasts, illuminating the path that led them to the present and gaining the opportunity to change their futures.",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "Ireland, United States",
-        "Awards": "1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwZWJiYjEtM2RkMi00ZDhjLTk4ZmMtZDQ2NDY2YTJkOTE5XkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.2/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "36%"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "43/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "43",
-        "imdbRating": "6.2",
-        "imdbVotes": "6,588",
-        "imdbID": "tt13650700",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$6,570,340",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/a_big_bold_beautiful_journey\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8923,273 +7813,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "A Big Bold Beautiful Journey": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "A Big Bold Beautiful Journey": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "A Big Bold Beautiful Journey": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "A Big Bold Beautiful Journey": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "A Big Bold Beautiful Journey": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "A Big Bold Beautiful Journey": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "A Big Bold Beautiful Journey": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "A Big Bold Beautiful Journey": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "A Big Bold Beautiful Journey": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "A Big Bold Beautiful Journey": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "A Big Bold Beautiful Journey": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "A Big Bold Beautiful Journey": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "A Big Bold Beautiful Journey": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "A Big Bold Beautiful Journey": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "A Big Bold Beautiful Journey": 97,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "A Big Bold Beautiful Journey": 53,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "A Big Bold Beautiful Journey": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "A Big Bold Beautiful Journey": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "A Big Bold Beautiful Journey": 26,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -9206,55 +7830,59 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "jc0M2_Z_R7RzqVv1ZhZgOr2sKUI",
-          "id": "7t9cPtA9St0",
+          "etag": "KUY_V2z5KWxcrJaolCVoefPz9wo",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-06-03T12:59:05Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-            "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/7t9cPtA9St0/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "1",
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics"
+            ],
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "A BIG BOLD BEAUTIFUL JOURNEY – Official Trailer (HD)",
-              "description": "Relive your past. Change your future. Margot Robbie and Colin Farrell star in #ABigBoldBeautifulJourney - exclusively in theatres this September.\n\nVisit our site: https://abigboldbeautifuljourney.movie/ \n\nFollow Us on Social:\nhttps://www.instagram.com/bigboldbeautifuljourney\nhttps://www.facebook.com/BigBoldBeautifulJourneyMovie\nhttps://www.tiktok.com/@bigboldbeautifuljourney\nhttps://x.com/BigBoldMovie \n\nSubscribe for more exclusive content: https://www.youtube.com/@sonypictures \n\nA BIG BOLD BEAUTIFUL JOURNEY\nSeptember 19, 2025\nWhat if you could open a doorway and walk through it to re-live a defining moment from your past? Sarah (Margot Robbie) and David (Colin Farrell) are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on A Big Bold Beautiful Journey – a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present…and possibly getting a chance to alter their futures.\n\nDirected by: \nKogonada                                                                                                      \nWritten by: \nSeth Reiss                             \n\nProduced by:\nBradley Thomas                  \nRyan Friedkin\nSeth Reiss\nYouree Henley     \n\nExecutive Producers:\nKogonada\nIlene Feldman\nGino Falsetto\nOri Eisen\nPaul Mezey\nMicah Green\nDan Steinman\nJohn Atwood \n\nCast:\nMargot Robbie\nColin Farrell\nwith Kevin Kline\nand Phoebe Waller-Bridge\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com. \n\n#SonyPictures #Sony #Movie #ABigBoldBeautifulJourney #Kogonada #SethReiss #MargotRobbie #ColinFarrell #KevinKline #PhoebeWallerBridge"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "25388371",
-            "likeCount": "34651",
+            "viewCount": "16874491",
+            "likeCount": "310122",
             "favoriteCount": "0",
-            "commentCount": "1929"
+            "commentCount": "20518"
           }
         }
       ],
@@ -9265,18 +7893,18 @@
     },
     "creative": {
       "director": [
-        "Kogonada"
+        "Matt Shakman"
       ],
       "writers": [],
       "cast_top": [
-        "Colin Farrell",
-        "Margot Robbie",
-        "Jennifer Grant",
-        "Hamish Linklater",
-        "Phoebe Waller-Bridge",
-        "Kevin Kline",
-        "Jodie Turner-Smith",
-        "Lily Rabe"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -10103,88 +8731,83 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 106646,
-      "imdb_id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "release_date": "2013-12-25",
-      "release_year": "2013",
+      "tmdb_id": 1038392,
+      "imdb_id": "tt22898462",
+      "title": "The Conjuring: Last Rites",
+      "release_date": "2025-09-03",
+      "release_year": "2025",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "Horror"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Red Granite Pictures",
-        "Appian Way",
-        "Sikelia Productions",
-        "EMJAG Productions"
+        "New Line Cinema",
+        "Atomic Monster",
+        "The Safran Company",
+        "Domain Entertainment"
       ],
-      "runtime": 180,
-      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
+      "runtime": 135,
+      "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront."
     },
     "commercial": {
-      "budget": 100000000,
-      "revenue": 407038432,
+      "budget": 55000000,
+      "revenue": 482377782,
       "opening_weekend": null,
-      "roi": 4.07,
+      "roi": 8.771,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-        "belongs_to_collection": null,
-        "budget": 100000000,
+        "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+        "belongs_to_collection": {
+          "id": 313086,
+          "name": "The Conjuring Collection",
+          "poster_path": "/z5VKhNSQKQyxm0co68HAkCqHnmX.jpg",
+          "backdrop_path": "/kHZaX0vuhZdbuq0WKU3BpA9WIQ0.jpg"
+        },
+        "budget": 55000000,
         "genres": [
           {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
+            "id": 27,
+            "name": "Horror"
           }
         ],
-        "homepage": "http://www.thewolfofwallstreet.com/",
-        "id": 106646,
-        "imdb_id": "tt0993846",
+        "homepage": "http://www.theconjuringmovie.com",
+        "id": 1038392,
+        "imdb_id": "tt22898462",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Wolf of Wall Street",
-        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-        "popularity": 25.7251,
-        "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "original_title": "The Conjuring: Last Rites",
+        "overview": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+        "popularity": 223.0829,
+        "poster_path": "/7JzOmJ1fIU43I3gLHYsY8UzNzjG.jpg",
         "production_companies": [
           {
-            "id": 19177,
-            "logo_path": null,
-            "name": "Red Granite Pictures",
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
             "origin_country": "US"
           },
           {
-            "id": 562,
-            "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
-            "name": "Appian Way",
+            "id": 76907,
+            "logo_path": "/ygMQtjsKX7BZkCQhQZY82lgnCUO.png",
+            "name": "Atomic Monster",
             "origin_country": "US"
           },
           {
-            "id": 23243,
-            "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
-            "name": "Sikelia Productions",
+            "id": 11565,
+            "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+            "name": "The Safran Company",
             "origin_country": "US"
           },
           {
-            "id": 14654,
-            "logo_path": null,
-            "name": "EMJAG Productions",
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
             "origin_country": "US"
           }
         ],
@@ -10194,73 +8817,64 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2013-12-25",
-        "revenue": 407038432,
-        "runtime": 180,
+        "release_date": "2025-09-03",
+        "revenue": 482377782,
+        "runtime": 135,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Earn. Spend. Party.",
-        "title": "The Wolf of Wall Street",
+        "tagline": "The case that ended it all.",
+        "title": "The Conjuring: Last Rites",
         "video": false,
-        "vote_average": 8.028,
-        "vote_count": 25085
+        "vote_average": 6.988,
+        "vote_count": 1093
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.028,
+      "tmdb_vote_average": 6.988,
       "omdb": {
-        "Title": "The Wolf of Wall Street",
-        "Year": "2013",
+        "Title": "The Conjuring: Last Rites",
+        "Year": "2025",
         "Rated": "R",
-        "Released": "25 Dec 2013",
-        "Runtime": "180 min",
-        "Genre": "Biography, Comedy, Crime",
-        "Director": "Martin Scorsese",
-        "Writer": "Terence Winter, Jordan Belfort",
-        "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
-        "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-        "Language": "English, French",
-        "Country": "United States",
-        "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "Released": "05 Sep 2025",
+        "Runtime": "135 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Michael Chaves",
+        "Writer": "Ian Goldberg, Richard Naing, David Leslie Johnson-McGoldrick",
+        "Actors": "Vera Farmiga, Patrick Wilson, Elliot Cowan",
+        "Plot": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BM2VmMzRkYzgtMzg2ZC00OTFkLTkwMTYtNTMxNjM2YzI1MjgyXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.2/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "Value": "6.3/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "75/100"
+            "Value": "54/100"
           }
         ],
-        "Metascore": "75",
-        "imdbRating": "8.2",
-        "imdbVotes": "1,722,525",
-        "imdbID": "tt0993846",
+        "Metascore": "54",
+        "imdbRating": "6.3",
+        "imdbVotes": "45,087",
+        "imdbID": "tt22898462",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$116,900,694",
+        "BoxOffice": "$168,273,036",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_conjuring_last_rites\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_conjuring_last_rites\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10270,273 +8884,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Wolf of Wall Street": 64,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Wolf of Wall Street": 62,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Wolf of Wall Street": 64,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Wolf of Wall Street": 86,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Wolf of Wall Street": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Wolf of Wall Street": 68,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Wolf of Wall Street": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Wolf of Wall Street": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Wolf of Wall Street": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Wolf of Wall Street": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Wolf of Wall Street": 96,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Wolf of Wall Street": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Wolf of Wall Street": 75,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Wolf of Wall Street": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Wolf of Wall Street": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Wolf of Wall Street": 67,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Wolf of Wall Street": 68,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Wolf of Wall Street": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Wolf of Wall Street": 68,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Wolf of Wall Street": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Wolf of Wall Street": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Wolf of Wall Street": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Wolf of Wall Street": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Wolf of Wall Street": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Wolf of Wall Street": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Wolf of Wall Street": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Wolf of Wall Street": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Wolf of Wall Street": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Wolf of Wall Street": 66,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Wolf of Wall Street": 66,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Wolf of Wall Street": 70,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Wolf of Wall Street": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Wolf of Wall Street": 75,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Wolf of Wall Street": 68,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Wolf of Wall Street": 66,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Wolf of Wall Street": 70,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Wolf of Wall Street": 70,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Wolf of Wall Street": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Wolf of Wall Street": 75,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Wolf of Wall Street": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Wolf of Wall Street": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Wolf of Wall Street": 88,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Wolf of Wall Street": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Wolf of Wall Street": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Wolf of Wall Street": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Wolf of Wall Street": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Wolf of Wall Street": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Wolf of Wall Street": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Wolf of Wall Street": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Wolf of Wall Street": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Wolf of Wall Street": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Wolf of Wall Street": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Wolf of Wall Street": 70,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -10553,74 +8901,77 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "118i7kxNq5S8qzPNmjzHX0O5frk",
-          "id": "iszwuX1AK6A",
+          "etag": "dI_uq6WpikE6ssQbLxy4gumsr_g",
+          "id": "bMgfsdYoEEo",
           "snippet": {
-            "publishedAt": "2013-06-17T05:40:12Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Wolf of Wall Street Official Trailer",
-            "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com",
+            "publishedAt": "2025-07-31T16:00:56Z",
+            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+            "title": "The Conjuring: Last Rites | Official Trailer",
+            "description": "Discover why this case ended it all. #TheConjuring: Last Rites - Only in Theaters September 5.\n\nFrom New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring universe, The Conjuring: Last Rites, directed by franchise veteran Michael Chaves and produced by franchise architects James Wan and Peter Safran.\n\nThe Conjuring: Last Rites delivers another thrilling chapter of the iconic Conjuring cinematic universe, based on real events.  Vera Farmiga and Patrick Wilson reunite for one last case as renowned, real-life paranormal investigators Ed and Lorraine Warren in a powerful and spine-chilling addition to the global box office-breaking franchise.\n\nFarmiga and Wilson star alongside Mia Tomlinson and Ben Hardy, who portray Ed and Lorraine’s daughter Judy Warren and her boyfriend, Tony Spera, as well as Steve Coulter returning as Father Gordon, Rebecca Calder, Elliot Cowan, Kíla Lord Cassidy, Beau Gadsdon, John Brotherton and Shannon Kook.\n\nChaves directs from a screenplay by Ian Goldberg & Richard Naing and David Leslie Johnson-McGoldrick, story by David Leslie Johnson-McGoldrick & James Wan, based on characters created by Chad Hayes & Carey W. Hayes.  The executive producers are Michael Clear, Judson Scott, Hans Ritter, David Leslie Johnson-McGoldrick, Natalia Safran, John Rickard and Michael Chaves.\n\nChaves is joined behind the camera by his creative team, including director of photography Eli Born, production designer John Frankish, editors Elliot Greenberg and Gregory Plotkin, visual effects supervisor Scott Edelstein, visual effects producer Eric Bruneau and costume designer Graham Churchyard, with casting by Rose Wicksteed and Sophie Kingston-Smith.  The music supervisor is Ian Broucek and the music is by composer Benjamin Wallfisch.\n\nNew Line Cinema Presents The Safran Company / An Atomic Monster Production, The Conjuring: Last Rites.  The film will be released worldwide by Warner Bros. Pictures and will be only in theaters and IMAX® in North America on September 5, 2025, and internationally beginning 3 September 2025.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/default.jpg",
+                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bMgfsdYoEEo/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
+            "channelTitle": "Warner Bros.",
             "tags": [
-              "The Wold of Wall Street",
-              "Martin Scorsese",
-              "Leonardo DiCaprio",
-              "Jonah Hill",
-              "Margot Robbie",
-              "Matthew McConaughey",
-              "Jon Favreau",
-              "Kyle Chandler",
-              "Rob Reiner",
-              "Jean Dujardin",
-              "Pj Byrne",
-              "Kenneth Choi",
-              "Paramount Pictures",
+              "BasedOnRealEvents",
+              "ComingSoon",
+              "ConjuringUniverse",
+              "Film",
+              "FinalChapter",
+              "Franchise",
+              "IMAX",
+              "LastCase",
+              "MichaelChaves",
+              "NewLineCinema",
+              "NewTrailer",
+              "PatrickWilson",
+              "September2025",
+              "TheConjuring",
+              "Thriller",
               "Trailer",
-              "The Wolf Of Wall Street (Film)",
-              "Official Trailer",
-              "New Trailer"
+              "VeraFarmiga",
+              "WB",
+              "WarnerBros",
+              "WarnerBrothers"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Wolf of Wall Street Official Trailer",
-              "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com"
+              "title": "The Conjuring: Last Rites | Official Trailer",
+              "description": "Discover why this case ended it all. #TheConjuring: Last Rites - Only in Theaters September 5.\n\nFrom New Line Cinema comes the ninth entry in the more than $2 billion theatrical Conjuring universe, The Conjuring: Last Rites, directed by franchise veteran Michael Chaves and produced by franchise architects James Wan and Peter Safran.\n\nThe Conjuring: Last Rites delivers another thrilling chapter of the iconic Conjuring cinematic universe, based on real events.  Vera Farmiga and Patrick Wilson reunite for one last case as renowned, real-life paranormal investigators Ed and Lorraine Warren in a powerful and spine-chilling addition to the global box office-breaking franchise.\n\nFarmiga and Wilson star alongside Mia Tomlinson and Ben Hardy, who portray Ed and Lorraine’s daughter Judy Warren and her boyfriend, Tony Spera, as well as Steve Coulter returning as Father Gordon, Rebecca Calder, Elliot Cowan, Kíla Lord Cassidy, Beau Gadsdon, John Brotherton and Shannon Kook.\n\nChaves directs from a screenplay by Ian Goldberg & Richard Naing and David Leslie Johnson-McGoldrick, story by David Leslie Johnson-McGoldrick & James Wan, based on characters created by Chad Hayes & Carey W. Hayes.  The executive producers are Michael Clear, Judson Scott, Hans Ritter, David Leslie Johnson-McGoldrick, Natalia Safran, John Rickard and Michael Chaves.\n\nChaves is joined behind the camera by his creative team, including director of photography Eli Born, production designer John Frankish, editors Elliot Greenberg and Gregory Plotkin, visual effects supervisor Scott Edelstein, visual effects producer Eric Bruneau and costume designer Graham Churchyard, with casting by Rose Wicksteed and Sophie Kingston-Smith.  The music supervisor is Ian Broucek and the music is by composer Benjamin Wallfisch.\n\nNew Line Cinema Presents The Safran Company / An Atomic Monster Production, The Conjuring: Last Rites.  The film will be released worldwide by Warner Bros. Pictures and will be only in theaters and IMAX® in North America on September 5, 2025, and internationally beginning 3 September 2025."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "33513706",
-            "likeCount": "196557",
+            "viewCount": "24918095",
+            "likeCount": "223479",
             "favoriteCount": "0",
-            "commentCount": "13022"
+            "commentCount": "6626"
           }
         }
       ],
@@ -10631,18 +8982,18 @@
     },
     "creative": {
       "director": [
-        "Martin Scorsese"
+        "Michael Chaves"
       ],
       "writers": [],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie",
-        "Matthew McConaughey",
-        "Kyle Chandler",
-        "Rob Reiner",
-        "Jon Bernthal",
-        "Jon Favreau"
+        "Vera Farmiga",
+        "Patrick Wilson",
+        "Mia Tomlinson",
+        "Ben Hardy",
+        "Rebecca Calder",
+        "Tilly Walker",
+        "Elliot Cowan",
+        "Shannon Kook"
       ],
       "star_power": {
         "actor_count": 8
@@ -11469,87 +9820,130 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
+      "tmdb_id": 701387,
+      "imdb_id": "tt12300742",
+      "title": "Bugonia",
+      "release_date": "2025-10-23",
       "release_year": "2025",
       "genres": [
+        "Comedy",
         "Science Fiction",
-        "Adventure"
+        "Thriller"
       ],
       "production_countries": [
+        "GR",
+        "IE",
+        "KR",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
+        "Element Pictures",
+        "Square Peg",
+        "Fremantle",
+        "Pith Quest Films",
+        "Fruit Tree",
+        "CJ ENM"
       ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+      "runtime": 118,
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
     },
     "commercial": {
-      "budget": 200000000,
-      "revenue": 521651414,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 2.608,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+        "backdrop_path": "/kZVSqHp5Pq7o8IgfZdVBtIwDAz9.jpg",
         "belongs_to_collection": null,
-        "budget": 200000000,
+        "budget": 0,
         "genres": [
+          {
+            "id": 35,
+            "name": "Comedy"
+          },
           {
             "id": 878,
             "name": "Science Fiction"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
+        "homepage": "https://www.focusfeatures.com/bugonia",
+        "id": 701387,
+        "imdb_id": "tt12300742",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 147.739,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "original_title": "Bugonia",
+        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "popularity": 16.872,
+        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "production_companies": [
           {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
+            "id": 3353,
+            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+            "name": "Element Pictures",
+            "origin_country": "IE"
+          },
+          {
+            "id": 123620,
+            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+            "name": "Square Peg",
             "origin_country": "US"
           },
           {
-            "id": 176762,
-            "logo_path": null,
-            "name": "Kevin Feige Productions",
+            "id": 121813,
+            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+            "name": "Fremantle",
             "origin_country": "US"
+          },
+          {
+            "id": 264539,
+            "logo_path": null,
+            "name": "Pith Quest Films",
+            "origin_country": "GR"
+          },
+          {
+            "id": 138287,
+            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+            "name": "Fruit Tree",
+            "origin_country": "US"
+          },
+          {
+            "id": 128404,
+            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+            "name": "CJ ENM",
+            "origin_country": "KR"
           }
         ],
         "production_countries": [
+          {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+          },
+          {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+          },
+          {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+          },
           {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-07-23",
-        "revenue": 521651414,
-        "runtime": 115,
+        "release_date": "2025-10-23",
+        "revenue": 0,
+        "runtime": 118,
         "spoken_languages": [
-          {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
@@ -11557,53 +9951,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
+        "tagline": "It all starts with something magnificent.",
+        "title": "Bugonia",
         "video": false,
-        "vote_average": 7.115,
-        "vote_count": 2050
+        "vote_average": 8.0,
+        "vote_count": 12
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.115,
+      "tmdb_vote_average": 8.0,
       "omdb": {
-        "Title": "The Fantastic Four: First Steps",
+        "Title": "Bugonia",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
-        "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+        "Rated": "R",
+        "Released": "31 Oct 2025",
+        "Runtime": "120 min",
+        "Genre": "Comedy, Crime, Sci-Fi",
+        "Director": "Yorgos Lanthimos",
+        "Writer": "Jang Joon-hwan, Will Tracy",
+        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
+        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
         "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
+        "Awards": "2 wins & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.0/10"
+            "Value": "7.4/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
           },
           {
             "Source": "Metacritic",
-            "Value": "65/100"
+            "Value": "72/100"
           }
         ],
-        "Metascore": "65",
-        "imdbRating": "7.0",
-        "imdbVotes": "174,805",
-        "imdbID": "tt10676052",
+        "Metascore": "72",
+        "imdbRating": "7.4",
+        "imdbVotes": "2,099",
+        "imdbID": "tt12300742",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$274,282,985",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11613,273 +10011,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-10-20T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-10-27T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Fantastic 4: First Steps": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Fantastic 4: First Steps": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Fantastic 4: First Steps": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Fantastic 4: First Steps": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Fantastic 4: First Steps": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Fantastic 4: First Steps": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Fantastic 4: First Steps": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Fantastic 4: First Steps": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Fantastic 4: First Steps": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Fantastic 4: First Steps": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Fantastic 4: First Steps": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Fantastic 4: First Steps": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Fantastic 4: First Steps": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Fantastic 4: First Steps": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Fantastic 4: First Steps": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Fantastic 4: First Steps": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Fantastic 4: First Steps": 63,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Fantastic 4: First Steps": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Fantastic 4: First Steps": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Fantastic 4: First Steps": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Fantastic 4: First Steps": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Fantastic 4: First Steps": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Fantastic 4: First Steps": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Fantastic 4: First Steps": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Fantastic 4: First Steps": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Fantastic 4: First Steps": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Fantastic 4: First Steps": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Fantastic 4: First Steps": 8,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -11896,59 +10028,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "kU0DIxfPcpl-RI9tGY3TqeVQG1E",
-          "id": "18QQWa5MEcs",
+          "etag": "-jekcXjlXMAbmZrz9H8ESr_BfnU",
+          "id": "bd_5HcTujfc",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "publishedAt": "2025-08-28T14:00:01Z",
+            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
+            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Marvel Entertainment",
+            "channelTitle": "Focus Features",
             "tags": [
-              "marvel",
-              "comics"
+              "Focus Features",
+              "Emma Stone",
+              "Jesse Plemons",
+              "Aidan Delbis",
+              "Stavros Halkias",
+              "Alicia Silverstone",
+              "Yorgos Lanthimos",
+              "Will Tracy",
+              "Ed Guiney",
+              "Andrew Lowe",
+              "Ari Aster",
+              "Lars Knudsen",
+              "Miky Lee",
+              "Jerry Kyoungboum Ko"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16873398",
-            "likeCount": "310117",
+            "viewCount": "13125617",
+            "likeCount": "47214",
             "favoriteCount": "0",
-            "commentCount": "20518"
+            "commentCount": "2684"
           }
         }
       ],
@@ -11959,18 +10103,20 @@
     },
     "creative": {
       "director": [
-        "Matt Shakman"
+        "Yorgos Lanthimos"
       ],
-      "writers": [],
+      "writers": [
+        "Jang Joon-hwan"
+      ],
       "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
       ],
       "star_power": {
         "actor_count": 8
