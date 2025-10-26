@@ -89,12 +89,12 @@
         "tagline": "Not if. When.",
         "title": "A House of Dynamite",
         "video": false,
-        "vote_average": 6.701,
-        "vote_count": 164
+        "vote_average": 6.696,
+        "vote_count": 176
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.701,
+      "tmdb_vote_average": 6.696,
       "omdb": {
         "Title": "A House of Dynamite",
         "Year": "2025",
@@ -374,7 +374,7 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "A House of Dynamite": 2,
+            "A House of Dynamite": 3,
             "isPartial": false
           },
           {
@@ -394,22 +394,22 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "A House of Dynamite": 1,
+            "A House of Dynamite": 2,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "A House of Dynamite": 3,
+            "A House of Dynamite": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "A House of Dynamite": 3,
+            "A House of Dynamite": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "A House of Dynamite": 18,
+            "A House of Dynamite": 23,
             "isPartial": false
           },
           {
@@ -434,7 +434,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "VEu-1yq2hZQBzZKI7T3IYYgOt0w",
+          "etag": "fNK7x4AbZhgUmDXP0fKgrrsTgW8",
           "id": "_wpw2QHJNco",
           "snippet": {
             "publishedAt": "2025-09-25T12:00:00Z",
@@ -507,10 +507,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11528886",
-            "likeCount": "23470",
+            "viewCount": "11563918",
+            "likeCount": "23624",
             "favoriteCount": "0",
-            "commentCount": "2159"
+            "commentCount": "2231"
           }
         }
       ],
@@ -1466,12 +1466,12 @@
         "tagline": "The task is simple: walk or die.",
         "title": "The Long Walk",
         "video": false,
-        "vote_average": 6.866,
-        "vote_count": 428
+        "vote_average": 6.851,
+        "vote_count": 434
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.866,
+      "tmdb_vote_average": 6.851,
       "omdb": {
         "Title": "The Long Walk",
         "Year": "2025",
@@ -1526,22 +1526,22 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
@@ -1551,247 +1551,247 @@
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Long Walk": 3,
+            "The Long Walk": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Long Walk": 3,
+            "The Long Walk": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Long Walk": 3,
+            "The Long Walk": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 6,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Long Walk": 5,
+            "The Long Walk": 6,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Long Walk": 4,
+            "The Long Walk": 6,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Long Walk": 5,
+            "The Long Walk": 6,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Long Walk": 5,
+            "The Long Walk": 6,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Long Walk": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Long Walk": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Long Walk": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Long Walk": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Long Walk": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Long Walk": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
             "The Long Walk": 7,
             "isPartial": false
           },
           {
-            "date": "2025-08-10T00:00:00",
+            "date": "2025-04-06T00:00:00",
+            "The Long Walk": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "The Long Walk": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "The Long Walk": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "The Long Walk": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "The Long Walk": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "The Long Walk": 12,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "The Long Walk": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "The Long Walk": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "The Long Walk": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
             "The Long Walk": 9,
             "isPartial": false
           },
           {
+            "date": "2025-07-27T00:00:00",
+            "The Long Walk": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "The Long Walk": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "The Long Walk": 11,
+            "isPartial": false
+          },
+          {
             "date": "2025-08-17T00:00:00",
-            "The Long Walk": 14,
+            "The Long Walk": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Long Walk": 23,
+            "The Long Walk": 30,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Long Walk": 31,
+            "The Long Walk": 39,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Long Walk": 60,
+            "The Long Walk": 76,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Long Walk": 80,
+            "The Long Walk": 100,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Long Walk": 50,
+            "The Long Walk": 62,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Long Walk": 34,
+            "The Long Walk": 42,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Long Walk": 25,
+            "The Long Walk": 33,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Long Walk": 21,
+            "The Long Walk": 27,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Long Walk": 46,
+            "The Long Walk": 60,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Long Walk": 100,
+            "The Long Walk": 90,
             "isPartial": true
           }
         ]
@@ -1811,7 +1811,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "cebco3y8-WyLTJq68Zq3hLjwauU",
+          "etag": "c62XFtRwbeU9EoPotTd1LQWirDE",
           "id": "vAtUHeMQ1F8",
           "snippet": {
             "publishedAt": "2025-05-07T14:59:58Z",
@@ -1880,10 +1880,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "16333067",
-            "likeCount": "67887",
+            "viewCount": "16343612",
+            "likeCount": "67942",
             "favoriteCount": "0",
-            "commentCount": "7074"
+            "commentCount": "7078"
           }
         }
       ],
@@ -2732,95 +2732,88 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 1078605,
-      "imdb_id": "tt26581740",
-      "title": "Weapons",
-      "release_date": "2025-08-04",
+      "tmdb_id": 1197137,
+      "imdb_id": "tt29644189",
+      "title": "Black Phone 2",
+      "release_date": "2025-10-15",
       "release_year": "2025",
       "genres": [
         "Horror",
-        "Mystery"
+        "Thriller"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "New Line Cinema",
-        "Subconscious",
-        "Vertigo Entertainment",
-        "BoulderLight Pictures",
-        "Domain Entertainment"
+        "Blumhouse Productions",
+        "Universal Pictures",
+        "Crooked Highway",
+        "Divide / Conquer"
       ],
-      "runtime": 129,
-      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
+      "runtime": 114,
+      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
     },
     "commercial": {
-      "budget": 38000000,
-      "revenue": 265894217,
+      "budget": 30000000,
+      "revenue": 59504282,
       "opening_weekend": null,
-      "roi": 6.997,
+      "roi": 1.983,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
+        "backdrop_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
         "belongs_to_collection": {
-          "id": 1531466,
-          "name": "Weapons Collection",
-          "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
-          "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+          "id": 1197140,
+          "name": "The Black Phone Collection",
+          "poster_path": "/sLA3wg5zKicSrpv1l9T537tJNEc.jpg",
+          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
         },
-        "budget": 38000000,
+        "budget": 30000000,
         "genres": [
           {
             "id": 27,
             "name": "Horror"
           },
           {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.warnerbros.com/movies/weapons",
-        "id": 1078605,
-        "imdb_id": "tt26581740",
+        "homepage": "http://www.blackphonemovie.com",
+        "id": 1197137,
+        "imdb_id": "tt29644189",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Weapons",
-        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-        "popularity": 86.4742,
-        "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
+        "original_title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "popularity": 165.945,
+        "poster_path": "/evbguUd1BwExQgXMjG9n9AHMQpN.jpg",
         "production_companies": [
           {
-            "id": 12,
-            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-            "name": "New Line Cinema",
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
             "origin_country": "US"
           },
           {
-            "id": 240675,
-            "logo_path": null,
-            "name": "Subconscious",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 829,
-            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-            "name": "Vertigo Entertainment",
+            "id": 162439,
+            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+            "name": "Crooked Highway",
             "origin_country": "US"
           },
           {
-            "id": 18609,
-            "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
-            "name": "BoulderLight Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 89115,
+            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+            "name": "Divide / Conquer",
             "origin_country": "US"
           }
         ],
@@ -2830,9 +2823,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-08-04",
-        "revenue": 265894217,
-        "runtime": 129,
+        "release_date": "2025-10-15",
+        "revenue": 59504282,
+        "runtime": 114,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -2846,57 +2839,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "Last night at 2:17 AM, every child from Mrs. Gandy's class woke up, got out of bed, went downstairs, opened the front door, walked into the dark ...and they never came back.",
-        "title": "Weapons",
+        "tagline": "Dead is just a word.",
+        "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.373,
-        "vote_count": 2006
+        "vote_average": 7.273,
+        "vote_count": 128
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.373,
+      "tmdb_vote_average": 7.273,
       "omdb": {
-        "Title": "Weapons",
+        "Title": "Black Phone 2",
         "Year": "2025",
         "Rated": "R",
-        "Released": "08 Aug 2025",
-        "Runtime": "128 min",
-        "Genre": "Horror, Mystery",
-        "Director": "Zach Cregger",
-        "Writer": "Zach Cregger",
-        "Actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
-        "Plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "Released": "17 Oct 2025",
+        "Runtime": "114 min",
+        "Genre": "Horror",
+        "Director": "Scott Derrickson",
+        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
+        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
+        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
         "Language": "English",
-        "Country": "United States",
-        "Awards": "1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States, Canada",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.6/10"
+            "Value": "6.7/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "Value": "81%"
           },
           {
             "Source": "Metacritic",
-            "Value": "81/100"
+            "Value": "59/100"
           }
         ],
-        "Metascore": "81",
-        "imdbRating": "7.6",
-        "imdbVotes": "159,990",
-        "imdbID": "tt26581740",
+        "Metascore": "59",
+        "imdbRating": "6.7",
+        "imdbVotes": "8,046",
+        "imdbID": "tt29644189",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$150,200,554",
+        "BoxOffice": "$27,332,040",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -2909,272 +2902,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "Weapons": 16,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "Weapons": 16,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "Weapons": 16,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Weapons": 20,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Weapons": 22,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Weapons": 17,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Weapons": 18,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Weapons": 25,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Weapons": 24,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Weapons": 21,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 10,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Weapons": 22,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Weapons": 28,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Weapons": 31,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Weapons": 19,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Weapons": 22,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Weapons": 29,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Weapons": 69,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Weapons": 91,
+            "Black Phone 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Weapons": 59,
+            "Black Phone 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Weapons": 46,
+            "Black Phone 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Weapons": 38,
+            "Black Phone 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Weapons": 44,
+            "Black Phone 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Weapons": 40,
+            "Black Phone 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Weapons": 36,
+            "Black Phone 2": 12,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Weapons": 33,
+            "Black Phone 2": 20,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Weapons": 31,
+            "Black Phone 2": 27,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Weapons": 25,
+            "Black Phone 2": 86,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Weapons": 28,
+            "Black Phone 2": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Weapons": 100,
+            "Black Phone 2": 100,
             "isPartial": true
           }
         ]
@@ -3194,77 +3187,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "6kU2oNRW9kLpNwNmfbVn_C8wyZM",
-          "id": "OpThntO9ixc",
+          "etag": "sp5COg8uZxbEfaAlZSF3clrTeOM",
+          "id": "DdR-gzFZoDk",
           "snippet": {
-            "publishedAt": "2025-04-29T13:17:07Z",
-            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
-            "title": "Weapons | Official Trailer",
-            "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025.",
+            "publishedAt": "2025-09-04T15:00:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Black Phone 2 | Official Trailer 2",
+            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/OpThntO9ixc/default.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/OpThntO9ixc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/OpThntO9ixc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/OpThntO9ixc/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/OpThntO9ixc/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Warner Bros.",
-            "tags": [
-              "WB",
-              "WarnerBros",
-              "NewLineCinema",
-              "Weapons",
-              "ZachCregger",
-              "Horror",
-              "Thriller",
-              "NewTrailer",
-              "ComingSoon",
-              "IMAX",
-              "JoshBrolin",
-              "JuliaGarner",
-              "VertigoEntertainment",
-              "August2025",
-              "Subconscious",
-              "Barbarian",
-              "Alden Ehrenreich",
-              "Austin Abrams",
-              "Benedict Wong",
-              "Amy Madigan"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "Weapons | Official Trailer",
-              "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025."
+              "title": "Black Phone 2 | Official Trailer 2",
+              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "30928031",
-            "likeCount": "194062",
+            "viewCount": "1454262",
+            "likeCount": "26429",
             "favoriteCount": "0",
-            "commentCount": "11353"
+            "commentCount": "1413"
           }
         }
       ],
@@ -3275,20 +3246,21 @@
     },
     "creative": {
       "director": [
-        "Zach Cregger"
+        "Scott Derrickson"
       ],
       "writers": [
-        "Zach Cregger"
+        "Scott Derrickson",
+        "C. Robert Cargill"
       ],
       "cast_top": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Demián Bichir",
+        "Miguel Mora",
+        "Jeremy Davies",
+        "Arianna Rivas",
+        "Maev Beaty"
       ],
       "star_power": {
         "actor_count": 8
@@ -4227,7 +4199,7 @@
         "title": "The Roses",
         "video": false,
         "vote_average": 7.0,
-        "vote_count": 247
+        "vote_count": 249
       }
     },
     "ratings": {
@@ -4286,12 +4258,12 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "The Roses": 14,
+            "The Roses": 15,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "The Roses": 15,
+            "The Roses": 16,
             "isPartial": false
           },
           {
@@ -4301,17 +4273,17 @@
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Roses": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
             "The Roses": 16,
             "isPartial": false
           },
           {
-            "date": "2024-11-24T00:00:00",
+            "date": "2024-11-17T00:00:00",
             "The Roses": 14,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "The Roses": 15,
             "isPartial": false
           },
           {
@@ -4321,7 +4293,7 @@
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Roses": 17,
+            "The Roses": 19,
             "isPartial": false
           },
           {
@@ -4331,7 +4303,7 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Roses": 16,
+            "The Roses": 15,
             "isPartial": false
           },
           {
@@ -4351,17 +4323,17 @@
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Roses": 16,
+            "The Roses": 17,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Roses": 18,
+            "The Roses": 20,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Roses": 20,
+            "The Roses": 21,
             "isPartial": false
           },
           {
@@ -4371,47 +4343,47 @@
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Roses": 20,
+            "The Roses": 21,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Roses": 16,
+            "The Roses": 17,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Roses": 18,
+            "The Roses": 17,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Roses": 16,
+            "The Roses": 17,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Roses": 17,
+            "The Roses": 18,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Roses": 17,
+            "The Roses": 18,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Roses": 18,
+            "The Roses": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Roses": 18,
+            "The Roses": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Roses": 25,
+            "The Roses": 26,
             "isPartial": false
           },
           {
@@ -4421,17 +4393,17 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Roses": 23,
+            "The Roses": 24,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Roses": 22,
+            "The Roses": 23,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Roses": 22,
+            "The Roses": 24,
             "isPartial": false
           },
           {
@@ -4446,7 +4418,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Roses": 21,
+            "The Roses": 22,
             "isPartial": false
           },
           {
@@ -4456,7 +4428,7 @@
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Roses": 19,
+            "The Roses": 20,
             "isPartial": false
           },
           {
@@ -4466,7 +4438,7 @@
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Roses": 19,
+            "The Roses": 20,
             "isPartial": false
           },
           {
@@ -4476,7 +4448,7 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Roses": 22,
+            "The Roses": 23,
             "isPartial": false
           },
           {
@@ -4486,7 +4458,7 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Roses": 22,
+            "The Roses": 23,
             "isPartial": false
           },
           {
@@ -4496,12 +4468,12 @@
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Roses": 36,
+            "The Roses": 37,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Roses": 52,
+            "The Roses": 54,
             "isPartial": false
           },
           {
@@ -4511,7 +4483,7 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Roses": 96,
+            "The Roses": 98,
             "isPartial": false
           },
           {
@@ -4521,12 +4493,12 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Roses": 47,
+            "The Roses": 46,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Roses": 39,
+            "The Roses": 40,
             "isPartial": false
           },
           {
@@ -4536,7 +4508,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Roses": 30,
+            "The Roses": 31,
             "isPartial": false
           },
           {
@@ -4551,7 +4523,7 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Roses": 48,
+            "The Roses": 40,
             "isPartial": true
           }
         ]
@@ -4571,7 +4543,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "FdYXPG3X1t2I8LqLgP4n3LKX0fk",
+          "etag": "cIoCp1JmGY3a2ZGGk0Lky0Utpkg",
           "id": "ETBY06YJ2Q8",
           "snippet": {
             "publishedAt": "2025-04-16T18:54:43Z",
@@ -4637,8 +4609,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "106674",
-            "likeCount": "634",
+            "viewCount": "106854",
+            "likeCount": "636",
             "favoriteCount": "0",
             "commentCount": "88"
           }
@@ -5489,141 +5461,130 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
+      "tmdb_id": 1306525,
+      "imdb_id": "tt32643830",
+      "title": "The Elixir",
+      "release_date": "2025-10-22",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Adventure"
+        "Horror",
+        "Thriller"
       ],
       "production_countries": [
-        "US"
+        "ID"
       ],
-      "language": "en",
+      "language": "id",
       "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
+        "Mowin Pictures"
       ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+      "runtime": 118,
+      "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
     },
     "commercial": {
-      "budget": 200000000,
-      "revenue": 520652419,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 2.603,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+        "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
         "belongs_to_collection": null,
-        "budget": 200000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 27,
+            "name": "Horror"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
+        "homepage": "https://www.netflix.com/title/81624009",
+        "id": 1306525,
+        "imdb_id": "tt32643830",
         "origin_country": [
-          "US"
+          "ID"
         ],
-        "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 146.7865,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "original_language": "id",
+        "original_title": "Abadi Nan Jaya",
+        "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+        "popularity": 249.1135,
+        "poster_path": "/hQYEkXiAcgzQkr4aqLxWpNUFvN5.jpg",
         "production_companies": [
           {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
-            "origin_country": "US"
-          },
-          {
-            "id": 176762,
+            "id": 237116,
             "logo_path": null,
-            "name": "Kevin Feige Productions",
-            "origin_country": "US"
+            "name": "Mowin Pictures",
+            "origin_country": "ID"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "ID",
+            "name": "Indonesia"
           }
         ],
-        "release_date": "2025-07-23",
-        "revenue": 520652419,
-        "runtime": 115,
+        "release_date": "2025-10-22",
+        "revenue": 0,
+        "runtime": 118,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Indonesian",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
           },
           {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
+            "english_name": "Javanese",
+            "iso_639_1": "jv",
+            "name": ""
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
+        "tagline": "",
+        "title": "The Elixir",
         "video": false,
-        "vote_average": 7.115,
-        "vote_count": 2070
+        "vote_average": 5.9,
+        "vote_count": 53
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.115,
+      "tmdb_vote_average": 5.9,
       "omdb": {
-        "Title": "The Fantastic Four: First Steps",
+        "Title": "The Elixir",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
-        "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
-        "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "TV-MA",
+        "Released": "23 Oct 2025",
+        "Runtime": "116 min",
+        "Genre": "Horror, Thriller",
+        "Director": "Kimo Stamboel",
+        "Writer": "Agasyah Karim, Khalid Kashogi, Kimo Stamboel",
+        "Actors": "Mikha Tambayong, Eva Celia Latjuba, Donny Damara",
+        "Plot": "A dysfunctional family running a renowned herbal medicine business. The owner of the company attempts to innovate by creating a new potion, which ends up triggering a zombie outbreak.",
+        "Language": "Indonesian",
+        "Country": "Indonesia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyZTgyODctNWY2MC00NDMxLThhZjUtNDUxODA4YTYwZWIzXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.0/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "65/100"
+            "Value": "5.5/10"
           }
         ],
-        "Metascore": "65",
-        "imdbRating": "7.0",
-        "imdbVotes": "174,805",
-        "imdbID": "tt10676052",
+        "Metascore": "N/A",
+        "imdbRating": "5.5",
+        "imdbVotes": "934",
+        "imdbID": "tt32643830",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$274,282,985",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5636,272 +5597,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 8,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 11,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 14,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 13,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 12,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Fantastic 4: First Steps": 2,
+            "The Elixir": 12,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 13,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Fantastic 4: First Steps": 2,
+            "The Elixir": 12,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 11,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Fantastic 4: First Steps": 31,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Fantastic 4: First Steps": 7,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "The Elixir": 8,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Fantastic 4: First Steps": 3,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Fantastic 4: First Steps": 0,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Fantastic 4: First Steps": 9,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Fantastic 4: First Steps": 7,
+            "The Elixir": 8,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Fantastic 4: First Steps": 4,
+            "The Elixir": 8,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Fantastic 4: First Steps": 5,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Fantastic 4: First Steps": 8,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Fantastic 4: First Steps": 6,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Fantastic 4: First Steps": 11,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Fantastic 4: First Steps": 7,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Fantastic 4: First Steps": 16,
+            "The Elixir": 9,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Fantastic 4: First Steps": 20,
+            "The Elixir": 10,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Fantastic 4: First Steps": 100,
+            "The Elixir": 12,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Fantastic 4: First Steps": 98,
+            "The Elixir": 13,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Fantastic 4: First Steps": 63,
+            "The Elixir": 14,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Fantastic 4: First Steps": 36,
+            "The Elixir": 16,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Fantastic 4: First Steps": 31,
+            "The Elixir": 17,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Fantastic 4: First Steps": 26,
+            "The Elixir": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Fantastic 4: First Steps": 23,
+            "The Elixir": 20,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Fantastic 4: First Steps": 20,
+            "The Elixir": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Fantastic 4: First Steps": 15,
+            "The Elixir": 17,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Fantastic 4: First Steps": 32,
+            "The Elixir": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Fantastic 4: First Steps": 20,
+            "The Elixir": 20,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Fantastic 4: First Steps": 13,
+            "The Elixir": 18,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Fantastic 4: First Steps": 9,
+            "The Elixir": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Fantastic 4: First Steps": 8,
+            "The Elixir": 46,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Fantastic 4: First Steps": 12,
+            "The Elixir": 100,
             "isPartial": true
           }
         ]
@@ -5921,59 +5882,63 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "AmG8sQzSoDjxz1Rg5fycUsu6rkE",
-          "id": "18QQWa5MEcs",
+          "etag": "pSi5GiKz4XlFfxr5_UNu8JwvT_o",
+          "id": "XL48F7LGoig",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "publishedAt": "2025-10-10T03:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "The Elixir | Official Trailer | Netflix",
+            "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Marvel Entertainment",
+            "channelTitle": "Netflix",
             "tags": [
-              "marvel",
-              "comics"
+              "donny damara",
+              "eva celia",
+              "kimo stamboel",
+              "mikha tambayong",
+              "the elixir",
+              "zombie"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+              "title": "The Elixir | Official Trailer | Netflix",
+              "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16886400",
-            "likeCount": "310119",
+            "viewCount": "846051",
+            "likeCount": "13347",
             "favoriteCount": "0",
-            "commentCount": "20517"
+            "commentCount": "1107"
           }
         }
       ],
@@ -5984,18 +5949,18 @@
     },
     "creative": {
       "director": [
-        "Matt Shakman"
+        "Kimo Stamboel"
       ],
       "writers": [],
       "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
+        "Mikha Tambayong",
+        "Eva Celia",
+        "Marthino Lio",
+        "Dimas Anggara",
+        "Varen Arianda Calief",
+        "Ardit Erwandha",
+        "Claresta Taufan",
+        "Donny Damara"
       ],
       "star_power": {
         "actor_count": 8
@@ -6996,267 +6961,267 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "xXx": 70,
+            "xXx": 73,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "xXx": 71,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "xXx": 69,
+            "xXx": 75,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "xXx": 75,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "xXx": 70,
+            "xXx": 74,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "xXx": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
             "xXx": 81,
             "isPartial": false
           },
           {
+            "date": "2024-12-01T00:00:00",
+            "xXx": 77,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "xXx": 81,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "xXx": 83,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "xXx": 90,
+            "isPartial": false
+          },
+          {
             "date": "2024-12-29T00:00:00",
-            "xXx": 80,
+            "xXx": 90,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "xXx": 76,
+            "xXx": 80,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "xXx": 73,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "xXx": 73,
+            "xXx": 77,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "xXx": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "xXx": 64,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "xXx": 67,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "xXx": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "xXx": 75,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "xXx": 75,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "xXx": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "xXx": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "xXx": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
             "xXx": 78,
             "isPartial": false
           },
           {
-            "date": "2025-08-10T00:00:00",
+            "date": "2025-02-02T00:00:00",
+            "xXx": 84,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "xXx": 78,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "xXx": 82,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "xXx": 78,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
             "xXx": 73,
             "isPartial": false
           },
           {
-            "date": "2025-08-17T00:00:00",
-            "xXx": 75,
+            "date": "2025-03-09T00:00:00",
+            "xXx": 73,
             "isPartial": false
           },
           {
-            "date": "2025-08-24T00:00:00",
+            "date": "2025-03-16T00:00:00",
             "xXx": 77,
             "isPartial": false
           },
           {
+            "date": "2025-03-23T00:00:00",
+            "xXx": 75,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "xXx": 87,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "xXx": 78,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "xXx": 81,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "xXx": 78,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "xXx": 82,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "xXx": 79,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "xXx": 82,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "xXx": 81,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "xXx": 77,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "xXx": 79,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "xXx": 83,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "xXx": 81,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "xXx": 83,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "xXx": 80,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "xXx": 84,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "xXx": 87,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "xXx": 78,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "xXx": 82,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "xXx": 84,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "xXx": 79,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "xXx": 82,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "xXx": 83,
+            "isPartial": false
+          },
+          {
             "date": "2025-08-31T00:00:00",
-            "xXx": 72,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "xXx": 73,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "xXx": 73,
+            "xXx": 78,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "xXx": 71,
+            "xXx": 80,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "xXx": 72,
+            "xXx": 78,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "xXx": 72,
+            "xXx": 78,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "xXx": 74,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "xXx": 75,
+            "xXx": 78,
             "isPartial": false
           },
           {
@@ -7281,7 +7246,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "F6mDD8scx6cFHS6vKMkDdpCU3lQ",
+          "etag": "w-ySpxCd5qKoseMaHAxCy12vjCw",
           "id": "NgPdDDzVhkA",
           "snippet": {
             "publishedAt": "2022-08-09T19:00:15Z",
@@ -7326,10 +7291,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8272028",
-            "likeCount": "7260",
+            "viewCount": "8276788",
+            "likeCount": "7261",
             "favoriteCount": "0",
-            "commentCount": "288"
+            "commentCount": "289"
           }
         }
       ],
@@ -8178,36 +8143,38 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 1306525,
-      "imdb_id": "tt32643830",
-      "title": "The Elixir",
-      "release_date": "2025-10-22",
+      "tmdb_id": 1330421,
+      "imdb_id": "tt26783625",
+      "title": "Bone Lake",
+      "release_date": "2025-10-02",
       "release_year": "2025",
       "genres": [
         "Horror",
-        "Thriller"
+        "Thriller",
+        "Mystery"
       ],
       "production_countries": [
-        "ID"
+        "US"
       ],
-      "language": "id",
+      "language": "en",
       "studio_distributor": [
-        "Mowin Pictures"
+        "LD Entertainment",
+        "Door Number 3 Films"
       ],
-      "runtime": 118,
-      "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
+      "runtime": 94,
+      "overview": "A couple's romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation—bringing terrifying secrets to light and triggering a bloody battle for survival."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 1000000,
+      "revenue": 1299545,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 1.3,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+        "backdrop_path": "/lNG7ci6dDP8rERyYIrV2vfjxXjC.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 1000000,
         "genres": [
           {
             "id": 27,
@@ -8216,83 +8183,88 @@
           {
             "id": 53,
             "name": "Thriller"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81624009",
-        "id": 1306525,
-        "imdb_id": "tt32643830",
+        "homepage": "https://bleeckerstreetmedia.com/bone-lake",
+        "id": 1330421,
+        "imdb_id": "tt26783625",
         "origin_country": [
-          "ID"
+          "US"
         ],
-        "original_language": "id",
-        "original_title": "Abadi Nan Jaya",
-        "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
-        "popularity": 215.8403,
-        "poster_path": "/jNBxGBNeXbG8WBKqBHtC5HjizB0.jpg",
+        "original_language": "en",
+        "original_title": "Bone Lake",
+        "overview": "A couple's romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation—bringing terrifying secrets to light and triggering a bloody battle for survival.",
+        "popularity": 77.8882,
+        "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
         "production_companies": [
           {
-            "id": 237116,
+            "id": 8533,
+            "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+            "name": "LD Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 259826,
             "logo_path": null,
-            "name": "Mowin Pictures",
-            "origin_country": "ID"
+            "name": "Door Number 3 Films",
+            "origin_country": ""
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "ID",
-            "name": "Indonesia"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-22",
-        "revenue": 0,
-        "runtime": 118,
+        "release_date": "2025-10-02",
+        "revenue": 1299545,
+        "runtime": 94,
         "spoken_languages": [
           {
-            "english_name": "Indonesian",
-            "iso_639_1": "id",
-            "name": "Bahasa indonesia"
-          },
-          {
-            "english_name": "Javanese",
-            "iso_639_1": "jv",
-            "name": ""
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Elixir",
+        "tagline": "What's your body count?",
+        "title": "Bone Lake",
         "video": false,
-        "vote_average": 5.957,
-        "vote_count": 47
+        "vote_average": 5.5,
+        "vote_count": 14
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.957,
+      "tmdb_vote_average": 5.5,
       "omdb": {
-        "Title": "The Elixir",
-        "Year": "2025",
-        "Rated": "TV-MA",
-        "Released": "23 Oct 2025",
-        "Runtime": "116 min",
-        "Genre": "Horror, Thriller",
-        "Director": "Kimo Stamboel",
-        "Writer": "Agasyah Karim, Khalid Kashogi, Kimo Stamboel",
-        "Actors": "Mikha Tambayong, Eva Celia Latjuba, Donny Damara",
-        "Plot": "A dysfunctional family running a renowned herbal medicine business. The owner of the company attempts to innovate by creating a new potion, which ends up triggering a zombie outbreak.",
-        "Language": "Indonesian",
-        "Country": "Indonesia",
+        "Title": "Bone Lake",
+        "Year": "2024",
+        "Rated": "N/A",
+        "Released": "21 Sep 2024",
+        "Runtime": "94 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Mercedes Bryce Morgan",
+        "Writer": "Joshua Friedlander",
+        "Actors": "Maddie Hasson, Andra Nechita, Alex Roe",
+        "Plot": "When two young couples are mistakenly double-booked into the same vacation rental their romantic weekend becomes a twisted maze of sex, lies, and survival.",
+        "Language": "English",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyZTgyODctNWY2MC00NDMxLThhZjUtNDUxODA4YTYwZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFhYzc1MmMtMDcyZC00YjBlLWFhYmQtZWMyNjlkNDk2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
-            "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
           }
         ],
         "Metascore": "N/A",
-        "imdbRating": "5.5",
-        "imdbVotes": "934",
-        "imdbID": "tt32643830",
+        "imdbRating": "N/A",
+        "imdbVotes": "30",
+        "imdbID": "tt26783625",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -8301,7 +8273,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bone_lake\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bone_lake\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8314,272 +8286,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "The Elixir": 7,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "The Elixir": 10,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Elixir": 12,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Elixir": 12,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Elixir": 11,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Elixir": 11,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Elixir": 11,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Elixir": 10,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Elixir": 10,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Elixir": 7,
+            "Bone Lake": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 6,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Elixir": 8,
+            "Bone Lake": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Elixir": 9,
+            "Bone Lake": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Elixir": 10,
+            "Bone Lake": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Elixir": 12,
+            "Bone Lake": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Elixir": 13,
+            "Bone Lake": 9,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Elixir": 15,
+            "Bone Lake": 13,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Elixir": 15,
+            "Bone Lake": 10,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Elixir": 16,
+            "Bone Lake": 13,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Elixir": 17,
+            "Bone Lake": 12,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Elixir": 16,
+            "Bone Lake": 14,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Elixir": 15,
+            "Bone Lake": 33,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Elixir": 16,
+            "Bone Lake": 43,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Elixir": 17,
+            "Bone Lake": 62,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Elixir": 16,
+            "Bone Lake": 60,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Elixir": 12,
+            "Bone Lake": 24,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Elixir": 40,
+            "Bone Lake": 33,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Elixir": 100,
+            "Bone Lake": 100,
             "isPartial": true
           }
         ]
@@ -8599,63 +8571,77 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "vaEJRjEiQE9r24agvwbLfyAt2u8",
-          "id": "XL48F7LGoig",
+          "etag": "QamnNE9_emGgIA-mCrE4exWZNgs",
+          "id": "Ki4oZDKwvQ8",
           "snippet": {
-            "publishedAt": "2025-10-10T03:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "The Elixir | Official Trailer | Netflix",
-            "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+            "publishedAt": "2025-08-25T15:15:05Z",
+            "channelId": "UCWJ5MfdQZ6jXbF5gYuSAf5Q",
+            "title": "Bone Lake - Official Trailer (2025)",
+            "description": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/XL48F7LGoig/default.jpg",
+                "url": "https://i.ytimg.com/vi/Ki4oZDKwvQ8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/XL48F7LGoig/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ki4oZDKwvQ8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/XL48F7LGoig/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ki4oZDKwvQ8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/XL48F7LGoig/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ki4oZDKwvQ8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/XL48F7LGoig/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Ki4oZDKwvQ8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "IGN Movie Trailers",
             "tags": [
-              "donny damara",
-              "eva celia",
-              "kimo stamboel",
-              "mikha tambayong",
-              "the elixir",
-              "zombie"
+              "Bleecker Street",
+              "Bone Lake",
+              "Door Number 3 Films",
+              "Horror",
+              "LD Entertainment",
+              "Mystery",
+              "Theater",
+              "Thriller",
+              "Bone Lake movie trailer",
+              "movie trailers",
+              "movies",
+              "new movies",
+              "new movie trailers",
+              "upcoming movies 2025",
+              "new movies 2025",
+              "2025 new movies",
+              "2025 trailers",
+              "new trailers",
+              "ign",
+              "ign movie trailer"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Elixir | Official Trailer | Netflix",
-              "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
+              "title": "Bone Lake - Official Trailer (2025)",
+              "description": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "821379",
-            "likeCount": "13189",
+            "viewCount": "50021",
+            "likeCount": "363",
             "favoriteCount": "0",
-            "commentCount": "1077"
+            "commentCount": "26"
           }
         }
       ],
@@ -8666,21 +8652,21 @@
     },
     "creative": {
       "director": [
-        "Kimo Stamboel"
+        "Mercedes Bryce Morgan"
       ],
-      "writers": [],
+      "writers": [
+        "Joshua Friedlander"
+      ],
       "cast_top": [
-        "Mikha Tambayong",
-        "Eva Celia",
-        "Marthino Lio",
-        "Dimas Anggara",
-        "Varen Arianda Calief",
-        "Ardit Erwandha",
-        "Claresta Taufan",
-        "Donny Damara"
+        "Maddie Hasson",
+        "Alex Roe",
+        "Marco Pigossi",
+        "Andra Nechita",
+        "Eliane Reis",
+        "Clayton Spencer"
       ],
       "star_power": {
-        "actor_count": 8
+        "actor_count": 6
       }
     },
     "awards": {
@@ -9504,45 +9490,37 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1061474,
-      "imdb_id": "tt5950044",
-      "title": "Superman",
-      "release_date": "2025-07-09",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
         "Science Fiction",
-        "Adventure",
-        "Action"
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "DC Studios",
-        "Troll Court Entertainment",
-        "The Safran Company",
-        "Domain Entertainment"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 130,
-      "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 225000000,
-      "revenue": 615800000,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": 2.737,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
-        "belongs_to_collection": {
-          "id": 1540907,
-          "name": "Superman (DCU) Collection",
-          "poster_path": "/2L0dVc82ZWUgo6Fe2lnJ5qqUDId.jpg",
-          "backdrop_path": "/6xQWbcYRHoVDRkyspTy64x8l22m.jpg"
-        },
-        "budget": 225000000,
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+        "belongs_to_collection": null,
+        "budget": 200000000,
         "genres": [
           {
             "id": 878,
@@ -9551,46 +9529,30 @@
           {
             "id": 12,
             "name": "Adventure"
-          },
-          {
-            "id": 28,
-            "name": "Action"
           }
         ],
-        "homepage": "https://www.superman.com",
-        "id": 1061474,
-        "imdb_id": "tt5950044",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Superman",
-        "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-        "popularity": 103.8756,
-        "poster_path": "/wPLysNDLffQLOVebZQCbXJEv6E6.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 146.7865,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 184898,
-            "logo_path": "/iNTsbEgntSUwHmsZ9whiLhm60WB.png",
-            "name": "DC Studios",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 94218,
-            "logo_path": "/kxuhS8wyKtVprOn5nckdHyNuSg1.png",
-            "name": "Troll Court Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 11565,
-            "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-            "name": "The Safran Company",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -9600,68 +9562,69 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-07-09",
-        "revenue": 615800000,
-        "runtime": 130,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "Look up.",
-        "title": "Superman",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 7.432,
-        "vote_count": 3668
+        "vote_average": 7.114,
+        "vote_count": 2073
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.432,
+      "tmdb_vote_average": 7.114,
       "omdb": {
-        "Title": "Superman",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "11 Jul 2025",
-        "Runtime": "129 min",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
         "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "James Gunn",
-        "Writer": "James Gunn, Jerry Siegel, Joe Shuster",
-        "Actors": "David Corenswet, Rachel Brosnahan, Nicholas Hoult",
-        "Plot": "Superman must reconcile his alien Kryptonian heritage with his human upbringing as reporter Clark Kent. As the embodiment of truth, justice and the human way he soon finds himself in a world that views these as old-fashioned.",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "United States, Canada, Australia, New Zealand",
-        "Awards": "2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGMwZGJiM2EtMzEwZC00YTYzLWIxNzYtMmJmZWNlZjgxZTMwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.1/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "83%"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "68/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "68",
-        "imdbRating": "7.1",
-        "imdbVotes": "333,124",
-        "imdbID": "tt5950044",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$354,184,465",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/superman_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/superman_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9674,272 +9637,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "Superman": 9,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "Superman": 9,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Superman": 9,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Superman": 9,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Superman": 9,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Superman": 28,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Superman": 18,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Superman": 11,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 32,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 10,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Superman": 8,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Superman": 7,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Superman": 13,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Superman": 11,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 8,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Superman": 15,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Superman": 13,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Superman": 16,
+            "The Fantastic 4: First Steps": 11,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Superman": 19,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Superman": 87,
+            "The Fantastic 4: First Steps": 17,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Superman": 100,
+            "The Fantastic 4: First Steps": 20,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Superman": 60,
+            "The Fantastic 4: First Steps": 100,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Superman": 37,
+            "The Fantastic 4: First Steps": 100,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Superman": 28,
+            "The Fantastic 4: First Steps": 64,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Superman": 30,
+            "The Fantastic 4: First Steps": 36,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Superman": 32,
+            "The Fantastic 4: First Steps": 31,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Superman": 24,
+            "The Fantastic 4: First Steps": 25,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Superman": 19,
+            "The Fantastic 4: First Steps": 26,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Superman": 14,
+            "The Fantastic 4: First Steps": 21,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Superman": 15,
+            "The Fantastic 4: First Steps": 17,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Superman": 18,
+            "The Fantastic 4: First Steps": 30,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Superman": 14,
+            "The Fantastic 4: First Steps": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Superman": 12,
+            "The Fantastic 4: First Steps": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Superman": 11,
+            "The Fantastic 4: First Steps": 10,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Superman": 10,
+            "The Fantastic 4: First Steps": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Superman": 16,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": true
           }
         ]
@@ -9959,87 +9922,59 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "IrbDP34kp_R2PCCfDWJmgh204-k",
-          "id": "Ox8ZLF6cGM0",
+          "etag": "eV_OC2Rvn4ODObiSpkjDGvZVwrY",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-05-14T15:45:45Z",
-            "channelId": "UCiifkYAs_bq1pt_zbNAzYGg",
-            "title": "Superman | Official Trailer | DC",
-            "description": "Your choices, your actions, that’s what makes you who you are. #Superman - Only In Theaters and @Imax July 11\n\n“Superman,” DC Studios’ first feature film to hit the big screen, is set to soar into theaters worldwide this summer from Warner Bros. Pictures.  In his signature style, James Gunn takes on the original superhero in the newly imagined DC universe with a singular blend of epic action, humor and heart, delivering a Superman who’s driven by compassion and an inherent belief in the goodness of humankind. \n\nDC Studios heads Peter Safran and Gunn are producing the film, which Gunn directs from his own screenplay, based on characters from DC, Superman created by Jerry Siegel and Joe Shuster.\n\nThe film stars David Corenswet (“Twisters,” “Hollywood”) in the dual role of Superman/Clark Kent, Rachel Brosnahan (“The Marvelous Mrs. Maisel”) as Lois Lane and Nicholas Hoult (the “X-Men” movies, “Juror #2”) as Lex Luthor.  The film also stars Edi Gathegi (“For All Mankind”), Anthony Carrigan (“Barry,” “Gotham”), Nathan Fillion (the “Guardians of the Galaxy” films, “The Suicide Squad”), Isabela Merced (“Alien Romulus”), Skyler Gisondo (“Licorice Pizza,” “Booksmart”), Sara Sampaio (“At Midnight”), María Gabriela de Faría (“The Moodys”), Wendell Pierce (“Selma,” “Tom Clancy’s Jack Ryan”), Alan Tudyk (“Andor”), Pruitt Taylor Vince (“Bird Box”) and Neva Howell (“Greedy People”).\n\n“Superman” is executive produced by Nikolas Korda, Chantal Nong Vo and Lars Winther.  Behind the camera, Gunn is joined by frequent collaborators, including director of photography Henry Braham, production designer Beth Mickle, costume designer Judianna Makovsky and composer John Murphy, along with composer David Fleming (“The Last of Us”) and editors William Hoy (“The Batman”) and Craig Alpert (“Deadpool 2,” “Blue Beetle”).  \n\nDC Studios Presents a Troll Court Entertainment/The Safran Company Production, A James Gunn Film, “Superman,” which will be in theaters and IMAX® nationwide on July 11, 2025, and internationally beginning 9 July 2025, distributed by Warner Bros. Pictures.\n\nConnect with DC Online: \nFollow DC on INSTAGRAM: https://bit.ly/3XxysUi \nLike DC on FACEBOOK: https://bit.ly/3oQVPs2 \nFollow DC on TWITTER: https://bit.ly/3ojGH9V \nVisit the DC WEBSITE: https://www.dc.com/ \nSubscribe to DC UNIVERSE INFINITE: https://bit.ly/3zAJZqX \nShop official Superman Merch: https://linktr.ee/ShopSuperman \nJoin the DC Discord Community:   / discord",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/Ox8ZLF6cGM0/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "DC",
+            "channelTitle": "Marvel Entertainment",
             "tags": [
-              "2025",
-              "Anthony Carrigan",
-              "BehindTheScenesLook",
-              "Clark Kent",
-              "Coming Soon",
-              "DC",
-              "DC Comics",
-              "DC Studios",
-              "DCU",
-              "David Corenswet",
-              "Edi Gathegi",
-              "IMAX",
-              "Isabela Merced",
-              "James Gunn",
-              "July 2025",
-              "Lex Luthor",
-              "Lois Lane",
-              "Nathan Fillion",
-              "Nicholas Hoult",
-              "Rachel Brosnahan",
-              "Superman",
-              "Superman Day",
-              "Superman Day 2025",
-              "Superman2025",
-              "Trailer 2025",
-              "WB",
-              "WBD",
-              "Warner Bros",
-              "Warner Bros Pictures",
-              "Warner Brothers"
+              "marvel",
+              "comics"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Superman | Official Trailer | DC",
-              "description": "Your choices, your actions, that’s what makes you who you are. #Superman - Only In Theaters and @Imax July 11\n\n“Superman,” DC Studios’ first feature film to hit the big screen, is set to soar into theaters worldwide this summer from Warner Bros. Pictures.  In his signature style, James Gunn takes on the original superhero in the newly imagined DC universe with a singular blend of epic action, humor and heart, delivering a Superman who’s driven by compassion and an inherent belief in the goodness of humankind. \n\nDC Studios heads Peter Safran and Gunn are producing the film, which Gunn directs from his own screenplay, based on characters from DC, Superman created by Jerry Siegel and Joe Shuster.\n\nThe film stars David Corenswet (“Twisters,” “Hollywood”) in the dual role of Superman/Clark Kent, Rachel Brosnahan (“The Marvelous Mrs. Maisel”) as Lois Lane and Nicholas Hoult (the “X-Men” movies, “Juror #2”) as Lex Luthor.  The film also stars Edi Gathegi (“For All Mankind”), Anthony Carrigan (“Barry,” “Gotham”), Nathan Fillion (the “Guardians of the Galaxy” films, “The Suicide Squad”), Isabela Merced (“Alien Romulus”), Skyler Gisondo (“Licorice Pizza,” “Booksmart”), Sara Sampaio (“At Midnight”), María Gabriela de Faría (“The Moodys”), Wendell Pierce (“Selma,” “Tom Clancy’s Jack Ryan”), Alan Tudyk (“Andor”), Pruitt Taylor Vince (“Bird Box”) and Neva Howell (“Greedy People”).\n\n“Superman” is executive produced by Nikolas Korda, Chantal Nong Vo and Lars Winther.  Behind the camera, Gunn is joined by frequent collaborators, including director of photography Henry Braham, production designer Beth Mickle, costume designer Judianna Makovsky and composer John Murphy, along with composer David Fleming (“The Last of Us”) and editors William Hoy (“The Batman”) and Craig Alpert (“Deadpool 2,” “Blue Beetle”).  \n\nDC Studios Presents a Troll Court Entertainment/The Safran Company Production, A James Gunn Film, “Superman,” which will be in theaters and IMAX® nationwide on July 11, 2025, and internationally beginning 9 July 2025, distributed by Warner Bros. Pictures.\n\nConnect with DC Online: \nFollow DC on INSTAGRAM: https://bit.ly/3XxysUi \nLike DC on FACEBOOK: https://bit.ly/3oQVPs2 \nFollow DC on TWITTER: https://bit.ly/3ojGH9V \nVisit the DC WEBSITE: https://www.dc.com/ \nSubscribe to DC UNIVERSE INFINITE: https://bit.ly/3zAJZqX \nShop official Superman Merch: https://linktr.ee/ShopSuperman \nJoin the DC Discord Community:   / discord"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "36148871",
-            "likeCount": "578279",
+            "viewCount": "16887608",
+            "likeCount": "310125",
             "favoriteCount": "0",
-            "commentCount": "35560"
+            "commentCount": "20516"
           }
         }
       ],
@@ -10050,20 +9985,18 @@
     },
     "creative": {
       "director": [
-        "James Gunn"
+        "Matt Shakman"
       ],
-      "writers": [
-        "James Gunn"
-      ],
+      "writers": [],
       "cast_top": [
-        "David Corenswet",
-        "Rachel Brosnahan",
-        "Nicholas Hoult",
-        "Edi Gathegi",
-        "Nathan Fillion",
-        "Isabela Merced",
-        "María Gabriela de Faría",
-        "Skyler Gisondo"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -10890,62 +10823,81 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1422096,
-      "imdb_id": "tt35521922",
-      "title": "Good Boy",
-      "release_date": "2025-10-01",
+      "tmdb_id": 1054867,
+      "imdb_id": "tt30144839",
+      "title": "One Battle After Another",
+      "release_date": "2025-09-23",
       "release_year": "2025",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Crime"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "What’s Wrong with Your Dog"
+        "Warner Bros. Pictures",
+        "Ghoulardi Film Company",
+        "Domain Entertainment"
       ],
-      "runtime": 73,
-      "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most."
+      "runtime": 162,
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
     },
     "commercial": {
-      "budget": 990000,
-      "revenue": 6636591,
+      "budget": 130000000,
+      "revenue": 162500000,
       "opening_weekend": null,
-      "roi": 6.704,
+      "roi": 1.25,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7HegXCtNSuqSYgpuoR46gtQvw2V.jpg",
+        "backdrop_path": "/nIX9kqNNe4ERx3wg3TuzRa2deAM.jpg",
         "belongs_to_collection": null,
-        "budget": 990000,
+        "budget": 130000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 28,
+            "name": "Action"
           },
           {
             "id": 53,
             "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
           }
         ],
-        "homepage": "https://www.goodboyfilm.com",
-        "id": 1422096,
-        "imdb_id": "tt35521922",
+        "homepage": "https://www.onebattleafteranothermovie.com",
+        "id": 1054867,
+        "imdb_id": "tt30144839",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Good Boy",
-        "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
-        "popularity": 61.2863,
-        "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+        "original_title": "One Battle After Another",
+        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+        "popularity": 68.4089,
+        "poster_path": "/r4uXvqCeco0KmO0CjlhXuTEFuSE.jpg",
         "production_companies": [
           {
-            "id": 256132,
+            "id": 174,
+            "logo_path": "/kgJaIcKZZK4lTazer55XrgWDEvp.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 178,
             "logo_path": null,
-            "name": "What’s Wrong with Your Dog",
+            "name": "Ghoulardi Film Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
             "origin_country": "US"
           }
         ],
@@ -10955,68 +10907,73 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-01",
-        "revenue": 6636591,
-        "runtime": 73,
+        "release_date": "2025-09-23",
+        "revenue": 162500000,
+        "runtime": 162,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "Trust his instincts.",
-        "title": "Good Boy",
+        "tagline": "Some search for battle, others are born into it...",
+        "title": "One Battle After Another",
         "video": false,
-        "vote_average": 7.014,
-        "vote_count": 142
+        "vote_average": 7.736,
+        "vote_count": 1012
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.014,
+      "tmdb_vote_average": 7.736,
       "omdb": {
-        "Title": "Good Boy",
+        "Title": "One Battle After Another",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "03 Oct 2025",
-        "Runtime": "72 min",
-        "Genre": "Comedy, Horror, Thriller",
-        "Director": "Ben Leonberg",
-        "Writer": "Alex Cannon, Ben Leonberg",
-        "Actors": "Larry Fessenden, Arielle Friedman, Indy",
-        "Plot": "A loyal dog moves to a rural family home with his owner, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
-        "Language": "English",
+        "Rated": "R",
+        "Released": "26 Sep 2025",
+        "Runtime": "161 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Paul Thomas Anderson",
+        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+        "Actors": "Leonardo DiCaprio, Sean Penn, Benicio Del Toro",
+        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+        "Language": "English, Spanish",
         "Country": "United States",
-        "Awards": "1 win & 2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BODJhM2JhYjktN2JlMC00YzVjLWI3NjctMTgzYjhhZDk3ZjU2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "3 wins & 2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.7/10"
+            "Value": "8.3/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "95%"
+            "Value": "96%"
           },
           {
             "Source": "Metacritic",
-            "Value": "72/100"
+            "Value": "95/100"
           }
         ],
-        "Metascore": "72",
-        "imdbRating": "6.7",
-        "imdbVotes": "2,915",
-        "imdbID": "tt35521922",
+        "Metascore": "95",
+        "imdbRating": "8.3",
+        "imdbVotes": "80,634",
+        "imdbID": "tt30144839",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$2,343,694",
+        "BoxOffice": "$43,765,663",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_boy_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_boy_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11029,272 +10986,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "Good Boy": 16,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Good Boy": 19,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Good Boy": 19,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Good Boy": 16,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Good Boy": 17,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Good Boy": 18,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Good Boy": 22,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Good Boy": 22,
+            "One Battle After Another": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Good Boy": 20,
+            "One Battle After Another": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Good Boy": 19,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Good Boy": 19,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Good Boy": 21,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Good Boy": 19,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Good Boy": 20,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Good Boy": 22,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Good Boy": 21,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Good Boy": 21,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Good Boy": 24,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Good Boy": 85,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Good Boy": 76,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Good Boy": 79,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Good Boy": 74,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Good Boy": 68,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Good Boy": 74,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Good Boy": 80,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Good Boy": 72,
+            "One Battle After Another": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Good Boy": 44,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Good Boy": 55,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Good Boy": 55,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Good Boy": 60,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Good Boy": 43,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Good Boy": 35,
+            "One Battle After Another": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Good Boy": 32,
+            "One Battle After Another": 12,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Good Boy": 32,
+            "One Battle After Another": 26,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Good Boy": 33,
+            "One Battle After Another": 78,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Good Boy": 58,
+            "One Battle After Another": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Good Boy": 71,
+            "One Battle After Another": 68,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Good Boy": 53,
+            "One Battle After Another": 44,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Good Boy": 46,
+            "One Battle After Another": 30,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Good Boy": 100,
+            "One Battle After Another": 30,
             "isPartial": true
           }
         ]
@@ -11314,89 +11271,70 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "qaj2yJ5kqv45g2MUC9sLuzD4EdA",
-          "id": "q4-CRkd_74g",
+          "etag": "Y3us-f9EyXMHicuYlI8qJ6kOc-I",
+          "id": "feOQFKv2Lw4",
           "snippet": {
-            "publishedAt": "2025-08-18T16:30:28Z",
-            "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
-            "title": "Good Boy - Official Trailer | HD | IFC Films",
-            "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.\n\nDirector: Ben Leonberg\nStarring: Larry Fessenden, Arielle Friedman, Indy, Shane Jensen, Anya Krawcheck & Stuart Rudin\n\n#IFCFilms #GoodBoy\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+            "publishedAt": "2025-03-27T16:00:51Z",
+            "channelId": "UCbxjDfYwfF8RjYBp5htJ38Q",
+            "title": "One Battle After Another  - Official Trailer - Warner Bros. UK & Ireland",
+            "description": "Watch the trailer for ONE BATTLE AFTER ANOTHER, from Writer/Director Paul Thomas Anderson. Starring Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti. In Cinemas September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Benicio del Toro and Sean Penn also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay, and produces alongside Oscar and BAFTA nominees Adam Somner and Sara Murphy, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning in September 2025.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/default.jpg",
+                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/sddefault.jpg",
                 "width": 640,
                 "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
               }
             },
-            "channelTitle": "IFC Films",
+            "channelTitle": "Warner Bros. UK & Ireland",
             "tags": [
-              "Good Boy",
-              "Goodboy",
-              "Good Boy movie",
-              "Goodboy movie",
-              "good boy full movie",
-              "good boy trailer",
-              "good boy official trailer",
-              "goodboy official trailer",
-              "good boy dog movie",
-              "dog movie",
-              "horror movie",
-              "dog horror movie",
-              "ifc films",
-              "ifc films midnight",
-              "ifc films trailer",
-              "Ben Leonberg",
-              "supernatural",
-              "supernatural horror",
-              "ghosts",
-              "spirits",
-              "demonic",
-              "demons",
-              "dog's loyalty",
-              "loyal dog",
-              "cute dog",
-              "cute dogs",
-              "Indy",
-              "Shane Jensen",
-              "Larry Fessenden",
-              "Arielle Friedman",
-              "Stuart Rudin",
-              "good boy ifc films"
+              "Benicio Del Toro",
+              "Chase Infiniti",
+              "ComingSoon",
+              "Crime",
+              "Drama",
+              "Leonardo DiCaprio",
+              "Paul Thomas Anderson",
+              "Regina Hall",
+              "Sean Penn",
+              "September2025",
+              "Teyana Taylor",
+              "Thriller",
+              "Trailer",
+              "Trailer2025",
+              "WB",
+              "WBD",
+              "WarnerBros",
+              "WarnerBrothers"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Good Boy - Official Trailer | HD | IFC Films",
-              "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.\n\nDirector: Ben Leonberg\nStarring: Larry Fessenden, Arielle Friedman, Indy, Shane Jensen, Anya Krawcheck & Stuart Rudin\n\n#IFCFilms #GoodBoy\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms"
+              "title": "One Battle After Another  - Official Trailer - Warner Bros. UK & Ireland",
+              "description": "Watch the trailer for ONE BATTLE AFTER ANOTHER, from Writer/Director Paul Thomas Anderson. Starring Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti. In Cinemas September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Benicio del Toro and Sean Penn also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay, and produces alongside Oscar and BAFTA nominees Adam Somner and Sara Murphy, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning in September 2025."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "5709023",
-            "likeCount": "41166",
+            "viewCount": "5005207",
+            "likeCount": "37361",
             "favoriteCount": "0",
-            "commentCount": "4081"
+            "commentCount": "3640"
           }
         }
       ],
@@ -11407,21 +11345,20 @@
     },
     "creative": {
       "director": [
-        "Ben Leonberg"
+        "Paul Thomas Anderson"
       ],
       "writers": [
-        "Alex Cannon",
-        "Ben Leonberg"
+        "Paul Thomas Anderson"
       ],
       "cast_top": [
-        "Indy",
-        "Shane Jensen",
-        "Larry Fessenden",
-        "Arielle Friedman",
-        "Stuart Rudin",
-        "Anya Krawcheck",
-        "Max",
-        "Hunter Goetz"
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
       ],
       "star_power": {
         "actor_count": 8
@@ -12248,142 +12185,131 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1327862,
-      "imdb_id": "tt33088452",
-      "title": "Regretting You",
-      "release_date": "2025-10-22",
+      "tmdb_id": 1218925,
+      "imdb_id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "release_date": "2025-09-19",
       "release_year": "2025",
       "genres": [
+        "Animation",
+        "Action",
         "Romance",
-        "Drama"
+        "Fantasy",
+        "Horror"
       ],
       "production_countries": [
-        "US",
-        "DE"
+        "JP"
       ],
-      "language": "en",
+      "language": "ja",
       "studio_distributor": [
-        "Harbinger Pictures",
-        "Frayed Pages Media",
-        "Domain Entertainment",
-        "Constantin Film"
+        "MAPPA"
       ],
-      "runtime": 116,
-      "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other."
+      "runtime": 100,
+      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 0,
+      "budget": 0,
+      "revenue": 51524244,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/iTdqaxy2SrzuwJYd6oeEL72Uevb.jpg",
+        "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
         "belongs_to_collection": null,
-        "budget": 30000000,
+        "budget": 0,
         "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
           {
             "id": 10749,
             "name": "Romance"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 27,
+            "name": "Horror"
           }
         ],
-        "homepage": "https://www.regrettingyoumovie.com",
-        "id": 1327862,
-        "imdb_id": "tt33088452",
+        "homepage": "https://chainsawman.movie",
+        "id": 1218925,
+        "imdb_id": "tt30472557",
         "origin_country": [
-          "DE"
+          "JP"
         ],
-        "original_language": "en",
-        "original_title": "Regretting You",
-        "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
-        "popularity": 82.4402,
-        "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+        "original_language": "ja",
+        "original_title": "チェンソーマン レゼ篇",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "popularity": 115.128,
+        "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
         "production_companies": [
           {
-            "id": 95966,
-            "logo_path": null,
-            "name": "Harbinger Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 140519,
-            "logo_path": null,
-            "name": "Frayed Pages Media",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 47,
-            "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-            "name": "Constantin Film",
-            "origin_country": "DE"
+            "id": 21444,
+            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "DE",
-            "name": "Germany"
+            "iso_3166_1": "JP",
+            "name": "Japan"
           }
         ],
-        "release_date": "2025-10-22",
-        "revenue": 0,
-        "runtime": 116,
+        "release_date": "2025-09-19",
+        "revenue": 51524244,
+        "runtime": 100,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
           }
         ],
         "status": "Released",
-        "tagline": "Risk everything. Regret nothing.",
-        "title": "Regretting You",
+        "tagline": "everyone’s after my chainsaw heart! what about denji’s heart?!?",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 19
+        "vote_average": 8.0,
+        "vote_count": 66
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 8.0,
       "omdb": {
-        "Title": "Regretting You",
+        "Title": "Chainsaw Man - The Movie: Reze Arc",
         "Year": "2025",
-        "Rated": "N/A",
+        "Rated": "R",
         "Released": "24 Oct 2025",
-        "Runtime": "117 min",
-        "Genre": "Drama",
-        "Director": "Josh Boone",
-        "Writer": "Colleen Hoover, Susan McMartin",
-        "Actors": "Allison Williams, Mckenna Grace, Dave Franco",
-        "Plot": "Centers on the strained relationship between young mother Morgan Grant and her teenage daughter Clara, exacerbated by Morgan's husband Chris's tragic death, forcing them to navigate life's challenges together.",
-        "Language": "English",
-        "Country": "Germany, United States",
+        "Runtime": "100 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Tatsuya Yoshihara",
+        "Writer": "Tatsuki Fujimoto, Hiroshi Seko",
+        "Actors": "Kikunosuke Toya, Tomori Kusunoki, Shôgo Sakata",
+        "Plot": "Denji encounters a new romantic interest, Reze, who works at a coffee café.",
+        "Language": "Japanese",
+        "Country": "Japan",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
-            "Source": "Rotten Tomatoes",
-            "Value": "30%"
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
           }
         ],
         "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt33088452",
+        "imdbRating": "8.5",
+        "imdbVotes": "3,800",
+        "imdbID": "tt30472557",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -12392,7 +12318,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12405,272 +12331,272 @@
         "interest_over_time": [
           {
             "date": "2024-10-20T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-10-27T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-03T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Regretting You": 1,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Regretting You": 1,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Regretting You": 1,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Regretting You": 0,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Regretting You": 1,
+            "Chainsaw Man - The Movie: Reze Arc": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Regretting You": 17,
+            "Chainsaw Man - The Movie: Reze Arc": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Regretting You": 4,
+            "Chainsaw Man - The Movie: Reze Arc": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Regretting You": 3,
+            "Chainsaw Man - The Movie: Reze Arc": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Regretting You": 2,
+            "Chainsaw Man - The Movie: Reze Arc": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Regretting You": 2,
+            "Chainsaw Man - The Movie: Reze Arc": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Regretting You": 2,
+            "Chainsaw Man - The Movie: Reze Arc": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Regretting You": 3,
+            "Chainsaw Man - The Movie: Reze Arc": 16,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Regretting You": 4,
+            "Chainsaw Man - The Movie: Reze Arc": 46,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Regretting You": 7,
+            "Chainsaw Man - The Movie: Reze Arc": 62,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Regretting You": 7,
+            "Chainsaw Man - The Movie: Reze Arc": 44,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Regretting You": 10,
+            "Chainsaw Man - The Movie: Reze Arc": 28,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Regretting You": 36,
+            "Chainsaw Man - The Movie: Reze Arc": 58,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Regretting You": 100,
+            "Chainsaw Man - The Movie: Reze Arc": 100,
             "isPartial": true
           }
         ]
@@ -12690,55 +12616,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "HqHDOzRpJjdSRSA6i4xTMXnor1Q",
-          "id": "qub8lZlVlho",
+          "etag": "4XfK7Tuf13tR53vO-GLvMdYo_aA",
+          "id": "tAzAhDNdehs",
           "snippet": {
-            "publishedAt": "2025-08-05T13:00:02Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "Regretting You | Official Trailer (2025)- McKenna Grace, Mason Thames, Allison Williams, Dave Franco",
-            "description": "When life pulls you down, love lifts you up. ❤️ Watch the Official Trailer for #RegrettingYouMovie – Only in theatres October 24.\n\nGet your tickets: https://www.regrettingyoumovie.com/ \n\nBased on the bestselling book, REGRETTING YOU introduces audiences to Morgan Grant (Allison Williams) and her daughter Clara (Mckenna Grace) as they explore what’s left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other. REGRETTING YOU is a story of growth, resilience, and self-discovery in the aftermath of tragedy, also starring Dave Franco and Mason Thames with Scott Eastwood and Willa Fitzgerald. From the best-selling author of It Ends with Us and the director of The Fault in Our Stars, in theatres this October.\n\nConnect with #RegrettingYouMovie\nInstagram: https://www.instagram.com/RegrettingYouMovie/\nX: https://x.com/Regretting_You\nFacebook: https://www.facebook.com/RegrettingYouMovie\nTikTok: https://www.tiktok.com/@RegrettingYouMovie\nThreads: https://www.threads.net/@RegrettingYouMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2025-07-03T23:50:00Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
+            "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/qub8lZlVlho/default.jpg",
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/qub8lZlVlho/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/qub8lZlVlho/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/qub8lZlVlho/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/qub8lZlVlho/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Regretting You | Official Trailer (2025)- McKenna Grace, Mason Thames, Allison Williams, Dave Franco",
-              "description": "When life pulls you down, love lifts you up. ❤️ Watch the Official Trailer for #RegrettingYouMovie – Only in theatres October 24.\n\nGet your tickets: https://www.regrettingyoumovie.com/ \n\nBased on the bestselling book, REGRETTING YOU introduces audiences to Morgan Grant (Allison Williams) and her daughter Clara (Mckenna Grace) as they explore what’s left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other. REGRETTING YOU is a story of growth, resilience, and self-discovery in the aftermath of tragedy, also starring Dave Franco and Mason Thames with Scott Eastwood and Willa Fitzgerald. From the best-selling author of It Ends with Us and the director of The Fault in Our Stars, in theatres this October.\n\nConnect with #RegrettingYouMovie\nInstagram: https://www.instagram.com/RegrettingYouMovie/\nX: https://x.com/Regretting_You\nFacebook: https://www.facebook.com/RegrettingYouMovie\nTikTok: https://www.tiktok.com/@RegrettingYouMovie\nThreads: https://www.threads.net/@RegrettingYouMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
+              "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "9796588",
-            "likeCount": "36026",
+            "viewCount": "837204",
+            "likeCount": "25484",
             "favoriteCount": "0",
-            "commentCount": "1195"
+            "commentCount": "1002"
           }
         }
       ],
@@ -12749,18 +12675,18 @@
     },
     "creative": {
       "director": [
-        "Josh Boone"
+        "Tatsuya Yoshihara"
       ],
       "writers": [],
       "cast_top": [
-        "Scott Eastwood",
-        "Allison Williams",
-        "Dave Franco",
-        "Mckenna Grace",
-        "Mason Thames",
-        "Willa Fitzgerald",
-        "Clancy Brown",
-        "Sam Morelos"
+        "Kikunosuke Toya",
+        "Reina Ueda",
+        "Shiori Izawa",
+        "Tomori Kusunoki",
+        "Shogo Sakata",
+        "Fairouz Ai",
+        "Karin Takahashi",
+        "Natsuki Hanae"
       ],
       "star_power": {
         "actor_count": 8
