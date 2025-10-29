@@ -25,7 +25,7 @@
     },
     "commercial": {
       "budget": 0,
-      "revenue": 13567,
+      "revenue": 181125,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
@@ -53,7 +53,7 @@
         "original_language": "en",
         "original_title": "A House of Dynamite",
         "overview": "When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.",
-        "popularity": 229.4203,
+        "popularity": 228.5751,
         "poster_path": "/AiJ8L90ftPAwVf3SDx7Fj9IMZoy.jpg",
         "production_companies": [
           {
@@ -82,7 +82,7 @@
           }
         ],
         "release_date": "2025-10-02",
-        "revenue": 13567,
+        "revenue": 181125,
         "runtime": 112,
         "spoken_languages": [
           {
@@ -95,12 +95,12 @@
         "tagline": "Not if. When.",
         "title": "A House of Dynamite",
         "video": false,
-        "vote_average": 6.415,
-        "vote_count": 313
+        "vote_average": 6.442,
+        "vote_count": 346
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.415,
+      "tmdb_vote_average": 6.442,
       "omdb": {
         "Title": "A House of Dynamite",
         "Year": "2025",
@@ -152,7 +152,273 @@
     },
     "social": {
       "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
+        "interest_over_time": [
+          {
+            "date": "2024-10-27T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-03T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-10T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-17T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "A House of Dynamite": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "A House of Dynamite": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "A House of Dynamite": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "A House of Dynamite": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "A House of Dynamite": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "A House of Dynamite": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "A House of Dynamite": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "A House of Dynamite": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "A House of Dynamite": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "A House of Dynamite": 32,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "A House of Dynamite": 100,
+            "isPartial": true
+          }
+        ]
       },
       "x_search": {
         "attempts": [
@@ -166,9 +432,89 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "WB5p_zJSbhnpZrT3mF9WdxXAFK0",
+          "id": "_wpw2QHJNco",
+          "snippet": {
+            "publishedAt": "2025-09-25T12:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "A HOUSE OF DYNAMITE | Official Trailer | Netflix",
+            "description": "From Academy Award winning director Kathryn Bigelow comes A HOUSE OF DYNAMITE. When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.\n\nStarring Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke.\n\nIn select theaters October 3 in the UK, globally October 10 and on Netflix October 24.\n\nWatch on Netflix: https://www.netflix.com/title/81744537\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nA HOUSE OF DYNAMITE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/_wpw2QHJNco/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Netflix",
+            "tags": [
+              "A House of Dynamite",
+              "Anthony Ramos",
+              "Award Season",
+              "Craft",
+              "Drama",
+              "Film",
+              "Film Festival",
+              "Gabriel Basso",
+              "Greta Lee",
+              "Idris Elba",
+              "Jared Harris",
+              "Jason Clarke",
+              "Jonah Hauer-King",
+              "Kathryn Bigelow",
+              "Moses Ingram",
+              "Netflix",
+              "Noah Oppenheim",
+              "Oscars",
+              "Political Thriller",
+              "Rebecca Ferguson",
+              "The Hurt Locker",
+              "Thriller",
+              "Tracy Letts",
+              "Venice Film Festival",
+              "War Movie",
+              "Zero Dark Thirty"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "A HOUSE OF DYNAMITE | Official Trailer | Netflix",
+              "description": "From Academy Award winning director Kathryn Bigelow comes A HOUSE OF DYNAMITE. When a single, unattributed missile is launched at the United States, a race begins to determine who is responsible and how to respond.\n\nStarring Idris Elba, Rebecca Ferguson, Gabriel Basso, Jared Harris, Tracy Letts, Anthony Ramos, Moses Ingram, Jonah Hauer-King, Greta Lee, and Jason Clarke.\n\nIn select theaters October 3 in the UK, globally October 10 and on Netflix October 24.\n\nWatch on Netflix: https://www.netflix.com/title/81744537\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nA HOUSE OF DYNAMITE | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "11797902",
+            "likeCount": "25091",
+            "favoriteCount": "0",
+            "commentCount": "3061"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -1073,7 +1419,7 @@
         "original_language": "en",
         "original_title": "The Long Walk",
         "overview": "In a dystopian, alternate-America ruled by a totalitarian regime, 50 teenage boys take part in a deadly annual walking contest, forced to maintain a minimum pace or be executed, until only one survivor remains.",
-        "popularity": 236.6542,
+        "popularity": 218.8053,
         "poster_path": "/wobVTa99eW0ht6c1rNNzLkazPtR.jpg",
         "production_companies": [
           {
@@ -1121,12 +1467,12 @@
         "tagline": "The task is simple: walk or die.",
         "title": "The Long Walk",
         "video": false,
-        "vote_average": 6.855,
-        "vote_count": 493
+        "vote_average": 6.863,
+        "vote_count": 503
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.855,
+      "tmdb_vote_average": 6.863,
       "omdb": {
         "Title": "The Long Walk",
         "Year": "2025",
@@ -1192,9 +1538,85 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "DRDpZ0E15jBH8dT1julyNOqTb6Q",
+          "id": "vAtUHeMQ1F8",
+          "snippet": {
+            "publishedAt": "2025-05-07T14:59:58Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+            "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/vAtUHeMQ1F8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Lionsgate Movies",
+            "tags": [
+              "The Long Walk",
+              "The Long Walk 2025 movie",
+              "The Long Walk 2025",
+              "The Long Walk 2025 film",
+              "The Long Walk official trailer",
+              "The Long Walk trailer",
+              "The Long Walk 2025 trailer",
+              "The Long Walk 2025 official trailer",
+              "Stephen King",
+              "The Long Walk Stephen King",
+              "dystopian",
+              "King novel",
+              "Stephen King novel",
+              "adaptation",
+              "Stephen King adaptation",
+              "police state",
+              "horror",
+              "totalitarian",
+              "regime",
+              "walking contest",
+              "annual contest",
+              "Psychological horror"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Long Walk (2025) Official Trailer - Cooper Hoffman, David Jonsson",
+              "description": "From the highly anticipated adaptation of master storyteller Stephen King’s first-written novel, and Francis Lawrence, the visionary director of The Hunger Games franchise films (Catching Fire, Mocking Jay – Pts. 1&2 , and The Ballad of the Songbirds & Snakes), comes THE LONG WALK, an intense, chilling, and emotional thriller that challenges audiences to confront a haunting question: how far could you go?\n\nSubscribe to the LIONSGATE: YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.facebook.com/jointhelongwalk\nhttps://x.com/jointhelongwalk\nhttps://www.instagram.com/jointhelongwalk\n\nhttps://www.lionsgate.com/movies/\nhttps://www.facebook.com/lionsgate\nhttps://twitter.com/lionsgate\nhttps://www.instagram.com/lionsgate/\nhttps://www.tiktok.com/@lionsgate\n\nLionsgate presents, in association with Media Capital Technologies, a Vertigo Entertainment / about:blank production, THE LONG WALK, directed by Francis Lawrence, screenplay by JT Mollner, based on the novel by Stephen King."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "16463115",
+            "likeCount": "68516",
+            "favoriteCount": "0",
+            "commentCount": "7153"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -2040,1044 +2462,6 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 1078605,
-      "imdb_id": "tt26581740",
-      "title": "Weapons",
-      "release_date": "2025-08-04",
-      "release_year": "2025",
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "New Line Cinema",
-        "Subconscious",
-        "Vertigo Entertainment",
-        "BoulderLight Pictures",
-        "Domain Entertainment"
-      ],
-      "runtime": 129,
-      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
-    },
-    "commercial": {
-      "budget": 38000000,
-      "revenue": 265894217,
-      "opening_weekend": null,
-      "roi": 6.997,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
-        "belongs_to_collection": {
-          "id": 1531466,
-          "name": "Weapons Collection",
-          "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
-          "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
-        },
-        "budget": 38000000,
-        "genres": [
-          {
-            "id": 27,
-            "name": "Horror"
-          },
-          {
-            "id": 9648,
-            "name": "Mystery"
-          }
-        ],
-        "homepage": "https://www.warnerbros.com/movies/weapons",
-        "id": 1078605,
-        "imdb_id": "tt26581740",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Weapons",
-        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-        "popularity": 91.8071,
-        "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
-        "production_companies": [
-          {
-            "id": 12,
-            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
-            "name": "New Line Cinema",
-            "origin_country": "US"
-          },
-          {
-            "id": 240675,
-            "logo_path": null,
-            "name": "Subconscious",
-            "origin_country": "US"
-          },
-          {
-            "id": 829,
-            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
-            "name": "Vertigo Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 18609,
-            "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
-            "name": "BoulderLight Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2025-08-04",
-        "revenue": 265894217,
-        "runtime": 129,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Last night at 2:17 AM, every child from Mrs. Gandy's class woke up, got out of bed, went downstairs, opened the front door, walked into the dark ...and they never came back.",
-        "title": "Weapons",
-        "video": false,
-        "vote_average": 7.359,
-        "vote_count": 2064
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.359,
-      "omdb": {
-        "Title": "Weapons",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "08 Aug 2025",
-        "Runtime": "128 min",
-        "Genre": "Horror, Mystery",
-        "Director": "Zach Cregger",
-        "Writer": "Zach Cregger",
-        "Actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
-        "Plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "93%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "81/100"
-          }
-        ],
-        "Metascore": "81",
-        "imdbRating": "7.6",
-        "imdbVotes": "159,990",
-        "imdbID": "tt26581740",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$150,200,554",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Zach Cregger"
-      ],
-      "writers": [
-        "Zach Cregger"
-      ],
-      "cast_top": [
-        "Julia Garner",
-        "Josh Brolin",
-        "Alden Ehrenreich",
-        "Austin Abrams",
-        "Benedict Wong",
-        "Amy Madigan",
-        "Cary Christopher",
-        "Toby Huss"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 4,
-    "metadata": {
       "tmdb_id": 701387,
       "imdb_id": "tt12300742",
       "title": "Bugonia",
@@ -3107,16 +2491,16 @@
       "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
     },
     "commercial": {
-      "budget": 45000000,
+      "budget": 55000000,
       "revenue": 1308000,
       "opening_weekend": null,
-      "roi": 0.029,
+      "roi": 0.024,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/cj2fug7Ayk0eaYOpW0npBaHXMCc.jpg",
+        "backdrop_path": "/jihTSrMksmU5ujqRZnc6SBFSyfq.jpg",
         "belongs_to_collection": null,
-        "budget": 45000000,
+        "budget": 55000000,
         "genres": [
           {
             "id": 35,
@@ -3140,7 +2524,7 @@
         "original_language": "en",
         "original_title": "Bugonia",
         "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 33.8318,
+        "popularity": 38.1216,
         "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "production_companies": [
           {
@@ -3212,12 +2596,12 @@
         "tagline": "It all starts with something magnificent.",
         "title": "Bugonia",
         "video": false,
-        "vote_average": 7.847,
-        "vote_count": 75
+        "vote_average": 7.9,
+        "vote_count": 89
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.847,
+      "tmdb_vote_average": 7.9,
       "omdb": {
         "Title": "Bugonia",
         "Year": "2025",
@@ -3283,9 +2667,77 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "ugpGfSErXmFYLZtN2SLlpLdNHX0",
+          "id": "bd_5HcTujfc",
+          "snippet": {
+            "publishedAt": "2025-08-28T14:00:01Z",
+            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
+            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Focus Features",
+            "tags": [
+              "Focus Features",
+              "Emma Stone",
+              "Jesse Plemons",
+              "Aidan Delbis",
+              "Stavros Halkias",
+              "Alicia Silverstone",
+              "Yorgos Lanthimos",
+              "Will Tracy",
+              "Ed Guiney",
+              "Andrew Lowe",
+              "Ari Aster",
+              "Lars Knudsen",
+              "Miky Lee",
+              "Jerry Kyoungboum Ko"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "13295529",
+            "likeCount": "48102",
+            "favoriteCount": "0",
+            "commentCount": "2773"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -4131,7 +3583,7 @@
     ]
   },
   {
-    "rank": 5,
+    "rank": 4,
     "metadata": {
       "tmdb_id": 1422096,
       "imdb_id": "tt35521922",
@@ -4160,7 +3612,7 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7HegXCtNSuqSYgpuoR46gtQvw2V.jpg",
+        "backdrop_path": "/y47aBf7GFdcwtdmCxEis14hPZS4.jpg",
         "belongs_to_collection": null,
         "budget": 990000,
         "genres": [
@@ -4182,7 +3634,7 @@
         "original_language": "en",
         "original_title": "Good Boy",
         "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
-        "popularity": 70.7889,
+        "popularity": 66.8133,
         "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
         "production_companies": [
           {
@@ -4212,12 +3664,12 @@
         "tagline": "Trust his instincts.",
         "title": "Good Boy",
         "video": false,
-        "vote_average": 7.1,
-        "vote_count": 162
+        "vote_average": 7.024,
+        "vote_count": 167
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.1,
+      "tmdb_vote_average": 7.024,
       "omdb": {
         "Title": "Good Boy",
         "Year": "2025",
@@ -4283,9 +3735,95 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "YDxqp-kPmQiR-S8NaOHr_3VqmeQ",
+          "id": "q4-CRkd_74g",
+          "snippet": {
+            "publishedAt": "2025-08-18T16:30:28Z",
+            "channelId": "UCOn923UnbV8H9zo_lO6ZCRw",
+            "title": "Good Boy - Official Trailer | HD | IFC Films",
+            "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.\n\nDirector: Ben Leonberg\nStarring: Larry Fessenden, Arielle Friedman, Indy, Shane Jensen, Anya Krawcheck & Stuart Rudin\n\n#IFCFilms #GoodBoy\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/q4-CRkd_74g/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "IFC Films",
+            "tags": [
+              "Good Boy",
+              "Goodboy",
+              "Good Boy movie",
+              "Goodboy movie",
+              "good boy full movie",
+              "good boy trailer",
+              "good boy official trailer",
+              "goodboy official trailer",
+              "good boy dog movie",
+              "dog movie",
+              "horror movie",
+              "dog horror movie",
+              "ifc films",
+              "ifc films midnight",
+              "ifc films trailer",
+              "Ben Leonberg",
+              "supernatural",
+              "supernatural horror",
+              "ghosts",
+              "spirits",
+              "demonic",
+              "demons",
+              "dog's loyalty",
+              "loyal dog",
+              "cute dog",
+              "cute dogs",
+              "Indy",
+              "Shane Jensen",
+              "Larry Fessenden",
+              "Arielle Friedman",
+              "Stuart Rudin",
+              "good boy ifc films"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Good Boy - Official Trailer | HD | IFC Films",
+              "description": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.\n\nDirector: Ben Leonberg\nStarring: Larry Fessenden, Arielle Friedman, Indy, Shane Jensen, Anya Krawcheck & Stuart Rudin\n\n#IFCFilms #GoodBoy\r\n\r\nSubscribe to IFC Films: https://bit.ly/2K4KMZV\r\n\r\nConnect with IFC Online\r\nIFC Films Official Site: http://www.ifcfilms.com\r\nFollow IFC Films on Twitter: http://twitter.com/IFCFilms\r\nFind IFC Films on Facebook: http://facebook.com/IFCFilmsOfficial\r\nFollow IFC Films on Instagram : http://instagram.com/ifcfilms"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "5814779",
+            "likeCount": "41829",
+            "favoriteCount": "0",
+            "commentCount": "4175"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -4308,6 +3846,1061 @@
         "Anya Krawcheck",
         "Max",
         "Hunter Goetz"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 5,
+    "metadata": {
+      "tmdb_id": 1306525,
+      "imdb_id": "tt32643830",
+      "title": "The Elixir",
+      "release_date": "2025-10-22",
+      "release_year": "2025",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "production_countries": [
+        "ID"
+      ],
+      "language": "id",
+      "studio_distributor": [
+        "Mowin Pictures"
+      ],
+      "runtime": 118,
+      "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
+    },
+    "commercial": {
+      "budget": 0,
+      "revenue": 0,
+      "opening_weekend": null,
+      "roi": null,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.netflix.com/title/81624009",
+        "id": 1306525,
+        "imdb_id": "tt32643830",
+        "origin_country": [
+          "ID"
+        ],
+        "original_language": "id",
+        "original_title": "Abadi Nan Jaya",
+        "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+        "popularity": 252.4985,
+        "poster_path": "/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg",
+        "production_companies": [
+          {
+            "id": 237116,
+            "logo_path": null,
+            "name": "Mowin Pictures",
+            "origin_country": "ID"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "ID",
+            "name": "Indonesia"
+          }
+        ],
+        "release_date": "2025-10-22",
+        "revenue": 0,
+        "runtime": 118,
+        "spoken_languages": [
+          {
+            "english_name": "Indonesian",
+            "iso_639_1": "id",
+            "name": "Bahasa indonesia"
+          },
+          {
+            "english_name": "Javanese",
+            "iso_639_1": "jv",
+            "name": ""
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Elixir",
+        "video": false,
+        "vote_average": 5.59,
+        "vote_count": 68
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 5.59,
+      "omdb": {
+        "Title": "The Elixir",
+        "Year": "2025",
+        "Rated": "TV-MA",
+        "Released": "23 Oct 2025",
+        "Runtime": "116 min",
+        "Genre": "Horror, Thriller",
+        "Director": "Kimo Stamboel",
+        "Writer": "Agasyah Karim, Khalid Kashogi, Kimo Stamboel",
+        "Actors": "Mikha Tambayong, Eva Celia Latjuba, Donny Damara",
+        "Plot": "A dysfunctional family running a renowned herbal medicine business. The owner of the company attempts to innovate by creating a new potion, which ends up triggering a zombie outbreak.",
+        "Language": "Indonesian",
+        "Country": "Indonesia",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyZTgyODctNWY2MC00NDMxLThhZjUtNDUxODA4YTYwZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.5",
+        "imdbVotes": "934",
+        "imdbID": "tt32643830",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "vwWIGmggwpweSbUsGkLo03ILt84",
+          "id": "XL48F7LGoig",
+          "snippet": {
+            "publishedAt": "2025-10-10T03:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "The Elixir | Official Trailer | Netflix",
+            "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/XL48F7LGoig/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Netflix",
+            "tags": [
+              "donny damara",
+              "eva celia",
+              "kimo stamboel",
+              "mikha tambayong",
+              "the elixir",
+              "zombie"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Elixir | Official Trailer | Netflix",
+              "description": "In Wanirejo Village, a zombie outbreak leaves a dysfunctional family with no choice but to fight for survival together. Starring Mikha Tambayong, Eva Celia, Marthino Lio, Dimas Anggara, Varen Arianda Calief, Ardit Erwandha, and Claresta Taufan.\n\nThe Elixir, coming October 23, only on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/81624009\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Elixir | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nAn elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "975610",
+            "likeCount": "14486",
+            "favoriteCount": "0",
+            "commentCount": "1338"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Kimo Stamboel"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Mikha Tambayong",
+        "Eva Celia",
+        "Marthino Lio",
+        "Dimas Anggara",
+        "Varen Arianda Calief",
+        "Ardit Erwandha",
+        "Claresta Taufan",
+        "Donny Damara"
       ],
       "star_power": {
         "actor_count": 8
@@ -5245,12 +5838,12 @@
         "tagline": "This marriage ain't big enough for the both of them.",
         "title": "The Roses",
         "video": false,
-        "vote_average": 6.891,
-        "vote_count": 267
+        "vote_average": 6.885,
+        "vote_count": 269
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.891,
+      "tmdb_vote_average": 6.885,
       "omdb": {
         "Title": "The Roses",
         "Year": "2025",
@@ -5316,9 +5909,82 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "4Eoyzu3HTadR-wZ62Zh-4mJbSXU",
+          "id": "ETBY06YJ2Q8",
+          "snippet": {
+            "publishedAt": "2025-04-16T18:54:43Z",
+            "channelId": "UCE8aa83wFg-VE1zcaVCZdIA",
+            "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+            "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ETBY06YJ2Q8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Moviefone",
+            "tags": [
+              "Moviefone",
+              "benedict cumberbatch",
+              "olivia colman",
+              "the roses trailer",
+              "the roses",
+              "the roses trailer benedict cumberbatch",
+              "the roses official trailer",
+              "the roses olivia colman",
+              "the roses benedict cumberbatch",
+              "benedict cumberbatch new movie trailer",
+              "the roses trailer cumberbatch",
+              "the roses movie trailer",
+              "trailer",
+              "benedict cumberbatch movies 2024",
+              "benedict cumberbatch new movie",
+              "benedict and olivia",
+              "cumberbatch colman kiss",
+              "war of the roses movie trailer",
+              "the roses trailer 2025"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Roses | Official Trailer | Benedict Cumberbatch, Olivia Colman",
+              "description": "All’s fair when love is war. #TheRoses, starring Benedict Cumberbatch, Olivia Colman, Andy Samberg, Allison Janney. In theaters August 29th.  \n\n'The Roses' movie info: https://movief.one/the-roses\n\nFor more movie content visit: https://www.moviefone.com/\n\nSubscribe to our channel: http://www.youtube.com/subscription_center?add_user=MoviefoneVideo\n\nFOLLOW US\nFacebook: https://www.facebook.com/moviefone/\nTwitter: https://twitter.com/moviefone\nInstagram: https://www.instagram.com/moviefone/"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "108814",
+            "likeCount": "639",
+            "favoriteCount": "0",
+            "commentCount": "88"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -6228,7 +6894,7 @@
         "original_language": "en",
         "original_title": "xXx",
         "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 144.5066,
+        "popularity": 147.8281,
         "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "production_companies": [
           {
@@ -6279,7 +6945,7 @@
         "title": "xXx",
         "video": false,
         "vote_average": 5.965,
-        "vote_count": 4605
+        "vote_count": 4607
       }
     },
     "ratings": {
@@ -6349,9 +7015,61 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "CKoXMLz5sEgbn6siDJHXSb7-1bU",
+          "id": "NgPdDDzVhkA",
+          "snippet": {
+            "publishedAt": "2022-08-09T19:00:15Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "XXX [2002] - Official Trailer (HD)",
+            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "XXX [2002] - Official Trailer (HD)",
+              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "8298697",
+            "likeCount": "7268",
+            "favoriteCount": "0",
+            "commentCount": "289"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -7197,130 +7915,166 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1306525,
-      "imdb_id": "tt32643830",
-      "title": "The Elixir",
-      "release_date": "2025-10-22",
+      "tmdb_id": 1078605,
+      "imdb_id": "tt26581740",
+      "title": "Weapons",
+      "release_date": "2025-08-04",
       "release_year": "2025",
       "genres": [
         "Horror",
-        "Thriller"
+        "Mystery"
       ],
       "production_countries": [
-        "ID"
+        "US"
       ],
-      "language": "id",
+      "language": "en",
       "studio_distributor": [
-        "Mowin Pictures"
+        "New Line Cinema",
+        "Subconscious",
+        "Vertigo Entertainment",
+        "BoulderLight Pictures",
+        "Domain Entertainment"
       ],
-      "runtime": 118,
-      "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses."
+      "runtime": 129,
+      "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 38000000,
+      "revenue": 265894217,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 6.997,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
+        "belongs_to_collection": {
+          "id": 1531466,
+          "name": "Weapons Collection",
+          "poster_path": "/xoeSn325CFQLt1WC9jSBBTsvPWR.jpg",
+          "backdrop_path": "/xt2V8A0NVw4lUIUU8gRLnrCBrIR.jpg"
+        },
+        "budget": 38000000,
         "genres": [
           {
             "id": 27,
             "name": "Horror"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81624009",
-        "id": 1306525,
-        "imdb_id": "tt32643830",
+        "homepage": "https://www.warnerbros.com/movies/weapons",
+        "id": 1078605,
+        "imdb_id": "tt26581740",
         "origin_country": [
-          "ID"
+          "US"
         ],
-        "original_language": "id",
-        "original_title": "Abadi Nan Jaya",
-        "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
-        "popularity": 268.1553,
-        "poster_path": "/wvWRCDR0wScmrJVAh2iipBSxkZw.jpg",
+        "original_language": "en",
+        "original_title": "Weapons",
+        "overview": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "popularity": 88.4992,
+        "poster_path": "/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg",
         "production_companies": [
           {
-            "id": 237116,
+            "id": 12,
+            "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+            "name": "New Line Cinema",
+            "origin_country": "US"
+          },
+          {
+            "id": 240675,
             "logo_path": null,
-            "name": "Mowin Pictures",
-            "origin_country": "ID"
+            "name": "Subconscious",
+            "origin_country": "US"
+          },
+          {
+            "id": 829,
+            "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+            "name": "Vertigo Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 18609,
+            "logo_path": "/pxtYCfl1DWzvizqZcYwE4NefOOF.png",
+            "name": "BoulderLight Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "ID",
-            "name": "Indonesia"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-22",
-        "revenue": 0,
-        "runtime": 118,
+        "release_date": "2025-08-04",
+        "revenue": 265894217,
+        "runtime": 129,
         "spoken_languages": [
           {
-            "english_name": "Indonesian",
-            "iso_639_1": "id",
-            "name": "Bahasa indonesia"
-          },
-          {
-            "english_name": "Javanese",
-            "iso_639_1": "jv",
-            "name": ""
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Elixir",
+        "tagline": "Last night at 2:17 AM, every child from Mrs. Gandy's class woke up, got out of bed, went downstairs, opened the front door, walked into the dark ...and they never came back.",
+        "title": "Weapons",
         "video": false,
-        "vote_average": 5.57,
-        "vote_count": 65
+        "vote_average": 7.36,
+        "vote_count": 2079
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.57,
+      "tmdb_vote_average": 7.36,
       "omdb": {
-        "Title": "The Elixir",
+        "Title": "Weapons",
         "Year": "2025",
-        "Rated": "TV-MA",
-        "Released": "23 Oct 2025",
-        "Runtime": "116 min",
-        "Genre": "Horror, Thriller",
-        "Director": "Kimo Stamboel",
-        "Writer": "Agasyah Karim, Khalid Kashogi, Kimo Stamboel",
-        "Actors": "Mikha Tambayong, Eva Celia Latjuba, Donny Damara",
-        "Plot": "A dysfunctional family running a renowned herbal medicine business. The owner of the company attempts to innovate by creating a new potion, which ends up triggering a zombie outbreak.",
-        "Language": "Indonesian",
-        "Country": "Indonesia",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzUyZTgyODctNWY2MC00NDMxLThhZjUtNDUxODA4YTYwZWIzXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "R",
+        "Released": "08 Aug 2025",
+        "Runtime": "128 min",
+        "Genre": "Horror, Mystery",
+        "Director": "Zach Cregger",
+        "Writer": "Zach Cregger",
+        "Actors": "Julia Garner, Josh Brolin, Alden Ehrenreich",
+        "Plot": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTBhNWJjZWItYzY3NS00M2NkLThmOWYtYTlmNzBmN2UxZWFjXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.5/10"
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "81/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.5",
-        "imdbVotes": "934",
-        "imdbID": "tt32643830",
+        "Metascore": "81",
+        "imdbRating": "7.6",
+        "imdbVotes": "159,990",
+        "imdbID": "tt26581740",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$150,200,554",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_elixir\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/weapons\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -7344,9 +8098,83 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "HOXtzvVAHR9UKpJZWfBFQNs77G0",
+          "id": "OpThntO9ixc",
+          "snippet": {
+            "publishedAt": "2025-04-29T13:17:07Z",
+            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+            "title": "Weapons | Official Trailer",
+            "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/OpThntO9ixc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Warner Bros.",
+            "tags": [
+              "WB",
+              "WarnerBros",
+              "NewLineCinema",
+              "Weapons",
+              "ZachCregger",
+              "Horror",
+              "Thriller",
+              "NewTrailer",
+              "ComingSoon",
+              "IMAX",
+              "JoshBrolin",
+              "JuliaGarner",
+              "VertigoEntertainment",
+              "August2025",
+              "Subconscious",
+              "Barbarian",
+              "Alden Ehrenreich",
+              "Austin Abrams",
+              "Benedict Wong",
+              "Amy Madigan"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Weapons | Official Trailer",
+              "description": "There’s something wrong in Maybrook. #WeaponsMovie - only in theaters August 8. \n\nFrom New Line Cinema and Zach Cregger, the wholly original mind behind Barbarian, comes a new horror/thriller: Weapons.\n\nWhen all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.\n\nThe film stars Josh Brolin, Julia Garner, Alden Ehrenreich, Austin Abrams, Cary Christopher, with Benedict Wong, and Amy Madigan.\n\nCregger directs from his own screenplay, and also produces alongside Roy Lee, Miri Yoon, J.D. Lifshitz and Raphael Margules, with Michelle Morrissey and Josh Brolin executive producing. The filmmaker’s creative team behind the camera includes director of photography Larkin Seiple, production designer Tom Hammock, editor Joe Murphy and costume designer Trish Sommerville. The music is by Ryan Holladay, Hays Holladay and Zach Cregger.\n\nNew Line Cinema Presents a Subconscious/Vertigo Entertainment/Boulderlight Pictures Production, a Zach Cregger Film, Weapons. It will be distributed by Warner Bros. Pictures, and released in theaters and IMAX nationwide on August 8, 2025, and internationally beginning in August 2025."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "31078248",
+            "likeCount": "194606",
+            "favoriteCount": "0",
+            "commentCount": "11380"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -7354,18 +8182,20 @@
     },
     "creative": {
       "director": [
-        "Kimo Stamboel"
+        "Zach Cregger"
       ],
-      "writers": [],
+      "writers": [
+        "Zach Cregger"
+      ],
       "cast_top": [
-        "Mikha Tambayong",
-        "Eva Celia",
-        "Marthino Lio",
-        "Dimas Anggara",
-        "Varen Arianda Calief",
-        "Ardit Erwandha",
-        "Claresta Taufan",
-        "Donny Damara"
+        "Julia Garner",
+        "Josh Brolin",
+        "Alden Ehrenreich",
+        "Austin Abrams",
+        "Benedict Wong",
+        "Amy Madigan",
+        "Cary Christopher",
+        "Toby Huss"
       ],
       "star_power": {
         "actor_count": 8
@@ -8192,142 +9022,126 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1327862,
-      "imdb_id": "tt33088452",
-      "title": "Regretting You",
-      "release_date": "2025-10-22",
+      "tmdb_id": 1218925,
+      "imdb_id": "tt30472557",
+      "title": "Chainsaw Man - The Movie: Reze Arc",
+      "release_date": "2025-09-19",
       "release_year": "2025",
       "genres": [
+        "Animation",
+        "Action",
         "Romance",
-        "Drama"
+        "Fantasy"
       ],
       "production_countries": [
-        "US",
-        "DE"
+        "JP"
       ],
-      "language": "en",
+      "language": "ja",
       "studio_distributor": [
-        "Harbinger Pictures",
-        "Frayed Pages Media",
-        "Domain Entertainment",
-        "Constantin Film"
+        "MAPPA"
       ],
-      "runtime": 116,
-      "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other."
+      "runtime": 100,
+      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 0,
+      "budget": 0,
+      "revenue": 51524244,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/dKPwnryTkgL0JihpQBnLvZTQnvT.jpg",
+        "backdrop_path": "/r3d74bF46TkiNX8kyOk1AeD9k0n.jpg",
         "belongs_to_collection": null,
-        "budget": 30000000,
+        "budget": 0,
         "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
+          {
+            "id": 28,
+            "name": "Action"
+          },
           {
             "id": 10749,
             "name": "Romance"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.regrettingyoumovie.com",
-        "id": 1327862,
-        "imdb_id": "tt33088452",
+        "homepage": "https://chainsawman.movie",
+        "id": 1218925,
+        "imdb_id": "tt30472557",
         "origin_country": [
-          "DE"
+          "JP"
         ],
-        "original_language": "en",
-        "original_title": "Regretting You",
-        "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
-        "popularity": 91.3476,
-        "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+        "original_language": "ja",
+        "original_title": "チェンソーマン レゼ篇",
+        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+        "popularity": 157.2736,
+        "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
         "production_companies": [
           {
-            "id": 95966,
-            "logo_path": null,
-            "name": "Harbinger Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 140519,
-            "logo_path": null,
-            "name": "Frayed Pages Media",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 47,
-            "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
-            "name": "Constantin Film",
-            "origin_country": "DE"
+            "id": 21444,
+            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
+            "name": "MAPPA",
+            "origin_country": "JP"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "DE",
-            "name": "Germany"
+            "iso_3166_1": "JP",
+            "name": "Japan"
           }
         ],
-        "release_date": "2025-10-22",
-        "revenue": 0,
-        "runtime": 116,
+        "release_date": "2025-09-19",
+        "revenue": 51524244,
+        "runtime": 100,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
           }
         ],
         "status": "Released",
-        "tagline": "Risk everything. Regret nothing.",
-        "title": "Regretting You",
+        "tagline": "everyone’s after my chainsaw heart! what about denji’s heart?!?",
+        "title": "Chainsaw Man - The Movie: Reze Arc",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 26
+        "vote_average": 8.088,
+        "vote_count": 85
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 8.088,
       "omdb": {
-        "Title": "Regretting You",
+        "Title": "Chainsaw Man - The Movie: Reze Arc",
         "Year": "2025",
-        "Rated": "N/A",
+        "Rated": "R",
         "Released": "24 Oct 2025",
-        "Runtime": "117 min",
-        "Genre": "Drama",
-        "Director": "Josh Boone",
-        "Writer": "Colleen Hoover, Susan McMartin",
-        "Actors": "Allison Williams, Mckenna Grace, Dave Franco",
-        "Plot": "Centers on the strained relationship between young mother Morgan Grant and her teenage daughter Clara, exacerbated by Morgan's husband Chris's tragic death, forcing them to navigate life's challenges together.",
-        "Language": "English",
-        "Country": "Germany, United States",
+        "Runtime": "100 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Tatsuya Yoshihara",
+        "Writer": "Tatsuki Fujimoto, Hiroshi Seko",
+        "Actors": "Kikunosuke Toya, Tomori Kusunoki, Shôgo Sakata",
+        "Plot": "Denji encounters a new romantic interest, Reze, who works at a coffee café.",
+        "Language": "Japanese",
+        "Country": "Japan",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
-            "Source": "Rotten Tomatoes",
-            "Value": "30%"
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
           }
         ],
         "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt33088452",
+        "imdbRating": "8.5",
+        "imdbVotes": "3,800",
+        "imdbID": "tt30472557",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -8336,7 +9150,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8360,9 +9174,61 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "PyG9kZAoOexy_yf1dilFdtlD5Ww",
+          "id": "tAzAhDNdehs",
+          "snippet": {
+            "publishedAt": "2025-07-03T23:50:00Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
+            "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
+              "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "874138",
+            "likeCount": "26083",
+            "favoriteCount": "0",
+            "commentCount": "1011"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -8370,18 +9236,18 @@
     },
     "creative": {
       "director": [
-        "Josh Boone"
+        "Tatsuya Yoshihara"
       ],
       "writers": [],
       "cast_top": [
-        "Mckenna Grace",
-        "Allison Williams",
-        "Dave Franco",
-        "Mason Thames",
-        "Willa Fitzgerald",
-        "Scott Eastwood",
-        "Clancy Brown",
-        "Sam Morelos"
+        "Kikunosuke Toya",
+        "Reina Ueda",
+        "Shiori Izawa",
+        "Tomori Kusunoki",
+        "Shogo Sakata",
+        "Fairouz Ai",
+        "Karin Takahashi",
+        "Natsuki Hanae"
       ],
       "star_power": {
         "actor_count": 8
@@ -9208,157 +10074,141 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 157336,
-      "imdb_id": "tt0816692",
-      "title": "Interstellar",
-      "release_date": "2014-11-05",
-      "release_year": "2014",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
+      "release_year": "2025",
       "genres": [
-        "Adventure",
-        "Drama",
-        "Science Fiction"
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
-        "GB",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Legendary Pictures",
-        "Syncopy",
-        "Lynda Obst Productions"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 169,
-      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 165000000,
-      "revenue": 746606706,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": 4.525,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
         "belongs_to_collection": null,
-        "budget": 165000000,
+        "budget": 200000000,
         "genres": [
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          },
           {
             "id": 878,
             "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "http://www.interstellarmovie.net/",
-        "id": 157336,
-        "imdb_id": "tt0816692",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Interstellar",
-        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-        "popularity": 54.9925,
-        "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 138.8317,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 923,
-            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
-            "name": "Legendary Pictures",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 9996,
-            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
-            "name": "Syncopy",
-            "origin_country": "GB"
-          },
-          {
-            "id": 13769,
+            "id": 176762,
             "logo_path": null,
-            "name": "Lynda Obst Productions",
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
-          },
-          {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2014-11-05",
-        "revenue": 746606706,
-        "runtime": 169,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "Mankind was born on Earth. It was never meant to die here.",
-        "title": "Interstellar",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 8.462,
-        "vote_count": 38122
+        "vote_average": 7.109,
+        "vote_count": 2103
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.462,
+      "tmdb_vote_average": 7.109,
       "omdb": {
-        "Title": "Interstellar",
-        "Year": "2014",
+        "Title": "The Fantastic Four: First Steps",
+        "Year": "2025",
         "Rated": "PG-13",
-        "Released": "07 Nov 2014",
-        "Runtime": "169 min",
-        "Genre": "Adventure, Drama, Sci-Fi",
-        "Director": "Christopher Nolan",
-        "Writer": "Jonathan Nolan, Christopher Nolan",
-        "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
-        "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "United States, United Kingdom, Canada",
-        "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.7/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "74/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "74",
-        "imdbRating": "8.7",
-        "imdbVotes": "2,409,911",
-        "imdbID": "tt0816692",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$203,227,580",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/interstellar_2014\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/interstellar_2014\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9382,9 +10232,65 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "youtube_not_configured"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "vVDi3KvsjiArA8gORxQPwhN3_4I",
+          "id": "18QQWa5MEcs",
+          "snippet": {
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "16901481",
+            "likeCount": "310162",
+            "favoriteCount": "0",
+            "commentCount": "20524"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -9392,21 +10298,18 @@
     },
     "creative": {
       "director": [
-        "Christopher Nolan"
+        "Matt Shakman"
       ],
-      "writers": [
-        "Jonathan Nolan",
-        "Christopher Nolan"
-      ],
+      "writers": [],
       "cast_top": [
-        "Matthew McConaughey",
-        "Anne Hathaway",
-        "Michael Caine",
-        "Jessica Chastain",
-        "Casey Affleck",
-        "Wes Bentley",
-        "Topher Grace",
-        "Mackenzie Foy"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
