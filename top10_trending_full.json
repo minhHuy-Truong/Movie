@@ -172,7 +172,273 @@
     },
     "social": {
       "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
+        "interest_over_time": [
+          {
+            "date": "2024-11-03T00:00:00",
+            "Frankenstein": 14,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-10T00:00:00",
+            "Frankenstein": 12,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-17T00:00:00",
+            "Frankenstein": 12,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "Frankenstein": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Frankenstein": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Frankenstein": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Frankenstein": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Frankenstein": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Frankenstein": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Frankenstein": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Frankenstein": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Frankenstein": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Frankenstein": 13,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Frankenstein": 14,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Frankenstein": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Frankenstein": 14,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Frankenstein": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Frankenstein": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Frankenstein": 32,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Frankenstein": 28,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Frankenstein": 38,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Frankenstein": 54,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Frankenstein": 72,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Frankenstein": 100,
+            "isPartial": true
+          }
+        ]
       },
       "x_search": {
         "attempts": [
@@ -189,7 +455,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "vgwjvfo6oaYvbLK_IopEkdGiysE",
+          "etag": "ycFsxOiwYTq0igJYOzMJYtdQBSo",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -265,10 +531,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11109660",
-            "likeCount": "160993",
+            "viewCount": "11168482",
+            "likeCount": "161507",
             "favoriteCount": "0",
-            "commentCount": "6621"
+            "commentCount": "6654"
           }
         }
       ],
@@ -285,8 +551,8 @@
       "cast_top": [
         "Oscar Isaac",
         "Jacob Elordi",
-        "Mia Goth",
         "Christoph Waltz",
+        "Mia Goth",
         "Felix Kammerer",
         "Charles Dance",
         "David Bradley",
@@ -1117,77 +1383,88 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 7451,
-      "imdb_id": "tt0295701",
-      "title": "xXx",
-      "release_date": "2002-08-09",
-      "release_year": "2002",
+      "tmdb_id": 1197137,
+      "imdb_id": "tt29644189",
+      "title": "Black Phone 2",
+      "release_date": "2025-10-15",
+      "release_year": "2025",
       "genres": [
-        "Action",
-        "Adventure",
-        "Thriller",
-        "Crime"
+        "Horror",
+        "Thriller"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Revolution Studios"
+        "Blumhouse Productions",
+        "Universal Pictures",
+        "Crooked Highway",
+        "Divide / Conquer"
       ],
-      "runtime": 124,
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
+      "runtime": 114,
+      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
     },
     "commercial": {
-      "budget": 70000000,
-      "revenue": 277448382,
+      "budget": 30000000,
+      "revenue": 110695131,
       "opening_weekend": null,
-      "roi": 3.964,
+      "roi": 3.69,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+        "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
         "belongs_to_collection": {
-          "id": 52785,
-          "name": "xXx Collection",
-          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
-          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
+          "id": 1197140,
+          "name": "The Black Phone Collection",
+          "poster_path": "/sLA3wg5zKicSrpv1l9T537tJNEc.jpg",
+          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
         },
-        "budget": 70000000,
+        "budget": 30000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
+            "id": 27,
+            "name": "Horror"
           },
           {
             "id": 53,
             "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
           }
         ],
-        "homepage": "http://www.sonypictures.com/movies/xxx/",
-        "id": 7451,
-        "imdb_id": "tt0295701",
+        "homepage": "http://www.blackphonemovie.com",
+        "id": 1197137,
+        "imdb_id": "tt29644189",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "xXx",
-        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 128.3068,
-        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "original_title": "Black Phone 2",
+        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+        "popularity": 352.407,
+        "poster_path": "/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
         "production_companies": [
           {
-            "id": 497,
-            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-            "name": "Revolution Studios",
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 162439,
+            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
+            "name": "Crooked Highway",
+            "origin_country": "US"
+          },
+          {
+            "id": 89115,
+            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+            "name": "Divide / Conquer",
             "origin_country": "US"
           }
         ],
@@ -1197,88 +1474,73 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2002-08-09",
-        "revenue": 277448382,
-        "runtime": 124,
+        "release_date": "2025-10-15",
+        "revenue": 110695131,
+        "runtime": 114,
         "spoken_languages": [
-          {
-            "english_name": "Czech",
-            "iso_639_1": "cs",
-            "name": "Český"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
           },
           {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
-          {
             "english_name": "Spanish",
             "iso_639_1": "es",
             "name": "Español"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "A new breed of secret agent.",
-        "title": "xXx",
+        "tagline": "Dead is just a word.",
+        "title": "Black Phone 2",
         "video": false,
-        "vote_average": 6.0,
-        "vote_count": 4623
+        "vote_average": 7.245,
+        "vote_count": 329
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.0,
+      "tmdb_vote_average": 7.245,
       "omdb": {
-        "Title": "xXx",
-        "Year": "2002",
-        "Rated": "PG-13",
-        "Released": "09 Aug 2002",
-        "Runtime": "124 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Rob Cohen",
-        "Writer": "Rich Wilkes",
-        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
-        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
-        "Language": "English, German, Spanish, Russian, Czech",
-        "Country": "United States",
-        "Awards": "4 wins & 14 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Title": "Black Phone 2",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "17 Oct 2025",
+        "Runtime": "114 min",
+        "Genre": "Horror",
+        "Director": "Scott Derrickson",
+        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
+        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
+        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+        "Language": "English",
+        "Country": "United States, Canada",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.9/10"
+            "Value": "6.7/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "48%"
+            "Value": "73%"
           },
           {
             "Source": "Metacritic",
-            "Value": "48/100"
+            "Value": "59/100"
           }
         ],
-        "Metascore": "48",
-        "imdbRating": "5.9",
-        "imdbVotes": "191,427",
-        "imdbID": "tt0295701",
+        "Metascore": "59",
+        "imdbRating": "6.7",
+        "imdbVotes": "8,046",
+        "imdbID": "tt29644189",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$142,109,382",
+        "BoxOffice": "$27,332,040",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1305,55 +1567,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "EPldy6fGodvmhFdGmtkHRQ5appE",
-          "id": "NgPdDDzVhkA",
+          "etag": "PCIigTK5TyuoAlD1CUBS5NApT-0",
+          "id": "DdR-gzFZoDk",
           "snippet": {
-            "publishedAt": "2022-08-09T19:00:15Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "XXX [2002] - Official Trailer (HD)",
-            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
+            "publishedAt": "2025-09-04T15:00:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Black Phone 2 | Official Trailer 2",
+            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "XXX [2002] - Official Trailer (HD)",
-              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
+              "title": "Black Phone 2 | Official Trailer 2",
+              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "8415494",
-            "likeCount": "7328",
+            "viewCount": "1808468",
+            "likeCount": "28474",
             "favoriteCount": "0",
-            "commentCount": "290"
+            "commentCount": "1536"
           }
         }
       ],
@@ -1364,18 +1626,21 @@
     },
     "creative": {
       "director": [
-        "Rob Cohen"
+        "Scott Derrickson"
       ],
-      "writers": [],
+      "writers": [
+        "Scott Derrickson",
+        "C. Robert Cargill"
+      ],
       "cast_top": [
-        "Vin Diesel",
-        "Asia Argento",
-        "Marton Csokas",
-        "Samuel L. Jackson",
-        "Michael Roof",
-        "Richy Müller",
-        "Werner Daehn",
-        "Petr Jákl"
+        "Ethan Hawke",
+        "Mason Thames",
+        "Madeleine McGraw",
+        "Demián Bichir",
+        "Miguel Mora",
+        "Jeremy Davies",
+        "Arianna Rivas",
+        "Maev Beaty"
       ],
       "star_power": {
         "actor_count": 8
@@ -2314,12 +2579,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 6.714,
-        "vote_count": 91
+        "vote_average": 6.865,
+        "vote_count": 100
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.714,
+      "tmdb_vote_average": 6.865,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -2481,7 +2746,7 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 20,
+            "Predator: Badlands": 19,
             "isPartial": false
           },
           {
@@ -2611,7 +2876,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 11,
+            "Predator: Badlands": 10,
             "isPartial": false
           },
           {
@@ -2641,7 +2906,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "bMtv86EuZHXQJnzZBvNPGNhjQYc",
+          "etag": "CRFYZza3c5tN7uub9fHcA_N1HiI",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -2689,10 +2954,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "23494996",
-            "likeCount": "305042",
+            "viewCount": "23588629",
+            "likeCount": "305549",
             "favoriteCount": "0",
-            "commentCount": "24858"
+            "commentCount": "24905"
           }
         }
       ],
@@ -3541,88 +3806,89 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1197137,
-      "imdb_id": "tt29644189",
-      "title": "Black Phone 2",
-      "release_date": "2025-10-15",
+      "tmdb_id": 1571470,
+      "imdb_id": "tt28283547",
+      "title": "The Rats: A Witcher Tale",
+      "release_date": "2025-10-29",
       "release_year": "2025",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Fantasy",
+        "Drama",
+        "Adventure"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "PL"
       ],
       "language": "en",
       "studio_distributor": [
-        "Blumhouse Productions",
-        "Universal Pictures",
-        "Crooked Highway",
-        "Divide / Conquer"
+        "Platige Films",
+        "Hivemind",
+        "Little Schmidt Productions",
+        "Hailzor"
       ],
-      "runtime": 114,
-      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
+      "runtime": 83,
+      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 110695131,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 3.69,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
-        "belongs_to_collection": {
-          "id": 1197140,
-          "name": "The Black Phone Collection",
-          "poster_path": "/sLA3wg5zKicSrpv1l9T537tJNEc.jpg",
-          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
-        },
-        "budget": 30000000,
+        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "http://www.blackphonemovie.com",
-        "id": 1197137,
-        "imdb_id": "tt29644189",
+        "homepage": "https://www.netflix.com/title/81572393",
+        "id": 1571470,
+        "imdb_id": "tt28283547",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Black Phone 2",
-        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-        "popularity": 352.407,
-        "poster_path": "/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+        "original_title": "The Rats: A Witcher Tale",
+        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+        "popularity": 98.6847,
+        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
         "production_companies": [
           {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
+            "id": 137769,
+            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+            "name": "Platige Films",
+            "origin_country": "PL"
+          },
+          {
+            "id": 124634,
+            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+            "name": "Hivemind",
             "origin_country": "US"
           },
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
+            "id": 162859,
+            "logo_path": null,
+            "name": "Little Schmidt Productions",
             "origin_country": "US"
           },
           {
-            "id": 162439,
-            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
-            "name": "Crooked Highway",
-            "origin_country": "US"
-          },
-          {
-            "id": 89115,
-            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-            "name": "Divide / Conquer",
+            "id": 279361,
+            "logo_path": null,
+            "name": "Hailzor",
             "origin_country": "US"
           }
         ],
@@ -3630,75 +3896,66 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "PL",
+            "name": "Poland"
           }
         ],
-        "release_date": "2025-10-15",
-        "revenue": 110695131,
-        "runtime": 114,
+        "release_date": "2025-10-29",
+        "revenue": 0,
+        "runtime": 83,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
           }
         ],
         "status": "Released",
-        "tagline": "Dead is just a word.",
-        "title": "Black Phone 2",
+        "tagline": "",
+        "title": "The Rats: A Witcher Tale",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 322
+        "vote_average": 5.0,
+        "vote_count": 55
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 5.0,
       "omdb": {
-        "Title": "Black Phone 2",
+        "Title": "The Rats: A Witcher Tale",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
-        "Runtime": "114 min",
-        "Genre": "Horror",
-        "Director": "Scott Derrickson",
-        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
-        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
-        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+        "Rated": "N/A",
+        "Released": "30 Oct 2025",
+        "Runtime": "82 min",
+        "Genre": "Action",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "N/A",
+        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
         "Language": "English",
-        "Country": "United States, Canada",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.7/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "59/100"
+            "Value": "5.0/10"
           }
         ],
-        "Metascore": "59",
-        "imdbRating": "6.7",
-        "imdbVotes": "8,046",
-        "imdbID": "tt29644189",
+        "Metascore": "N/A",
+        "imdbRating": "5.0",
+        "imdbVotes": "33",
+        "imdbID": "tt28283547",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$27,332,040",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -3711,267 +3968,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Black Phone 2": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Black Phone 2": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Black Phone 2": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Black Phone 2": 9,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Black Phone 2": 3,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Black Phone 2": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Black Phone 2": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Black Phone 2": 3,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Black Phone 2": 4,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Black Phone 2": 3,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Black Phone 2": 4,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Black Phone 2": 4,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Black Phone 2": 5,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Black Phone 2": 5,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Black Phone 2": 5,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Black Phone 2": 6,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Black Phone 2": 8,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Black Phone 2": 9,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Black Phone 2": 7,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Black Phone 2": 11,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Black Phone 2": 19,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Black Phone 2": 26,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Black Phone 2": 88,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Black Phone 2": 100,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Black Phone 2": 58,
+            "The Rats: A Witcher Tale": 39,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Black Phone 2": 47,
+            "The Rats: A Witcher Tale": 100,
             "isPartial": true
           }
         ]
@@ -3991,55 +4248,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "HSSYw3nz4NgAfmeHtMrUQzP-a8A",
-          "id": "DdR-gzFZoDk",
+          "etag": "X0e1VHAUgBFM8U-KNC9z0o-RBFg",
+          "id": "c-mDyBxBeLI",
           "snippet": {
-            "publishedAt": "2025-09-04T15:00:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Black Phone 2 | Official Trailer 2",
-            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
+            "publishedAt": "2025-09-23T16:01:06Z",
+            "channelId": "UCKhCAy_Nj8bVdE1px1AKq6Q",
+            "title": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
+            "description": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
+                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "After TV",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Black Phone 2 | Official Trailer 2",
-              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
+              "title": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
+              "description": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1800908",
-            "likeCount": "28436",
+            "viewCount": "82128",
+            "likeCount": "92",
             "favoriteCount": "0",
-            "commentCount": "1535"
+            "commentCount": "13"
           }
         }
       ],
@@ -4050,21 +4307,21 @@
     },
     "creative": {
       "director": [
-        "Scott Derrickson"
+        "Mairzee Almas"
       ],
       "writers": [
-        "Scott Derrickson",
-        "C. Robert Cargill"
+        "Haily Hall",
+        "Lauren Schmidt Hissrich"
       ],
       "cast_top": [
-        "Ethan Hawke",
-        "Mason Thames",
-        "Madeleine McGraw",
-        "Demián Bichir",
-        "Miguel Mora",
-        "Jeremy Davies",
-        "Arianna Rivas",
-        "Maev Beaty"
+        "Christelle Elwin",
+        "Ben Radcliffe",
+        "Fabian McCallum",
+        "Aggy K. Adams",
+        "Connor Crawford",
+        "Juliette Alexandra",
+        "Dolph Lundgren",
+        "Ben Robson"
       ],
       "star_power": {
         "actor_count": 8
@@ -4891,29 +5148,29 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 1571470,
-      "imdb_id": "tt28283547",
-      "title": "The Rats: A Witcher Tale",
-      "release_date": "2025-10-29",
+      "tmdb_id": 1272166,
+      "imdb_id": "tt32063098",
+      "title": "Ballad of a Small Player",
+      "release_date": "2025-10-15",
       "release_year": "2025",
       "genres": [
-        "Fantasy",
-        "Drama",
-        "Adventure"
+        "Mystery",
+        "Thriller",
+        "Crime",
+        "Drama"
       ],
       "production_countries": [
-        "US",
-        "PL"
+        "DE",
+        "GB"
       ],
       "language": "en",
       "studio_distributor": [
-        "Platige Films",
-        "Hivemind",
-        "Little Schmidt Productions",
-        "Hailzor"
+        "Good Chaos",
+        "Stigma Films",
+        "Nine Hours"
       ],
-      "runtime": 83,
-      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
+      "runtime": 101,
+      "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table."
     },
     "commercial": {
       "budget": 0,
@@ -4923,74 +5180,77 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+        "backdrop_path": "/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
         "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 9648,
+            "name": "Mystery"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
           },
           {
             "id": 18,
             "name": "Drama"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81572393",
-        "id": 1571470,
-        "imdb_id": "tt28283547",
+        "homepage": "https://www.netflix.com/title/81692347",
+        "id": 1272166,
+        "imdb_id": "tt32063098",
         "origin_country": [
-          "US"
+          "DE"
         ],
         "original_language": "en",
-        "original_title": "The Rats: A Witcher Tale",
-        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
-        "popularity": 98.6847,
-        "poster_path": "/5Gr4amaB1xxeYAEMOdrVutaWwgz.jpg",
+        "original_title": "Ballad of a Small Player",
+        "overview": "Amid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
+        "popularity": 43.5044,
+        "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
         "production_companies": [
           {
-            "id": 137769,
-            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
-            "name": "Platige Films",
-            "origin_country": "PL"
+            "id": 182028,
+            "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+            "name": "Good Chaos",
+            "origin_country": "GB"
           },
           {
-            "id": 124634,
-            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
-            "name": "Hivemind",
-            "origin_country": "US"
+            "id": 74390,
+            "logo_path": "/dP2JoIyAHBGp2V9r0r8LkHcGXHP.png",
+            "name": "Stigma Films",
+            "origin_country": "GB"
           },
           {
-            "id": 162859,
-            "logo_path": null,
-            "name": "Little Schmidt Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 279361,
-            "logo_path": null,
-            "name": "Hailzor",
-            "origin_country": "US"
+            "id": 227641,
+            "logo_path": "/oX3s6MJ8yJU9QUNYQhyXtjmGlZA.png",
+            "name": "Nine Hours",
+            "origin_country": "DE"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "DE",
+            "name": "Germany"
           },
           {
-            "iso_3166_1": "PL",
-            "name": "Poland"
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-10-29",
+        "release_date": "2025-10-15",
         "revenue": 0,
-        "runtime": 83,
+        "runtime": 101,
         "spoken_languages": [
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
@@ -4999,39 +5259,47 @@
         ],
         "status": "Released",
         "tagline": "",
-        "title": "The Rats: A Witcher Tale",
+        "title": "Ballad of a Small Player",
         "video": false,
-        "vote_average": 5.0,
-        "vote_count": 55
+        "vote_average": 5.9,
+        "vote_count": 141
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.0,
+      "tmdb_vote_average": 5.9,
       "omdb": {
-        "Title": "The Rats: A Witcher Tale",
+        "Title": "Ballad of a Small Player",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "30 Oct 2025",
-        "Runtime": "82 min",
-        "Genre": "Action",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "N/A",
-        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "R",
+        "Released": "29 Oct 2025",
+        "Runtime": "101 min",
+        "Genre": "Crime, Drama, Mystery",
+        "Director": "Edward Berger",
+        "Writer": "Rowan Joffe, Lawrence Osborne",
+        "Actors": "Colin Farrell, Tilda Swinton, Alex Jennings",
+        "Plot": "When his past and his debts start to catch up with him, a high-stakes gambler laying low in Macau encounters a kindred spirit who might just hold the key to his salvation.",
+        "Language": "English, Cantonese",
+        "Country": "United Kingdom, Germany",
+        "Awards": "1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMWZhYzE5ODctNTUwYi00ZGE3LTliNTgtZTNkYjcxZWMxMWJjXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.0/10"
+            "Value": "5.8/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "49/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.0",
-        "imdbVotes": "33",
-        "imdbID": "tt28283547",
+        "Metascore": "49",
+        "imdbRating": "5.8",
+        "imdbVotes": "4,099",
+        "imdbID": "tt32063098",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5040,7 +5308,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/ballad_of_a_small_player\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/ballad_of_a_small_player\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5050,273 +5318,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-03T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Rats: A Witcher Tale": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "The Rats: A Witcher Tale": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "The Rats: A Witcher Tale": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -5333,55 +5335,77 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "8oWJK-5l0BiGtS40KyAnPvaHrdI",
-          "id": "c-mDyBxBeLI",
+          "etag": "8GrItPI5rk3R3Z902headf52GF0",
+          "id": "z1B5W55TFyo",
           "snippet": {
-            "publishedAt": "2025-09-23T16:01:06Z",
-            "channelId": "UCKhCAy_Nj8bVdE1px1AKq6Q",
-            "title": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
-            "description": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
+            "publishedAt": "2025-10-07T14:00:04Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "Ballad of a Small Player | Official Trailer | Netflix",
+            "description": "Lord Doyle (Colin Farrell) is laying low in Macau – spending his days and nights on the casino floors, drinking heavily and gambling what little money he has left. Struggling to keep up with his fast-rising debts, he is offered a lifeline by the mysterious Dao Ming (Fala Chen), a casino employee with secrets of her own.\r\n\r\nHowever, in hot pursuit is Cynthia Blithe (Tilda Swinton) – a private investigator ready to confront Doyle with what he is running from. As Doyle tries to climb to salvation, the confines of reality start to close in.\r\n\r\nBALLAD OF A SMALL PLAYER is directed by Edward Berger (All Quiet On The Western Front, Conclave) and stars Colin Farrell, Fala Chen, Deanie Ip, Alex Jennings and Tilda Swinton.\r\n\r\nWatch Ballad of a Small Player, only on Netflix: https://www.netflix.com/title/81692347\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nBallad of a Small Player | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nAmid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/default.jpg",
+                "url": "https://i.ytimg.com/vi/z1B5W55TFyo/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/z1B5W55TFyo/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/z1B5W55TFyo/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/z1B5W55TFyo/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/c-mDyBxBeLI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/z1B5W55TFyo/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "After TV",
+            "channelTitle": "Netflix",
+            "tags": [
+              "Film",
+              "alex jennings",
+              "all quiet on the western front",
+              "book",
+              "casinos",
+              "colin",
+              "conclave",
+              "deanie ip",
+              "edward berger",
+              "fala chen",
+              "farrell",
+              "gambling",
+              "hong kong",
+              "lawrence osborne",
+              "macao",
+              "macau",
+              "movie",
+              "novel",
+              "tilda swinton",
+              "trailer"
+            ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know",
-              "description": "The Rats: A Witcher Tale SPINOFF Release Date, Trailer Updates and Everything We Know"
+              "title": "Ballad of a Small Player | Official Trailer | Netflix",
+              "description": "Lord Doyle (Colin Farrell) is laying low in Macau – spending his days and nights on the casino floors, drinking heavily and gambling what little money he has left. Struggling to keep up with his fast-rising debts, he is offered a lifeline by the mysterious Dao Ming (Fala Chen), a casino employee with secrets of her own.\r\n\r\nHowever, in hot pursuit is Cynthia Blithe (Tilda Swinton) – a private investigator ready to confront Doyle with what he is running from. As Doyle tries to climb to salvation, the confines of reality start to close in.\r\n\r\nBALLAD OF A SMALL PLAYER is directed by Edward Berger (All Quiet On The Western Front, Conclave) and stars Colin Farrell, Fala Chen, Deanie Ip, Alex Jennings and Tilda Swinton.\r\n\r\nWatch Ballad of a Small Player, only on Netflix: https://www.netflix.com/title/81692347\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nBallad of a Small Player | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nAmid the glittering casinos of Macau, a gambler running from his past — and his debts — becomes fascinated by an enigmatic woman at the baccarat table."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "81297",
-            "likeCount": "92",
+            "viewCount": "2536393",
+            "likeCount": "24018",
             "favoriteCount": "0",
-            "commentCount": "13"
+            "commentCount": "790"
           }
         }
       ],
@@ -5392,21 +5416,18 @@
     },
     "creative": {
       "director": [
-        "Mairzee Almas"
+        "Edward Berger"
       ],
-      "writers": [
-        "Haily Hall",
-        "Lauren Schmidt Hissrich"
-      ],
+      "writers": [],
       "cast_top": [
-        "Christelle Elwin",
-        "Ben Radcliffe",
-        "Fabian McCallum",
-        "Aggy K. Adams",
-        "Connor Crawford",
-        "Juliette Alexandra",
-        "Dolph Lundgren",
-        "Ben Robson"
+        "Colin Farrell",
+        "Fala Chen",
+        "Tilda Swinton",
+        "Deanie Ip",
+        "Alex Jennings",
+        "Jason Tobin",
+        "Adrienne Lau",
+        "Anthony Wong Chau-Sang"
       ],
       "star_power": {
         "actor_count": 8
@@ -6326,12 +6347,12 @@
         "tagline": "Need a miracle?",
         "title": "Good Fortune",
         "video": false,
-        "vote_average": 6.784,
-        "vote_count": 44
+        "vote_average": 6.9,
+        "vote_count": 50
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.784,
+      "tmdb_vote_average": 6.9,
       "omdb": {
         "Title": "Good Fortune",
         "Year": "2025",
@@ -6466,7 +6487,7 @@
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Good Fortune": 9,
+            "Good Fortune": 8,
             "isPartial": false
           },
           {
@@ -6521,7 +6542,7 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Good Fortune": 7,
+            "Good Fortune": 8,
             "isPartial": false
           },
           {
@@ -6566,7 +6587,7 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Good Fortune": 11,
+            "Good Fortune": 10,
             "isPartial": false
           },
           {
@@ -6581,7 +6602,7 @@
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Good Fortune": 15,
+            "Good Fortune": 14,
             "isPartial": false
           },
           {
@@ -6611,7 +6632,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Good Fortune": 18,
+            "Good Fortune": 17,
             "isPartial": false
           },
           {
@@ -6621,7 +6642,7 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Good Fortune": 28,
+            "Good Fortune": 32,
             "isPartial": false
           },
           {
@@ -6636,12 +6657,12 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Good Fortune": 98,
+            "Good Fortune": 99,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Good Fortune": 66,
+            "Good Fortune": 64,
             "isPartial": false
           },
           {
@@ -6666,7 +6687,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "EZOk7QbH2noBy_9eFIoj-MoiY84",
+          "etag": "8Ism2QaXY6voofMWD3vOSfr3AnM",
           "id": "ZKWndx83RwQ",
           "snippet": {
             "publishedAt": "2025-07-23T13:00:22Z",
@@ -6744,10 +6765,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6690726",
-            "likeCount": "78171",
+            "viewCount": "6701404",
+            "likeCount": "78231",
             "favoriteCount": "0",
-            "commentCount": "4705"
+            "commentCount": "4709"
           }
         }
       ],
@@ -7708,12 +7729,12 @@
         "tagline": "The unforgettable true story of a UFC legend.",
         "title": "The Smashing Machine",
         "video": false,
-        "vote_average": 6.4,
-        "vote_count": 133
+        "vote_average": 6.419,
+        "vote_count": 135
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.4,
+      "tmdb_vote_average": 6.419,
       "omdb": {
         "Title": "The Smashing Machine",
         "Year": "2025",
@@ -7782,7 +7803,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "LTgJ4JTTkFKV3ESk7wLeUvRRKwk",
+          "etag": "pqsbZz3S5CG_J-oPwNuE8h-RePA",
           "id": "aRpnP3LZ99g",
           "snippet": {
             "publishedAt": "2025-04-29T12:59:01Z",
@@ -7841,10 +7862,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "23974676",
-            "likeCount": "112511",
+            "viewCount": "23981069",
+            "likeCount": "112519",
             "favoriteCount": "0",
-            "commentCount": "12712"
+            "commentCount": "12713"
           }
         }
       ],
@@ -8693,146 +8714,122 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
+      "tmdb_id": 1561969,
+      "imdb_id": "tt29247040",
+      "title": "Baramulla",
+      "release_date": "2025-11-07",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Action"
+        "Horror"
       ],
       "production_countries": [
-        "US"
+        "IN"
       ],
-      "language": "en",
+      "language": "hi",
       "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
+        "B62 Studios",
+        "Jio Studios"
       ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+      "runtime": 120,
+      "overview": "A police officer investigating missing children cases discovers disturbing truths while supernatural occurrences threaten his family and Baramulla's tranquility."
     },
     "commercial": {
-      "budget": 200000000,
-      "revenue": 520652419,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 2.603,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+        "backdrop_path": "/lZAmefq0U012syyXxtdGRwfHFk6.jpg",
         "belongs_to_collection": null,
-        "budget": 200000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 28,
-            "name": "Action"
+            "id": 27,
+            "name": "Horror"
           }
         ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
+        "homepage": "",
+        "id": 1561969,
+        "imdb_id": "tt29247040",
         "origin_country": [
-          "US"
+          "IN"
         ],
-        "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 117.0236,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "original_language": "hi",
+        "original_title": "बारामुल्ला",
+        "overview": "A police officer investigating missing children cases discovers disturbing truths while supernatural occurrences threaten his family and Baramulla's tranquility.",
+        "popularity": 65.9191,
+        "poster_path": "/PtarG5FOl4swkTSh1AGaUKCFwg.jpg",
         "production_companies": [
           {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
-            "origin_country": "US"
+            "id": 212774,
+            "logo_path": null,
+            "name": "B62 Studios",
+            "origin_country": "IN"
           },
           {
-            "id": 176762,
-            "logo_path": null,
-            "name": "Kevin Feige Productions",
-            "origin_country": "US"
+            "id": 115477,
+            "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+            "name": "Jio Studios",
+            "origin_country": "IN"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "IN",
+            "name": "India"
           }
         ],
-        "release_date": "2025-07-23",
-        "revenue": 520652419,
-        "runtime": 115,
+        "release_date": "2025-11-07",
+        "revenue": 0,
+        "runtime": 120,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
+            "english_name": "Hindi",
+            "iso_639_1": "hi",
+            "name": "हिन्दी"
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
+        "tagline": "",
+        "title": "Baramulla",
         "video": false,
-        "vote_average": 7.099,
-        "vote_count": 2210
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.099,
+      "tmdb_vote_average": 0.0,
       "omdb": {
-        "Title": "The Fantastic Four: First Steps",
+        "Title": "Baramulla",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
-        "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
-        "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.0/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "65/100"
-          }
-        ],
-        "Metascore": "65",
-        "imdbRating": "7.0",
-        "imdbVotes": "174,805",
-        "imdbID": "tt10676052",
+        "Rated": "N/A",
+        "Released": "07 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Horror",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "N/A",
+        "Plot": "N/A",
+        "Language": "Hindi",
+        "Country": "India",
+        "Awards": "N/A",
+        "Poster": "N/A",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt29247040",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$274,282,985",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/baramulla\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/baramulla\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8859,82 +8856,82 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "j3JDZBXVKTwKQDiJH7kEHLp-Q-w",
-          "id": "18QQWa5MEcs",
+          "etag": "BCK-fTKBZIjSXcQZOFA_JN5ePbQ",
+          "id": "02m_KG2xzpY",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "publishedAt": "2025-10-30T06:42:00Z",
+            "channelId": "UCZSNzBgFub_WWil6TOTYwAg",
+            "title": "Baramulla | Official Trailer | Manav Kaul, Bhasha Sumbli | Netflix India",
+            "description": "A dark secret comes to light. If you saw the truth, would you believe it? \nWatch Baramulla, starring Manav Kaul and Bhasha Sumbli, out 7 November, on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/82127717\n\nFollow Netflix India on:\nWebsite: https://www.netflix.com/\nYouTube: http://bit.ly/NetflixIndiaYT\nInstagram: http://www.instagram.com/netflix_in\nFacebook: http://www.facebook.com/NetflixIN\nTwitter: http://twitter.com/netflixindia",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Marvel Entertainment",
+            "channelTitle": "Netflix India",
             "tags": [
-              "marvel",
-              "comics",
-              "Marvel Cinematic Universe",
-              "MCU",
-              "The Fantastic Four",
-              "The Fantastic Four: First Steps",
-              "Fantastic Four movie",
-              "superhero",
-              "superhero team",
-              "Mister Fantastic",
-              "Reed Richards",
-              "Invisible Woman",
-              "Sue Storm",
-              "Johnny Storm",
-              "The Human Torch",
-              "Ben Grimm",
-              "The Thing",
-              "Pedro Pascal",
-              "Vanessa Kirby",
-              "Joseph Quinn",
-              "Ebon Moss-Bachrach",
-              "Silver Surfer",
-              "Galactus",
-              "alien invasion",
-              "Herbie"
+              "Baramulla",
+              "Baramulla movie",
+              "Bollywood",
+              "Manav Kaul book",
+              "Manav Kaul movie",
+              "Manav Kaul play",
+              "Manav Kaul series",
+              "Netflix recommendation",
+              "baramulla",
+              "baramulla battle",
+              "baramulla clash",
+              "baramulla movie",
+              "baramulla news",
+              "baramulla railway station",
+              "baramulla trailer",
+              "baramulla updates",
+              "manav Kaul new movie",
+              "manav kaul",
+              "new Hindi movie",
+              "new movie",
+              "new series",
+              "new trailer",
+              "official trailer",
+              "trailer",
+              "what to watch"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+              "title": "Baramulla | Official Trailer | Manav Kaul, Bhasha Sumbli | Netflix India",
+              "description": "A dark secret comes to light. If you saw the truth, would you believe it? \nWatch Baramulla, starring Manav Kaul and Bhasha Sumbli, out 7 November, on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/82127717\n\nFollow Netflix India on:\nWebsite: https://www.netflix.com/\nYouTube: http://bit.ly/NetflixIndiaYT\nInstagram: http://www.instagram.com/netflix_in\nFacebook: http://www.facebook.com/NetflixIN\nTwitter: http://twitter.com/netflixindia"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16975187",
-            "likeCount": "310408",
+            "viewCount": "15895925",
+            "likeCount": "29727",
             "favoriteCount": "0",
-            "commentCount": "20552"
+            "commentCount": "991"
           }
         }
       ],
@@ -8945,18 +8942,20 @@
     },
     "creative": {
       "director": [
-        "Matt Shakman"
+        "Aditya Suhas Jambhale"
       ],
-      "writers": [],
+      "writers": [
+        "Aditya Suhas Jambhale"
+      ],
       "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
+        "Manav Kaul",
+        "Neelofar Hamid",
+        "Masoom Mumtaz Khan",
+        "Arista Mehta",
+        "Baby Kiara Khanna",
+        "Ashwini Koul",
+        "Nazneen Madan",
+        "Mir Sarwar"
       ],
       "star_power": {
         "actor_count": 8
@@ -9783,183 +9782,146 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 701387,
-      "imdb_id": "tt12300742",
-      "title": "Bugonia",
-      "release_date": "2025-10-23",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
         "Science Fiction",
-        "Crime"
+        "Adventure",
+        "Action"
       ],
       "production_countries": [
-        "GR",
-        "IE",
-        "KR",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Element Pictures",
-        "Square Peg",
-        "Fremantle",
-        "Pith Quest Films",
-        "Fruit Tree",
-        "CJ ENM"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 119,
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 15263053,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": 0.305,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
         "belongs_to_collection": null,
-        "budget": 50000000,
+        "budget": 200000000,
         "genres": [
           {
             "id": 878,
             "name": "Science Fiction"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
           }
         ],
-        "homepage": "https://www.focusfeatures.com/bugonia",
-        "id": 701387,
-        "imdb_id": "tt12300742",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Bugonia",
-        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 46.446,
-        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 117.0236,
+        "poster_path": "/abqOz6EL3yXyOOafCPZxjL1M5bQ.jpg",
         "production_companies": [
           {
-            "id": 3353,
-            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-            "name": "Element Pictures",
-            "origin_country": "IE"
-          },
-          {
-            "id": 123620,
-            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-            "name": "Square Peg",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 121813,
-            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-            "name": "Fremantle",
-            "origin_country": "US"
-          },
-          {
-            "id": 264539,
+            "id": 176762,
             "logo_path": null,
-            "name": "Pith Quest Films",
-            "origin_country": "GR"
-          },
-          {
-            "id": 138287,
-            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-            "name": "Fruit Tree",
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
-          },
-          {
-            "id": 128404,
-            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-            "name": "CJ ENM",
-            "origin_country": "KR"
           }
         ],
         "production_countries": [
-          {
-            "iso_3166_1": "GR",
-            "name": "Greece"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          },
-          {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
           {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-23",
-        "revenue": 15263053,
-        "runtime": 119,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Bugonia",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 7.8,
-        "vote_count": 240
+        "vote_average": 7.099,
+        "vote_count": 2220
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.8,
+      "tmdb_vote_average": 7.099,
       "omdb": {
-        "Title": "Bugonia",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "31 Oct 2025",
-        "Runtime": "120 min",
-        "Genre": "Comedy, Crime, Sci-Fi",
-        "Director": "Yorgos Lanthimos",
-        "Writer": "Jang Joon-hwan, Will Tracy",
-        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
-        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
-        "Awards": "2 wins & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.4/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "Value": "7.0/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "72/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "72",
-        "imdbRating": "7.4",
-        "imdbVotes": "2,099",
-        "imdbID": "tt12300742",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9972,267 +9934,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 32,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 10,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Bugonia": 0,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Bugonia": 3,
+            "The Fantastic 4: First Steps": 12,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 17,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 19,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 100,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 99,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 62,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 37,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Bugonia": 1,
+            "The Fantastic 4: First Steps": 31,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Bugonia": 33,
+            "The Fantastic 4: First Steps": 26,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Bugonia": 17,
+            "The Fantastic 4: First Steps": 23,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Bugonia": 5,
+            "The Fantastic 4: First Steps": 20,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Bugonia": 3,
+            "The Fantastic 4: First Steps": 17,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Bugonia": 6,
+            "The Fantastic 4: First Steps": 31,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Bugonia": 7,
+            "The Fantastic 4: First Steps": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Bugonia": 10,
+            "The Fantastic 4: First Steps": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Bugonia": 13,
+            "The Fantastic 4: First Steps": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Bugonia": 36,
+            "The Fantastic 4: First Steps": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Bugonia": 78,
+            "The Fantastic 4: First Steps": 7,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Bugonia": 100,
+            "The Fantastic 4: First Steps": 17,
             "isPartial": true
           }
         ]
@@ -10252,71 +10214,82 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "v86I-hNcaLLmAJAIB5VHV8-9RGM",
-          "id": "bd_5HcTujfc",
+          "etag": "IkOH0Ye3HwOWHZ90EFjkurfYBII",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Focus Features",
+            "channelTitle": "Marvel Entertainment",
             "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
+              "marvel",
+              "comics",
+              "Marvel Cinematic Universe",
+              "MCU",
+              "The Fantastic Four",
+              "The Fantastic Four: First Steps",
+              "Fantastic Four movie",
+              "superhero",
+              "superhero team",
+              "Mister Fantastic",
+              "Reed Richards",
+              "Invisible Woman",
+              "Sue Storm",
+              "Johnny Storm",
+              "The Human Torch",
+              "Ben Grimm",
+              "The Thing",
+              "Pedro Pascal",
+              "Vanessa Kirby",
+              "Joseph Quinn",
+              "Ebon Moss-Bachrach",
+              "Silver Surfer",
+              "Galactus",
+              "alien invasion",
+              "Herbie"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13926151",
-            "likeCount": "50922",
+            "viewCount": "16978694",
+            "likeCount": "310416",
             "favoriteCount": "0",
-            "commentCount": "2988"
+            "commentCount": "20554"
           }
         }
       ],
@@ -10327,20 +10300,18 @@
     },
     "creative": {
       "director": [
-        "Yorgos Lanthimos"
+        "Matt Shakman"
       ],
-      "writers": [
-        "Jang Joon-hwan"
-      ],
+      "writers": [],
       "cast_top": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -11323,12 +11294,12 @@
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Zootopia 2": 9,
+            "Zootopia 2": 8,
             "isPartial": false
           },
           {
@@ -11348,12 +11319,12 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Zootopia 2": 10,
+            "Zootopia 2": 9,
             "isPartial": false
           },
           {
@@ -11398,7 +11369,7 @@
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
@@ -11408,7 +11379,7 @@
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Zootopia 2": 8,
+            "Zootopia 2": 7,
             "isPartial": false
           },
           {
@@ -11418,12 +11389,12 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 12,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Zootopia 2": 9,
+            "Zootopia 2": 8,
             "isPartial": false
           },
           {
@@ -11443,7 +11414,7 @@
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
@@ -11453,12 +11424,12 @@
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 34,
+            "Zootopia 2": 33,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Zootopia 2": 20,
+            "Zootopia 2": 19,
             "isPartial": false
           },
           {
@@ -11473,27 +11444,27 @@
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Zootopia 2": 15,
+            "Zootopia 2": 16,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Zootopia 2": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
             "Zootopia 2": 12,
             "isPartial": false
           },
           {
+            "date": "2025-06-29T00:00:00",
+            "Zootopia 2": 11,
+            "isPartial": false
+          },
+          {
             "date": "2025-07-06T00:00:00",
-            "Zootopia 2": 13,
+            "Zootopia 2": 12,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Zootopia 2": 13,
+            "Zootopia 2": 12,
             "isPartial": false
           },
           {
@@ -11503,42 +11474,42 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 59,
+            "Zootopia 2": 57,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 42,
+            "Zootopia 2": 39,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 25,
+            "Zootopia 2": 24,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 22,
+            "Zootopia 2": 21,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Zootopia 2": 20,
+            "Zootopia 2": 19,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Zootopia 2": 20,
+            "Zootopia 2": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Zootopia 2": 17,
+            "Zootopia 2": 16,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 18,
+            "Zootopia 2": 17,
             "isPartial": false
           },
           {
@@ -11548,17 +11519,17 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 39,
+            "Zootopia 2": 35,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 39,
+            "Zootopia 2": 37,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 37,
+            "Zootopia 2": 35,
             "isPartial": false
           },
           {
@@ -11568,7 +11539,7 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 62,
+            "Zootopia 2": 60,
             "isPartial": false
           },
           {
@@ -11593,7 +11564,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "N7cfPXQjfSYAOV9PlBw6yxPc3hg",
+          "etag": "dT0H-7OofTRbgeKWihRewnePVAg",
           "id": "A-7RMaQaygI",
           "snippet": {
             "publishedAt": "2025-07-30T16:00:30Z",
@@ -11645,8 +11616,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "514321",
-            "likeCount": "5483",
+            "viewCount": "518633",
+            "likeCount": "5520",
             "favoriteCount": "0",
             "commentCount": "0"
           }
