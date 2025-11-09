@@ -22,7 +22,7 @@
         "Demilo Films",
         "Bluegrass Films"
       ],
-      "runtime": 152,
+      "runtime": 150,
       "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
     },
     "commercial": {
@@ -93,7 +93,7 @@
         ],
         "release_date": "2025-10-17",
         "revenue": 144496,
-        "runtime": 152,
+        "runtime": 150,
         "spoken_languages": [
           {
             "english_name": "Danish",
@@ -115,12 +115,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.906,
-        "vote_count": 405
+        "vote_average": 7.9,
+        "vote_count": 458
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.906,
+      "tmdb_vote_average": 7.9,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -175,17 +175,17 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -195,12 +195,12 @@
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -210,7 +210,7 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
@@ -235,7 +235,7 @@
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -250,12 +250,12 @@
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Frankenstein": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -280,7 +280,7 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
@@ -290,7 +290,7 @@
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
@@ -310,57 +310,57 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Frankenstein": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Frankenstein": 1,
+            "Frankenstein": 2,
             "isPartial": false
           },
           {
@@ -375,67 +375,67 @@
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Frankenstein": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Frankenstein": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Frankenstein": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
             "Frankenstein": 4,
             "isPartial": false
           },
           {
-            "date": "2025-09-07T00:00:00",
-            "Frankenstein": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Frankenstein": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
+            "date": "2025-08-17T00:00:00",
             "Frankenstein": 3,
             "isPartial": false
           },
           {
-            "date": "2025-09-28T00:00:00",
-            "Frankenstein": 5,
+            "date": "2025-08-24T00:00:00",
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
-            "date": "2025-10-05T00:00:00",
-            "Frankenstein": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
+            "date": "2025-08-31T00:00:00",
             "Frankenstein": 6,
             "isPartial": false
           },
           {
-            "date": "2025-10-19T00:00:00",
+            "date": "2025-09-07T00:00:00",
+            "Frankenstein": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Frankenstein": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Frankenstein": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Frankenstein": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Frankenstein": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
             "Frankenstein": 9,
             "isPartial": false
           },
           {
+            "date": "2025-10-19T00:00:00",
+            "Frankenstein": 13,
+            "isPartial": false
+          },
+          {
             "date": "2025-10-26T00:00:00",
-            "Frankenstein": 12,
+            "Frankenstein": 18,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 19,
+            "Frankenstein": 28,
             "isPartial": false
           },
           {
@@ -460,7 +460,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "vlVs1ds_RtGY9-m0HGEr4peqEs8",
+          "etag": "vBEdBMYSvAwN0cGsCTbiGcxxNzY",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -536,10 +536,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11266010",
-            "likeCount": "162230",
+            "viewCount": "11308947",
+            "likeCount": "162591",
             "favoriteCount": "0",
-            "commentCount": "6743"
+            "commentCount": "6791"
           }
         }
       ],
@@ -1388,89 +1388,77 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1571470,
-      "imdb_id": "tt28283547",
-      "title": "The Rats: A Witcher Tale",
-      "release_date": "2025-10-29",
-      "release_year": "2025",
+      "tmdb_id": 7451,
+      "imdb_id": "tt0295701",
+      "title": "xXx",
+      "release_date": "2002-08-09",
+      "release_year": "2002",
       "genres": [
-        "Fantasy",
-        "Drama",
-        "Adventure"
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Crime"
       ],
       "production_countries": [
-        "US",
-        "PL"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Platige Films",
-        "Hivemind",
-        "Little Schmidt Productions",
-        "Hailzor"
+        "Revolution Studios"
       ],
-      "runtime": 83,
-      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
+      "runtime": 124,
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 70000000,
+      "revenue": 277448382,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 3.964,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+        "belongs_to_collection": {
+          "id": 52785,
+          "name": "xXx Collection",
+          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
+          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
+        },
+        "budget": 70000000,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
+            "id": 28,
+            "name": "Action"
           },
           {
             "id": 12,
             "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81572393",
-        "id": 1571470,
-        "imdb_id": "tt28283547",
+        "homepage": "http://www.sonypictures.com/movies/xxx/",
+        "id": 7451,
+        "imdb_id": "tt0295701",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Rats: A Witcher Tale",
-        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
-        "popularity": 84.5839,
-        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+        "original_title": "xXx",
+        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+        "popularity": 132.3959,
+        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "production_companies": [
           {
-            "id": 137769,
-            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
-            "name": "Platige Films",
-            "origin_country": "PL"
-          },
-          {
-            "id": 124634,
-            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
-            "name": "Hivemind",
-            "origin_country": "US"
-          },
-          {
-            "id": 162859,
-            "logo_path": null,
-            "name": "Little Schmidt Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 279361,
-            "logo_path": null,
-            "name": "Hailzor",
+            "id": 497,
+            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+            "name": "Revolution Studios",
             "origin_country": "US"
           }
         ],
@@ -1478,66 +1466,90 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "PL",
-            "name": "Poland"
           }
         ],
-        "release_date": "2025-10-29",
-        "revenue": 0,
-        "runtime": 83,
+        "release_date": "2002-08-09",
+        "revenue": 277448382,
+        "runtime": 124,
         "spoken_languages": [
+          {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Rats: A Witcher Tale",
+        "tagline": "A new breed of secret agent.",
+        "title": "xXx",
         "video": false,
-        "vote_average": 4.9,
-        "vote_count": 60
+        "vote_average": 5.965,
+        "vote_count": 4626
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.9,
+      "tmdb_vote_average": 5.965,
       "omdb": {
-        "Title": "The Rats: A Witcher Tale",
-        "Year": "2025",
-        "Rated": "N/A",
-        "Released": "30 Oct 2025",
-        "Runtime": "82 min",
-        "Genre": "Action",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "N/A",
-        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
-        "Language": "English",
+        "Title": "xXx",
+        "Year": "2002",
+        "Rated": "PG-13",
+        "Released": "09 Aug 2002",
+        "Runtime": "124 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Rob Cohen",
+        "Writer": "Rich Wilkes",
+        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
+        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
+        "Language": "English, German, Spanish, Russian, Czech",
         "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "4 wins & 14 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.0/10"
+            "Value": "5.9/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "48/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.0",
-        "imdbVotes": "33",
-        "imdbID": "tt28283547",
+        "Metascore": "48",
+        "imdbRating": "5.9",
+        "imdbVotes": "191,427",
+        "imdbID": "tt0295701",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$142,109,382",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "message": "no search result"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1550,272 +1562,272 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 81,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 80,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 88,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 94,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 90,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 81,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 81,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 77,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 75,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 78,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 89,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 86,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 79,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 85,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 86,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 89,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 86,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 87,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 91,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 86,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 86,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 87,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 83,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 81,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 82,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Rats: A Witcher Tale": 0,
+            "xXx": 81,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Rats: A Witcher Tale": 38,
+            "xXx": 84,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Rats: A Witcher Tale": 100,
+            "xXx": 88,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Rats: A Witcher Tale": 67,
+            "xXx": 100,
             "isPartial": true
           }
         ]
@@ -1835,45 +1847,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "-D7gdqk_mVJKhBfT7gLjWC-HLQ0",
-          "id": "jY5GQG1lOcQ",
+          "etag": "elnTd_0UHa8z4Magu3fFoc8F_p8",
+          "id": "NgPdDDzVhkA",
           "snippet": {
-            "publishedAt": "2025-11-06T11:15:35Z",
-            "channelId": "UCZ09KBQ9ytTT3gFiPklfjBg",
-            "title": "The Rats : A Witcher Tale (Movie) - Final Scene 🔥👌📌",
-            "description": "",
+            "publishedAt": "2022-08-09T19:00:15Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "XXX [2002] - Official Trailer (HD)",
+            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
               }
             },
-            "channelTitle": "Final Scene ",
-            "categoryId": "22",
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Rats : A Witcher Tale (Movie) - Final Scene 🔥👌📌",
-              "description": ""
+              "title": "XXX [2002] - Official Trailer (HD)",
+              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "4450",
-            "likeCount": "34",
+            "viewCount": "8417744",
+            "likeCount": "7329",
             "favoriteCount": "0",
-            "commentCount": "5"
+            "commentCount": "290"
           }
         }
       ],
@@ -1884,21 +1906,18 @@
     },
     "creative": {
       "director": [
-        "Mairzee Almas"
+        "Rob Cohen"
       ],
-      "writers": [
-        "Haily Hall",
-        "Lauren Schmidt Hissrich"
-      ],
+      "writers": [],
       "cast_top": [
-        "Christelle Elwin",
-        "Ben Radcliffe",
-        "Fabian McCallum",
-        "Aggy K. Adams",
-        "Connor Crawford",
-        "Juliette Alexandra",
-        "Dolph Lundgren",
-        "Ben Robson"
+        "Vin Diesel",
+        "Asia Argento",
+        "Marton Csokas",
+        "Samuel L. Jackson",
+        "Michael Roof",
+        "Richy Müller",
+        "Werner Daehn",
+        "Petr Jákl"
       ],
       "star_power": {
         "actor_count": 8
@@ -2837,12 +2856,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.0,
-        "vote_count": 128
+        "vote_average": 7.041,
+        "vote_count": 133
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.0,
+      "tmdb_vote_average": 7.041,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -2881,278 +2900,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-03T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -3169,7 +2917,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "PimjrvyTGS_7YYeFzMRn2LQbO4o",
+          "etag": "Sn60YXdBMSoPzHQdPU8g3PfzDuc",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -3217,10 +2965,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "23773172",
-            "likeCount": "306214",
+            "viewCount": "23845237",
+            "likeCount": "306626",
             "favoriteCount": "0",
-            "commentCount": "24999"
+            "commentCount": "25025"
           }
         }
       ],
@@ -4093,9 +3841,9 @@
     },
     "commercial": {
       "budget": 30000000,
-      "revenue": 110695131,
+      "revenue": 112195131,
       "opening_weekend": null,
-      "roi": 3.69,
+      "roi": 3.74,
       "distribution": null,
       "raw": {
         "adult": false,
@@ -4161,7 +3909,7 @@
           }
         ],
         "release_date": "2025-10-15",
-        "revenue": 110695131,
+        "revenue": 112195131,
         "runtime": 114,
         "spoken_languages": [
           {
@@ -4179,12 +3927,12 @@
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.256,
-        "vote_count": 336
+        "vote_average": 7.267,
+        "vote_count": 347
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.256,
+      "tmdb_vote_average": 7.267,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -4274,7 +4022,7 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Black Phone 2": 1,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
@@ -4384,12 +4132,12 @@
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Black Phone 2": 1,
+            "Black Phone 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Black Phone 2": 8,
+            "Black Phone 2": 9,
             "isPartial": false
           },
           {
@@ -4409,12 +4157,12 @@
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Black Phone 2": 2,
+            "Black Phone 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Black Phone 2": 3,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
@@ -4424,87 +4172,87 @@
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Black Phone 2": 3,
+            "Black Phone 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Black Phone 2": 4,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Black Phone 2": 4,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Black Phone 2": 4,
+            "Black Phone 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Black Phone 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Black Phone 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
             "Black Phone 2": 6,
             "isPartial": false
           },
           {
+            "date": "2025-08-24T00:00:00",
+            "Black Phone 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Black Phone 2": 8,
+            "isPartial": false
+          },
+          {
             "date": "2025-09-07T00:00:00",
-            "Black Phone 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Black Phone 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
             "Black Phone 2": 9,
             "isPartial": false
           },
           {
+            "date": "2025-09-14T00:00:00",
+            "Black Phone 2": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Black Phone 2": 12,
+            "isPartial": false
+          },
+          {
             "date": "2025-09-28T00:00:00",
-            "Black Phone 2": 16,
+            "Black Phone 2": 18,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Black Phone 2": 21,
+            "Black Phone 2": 25,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Black Phone 2": 72,
+            "Black Phone 2": 88,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Black Phone 2": 85,
+            "Black Phone 2": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Black Phone 2": 48,
+            "Black Phone 2": 58,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Black Phone 2": 41,
+            "Black Phone 2": 51,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Black Phone 2": 100,
+            "Black Phone 2": 74,
             "isPartial": true
           }
         ]
@@ -4524,7 +4272,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "t0X4fI1PGdNsE_OVeAi6rCFNYqE",
+          "etag": "gPX4m-9BlVqzmcU8Ud-0SQntDH0",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -4569,10 +4317,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1827301",
-            "likeCount": "28536",
+            "viewCount": "1833351",
+            "likeCount": "28556",
             "favoriteCount": "0",
-            "commentCount": "1547"
+            "commentCount": "1550"
           }
         }
       ],
@@ -5424,124 +5172,105 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 701387,
-      "imdb_id": "tt12300742",
-      "title": "Bugonia",
-      "release_date": "2025-10-23",
+      "tmdb_id": 1571470,
+      "imdb_id": "tt28283547",
+      "title": "The Rats: A Witcher Tale",
+      "release_date": "2025-10-29",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Crime"
+        "Fantasy",
+        "Drama",
+        "Adventure"
       ],
       "production_countries": [
-        "GR",
-        "IE",
-        "KR",
-        "US"
+        "US",
+        "PL"
       ],
       "language": "en",
       "studio_distributor": [
-        "Element Pictures",
-        "Square Peg",
-        "Fremantle",
-        "Pith Quest Films",
-        "Fruit Tree",
-        "CJ ENM"
+        "Platige Films",
+        "Hivemind",
+        "Little Schmidt Productions",
+        "Hailzor"
       ],
-      "runtime": 119,
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+      "runtime": 83,
+      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 15263053,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.305,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
+        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
         "belongs_to_collection": null,
-        "budget": 50000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "https://www.focusfeatures.com/bugonia",
-        "id": 701387,
-        "imdb_id": "tt12300742",
+        "homepage": "https://www.netflix.com/title/81572393",
+        "id": 1571470,
+        "imdb_id": "tt28283547",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Bugonia",
-        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 46.446,
-        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "original_title": "The Rats: A Witcher Tale",
+        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+        "popularity": 84.5839,
+        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
         "production_companies": [
           {
-            "id": 3353,
-            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-            "name": "Element Pictures",
-            "origin_country": "IE"
+            "id": 137769,
+            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+            "name": "Platige Films",
+            "origin_country": "PL"
           },
           {
-            "id": 123620,
-            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-            "name": "Square Peg",
+            "id": 124634,
+            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+            "name": "Hivemind",
             "origin_country": "US"
           },
           {
-            "id": 121813,
-            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-            "name": "Fremantle",
-            "origin_country": "US"
-          },
-          {
-            "id": 264539,
+            "id": 162859,
             "logo_path": null,
-            "name": "Pith Quest Films",
-            "origin_country": "GR"
-          },
-          {
-            "id": 138287,
-            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-            "name": "Fruit Tree",
+            "name": "Little Schmidt Productions",
             "origin_country": "US"
           },
           {
-            "id": 128404,
-            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-            "name": "CJ ENM",
-            "origin_country": "KR"
+            "id": 279361,
+            "logo_path": null,
+            "name": "Hailzor",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "GR",
-            "name": "Greece"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          },
-          {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
-          {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "PL",
+            "name": "Poland"
           }
         ],
-        "release_date": "2025-10-23",
-        "revenue": 15263053,
-        "runtime": 119,
+        "release_date": "2025-10-29",
+        "revenue": 0,
+        "runtime": 83,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -5551,47 +5280,39 @@
         ],
         "status": "Released",
         "tagline": "",
-        "title": "Bugonia",
+        "title": "The Rats: A Witcher Tale",
         "video": false,
-        "vote_average": 7.746,
-        "vote_count": 251
+        "vote_average": 4.908,
+        "vote_count": 61
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.746,
+      "tmdb_vote_average": 4.908,
       "omdb": {
-        "Title": "Bugonia",
+        "Title": "The Rats: A Witcher Tale",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "31 Oct 2025",
-        "Runtime": "120 min",
-        "Genre": "Comedy, Crime, Sci-Fi",
-        "Director": "Yorgos Lanthimos",
-        "Writer": "Jang Joon-hwan, Will Tracy",
-        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
-        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Rated": "N/A",
+        "Released": "30 Oct 2025",
+        "Runtime": "82 min",
+        "Genre": "Action",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "N/A",
+        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
         "Language": "English",
-        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
-        "Awards": "2 wins & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.4/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "72/100"
+            "Value": "5.0/10"
           }
         ],
-        "Metascore": "72",
-        "imdbRating": "7.4",
-        "imdbVotes": "2,099",
-        "imdbID": "tt12300742",
+        "Metascore": "N/A",
+        "imdbRating": "5.0",
+        "imdbVotes": "33",
+        "imdbID": "tt28283547",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5600,7 +5321,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5613,272 +5334,272 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Bugonia": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Bugonia": 0,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Bugonia": 1,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Bugonia": 24,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Bugonia": 12,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Bugonia": 3,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Bugonia": 2,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Bugonia": 4,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Bugonia": 5,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Bugonia": 6,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Bugonia": 9,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Bugonia": 26,
+            "The Rats: A Witcher Tale": 0,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Bugonia": 55,
+            "The Rats: A Witcher Tale": 38,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Bugonia": 72,
+            "The Rats: A Witcher Tale": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Bugonia": 100,
+            "The Rats: A Witcher Tale": 62,
             "isPartial": true
           }
         ]
@@ -5898,71 +5619,45 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "zFw1kqVxzuFsG0gNqLx2HreSrH8",
-          "id": "bd_5HcTujfc",
+          "etag": "eqsd2J-qsXT1gGwGMCX6CbMy7g8",
+          "id": "jY5GQG1lOcQ",
           "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "publishedAt": "2025-11-06T11:15:35Z",
+            "channelId": "UCZ09KBQ9ytTT3gFiPklfjBg",
+            "title": "The Rats : A Witcher Tale (Movie) - Final Scene 🔥👌📌",
+            "description": "",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jY5GQG1lOcQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
               }
             },
-            "channelTitle": "Focus Features",
-            "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Final Scene ",
+            "categoryId": "22",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+              "title": "The Rats : A Witcher Tale (Movie) - Final Scene 🔥👌📌",
+              "description": ""
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13984834",
-            "likeCount": "51142",
+            "viewCount": "9363",
+            "likeCount": "47",
             "favoriteCount": "0",
-            "commentCount": "2999"
+            "commentCount": "7"
           }
         }
       ],
@@ -5973,20 +5668,21 @@
     },
     "creative": {
       "director": [
-        "Yorgos Lanthimos"
+        "Mairzee Almas"
       ],
       "writers": [
-        "Jang Joon-hwan"
+        "Haily Hall",
+        "Lauren Schmidt Hissrich"
       ],
       "cast_top": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
+        "Christelle Elwin",
+        "Ben Radcliffe",
+        "Fabian McCallum",
+        "Aggy K. Adams",
+        "Connor Crawford",
+        "Juliette Alexandra",
+        "Dolph Lundgren",
+        "Ben Robson"
       ],
       "star_power": {
         "actor_count": 8
@@ -6980,88 +6676,79 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "TVvdDPAb174Ci903Zvd4URLKJZM",
-          "id": "ZKWndx83RwQ",
+          "etag": "2TrnQf_siqvNhV5Gsl71yUQTdzE",
+          "id": "jHIJNHOOEvA",
           "snippet": {
-            "publishedAt": "2025-07-23T13:00:22Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-            "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).",
+            "publishedAt": "2025-07-23T16:01:08Z",
+            "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+            "title": "Good Fortune - Official Trailer (2025) Keanu Reeves, Seth Rogan, Aziz Ansari",
+            "description": "Check out the Good Fortune trailer for the upcoming movie starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nIn Good Fortune, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).\n\nGood Fortune opens in theaters on October 17, 2025.\n\n#IGN #GoodFortune #KeanuReeves",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/jHIJNHOOEvA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jHIJNHOOEvA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jHIJNHOOEvA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/jHIJNHOOEvA/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/jHIJNHOOEvA/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
+            "channelTitle": "IGN",
             "tags": [
-              "Good Fortune (2025) official teaser",
-              "Good Fortune teaser",
-              "Good Fortune 2025 teaser",
-              "Good Fortune 2025 official teaser",
+              "Comedy",
               "Good Fortune",
+              "Lionsgate",
+              "Media Capital Technologies",
+              "Oh Brudder Productions",
+              "Theater",
+              "Good Fortune Trailer",
+              "Good Fortune Trailer 2025",
               "Good Fortune 2025",
-              "Seth Rogen",
-              "Aziz Ansari",
-              "Keke Palmer",
+              "Keanu Reeves 2025",
+              "Keanu Reeves Movies",
+              "Keanu Reeves Films",
+              "Seth Rogen film",
+              "Seth Rogen Movies",
+              "Seth Rogen 2025",
               "Keanu Reeves",
-              "John Wick",
-              "angel",
-              "god",
-              "devil",
-              "gabriel",
-              "gabriel angel",
-              "arc angel",
-              "venture capitalist",
-              "VC",
-              "wealthy",
-              "Sandra Oh",
-              "Stephen McKinley Henderson",
-              "gig worker",
-              "worker",
-              "middle class",
-              "lost soul",
-              "guardian angel",
-              "comedy",
-              "drama",
-              "good fortune movie",
-              "life swap"
+              "Keanu Reeves Angel",
+              "Comedy Movies",
+              "Upcoming comedy movies 2025",
+              "Upcoming movies",
+              "Upcoming movies 2025",
+              "New movies"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-              "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen)."
+              "title": "Good Fortune - Official Trailer (2025) Keanu Reeves, Seth Rogan, Aziz Ansari",
+              "description": "Check out the Good Fortune trailer for the upcoming movie starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nIn Good Fortune, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).\n\nGood Fortune opens in theaters on October 17, 2025.\n\n#IGN #GoodFortune #KeanuReeves"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6726205",
-            "likeCount": "78320",
+            "viewCount": "1531767",
+            "likeCount": "30487",
             "favoriteCount": "0",
-            "commentCount": "4735"
+            "commentCount": "2029"
           }
         }
       ],
@@ -7912,1362 +7599,6 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 7451,
-      "imdb_id": "tt0295701",
-      "title": "xXx",
-      "release_date": "2002-08-09",
-      "release_year": "2002",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller",
-        "Crime"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Revolution Studios"
-      ],
-      "runtime": 124,
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
-    },
-    "commercial": {
-      "budget": 70000000,
-      "revenue": 277448382,
-      "opening_weekend": null,
-      "roi": 3.964,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
-        "belongs_to_collection": {
-          "id": 52785,
-          "name": "xXx Collection",
-          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
-          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
-        },
-        "budget": 70000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          }
-        ],
-        "homepage": "http://www.sonypictures.com/movies/xxx/",
-        "id": 7451,
-        "imdb_id": "tt0295701",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "xXx",
-        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 132.3959,
-        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "production_companies": [
-          {
-            "id": 497,
-            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-            "name": "Revolution Studios",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2002-08-09",
-        "revenue": 277448382,
-        "runtime": 124,
-        "spoken_languages": [
-          {
-            "english_name": "Czech",
-            "iso_639_1": "cs",
-            "name": "Český"
-          },
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
-          }
-        ],
-        "status": "Released",
-        "tagline": "A new breed of secret agent.",
-        "title": "xXx",
-        "video": false,
-        "vote_average": 6.0,
-        "vote_count": 4624
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 6.0,
-      "omdb": {
-        "Title": "xXx",
-        "Year": "2002",
-        "Rated": "PG-13",
-        "Released": "09 Aug 2002",
-        "Runtime": "124 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Rob Cohen",
-        "Writer": "Rich Wilkes",
-        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
-        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
-        "Language": "English, German, Spanish, Russian, Czech",
-        "Country": "United States",
-        "Awards": "4 wins & 14 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "5.9/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "48%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "48/100"
-          }
-        ],
-        "Metascore": "48",
-        "imdbRating": "5.9",
-        "imdbVotes": "191,427",
-        "imdbID": "tt0295701",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$142,109,382",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "message": "no search result"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-03T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-10T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-17T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "xXx": 89,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "xXx": 86,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "xXx": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "xXx": 80,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "xXx": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "xXx": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "xXx": 84,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "xXx": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "xXx": 87,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "xXx": 82,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "xXx": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "xXx": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "xXx": 74,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "xXx": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "xXx": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "xXx": 79,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "xXx": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "xXx": 100,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "iNY5ST20pgzuCroo0CMKvbLYn1o",
-          "id": "NgPdDDzVhkA",
-          "snippet": {
-            "publishedAt": "2022-08-09T19:00:15Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "XXX [2002] - Official Trailer (HD)",
-            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "XXX [2002] - Official Trailer (HD)",
-              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "8417078",
-            "likeCount": "7329",
-            "favoriteCount": "0",
-            "commentCount": "290"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Rob Cohen"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Vin Diesel",
-        "Asia Argento",
-        "Marton Csokas",
-        "Samuel L. Jackson",
-        "Michael Roof",
-        "Richy Müller",
-        "Werner Daehn",
-        "Petr Jákl"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 8,
-    "metadata": {
       "tmdb_id": 760329,
       "imdb_id": "tt11214558",
       "title": "The Smashing Machine",
@@ -9320,7 +7651,7 @@
         "original_language": "en",
         "original_title": "The Smashing Machine",
         "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
-        "popularity": 56.9388,
+        "popularity": 57.867,
         "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
         "production_companies": [
           {
@@ -9378,12 +7709,12 @@
         "tagline": "The unforgettable true story of a UFC legend.",
         "title": "The Smashing Machine",
         "video": false,
-        "vote_average": 6.446,
-        "vote_count": 138
+        "vote_average": 6.496,
+        "vote_count": 140
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.446,
+      "tmdb_vote_average": 6.496,
       "omdb": {
         "Title": "The Smashing Machine",
         "Year": "2025",
@@ -9523,7 +7854,7 @@
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Smashing Machine": 1,
+            "The Smashing Machine": 0,
             "isPartial": false
           },
           {
@@ -9538,7 +7869,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Smashing Machine": 1,
+            "The Smashing Machine": 0,
             "isPartial": false
           },
           {
@@ -9558,12 +7889,12 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Smashing Machine": 1,
+            "The Smashing Machine": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Smashing Machine": 35,
+            "The Smashing Machine": 32,
             "isPartial": false
           },
           {
@@ -9608,7 +7939,7 @@
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Smashing Machine": 3,
+            "The Smashing Machine": 2,
             "isPartial": false
           },
           {
@@ -9628,22 +7959,22 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Smashing Machine": 4,
+            "The Smashing Machine": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Smashing Machine": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
             "The Smashing Machine": 4,
             "isPartial": false
           },
           {
+            "date": "2025-08-10T00:00:00",
+            "The Smashing Machine": 3,
+            "isPartial": false
+          },
+          {
             "date": "2025-08-17T00:00:00",
-            "The Smashing Machine": 6,
+            "The Smashing Machine": 5,
             "isPartial": false
           },
           {
@@ -9658,37 +7989,37 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Smashing Machine": 31,
+            "The Smashing Machine": 30,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Smashing Machine": 17,
+            "The Smashing Machine": 15,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Smashing Machine": 29,
+            "The Smashing Machine": 26,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Smashing Machine": 93,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
             "The Smashing Machine": 88,
             "isPartial": false
           },
           {
+            "date": "2025-10-05T00:00:00",
+            "The Smashing Machine": 83,
+            "isPartial": false
+          },
+          {
             "date": "2025-10-12T00:00:00",
-            "The Smashing Machine": 38,
+            "The Smashing Machine": 35,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Smashing Machine": 18,
+            "The Smashing Machine": 17,
             "isPartial": false
           },
           {
@@ -9698,12 +8029,12 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Smashing Machine": 29,
+            "The Smashing Machine": 27,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Smashing Machine": 48,
+            "The Smashing Machine": 37,
             "isPartial": true
           }
         ]
@@ -9723,7 +8054,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "VFRsWt-1Hny2ysd-tCT8TBihvC8",
+          "etag": "8ely4RxkcRHktM0MRz_yUS0lnJ0",
           "id": "aRpnP3LZ99g",
           "snippet": {
             "publishedAt": "2025-04-29T12:59:01Z",
@@ -9782,10 +8113,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "23994164",
-            "likeCount": "112536",
+            "viewCount": "23998585",
+            "likeCount": "112545",
             "favoriteCount": "0",
-            "commentCount": "12718"
+            "commentCount": "12723"
           }
         }
       ],
@@ -10632,128 +8963,1266 @@
     ]
   },
   {
-    "rank": 9,
+    "rank": 8,
     "metadata": {
-      "tmdb_id": 1218925,
-      "imdb_id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "release_date": "2025-09-19",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Action",
-        "Romance",
-        "Fantasy"
+        "Science Fiction",
+        "Adventure",
+        "Action"
       ],
       "production_countries": [
-        "JP"
+        "US"
       ],
-      "language": "ja",
+      "language": "en",
       "studio_distributor": [
-        "MAPPA"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 100,
-      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 139000000,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+        "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 200000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
           },
           {
             "id": 28,
             "name": "Action"
-          },
-          {
-            "id": 10749,
-            "name": "Romance"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
           }
         ],
-        "homepage": "https://chainsawman.movie",
-        "id": 1218925,
-        "imdb_id": "tt30472557",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
-          "JP"
+          "US"
         ],
-        "original_language": "ja",
-        "original_title": "チェンソーマン レゼ篇",
-        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-        "popularity": 241.7255,
-        "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+        "original_language": "en",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 124.9954,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 21444,
-            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
-            "name": "MAPPA",
-            "origin_country": "JP"
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "JP",
-            "name": "Japan"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-19",
-        "revenue": 139000000,
-        "runtime": 100,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "日本語"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "The Town Mouse or the Country Mouse?",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 8.266,
-        "vote_count": 154
+        "vote_average": 7.099,
+        "vote_count": 2243
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.266,
+      "tmdb_vote_average": 7.099,
       "omdb": {
-        "Title": "Chainsaw Man - The Movie: Reze Arc",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "24 Oct 2025",
-        "Runtime": "100 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Tatsuya Yoshihara",
-        "Writer": "Tatsuki Fujimoto, Hiroshi Seko",
-        "Actors": "Kikunosuke Toya, Tomori Kusunoki, Shôgo Sakata",
-        "Plot": "Denji encounters a new romantic interest, Reze, who works at a coffee café.",
-        "Language": "Japanese",
-        "Country": "Japan",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+        "Language": "English",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.5/10"
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "8.5",
-        "imdbVotes": "3,800",
-        "imdbID": "tt30472557",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$274,282,985",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "QpSlyDRCdiKrFLixas3tnyZ9S-Q",
+          "id": "18QQWa5MEcs",
+          "snippet": {
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics",
+              "Marvel Cinematic Universe",
+              "MCU",
+              "The Fantastic Four",
+              "The Fantastic Four: First Steps",
+              "Fantastic Four movie",
+              "superhero",
+              "superhero team",
+              "Mister Fantastic",
+              "Reed Richards",
+              "Invisible Woman",
+              "Sue Storm",
+              "Johnny Storm",
+              "The Human Torch",
+              "Ben Grimm",
+              "The Thing",
+              "Pedro Pascal",
+              "Vanessa Kirby",
+              "Joseph Quinn",
+              "Ebon Moss-Bachrach",
+              "Silver Surfer",
+              "Galactus",
+              "alien invasion",
+              "Herbie"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "16986929",
+            "likeCount": "310438",
+            "favoriteCount": "0",
+            "commentCount": "20560"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Matt Shakman"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 9,
+    "metadata": {
+      "tmdb_id": 701387,
+      "imdb_id": "tt12300742",
+      "title": "Bugonia",
+      "release_date": "2025-10-23",
+      "release_year": "2025",
+      "genres": [
+        "Science Fiction",
+        "Crime"
+      ],
+      "production_countries": [
+        "GR",
+        "IE",
+        "KR",
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Element Pictures",
+        "Square Peg",
+        "Fremantle",
+        "Pith Quest Films",
+        "Fruit Tree",
+        "CJ ENM"
+      ],
+      "runtime": 119,
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+    },
+    "commercial": {
+      "budget": 50000000,
+      "revenue": 15263053,
+      "opening_weekend": null,
+      "roi": 0.305,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
+        "belongs_to_collection": null,
+        "budget": 50000000,
+        "genres": [
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://www.focusfeatures.com/bugonia",
+        "id": 701387,
+        "imdb_id": "tt12300742",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Bugonia",
+        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "popularity": 45.7161,
+        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "production_companies": [
+          {
+            "id": 3353,
+            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+            "name": "Element Pictures",
+            "origin_country": "IE"
+          },
+          {
+            "id": 123620,
+            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+            "name": "Square Peg",
+            "origin_country": "US"
+          },
+          {
+            "id": 121813,
+            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+            "name": "Fremantle",
+            "origin_country": "US"
+          },
+          {
+            "id": 264539,
+            "logo_path": null,
+            "name": "Pith Quest Films",
+            "origin_country": "GR"
+          },
+          {
+            "id": 138287,
+            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+            "name": "Fruit Tree",
+            "origin_country": "US"
+          },
+          {
+            "id": 128404,
+            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+            "name": "CJ ENM",
+            "origin_country": "KR"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "GR",
+            "name": "Greece"
+          },
+          {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+          },
+          {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+          },
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-10-23",
+        "revenue": 15263053,
+        "runtime": 119,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "Bugonia",
+        "video": false,
+        "vote_average": 7.745,
+        "vote_count": 255
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.745,
+      "omdb": {
+        "Title": "Bugonia",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "31 Oct 2025",
+        "Runtime": "120 min",
+        "Genre": "Comedy, Crime, Sci-Fi",
+        "Director": "Yorgos Lanthimos",
+        "Writer": "Jang Joon-hwan, Will Tracy",
+        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
+        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Language": "English",
+        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
+        "Awards": "2 wins & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "72/100"
+          }
+        ],
+        "Metascore": "72",
+        "imdbRating": "7.4",
+        "imdbVotes": "2,099",
+        "imdbID": "tt12300742",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -10762,7 +10231,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10775,272 +10244,272 @@
         "interest_over_time": [
           {
             "date": "2024-11-03T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-10T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-17T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 5,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 4,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 4,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 3,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 5,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 4,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 6,
+            "Bugonia": 31,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 8,
+            "Bugonia": 16,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 11,
+            "Bugonia": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 21,
+            "Bugonia": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 59,
+            "Bugonia": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 80,
+            "Bugonia": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 55,
+            "Bugonia": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 45,
+            "Bugonia": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 93,
+            "Bugonia": 33,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 100,
+            "Bugonia": 73,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 73,
+            "Bugonia": 95,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Chainsaw Man - The Movie: Reze Arc": 85,
+            "Bugonia": 100,
             "isPartial": true
           }
         ]
@@ -11060,55 +10529,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "4L8dlnZ2rj-RsPz8F5HgfKM6VdM",
-          "id": "tAzAhDNdehs",
+          "etag": "Rd6TPuUZKXdms0C-H--PSiz2DZ8",
+          "id": "bd_5HcTujfc",
           "snippet": {
-            "publishedAt": "2025-07-03T23:50:00Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-            "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie",
+            "publishedAt": "2025-08-28T14:00:01Z",
+            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
+            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/default.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
+            "channelTitle": "Focus Features",
+            "tags": [
+              "Focus Features",
+              "Emma Stone",
+              "Jesse Plemons",
+              "Aidan Delbis",
+              "Stavros Halkias",
+              "Alicia Silverstone",
+              "Yorgos Lanthimos",
+              "Will Tracy",
+              "Ed Guiney",
+              "Andrew Lowe",
+              "Ari Aster",
+              "Lars Knudsen",
+              "Miky Lee",
+              "Jerry Kyoungboum Ko"
+            ],
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-              "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie"
+              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "979423",
-            "likeCount": "27710",
+            "viewCount": "13993489",
+            "likeCount": "51182",
             "favoriteCount": "0",
-            "commentCount": "1056"
+            "commentCount": "3001"
           }
         }
       ],
@@ -11119,18 +10604,20 @@
     },
     "creative": {
       "director": [
-        "Tatsuya Yoshihara"
+        "Yorgos Lanthimos"
       ],
-      "writers": [],
+      "writers": [
+        "Jang Joon-hwan"
+      ],
       "cast_top": [
-        "Kikunosuke Toya",
-        "Reina Ueda",
-        "Shiori Izawa",
-        "Tomori Kusunoki",
-        "Shogo Sakata",
-        "Fairouz Ai",
-        "Karin Takahashi",
-        "Natsuki Hanae"
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
       ],
       "star_power": {
         "actor_count": 8
@@ -12053,12 +11540,12 @@
         "tagline": "No going back.",
         "title": "TRON: Ares",
         "video": false,
-        "vote_average": 6.357,
-        "vote_count": 367
+        "vote_average": 6.4,
+        "vote_count": 368
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.357,
+      "tmdb_vote_average": 6.4,
       "omdb": {
         "Title": "Tron: Ares",
         "Year": "2025",
@@ -12213,7 +11700,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "TRON: Ares": 1,
+            "TRON: Ares": 0,
             "isPartial": false
           },
           {
@@ -12223,7 +11710,7 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "TRON: Ares": 22,
+            "TRON: Ares": 21,
             "isPartial": false
           },
           {
@@ -12248,7 +11735,7 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "TRON: Ares": 2,
+            "TRON: Ares": 1,
             "isPartial": false
           },
           {
@@ -12323,7 +11810,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "TRON: Ares": 4,
+            "TRON: Ares": 3,
             "isPartial": false
           },
           {
@@ -12333,27 +11820,27 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "TRON: Ares": 7,
+            "TRON: Ares": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "TRON: Ares": 11,
+            "TRON: Ares": 10,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "TRON: Ares": 14,
+            "TRON: Ares": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "TRON: Ares": 20,
+            "TRON: Ares": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "TRON: Ares": 100,
+            "TRON: Ares": 93,
             "isPartial": false
           },
           {
@@ -12368,17 +11855,17 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "TRON: Ares": 27,
+            "TRON: Ares": 25,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "TRON: Ares": 20,
+            "TRON: Ares": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "TRON: Ares": 30,
+            "TRON: Ares": 20,
             "isPartial": true
           }
         ]
@@ -12398,7 +11885,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "0CfK3F0I8DEEdaCYcD-mFKifwFU",
+          "etag": "S1k6IfOfqYoFYdgvHARk5PlO3xY",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -12443,10 +11930,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13046925",
-            "likeCount": "183172",
+            "viewCount": "13052941",
+            "likeCount": "183198",
             "favoriteCount": "0",
-            "commentCount": "14770"
+            "commentCount": "14772"
           }
         }
       ],
