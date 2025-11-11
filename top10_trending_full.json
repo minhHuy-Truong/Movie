@@ -60,7 +60,7 @@
         "original_title": "Frankenstein",
         "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
         "popularity": 1005.0134,
-        "poster_path": "/jJ8AiqKKiZWZaiYMyhlF0FNH4xJ.jpg",
+        "poster_path": "/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
         "production_companies": [
           {
             "id": 101082,
@@ -115,12 +115,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.941,
-        "vote_count": 768
+        "vote_average": 7.931,
+        "vote_count": 813
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.941,
+      "tmdb_vote_average": 7.931,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -189,7 +189,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "e4ATUYXlvxRXJzq0SSBAm3lrM94",
+          "etag": "zzLs6rKc5FtR5wn2V97Mx4S4uoA",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -265,10 +265,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11581577",
-            "likeCount": "165178",
+            "viewCount": "11610190",
+            "likeCount": "165476",
             "favoriteCount": "0",
-            "commentCount": "7002"
+            "commentCount": "7013"
           }
         }
       ],
@@ -1119,76 +1119,82 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1114967,
-      "imdb_id": "tt27543578",
-      "title": "Good Fortune",
-      "release_date": "2025-10-14",
-      "release_year": "2025",
+      "tmdb_id": 7451,
+      "imdb_id": "tt0295701",
+      "title": "xXx",
+      "release_date": "2002-08-09",
+      "release_year": "2002",
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Action",
+        "Adventure",
+        "Thriller",
+        "Crime",
+        "Drama"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "Media Capital Technologies",
-        "Oh Brudder Productions"
+        "Revolution Studios"
       ],
-      "runtime": 98,
-      "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist."
+      "runtime": 124,
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 18145814,
+      "budget": 70000000,
+      "revenue": 277448382,
       "opening_weekend": null,
-      "roi": 0.605,
+      "roi": 3.964,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-        "belongs_to_collection": null,
-        "budget": 30000000,
+        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+        "belongs_to_collection": {
+          "id": 52785,
+          "name": "xXx Collection",
+          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
+          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
+        },
+        "budget": 70000000,
         "genres": [
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.goodfortune.movie",
-        "id": 1114967,
-        "imdb_id": "tt27543578",
+        "homepage": "http://www.sonypictures.com/movies/xxx/",
+        "id": 7451,
+        "imdb_id": "tt0295701",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Good Fortune",
-        "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
-        "popularity": 71.8758,
-        "poster_path": "/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
+        "original_title": "xXx",
+        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+        "popularity": 139.0093,
+        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
-            "origin_country": "US"
-          },
-          {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
-            "origin_country": "US"
-          },
-          {
-            "id": 168945,
-            "logo_path": null,
-            "name": "Oh Brudder Productions",
+            "id": 497,
+            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+            "name": "Revolution Studios",
             "origin_country": "US"
           }
         ],
@@ -1198,68 +1204,88 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-14",
-        "revenue": 18145814,
-        "runtime": 98,
+        "release_date": "2002-08-09",
+        "revenue": 277448382,
+        "runtime": 124,
         "spoken_languages": [
+          {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Need a miracle?",
-        "title": "Good Fortune",
+        "tagline": "A new breed of secret agent.",
+        "title": "xXx",
         "video": false,
-        "vote_average": 6.753,
-        "vote_count": 89
+        "vote_average": 5.967,
+        "vote_count": 4628
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.753,
+      "tmdb_vote_average": 5.967,
       "omdb": {
-        "Title": "Good Fortune",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
-        "Runtime": "97 min",
-        "Genre": "Action, Comedy, Fantasy",
-        "Director": "Aziz Ansari",
-        "Writer": "Aziz Ansari",
-        "Actors": "Seth Rogen, Aziz Ansari, Keke Palmer",
-        "Plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy venture capitalist.",
-        "Language": "English",
+        "Title": "xXx",
+        "Year": "2002",
+        "Rated": "PG-13",
+        "Released": "09 Aug 2002",
+        "Runtime": "124 min",
+        "Genre": "Action, Adventure, Drama",
+        "Director": "Rob Cohen",
+        "Writer": "Rich Wilkes",
+        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
+        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
+        "Language": "English, German, Spanish, Russian, Czech",
         "Country": "United States",
-        "Awards": "2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "4 wins & 14 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.9/10"
+            "Value": "5.9/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "Value": "48%"
           },
           {
             "Source": "Metacritic",
-            "Value": "62/100"
+            "Value": "48/100"
           }
         ],
-        "Metascore": "62",
-        "imdbRating": "6.9",
-        "imdbVotes": "5,350",
-        "imdbID": "tt27543578",
+        "Metascore": "48",
+        "imdbRating": "5.9",
+        "imdbVotes": "191,427",
+        "imdbID": "tt0295701",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$12,964,684",
+        "BoxOffice": "$142,109,382",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1286,88 +1312,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "DhX_B4q-pVjF_YsfkP-rFlbP1AE",
-          "id": "ZKWndx83RwQ",
+          "etag": "GOXtfoilhIeKmkmyBoM_OFOnBCI",
+          "id": "NgPdDDzVhkA",
           "snippet": {
-            "publishedAt": "2025-07-23T13:00:22Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-            "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).",
+            "publishedAt": "2022-08-09T19:00:15Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "XXX [2002] - Official Trailer (HD)",
+            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
-            "tags": [
-              "Good Fortune (2025) official teaser",
-              "Good Fortune teaser",
-              "Good Fortune 2025 teaser",
-              "Good Fortune 2025 official teaser",
-              "Good Fortune",
-              "Good Fortune 2025",
-              "Seth Rogen",
-              "Aziz Ansari",
-              "Keke Palmer",
-              "Keanu Reeves",
-              "John Wick",
-              "angel",
-              "god",
-              "devil",
-              "gabriel",
-              "gabriel angel",
-              "arc angel",
-              "venture capitalist",
-              "VC",
-              "wealthy",
-              "Sandra Oh",
-              "Stephen McKinley Henderson",
-              "gig worker",
-              "worker",
-              "middle class",
-              "lost soul",
-              "guardian angel",
-              "comedy",
-              "drama",
-              "good fortune movie",
-              "life swap"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-              "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen)."
+              "title": "XXX [2002] - Official Trailer (HD)",
+              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6786656",
-            "likeCount": "78619",
+            "viewCount": "8422249",
+            "likeCount": "7343",
             "favoriteCount": "0",
-            "commentCount": "4770"
+            "commentCount": "289"
           }
         }
       ],
@@ -1378,20 +1371,18 @@
     },
     "creative": {
       "director": [
-        "Aziz Ansari"
+        "Rob Cohen"
       ],
-      "writers": [
-        "Aziz Ansari"
-      ],
+      "writers": [],
       "cast_top": [
-        "Keanu Reeves",
-        "Aziz Ansari",
-        "Seth Rogen",
-        "Keke Palmer",
-        "Sandra Oh",
-        "Sherry Cola",
-        "Stephen McKinley Henderson",
-        "Blanca Araceli"
+        "Vin Diesel",
+        "Asia Argento",
+        "Marton Csokas",
+        "Samuel L. Jackson",
+        "Michael Roof",
+        "Richy Müller",
+        "Werner Daehn",
+        "Petr Jákl"
       ],
       "star_power": {
         "actor_count": 8
@@ -2330,12 +2321,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.119,
-        "vote_count": 194
+        "vote_average": 7.139,
+        "vote_count": 202
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.119,
+      "tmdb_vote_average": 7.139,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -2400,7 +2391,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "S1wTpdeSOm72XyvOSOYqlhDWi7I",
+          "etag": "bHWtc5lbBtG_xsJH7HV4heZ0924",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -2448,10 +2439,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24257410",
-            "likeCount": "308531",
+            "viewCount": "24298104",
+            "likeCount": "308741",
             "favoriteCount": "0",
-            "commentCount": "25216"
+            "commentCount": "25234"
           }
         }
       ],
@@ -3324,9 +3315,9 @@
     },
     "commercial": {
       "budget": 30000000,
-      "revenue": 120448000,
+      "revenue": 120233805,
       "opening_weekend": null,
-      "roi": 4.015,
+      "roi": 4.008,
       "distribution": null,
       "raw": {
         "adult": false,
@@ -3392,7 +3383,7 @@
           }
         ],
         "release_date": "2025-10-15",
-        "revenue": 120448000,
+        "revenue": 120233805,
         "runtime": 114,
         "spoken_languages": [
           {
@@ -3410,12 +3401,12 @@
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.216,
-        "vote_count": 399
+        "vote_average": 7.2,
+        "vote_count": 403
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.216,
+      "tmdb_vote_average": 7.2,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -3484,7 +3475,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "QggMT5ihextelIV05Wg3ZasEuqo",
+          "etag": "rffcDi4KGhzK6yPRirrCNh5hi1Q",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -3529,10 +3520,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1870345",
-            "likeCount": "28735",
+            "viewCount": "1873569",
+            "likeCount": "28762",
             "favoriteCount": "0",
-            "commentCount": "1563"
+            "commentCount": "1565"
           }
         }
       ],
@@ -4384,82 +4375,76 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 7451,
-      "imdb_id": "tt0295701",
-      "title": "xXx",
-      "release_date": "2002-08-09",
-      "release_year": "2002",
+      "tmdb_id": 1114967,
+      "imdb_id": "tt27543578",
+      "title": "Good Fortune",
+      "release_date": "2025-10-14",
+      "release_year": "2025",
       "genres": [
-        "Action",
-        "Adventure",
-        "Thriller",
-        "Crime",
-        "Drama"
+        "Comedy",
+        "Fantasy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Revolution Studios"
+        "Lionsgate",
+        "Media Capital Technologies",
+        "Oh Brudder Productions"
       ],
-      "runtime": 124,
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
+      "runtime": 98,
+      "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist."
     },
     "commercial": {
-      "budget": 70000000,
-      "revenue": 277448382,
+      "budget": 30000000,
+      "revenue": 18145814,
       "opening_weekend": null,
-      "roi": 3.964,
+      "roi": 0.605,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
-        "belongs_to_collection": {
-          "id": 52785,
-          "name": "xXx Collection",
-          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
-          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
-        },
-        "budget": 70000000,
+        "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 35,
+            "name": "Comedy"
           },
           {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "http://www.sonypictures.com/movies/xxx/",
-        "id": 7451,
-        "imdb_id": "tt0295701",
+        "homepage": "https://www.goodfortune.movie",
+        "id": 1114967,
+        "imdb_id": "tt27543578",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "xXx",
-        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 139.0093,
-        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
+        "original_title": "Good Fortune",
+        "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+        "popularity": 71.8758,
+        "poster_path": "/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
         "production_companies": [
           {
-            "id": 497,
-            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-            "name": "Revolution Studios",
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+          },
+          {
+            "id": 221429,
+            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+            "name": "Media Capital Technologies",
+            "origin_country": "US"
+          },
+          {
+            "id": 168945,
+            "logo_path": null,
+            "name": "Oh Brudder Productions",
             "origin_country": "US"
           }
         ],
@@ -4469,88 +4454,68 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2002-08-09",
-        "revenue": 277448382,
-        "runtime": 124,
+        "release_date": "2025-10-14",
+        "revenue": 18145814,
+        "runtime": 98,
         "spoken_languages": [
-          {
-            "english_name": "Czech",
-            "iso_639_1": "cs",
-            "name": "Český"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "A new breed of secret agent.",
-        "title": "xXx",
+        "tagline": "Need a miracle?",
+        "title": "Good Fortune",
         "video": false,
-        "vote_average": 5.967,
-        "vote_count": 4628
+        "vote_average": 6.753,
+        "vote_count": 89
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.967,
+      "tmdb_vote_average": 6.753,
       "omdb": {
-        "Title": "xXx",
-        "Year": "2002",
-        "Rated": "PG-13",
-        "Released": "09 Aug 2002",
-        "Runtime": "124 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Rob Cohen",
-        "Writer": "Rich Wilkes",
-        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
-        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
-        "Language": "English, German, Spanish, Russian, Czech",
+        "Title": "Good Fortune",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "17 Oct 2025",
+        "Runtime": "97 min",
+        "Genre": "Action, Comedy, Fantasy",
+        "Director": "Aziz Ansari",
+        "Writer": "Aziz Ansari",
+        "Actors": "Seth Rogen, Aziz Ansari, Keke Palmer",
+        "Plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy venture capitalist.",
+        "Language": "English",
         "Country": "United States",
-        "Awards": "4 wins & 14 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.9/10"
+            "Value": "6.9/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "48%"
+            "Value": "85%"
           },
           {
             "Source": "Metacritic",
-            "Value": "48/100"
+            "Value": "62/100"
           }
         ],
-        "Metascore": "48",
-        "imdbRating": "5.9",
-        "imdbVotes": "191,427",
-        "imdbID": "tt0295701",
+        "Metascore": "62",
+        "imdbRating": "6.9",
+        "imdbVotes": "5,350",
+        "imdbID": "tt27543578",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$142,109,382",
+        "BoxOffice": "$12,964,684",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4577,55 +4542,88 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ue0r37Iefs9BGOFF0khIJ-VFNBs",
-          "id": "NgPdDDzVhkA",
+          "etag": "cxWbokGDOhtKMQz3YOMRYG59mHQ",
+          "id": "ZKWndx83RwQ",
           "snippet": {
-            "publishedAt": "2022-08-09T19:00:15Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "XXX [2002] - Official Trailer (HD)",
-            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
+            "publishedAt": "2025-07-23T13:00:22Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
+            "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
+                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
+            "channelTitle": "Lionsgate Movies",
+            "tags": [
+              "Good Fortune (2025) official teaser",
+              "Good Fortune teaser",
+              "Good Fortune 2025 teaser",
+              "Good Fortune 2025 official teaser",
+              "Good Fortune",
+              "Good Fortune 2025",
+              "Seth Rogen",
+              "Aziz Ansari",
+              "Keke Palmer",
+              "Keanu Reeves",
+              "John Wick",
+              "angel",
+              "god",
+              "devil",
+              "gabriel",
+              "gabriel angel",
+              "arc angel",
+              "venture capitalist",
+              "VC",
+              "wealthy",
+              "Sandra Oh",
+              "Stephen McKinley Henderson",
+              "gig worker",
+              "worker",
+              "middle class",
+              "lost soul",
+              "guardian angel",
+              "comedy",
+              "drama",
+              "good fortune movie",
+              "life swap"
+            ],
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "XXX [2002] - Official Trailer (HD)",
-              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
+              "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
+              "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen)."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8421785",
-            "likeCount": "7341",
+            "viewCount": "6790800",
+            "likeCount": "78643",
             "favoriteCount": "0",
-            "commentCount": "289"
+            "commentCount": "4773"
           }
         }
       ],
@@ -4636,18 +4634,20 @@
     },
     "creative": {
       "director": [
-        "Rob Cohen"
+        "Aziz Ansari"
       ],
-      "writers": [],
+      "writers": [
+        "Aziz Ansari"
+      ],
       "cast_top": [
-        "Vin Diesel",
-        "Asia Argento",
-        "Marton Csokas",
-        "Samuel L. Jackson",
-        "Michael Roof",
-        "Richy Müller",
-        "Werner Daehn",
-        "Petr Jákl"
+        "Keanu Reeves",
+        "Aziz Ansari",
+        "Seth Rogen",
+        "Keke Palmer",
+        "Sandra Oh",
+        "Sherry Cola",
+        "Stephen McKinley Henderson",
+        "Blanca Araceli"
       ],
       "star_power": {
         "actor_count": 8
@@ -5584,12 +5584,12 @@
         "tagline": "",
         "title": "The Rats: A Witcher Tale",
         "video": false,
-        "vote_average": 4.859,
-        "vote_count": 64
+        "vote_average": 4.924,
+        "vote_count": 66
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.859,
+      "tmdb_vote_average": 4.924,
       "omdb": {
         "Title": "The Rats: A Witcher Tale",
         "Year": "2025",
@@ -5650,85 +5650,49 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "9Ihq0a2lA1v8GORMsHRs_f5Z2i4",
-          "id": "HK9dU6JIroU",
+          "etag": "-KsDaHgPfAYn9hoGVeh7hNcjerw",
+          "id": "UBZgrl7_HvM",
           "snippet": {
-            "publishedAt": "2025-10-07T15:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-            "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again.",
+            "publishedAt": "2025-10-31T16:29:55Z",
+            "channelId": "UCctH8dstHGBnXz-Y2enCntg",
+            "title": "The Rats: A Witcher Tale | Trailer (Hindi) | Netflix",
+            "description": "💥 PLOT : To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed up Witcher. 💥\n\n💙 Thanks For Watching! 💙\n\n🥰 SUBSCRIBE my channel for more videos like this! 🥰\n\n#TheWitcher\n#TheRatsAWitcherTale\n#TheWitcherTrailer\n#TheRatsAWitcherTaleTrailer\n#TheWitcherHindiTrailer\n#TheRatsAWitcherTaleHindiTrailer\n#TheWitcherHindiDubbed\n#TheRatsAWitcherTaleHindiDubbed\n#Netflix\n#NetflixIndia\n#NetflixSeries\n#NetflixSeriesInHindi\n#Hindi\n#HindiDubbed\n#Heist\n#Action\n#Adventure\n#Monsters\n#Fantasy",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/default.jpg",
+                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/sddefault.jpg",
                 "width": 640,
                 "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
               }
             },
-            "channelTitle": "Netflix",
-            "tags": [
-              "Andrzej Sapkowski",
-              "Anya Chalotra",
-              "CD Projekt Red",
-              "CDPR",
-              "Ciri",
-              "Freya Allan",
-              "Geralt",
-              "Halloween",
-              "Hemsworth",
-              "Jaskier",
-              "Joey Batey",
-              "Lauren Hissrich",
-              "Laurence Fishburne",
-              "Liam Hemsworth",
-              "Regis",
-              "The Witcher",
-              "Witcher",
-              "Witcher video game",
-              "Yennefer",
-              "beast",
-              "continent",
-              "ghost",
-              "monster",
-              "season 4",
-              "the continent",
-              "treat",
-              "trick",
-              "wraith"
-            ],
-            "categoryId": "24",
+            "channelTitle": "Kitty Galitzine 💗",
+            "categoryId": "22",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-              "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again."
+              "title": "The Rats: A Witcher Tale | Trailer (Hindi) | Netflix",
+              "description": "💥 PLOT : To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed up Witcher. 💥\n\n💙 Thanks For Watching! 💙\n\n🥰 SUBSCRIBE my channel for more videos like this! 🥰\n\n#TheWitcher\n#TheRatsAWitcherTale\n#TheWitcherTrailer\n#TheRatsAWitcherTaleTrailer\n#TheWitcherHindiTrailer\n#TheRatsAWitcherTaleHindiTrailer\n#TheWitcherHindiDubbed\n#TheRatsAWitcherTaleHindiDubbed\n#Netflix\n#NetflixIndia\n#NetflixSeries\n#NetflixSeriesInHindi\n#Hindi\n#HindiDubbed\n#Heist\n#Action\n#Adventure\n#Monsters\n#Fantasy"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "hi"
           },
           "statistics": {
-            "viewCount": "2239092",
-            "likeCount": "25911",
-            "favoriteCount": "0",
-            "commentCount": "17903"
+            "viewCount": "64088",
+            "likeCount": "81",
+            "favoriteCount": "0"
           }
         }
       ],
@@ -6580,89 +6544,74 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 798645,
-      "imdb_id": "tt14107334",
-      "title": "The Running Man",
-      "release_date": "2025-11-11",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
+        "Science Fiction",
+        "Adventure",
+        "Action"
       ],
       "production_countries": [
-        "US",
-        "GB"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Paramount Pictures",
-        "Complete Fiction",
-        "Genre Films",
-        "Domain Entertainment"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 133,
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 110000000,
-      "revenue": 0,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/jFhdb45moOI78fkvtRNybjs1H4h.jpg",
+        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
         "belongs_to_collection": null,
-        "budget": 110000000,
+        "budget": 200000000,
         "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
           {
             "id": 878,
             "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
           }
         ],
-        "homepage": "https://www.runningmanmovie.com",
-        "id": 798645,
-        "imdb_id": "tt14107334",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Running Man",
-        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-        "popularity": 29.991,
-        "poster_path": "/bnGKTYXVkQp0TKWRfAvTTY1y2XC.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 124.4198,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 4,
-            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-            "name": "Paramount Pictures",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 131464,
-            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-            "name": "Complete Fiction",
-            "origin_country": "GB"
-          },
-          {
-            "id": 28788,
-            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-            "name": "Genre Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 176762,
+            "logo_path": null,
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -6670,61 +6619,71 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 0,
-        "runtime": 133,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "Hunt him down.",
-        "title": "The Running Man",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 8.5,
-        "vote_count": 4
+        "vote_average": 7.087,
+        "vote_count": 2303
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.5,
+      "tmdb_vote_average": 7.087,
       "omdb": {
-        "Title": "The Running Man",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "14 Nov 2025",
-        "Runtime": "N/A",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
         "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Edgar Wright",
-        "Writer": "Michael Bacall, Stephen King, Edgar Wright",
-        "Actors": "Josh Brolin, Glen Powell, Lee Pace",
-        "Plot": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
         "Language": "English",
-        "Country": "United Kingdom, United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt14107334",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
+          }
+        ],
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -6751,55 +6710,82 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "mMldpMAw6KbF5JsTeARt9-QpVJg",
-          "id": "_iHJHYjq7XI",
+          "etag": "NXkX-lLClp6wrXPpaG2FponNSC8",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-11-10T14:00:32Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Running Man | Final Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-            "description": "How far would you go for a billion dollars? Watch the final trailer for THE RUNNING MAN and go see it only in theatres this FRIDAY! See it large and loud!\n\nIn a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/_iHJHYjq7XI/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/_iHJHYjq7XI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/_iHJHYjq7XI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/_iHJHYjq7XI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/_iHJHYjq7XI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
+            "channelTitle": "Marvel Entertainment",
+            "tags": [
+              "marvel",
+              "comics",
+              "Marvel Cinematic Universe",
+              "MCU",
+              "The Fantastic Four",
+              "The Fantastic Four: First Steps",
+              "Fantastic Four movie",
+              "superhero",
+              "superhero team",
+              "Mister Fantastic",
+              "Reed Richards",
+              "Invisible Woman",
+              "Sue Storm",
+              "Johnny Storm",
+              "The Human Torch",
+              "Ben Grimm",
+              "The Thing",
+              "Pedro Pascal",
+              "Vanessa Kirby",
+              "Joseph Quinn",
+              "Ebon Moss-Bachrach",
+              "Silver Surfer",
+              "Galactus",
+              "alien invasion",
+              "Herbie"
+            ],
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Running Man | Final Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-              "description": "How far would you go for a billion dollars? Watch the final trailer for THE RUNNING MAN and go see it only in theatres this FRIDAY! See it large and loud!\n\nIn a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "35843",
-            "likeCount": "903",
+            "viewCount": "17002776",
+            "likeCount": "310495",
             "favoriteCount": "0",
-            "commentCount": "75"
+            "commentCount": "20563"
           }
         }
       ],
@@ -6810,18 +6796,18 @@
     },
     "creative": {
       "director": [
-        "Edgar Wright"
+        "Matt Shakman"
       ],
       "writers": [],
       "cast_top": [
-        "Glen Powell",
-        "Josh Brolin",
-        "Michael Cera",
-        "Colman Domingo",
-        "Lee Pace",
-        "Jayme Lawson",
-        "William H. Macy",
-        "Emilia Jones"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -7758,12 +7744,12 @@
         "tagline": "The unforgettable true story of a UFC legend.",
         "title": "The Smashing Machine",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 151
+        "vote_average": 6.48,
+        "vote_count": 153
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.5,
+      "tmdb_vote_average": 6.48,
       "omdb": {
         "Title": "The Smashing Machine",
         "Year": "2025",
@@ -7832,7 +7818,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "wId1L0zu1fWZkwCdh-Pw5I2TezU",
+          "etag": "rQBjlGJYgPys_G5HA_Sy3yPffP8",
           "id": "aRpnP3LZ99g",
           "snippet": {
             "publishedAt": "2025-04-29T12:59:01Z",
@@ -7891,8 +7877,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24028949",
-            "likeCount": "112637",
+            "viewCount": "24031564",
+            "likeCount": "112651",
             "favoriteCount": "0",
             "commentCount": "12725"
           }
@@ -8743,71 +8729,109 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1033148,
-      "imdb_id": "tt9362736",
-      "title": "Die My Love",
-      "release_date": "2025-10-06",
+      "tmdb_id": 1242419,
+      "imdb_id": "tt4627382",
+      "title": "Roofman",
+      "release_date": "2025-10-08",
       "release_year": "2025",
       "genres": [
-        "Drama"
+        "Crime",
+        "Drama",
+        "Comedy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Excellent Cadaver",
-        "Sikelia Productions",
-        "Black Label Media"
+        "Limelight",
+        "High Frequency Entertainment",
+        "51 Entertainment",
+        "Miramax",
+        "Von Waaden Entertainment",
+        "FilmNation Entertainment",
+        "Hunting Lane Films"
       ],
-      "runtime": 119,
-      "overview": "Grace, a writer and young mother, is slowly slipping into madness. Locked away in an old house in Montana, her increasingly agitated and erratic behaviour leaves her companion, Jackson, worried and helpless."
+      "runtime": 126,
+      "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 18000000,
+      "revenue": 17246758,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.958,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ltIxMsVJD9iiD5V4SBp4kv3KhVb.jpg",
+        "backdrop_path": "/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 18000000,
         "genres": [
+          {
+            "id": 80,
+            "name": "Crime"
+          },
           {
             "id": 18,
             "name": "Drama"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
           }
         ],
-        "homepage": "https://mubi.com/en/diemylove",
-        "id": 1033148,
-        "imdb_id": "tt9362736",
+        "homepage": "https://www.roofmanmovie.com",
+        "id": 1242419,
+        "imdb_id": "tt4627382",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Die My Love",
-        "overview": "Grace, a writer and young mother, is slowly slipping into madness. Locked away in an old house in Montana, her increasingly agitated and erratic behaviour leaves her companion, Jackson, worried and helpless.",
-        "popularity": 27.9335,
-        "poster_path": "/uDMehIQIgqSCSkTINIfmKeqEt06.jpg",
+        "original_title": "Roofman",
+        "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+        "popularity": 12.4002,
+        "poster_path": "/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
         "production_companies": [
           {
-            "id": 117188,
+            "id": 128360,
+            "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+            "name": "Limelight",
+            "origin_country": "US"
+          },
+          {
+            "id": 52053,
+            "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+            "name": "High Frequency Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 106178,
             "logo_path": null,
-            "name": "Excellent Cadaver",
+            "name": "51 Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 23243,
-            "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
-            "name": "Sikelia Productions",
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
             "origin_country": "US"
           },
           {
-            "id": 33681,
-            "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
-            "name": "Black Label Media",
+            "id": 278601,
+            "logo_path": null,
+            "name": "Von Waaden Entertainment",
+            "origin_country": ""
+          },
+          {
+            "id": 7493,
+            "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 2290,
+            "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+            "name": "Hunting Lane Films",
             "origin_country": "US"
           }
         ],
@@ -8817,9 +8841,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-06",
-        "revenue": 0,
-        "runtime": 119,
+        "release_date": "2025-10-08",
+        "revenue": 17246758,
+        "runtime": 126,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -8828,44 +8852,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Die My Love",
+        "tagline": "Based on actual events. And terrible decisions.",
+        "title": "Roofman",
         "video": false,
-        "vote_average": 7.1,
-        "vote_count": 14
+        "vote_average": 7.3,
+        "vote_count": 72
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.1,
+      "tmdb_vote_average": 7.3,
       "omdb": {
-        "Title": "Die, My Love",
-        "Year": "2024",
-        "Rated": "N/A",
-        "Released": "05 Sep 2024",
-        "Runtime": "N/A",
-        "Genre": "Comedy, Horror",
-        "Director": "Lynne Ramsay",
-        "Writer": "Ariana Harwicz, Lynne Ramsay, Enda Walsh",
-        "Actors": "Jennifer Lawrence, Robert Pattinson, Nick Nolte",
-        "Plot": "In a remote forgotten rural area, a mother struggles to maintain her sanity as she battles with psychosis.",
+        "Title": "Roofman",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "10 Oct 2025",
+        "Runtime": "126 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Derek Cianfrance",
+        "Writer": "Derek Cianfrance, Kirt Gunn",
+        "Actors": "Juno Temple, Peter Dinklage, Channing Tatum",
+        "Plot": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky.",
         "Language": "English",
-        "Country": "United Kingdom, United States",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNDNmY2QtZDBiMC00ODMyLThiNGItNzJjNDdiMmU2ZmU3XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt9362736",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
+          }
+        ],
+        "Metascore": "65",
+        "imdbRating": "7.2",
+        "imdbVotes": "2,585",
+        "imdbID": "tt4627382",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$3,250,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/die_my_love_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/die_my_love_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8892,61 +8929,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "7Tn93npfwv2UPsicHtptWiZIkSc",
-          "id": "ol822Dp0ngQ",
+          "etag": "2ofwyg5K9de0P1iqD2jrRmM5dRw",
+          "id": "GXecSGmQDEI",
           "snippet": {
-            "publishedAt": "2025-10-06T22:47:47Z",
-            "channelId": "UCuF-f_kairxTjOyHSItrmtg",
-            "title": "Die My Love - Official Trailer",
-            "description": "Lynne Ramsay’s blistering depiction of a woman engulfed by love and madness, featuring stunning performances from Jennifer Lawrence and Robert Pattinson. In Australian cinemas November 6 and NZ cinemas November 27.\n\nOur Website: http://www.madmanfilms.com.au\n\nInstagram: http://www.instagram.com/madmanfilms\nFacebook: http://www.facebook.com/madmanfilms\nTwitter: http://www.twitter.com/madmanfilms \nTiktok: https://www.tiktok.com/@madmanfilms\n\nFollow us on Letterboxd: https://letterboxd.com/madmanfilms/\nJoin our mailing list: https://www.madmanfilms.com.au/subscribe/",
+            "publishedAt": "2025-06-25T13:00:08Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+            "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/ol822Dp0ngQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/ol822Dp0ngQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/ol822Dp0ngQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/ol822Dp0ngQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/ol822Dp0ngQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Madman Films",
+            "channelTitle": "Paramount Pictures",
             "tags": [
-              "Madman",
-              "Madman Films",
-              "Madman Cinema",
-              "Movie Trailer"
+              "Channing Tatum",
+              "Kirsten Dunst",
+              "Ben Mendelsohn",
+              "LaKeith Stanfield",
+              "Juno Temple",
+              "Melonie Diaz",
+              "Uzo Aduba",
+              "Lily Collias",
+              "Jimmy O. Yang",
+              "PeterDinklage",
+              "New Movie",
+              "2025 movie",
+              "new movie trailer",
+              "coming soon"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Die My Love - Official Trailer",
-              "description": "Lynne Ramsay’s blistering depiction of a woman engulfed by love and madness, featuring stunning performances from Jennifer Lawrence and Robert Pattinson. In Australian cinemas November 6 and NZ cinemas November 27.\n\nOur Website: http://www.madmanfilms.com.au\n\nInstagram: http://www.instagram.com/madmanfilms\nFacebook: http://www.facebook.com/madmanfilms\nTwitter: http://www.twitter.com/madmanfilms \nTiktok: https://www.tiktok.com/@madmanfilms\n\nFollow us on Letterboxd: https://letterboxd.com/madmanfilms/\nJoin our mailing list: https://www.madmanfilms.com.au/subscribe/"
+              "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+              "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "267110",
-            "likeCount": "1555",
+            "viewCount": "13543645",
+            "likeCount": "56537",
             "favoriteCount": "0",
-            "commentCount": "153"
+            "commentCount": "3374"
           }
         }
       ],
@@ -8957,18 +9004,18 @@
     },
     "creative": {
       "director": [
-        "Lynne Ramsay"
+        "Derek Cianfrance"
       ],
       "writers": [],
       "cast_top": [
-        "Jennifer Lawrence",
-        "Robert Pattinson",
-        "Sissy Spacek",
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn",
         "LaKeith Stanfield",
-        "Nick Nolte",
-        "Gabrielle Rose",
-        "Clare Coulter",
-        "Sarah Lind"
+        "Juno Temple",
+        "Peter Dinklage",
+        "Uzo Aduba",
+        "Lily Collias"
       ],
       "star_power": {
         "actor_count": 8
@@ -9795,113 +9842,128 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1561969,
-      "imdb_id": "tt29247040",
-      "title": "Baramulla",
-      "release_date": "2025-11-06",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-17",
       "release_year": "2025",
       "genres": [
-        "Horror"
+        "Romance",
+        "Fantasy",
+        "Adventure"
       ],
       "production_countries": [
-        "IN"
+        "US"
       ],
-      "language": "hi",
+      "language": "en",
       "studio_distributor": [
-        "B62 Studios",
-        "Jio Studios"
+        "Universal Pictures",
+        "Marc Platt Productions"
       ],
-      "runtime": 120,
-      "overview": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla."
+      "runtime": 138,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 0,
+      "budget": 150000000,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ajIRfvb5MkpH8spMJ5OCyg2enVS.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "belongs_to_collection": {
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+        },
+        "budget": 150000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
-          }
-        ],
-        "homepage": "https://www.netflix.com/title/82127717",
-        "id": 1561969,
-        "imdb_id": "tt29247040",
-        "origin_country": [
-          "IN"
-        ],
-        "original_language": "hi",
-        "original_title": "बारामूला",
-        "overview": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla.",
-        "popularity": 167.1835,
-        "poster_path": "/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
-        "production_companies": [
-          {
-            "id": 212774,
-            "logo_path": null,
-            "name": "B62 Studios",
-            "origin_country": "IN"
+            "id": 10749,
+            "name": "Romance"
           },
           {
-            "id": 115477,
-            "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
-            "name": "Jio Studios",
-            "origin_country": "IN"
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 29.7689,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "IN",
-            "name": "India"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-06",
+        "release_date": "2025-11-17",
         "revenue": 0,
-        "runtime": 120,
+        "runtime": 138,
         "spoken_languages": [
           {
-            "english_name": "Hindi",
-            "iso_639_1": "hi",
-            "name": "हिन्दी"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Baramulla",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.3,
-        "vote_count": 5
+        "vote_average": 10.0,
+        "vote_count": 1
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.3,
+      "tmdb_vote_average": 10.0,
       "omdb": {
-        "Title": "Baramulla",
+        "Title": "Wicked: For Good",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "07 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Horror",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "N/A",
-        "Plot": "N/A",
-        "Language": "Hindi",
-        "Country": "India",
-        "Awards": "N/A",
-        "Poster": "N/A",
+        "Rated": "PG",
+        "Released": "21 Nov 2025",
+        "Runtime": "138 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
+        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "3 wins total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [],
         "Metascore": "N/A",
         "imdbRating": "N/A",
         "imdbVotes": "N/A",
-        "imdbID": "tt29247040",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -9910,7 +9972,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/baramulla\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/baramulla\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9937,82 +9999,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "sxZW91cHyI7a4zLbbFeIBel7HhI",
-          "id": "02m_KG2xzpY",
+          "etag": "BSKeRypYBfwvosqvWCYch_Zj2-8",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-10-30T06:42:00Z",
-            "channelId": "UCZSNzBgFub_WWil6TOTYwAg",
-            "title": "Baramulla | Official Trailer | Manav Kaul, Bhasha Sumbli | Netflix India",
-            "description": "A dark secret comes to light. If you saw the truth, would you believe it? \nWatch Baramulla, starring Manav Kaul and Bhasha Sumbli, out 7 November, on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/82127717\n\nFollow Netflix India on:\nWebsite: https://www.netflix.com/\nYouTube: http://bit.ly/NetflixIndiaYT\nInstagram: http://www.instagram.com/netflix_in\nFacebook: http://www.facebook.com/NetflixIN\nTwitter: http://twitter.com/netflixindia",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/02m_KG2xzpY/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix India",
-            "tags": [
-              "Baramulla",
-              "Baramulla movie",
-              "Bollywood",
-              "Manav Kaul book",
-              "Manav Kaul movie",
-              "Manav Kaul play",
-              "Manav Kaul series",
-              "Netflix recommendation",
-              "baramulla",
-              "baramulla battle",
-              "baramulla clash",
-              "baramulla movie",
-              "baramulla news",
-              "baramulla railway station",
-              "baramulla trailer",
-              "baramulla updates",
-              "manav Kaul new movie",
-              "manav kaul",
-              "new Hindi movie",
-              "new movie",
-              "new series",
-              "new trailer",
-              "official trailer",
-              "trailer",
-              "what to watch"
-            ],
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "Baramulla | Official Trailer | Manav Kaul, Bhasha Sumbli | Netflix India",
-              "description": "A dark secret comes to light. If you saw the truth, would you believe it? \nWatch Baramulla, starring Manav Kaul and Bhasha Sumbli, out 7 November, on Netflix.\n\nWatch on Netflix: https://www.netflix.com/title/82127717\n\nFollow Netflix India on:\nWebsite: https://www.netflix.com/\nYouTube: http://bit.ly/NetflixIndiaYT\nInstagram: http://www.instagram.com/netflix_in\nFacebook: http://www.facebook.com/NetflixIN\nTwitter: http://twitter.com/netflixindia"
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "16217240",
-            "likeCount": "33089",
+            "viewCount": "12226974",
+            "likeCount": "290056",
             "favoriteCount": "0",
-            "commentCount": "1232"
+            "commentCount": "14708"
           }
         }
       ],
@@ -10023,20 +10058,18 @@
     },
     "creative": {
       "director": [
-        "Aditya Suhas Jambhale"
+        "Jon M. Chu"
       ],
-      "writers": [
-        "Aditya Suhas Jambhale"
-      ],
+      "writers": [],
       "cast_top": [
-        "Manav Kaul",
-        "Neelofar Hamid",
-        "Masoom Mumtaz Khan",
-        "Arista Mehta",
-        "Baby Kiara Khanna",
-        "Ashwini Koul",
-        "Nazneen Madan",
-        "Mir Sarwar"
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Michelle Yeoh",
+        "Jeff Goldblum",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Peter Dinklage"
       ],
       "star_power": {
         "actor_count": 8
