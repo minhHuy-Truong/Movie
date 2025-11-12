@@ -115,12 +115,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.9,
-        "vote_count": 831
+        "vote_average": 7.918,
+        "vote_count": 857
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.9,
+      "tmdb_vote_average": 7.918,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -189,7 +189,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "eqvafK7qL-k0r746_5DXyOkzd7E",
+          "etag": "0pgyVi0U7CtUHJ3EtD2cDFexVOM",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -265,10 +265,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11644709",
-            "likeCount": "165874",
+            "viewCount": "11668261",
+            "likeCount": "166199",
             "favoriteCount": "0",
-            "commentCount": "7031"
+            "commentCount": "7073"
           }
         }
       ],
@@ -1306,7 +1306,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "lkNHoZMhhvV0pNbOLppOxQ5cbCo",
+          "etag": "344LBpApV6CE2IuQDqd7ZVadlrE",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -1354,10 +1354,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24349341",
-            "likeCount": "309033",
+            "viewCount": "24413249",
+            "likeCount": "309251",
             "favoriteCount": "0",
-            "commentCount": "25252"
+            "commentCount": "25283"
           }
         }
       ],
@@ -2299,12 +2299,12 @@
         "tagline": "Need a miracle?",
         "title": "Good Fortune",
         "video": false,
-        "vote_average": 6.7,
-        "vote_count": 97
+        "vote_average": 6.729,
+        "vote_count": 105
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.7,
+      "tmdb_vote_average": 6.729,
       "omdb": {
         "Title": "Good Fortune",
         "Year": "2025",
@@ -2373,7 +2373,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "OCILy3BdRsBVPjicKiOKJVooFAs",
+          "etag": "GyAKmxM2tsmx14wB8dSJgGiVTiE",
           "id": "ZKWndx83RwQ",
           "snippet": {
             "publishedAt": "2025-07-23T13:00:22Z",
@@ -2451,10 +2451,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6795845",
-            "likeCount": "78675",
+            "viewCount": "6804774",
+            "likeCount": "78717",
             "favoriteCount": "0",
-            "commentCount": "4778"
+            "commentCount": "4782"
           }
         }
       ],
@@ -3415,12 +3415,12 @@
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 405
+        "vote_average": 7.214,
+        "vote_count": 406
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 7.214,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -3489,7 +3489,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "hUsUBKwEePpcULr514J9ONNO-yU",
+          "etag": "cu-keWSWiv4aaeANsROzEJGiQW4",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -3534,10 +3534,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1882044",
-            "likeCount": "28806",
+            "viewCount": "1890458",
+            "likeCount": "28827",
             "favoriteCount": "0",
-            "commentCount": "1567"
+            "commentCount": "1568"
           }
         }
       ],
@@ -4389,124 +4389,121 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 701387,
-      "imdb_id": "tt12300742",
-      "title": "Bugonia",
-      "release_date": "2025-10-23",
+      "tmdb_id": 1242419,
+      "imdb_id": "tt4627382",
+      "title": "Roofman",
+      "release_date": "2025-10-08",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
+        "Comedy",
+        "Drama",
         "Crime"
       ],
       "production_countries": [
-        "GR",
-        "IE",
-        "KR",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Element Pictures",
-        "Square Peg",
-        "Fremantle",
-        "Pith Quest Films",
-        "Fruit Tree",
-        "CJ ENM"
+        "Limelight",
+        "High Frequency Entertainment",
+        "51 Entertainment",
+        "Miramax",
+        "Von Waaden Entertainment",
+        "FilmNation Entertainment",
+        "Hunting Lane Films"
       ],
-      "runtime": 119,
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+      "runtime": 126,
+      "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 15263053,
+      "budget": 18000000,
+      "revenue": 17246758,
       "opening_weekend": null,
-      "roi": 0.305,
+      "roi": 0.958,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/3JFsKuQkTh7ZtmPWKGDq2BoLtTI.jpg",
+        "backdrop_path": "/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
         "belongs_to_collection": null,
-        "budget": 50000000,
+        "budget": 18000000,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
           },
           {
             "id": 80,
             "name": "Crime"
           }
         ],
-        "homepage": "https://www.focusfeatures.com/bugonia",
-        "id": 701387,
-        "imdb_id": "tt12300742",
+        "homepage": "https://www.roofmanmovie.com",
+        "id": 1242419,
+        "imdb_id": "tt4627382",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Bugonia",
-        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 42.3019,
-        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "original_title": "Roofman",
+        "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+        "popularity": 12.4002,
+        "poster_path": "/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
         "production_companies": [
           {
-            "id": 3353,
-            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-            "name": "Element Pictures",
-            "origin_country": "IE"
-          },
-          {
-            "id": 123620,
-            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-            "name": "Square Peg",
+            "id": 128360,
+            "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+            "name": "Limelight",
             "origin_country": "US"
           },
           {
-            "id": 121813,
-            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-            "name": "Fremantle",
+            "id": 52053,
+            "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+            "name": "High Frequency Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 264539,
+            "id": 106178,
             "logo_path": null,
-            "name": "Pith Quest Films",
-            "origin_country": "GR"
-          },
-          {
-            "id": 138287,
-            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-            "name": "Fruit Tree",
+            "name": "51 Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 128404,
-            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-            "name": "CJ ENM",
-            "origin_country": "KR"
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+          },
+          {
+            "id": 278601,
+            "logo_path": null,
+            "name": "Von Waaden Entertainment",
+            "origin_country": ""
+          },
+          {
+            "id": 7493,
+            "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 2290,
+            "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+            "name": "Hunting Lane Films",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
-          {
-            "iso_3166_1": "GR",
-            "name": "Greece"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          },
-          {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
           {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-23",
-        "revenue": 15263053,
-        "runtime": 119,
+        "release_date": "2025-10-08",
+        "revenue": 17246758,
+        "runtime": 126,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -4515,34 +4512,34 @@
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Bugonia",
+        "tagline": "Based on actual events. And terrible decisions.",
+        "title": "Roofman",
         "video": false,
-        "vote_average": 7.606,
-        "vote_count": 282
+        "vote_average": 7.337,
+        "vote_count": 83
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.606,
+      "tmdb_vote_average": 7.337,
       "omdb": {
-        "Title": "Bugonia",
+        "Title": "Roofman",
         "Year": "2025",
         "Rated": "R",
-        "Released": "31 Oct 2025",
-        "Runtime": "120 min",
-        "Genre": "Comedy, Crime, Sci-Fi",
-        "Director": "Yorgos Lanthimos",
-        "Writer": "Jang Joon-hwan, Will Tracy",
-        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
-        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Released": "10 Oct 2025",
+        "Runtime": "126 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Derek Cianfrance",
+        "Writer": "Derek Cianfrance, Kirt Gunn",
+        "Actors": "Juno Temple, Peter Dinklage, Channing Tatum",
+        "Plot": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky.",
         "Language": "English",
-        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
-        "Awards": "2 wins & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.4/10"
+            "Value": "7.2/10"
           },
           {
             "Source": "Rotten Tomatoes",
@@ -4550,22 +4547,22 @@
           },
           {
             "Source": "Metacritic",
-            "Value": "72/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "72",
-        "imdbRating": "7.4",
-        "imdbVotes": "2,099",
-        "imdbID": "tt12300742",
+        "Metascore": "65",
+        "imdbRating": "7.2",
+        "imdbVotes": "2,585",
+        "imdbID": "tt4627382",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$3,250,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4592,71 +4589,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "lbTNtatahHWhqxnDoRJZxDkWxAg",
-          "id": "bd_5HcTujfc",
+          "etag": "XAjQgk5dxG5TyGTnTWrcnpw7QPs",
+          "id": "GXecSGmQDEI",
           "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "publishedAt": "2025-06-25T13:00:08Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+            "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Focus Features",
+            "channelTitle": "Paramount Pictures",
             "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
+              "Channing Tatum",
+              "Kirsten Dunst",
+              "Ben Mendelsohn",
+              "LaKeith Stanfield",
+              "Juno Temple",
+              "Melonie Diaz",
+              "Uzo Aduba",
+              "Lily Collias",
+              "Jimmy O. Yang",
+              "PeterDinklage",
+              "New Movie",
+              "2025 movie",
+              "new movie trailer",
+              "coming soon"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+              "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+              "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "14092135",
-            "likeCount": "51635",
+            "viewCount": "13576870",
+            "likeCount": "56664",
             "favoriteCount": "0",
-            "commentCount": "3026"
+            "commentCount": "3381"
           }
         }
       ],
@@ -4667,20 +4664,18 @@
     },
     "creative": {
       "director": [
-        "Yorgos Lanthimos"
+        "Derek Cianfrance"
       ],
-      "writers": [
-        "Jang Joon-hwan"
-      ],
+      "writers": [],
       "cast_top": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn",
+        "LaKeith Stanfield",
+        "Juno Temple",
+        "Peter Dinklage",
+        "Uzo Aduba",
+        "Lily Collias"
       ],
       "star_power": {
         "actor_count": 8
@@ -5507,1096 +5502,6 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 7451,
-      "imdb_id": "tt0295701",
-      "title": "xXx",
-      "release_date": "2002-08-09",
-      "release_year": "2002",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Revolution Studios"
-      ],
-      "runtime": 124,
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
-    },
-    "commercial": {
-      "budget": 70000000,
-      "revenue": 277448382,
-      "opening_weekend": null,
-      "roi": 3.964,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
-        "belongs_to_collection": {
-          "id": 52785,
-          "name": "xXx Collection",
-          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
-          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
-        },
-        "budget": 70000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          }
-        ],
-        "homepage": "http://www.sonypictures.com/movies/xxx/",
-        "id": 7451,
-        "imdb_id": "tt0295701",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "xXx",
-        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 139.0093,
-        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "production_companies": [
-          {
-            "id": 497,
-            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-            "name": "Revolution Studios",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2002-08-09",
-        "revenue": 277448382,
-        "runtime": 124,
-        "spoken_languages": [
-          {
-            "english_name": "Czech",
-            "iso_639_1": "cs",
-            "name": "Český"
-          },
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
-          }
-        ],
-        "status": "Released",
-        "tagline": "A new breed of secret agent.",
-        "title": "xXx",
-        "video": false,
-        "vote_average": 5.967,
-        "vote_count": 4628
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 5.967,
-      "omdb": {
-        "Title": "xXx",
-        "Year": "2002",
-        "Rated": "PG-13",
-        "Released": "09 Aug 2002",
-        "Runtime": "124 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Rob Cohen",
-        "Writer": "Rich Wilkes",
-        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
-        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
-        "Language": "English, German, Spanish, Russian, Czech",
-        "Country": "United States",
-        "Awards": "4 wins & 14 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "5.9/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "48%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "48/100"
-          }
-        ],
-        "Metascore": "48",
-        "imdbRating": "5.9",
-        "imdbVotes": "191,427",
-        "imdbID": "tt0295701",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$142,109,382",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "Isrd3pytaGYBljlGFNyevX8HJrU",
-          "id": "NgPdDDzVhkA",
-          "snippet": {
-            "publishedAt": "2022-08-09T19:00:15Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "XXX [2002] - Official Trailer (HD)",
-            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "XXX [2002] - Official Trailer (HD)",
-              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "8423180",
-            "likeCount": "7344",
-            "favoriteCount": "0",
-            "commentCount": "289"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Rob Cohen"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Vin Diesel",
-        "Asia Argento",
-        "Marton Csokas",
-        "Samuel L. Jackson",
-        "Michael Roof",
-        "Richy Müller",
-        "Werner Daehn",
-        "Petr Jákl"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 7,
-    "metadata": {
       "tmdb_id": 1571470,
       "imdb_id": "tt28283547",
       "title": "The Rats: A Witcher Tale",
@@ -6707,12 +5612,12 @@
         "tagline": "",
         "title": "The Rats: A Witcher Tale",
         "video": false,
-        "vote_average": 4.924,
-        "vote_count": 66
+        "vote_average": 4.946,
+        "vote_count": 65
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.924,
+      "tmdb_vote_average": 4.946,
       "omdb": {
         "Title": "The Rats: A Witcher Tale",
         "Year": "2025",
@@ -6773,49 +5678,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "zjRi3Ju8P80CGEE1nnGi95xpZlg",
-          "id": "UBZgrl7_HvM",
+          "etag": "DXQ5NnsCsqTEZOa08ZpZ4cFsSys",
+          "id": "HK9dU6JIroU",
           "snippet": {
-            "publishedAt": "2025-10-31T16:29:55Z",
-            "channelId": "UCctH8dstHGBnXz-Y2enCntg",
-            "title": "The Rats: A Witcher Tale | Trailer (Hindi) | Netflix",
-            "description": "💥 PLOT : To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed up Witcher. 💥\n\n💙 Thanks For Watching! 💙\n\n🥰 SUBSCRIBE my channel for more videos like this! 🥰\n\n#TheWitcher\n#TheRatsAWitcherTale\n#TheWitcherTrailer\n#TheRatsAWitcherTaleTrailer\n#TheWitcherHindiTrailer\n#TheRatsAWitcherTaleHindiTrailer\n#TheWitcherHindiDubbed\n#TheRatsAWitcherTaleHindiDubbed\n#Netflix\n#NetflixIndia\n#NetflixSeries\n#NetflixSeriesInHindi\n#Hindi\n#HindiDubbed\n#Heist\n#Action\n#Adventure\n#Monsters\n#Fantasy",
+            "publishedAt": "2025-10-07T15:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "The Witcher: Season 4 | Official Trailer | Netflix",
+            "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/default.jpg",
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/UBZgrl7_HvM/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/sddefault.jpg",
                 "width": 640,
                 "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
               }
             },
-            "channelTitle": "Kitty Galitzine 💗",
-            "categoryId": "22",
+            "channelTitle": "Netflix",
+            "tags": [
+              "Andrzej Sapkowski",
+              "Anya Chalotra",
+              "CD Projekt Red",
+              "CDPR",
+              "Ciri",
+              "Freya Allan",
+              "Geralt",
+              "Halloween",
+              "Hemsworth",
+              "Jaskier",
+              "Joey Batey",
+              "Lauren Hissrich",
+              "Laurence Fishburne",
+              "Liam Hemsworth",
+              "Regis",
+              "The Witcher",
+              "Witcher",
+              "Witcher video game",
+              "Yennefer",
+              "beast",
+              "continent",
+              "ghost",
+              "monster",
+              "season 4",
+              "the continent",
+              "treat",
+              "trick",
+              "wraith"
+            ],
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Rats: A Witcher Tale | Trailer (Hindi) | Netflix",
-              "description": "💥 PLOT : To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed up Witcher. 💥\n\n💙 Thanks For Watching! 💙\n\n🥰 SUBSCRIBE my channel for more videos like this! 🥰\n\n#TheWitcher\n#TheRatsAWitcherTale\n#TheWitcherTrailer\n#TheRatsAWitcherTaleTrailer\n#TheWitcherHindiTrailer\n#TheRatsAWitcherTaleHindiTrailer\n#TheWitcherHindiDubbed\n#TheRatsAWitcherTaleHindiDubbed\n#Netflix\n#NetflixIndia\n#NetflixSeries\n#NetflixSeriesInHindi\n#Hindi\n#HindiDubbed\n#Heist\n#Action\n#Adventure\n#Monsters\n#Fantasy"
+              "title": "The Witcher: Season 4 | Official Trailer | Netflix",
+              "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again."
             },
-            "defaultAudioLanguage": "hi"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "65052",
-            "likeCount": "81",
-            "favoriteCount": "0"
+            "viewCount": "2251333",
+            "likeCount": "25962",
+            "favoriteCount": "0",
+            "commentCount": "17971"
           }
         }
       ],
@@ -7665,137 +6606,172 @@
     ]
   },
   {
-    "rank": 8,
+    "rank": 7,
     "metadata": {
-      "tmdb_id": 1218925,
-      "imdb_id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "release_date": "2025-09-19",
+      "tmdb_id": 425274,
+      "imdb_id": "tt4712810",
+      "title": "Now You See Me: Now You Don't",
+      "release_date": "2025-11-12",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Action",
-        "Romance",
-        "Fantasy"
+        "Thriller",
+        "Crime",
+        "Mystery"
       ],
       "production_countries": [
-        "JP"
+        "US"
       ],
-      "language": "ja",
+      "language": "en",
       "studio_distributor": [
-        "MAPPA"
+        "Secret Hideout",
+        "Lionsgate",
+        "Epic Films",
+        "Reese Wernick Productions",
+        "Summit Entertainment",
+        "The Fusion Media"
       ],
-      "runtime": 100,
-      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules."
+      "runtime": 112,
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 139000000,
+      "budget": 35000000,
+      "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/9TGMVBLpeXyYw8WymMGpfGpbHi4.jpg",
+        "belongs_to_collection": {
+          "id": 382685,
+          "name": "Now You See Me Collection",
+          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
+        },
+        "budget": 35000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
+            "id": 53,
+            "name": "Thriller"
           },
           {
-            "id": 28,
-            "name": "Action"
+            "id": 80,
+            "name": "Crime"
           },
           {
-            "id": 10749,
-            "name": "Romance"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://chainsawman.movie",
-        "id": 1218925,
-        "imdb_id": "tt30472557",
+        "homepage": "https://nowyouseeme.movie",
+        "id": 425274,
+        "imdb_id": "tt4712810",
         "origin_country": [
-          "JP"
+          "US"
         ],
-        "original_language": "ja",
-        "original_title": "チェンソーマン レゼ篇",
-        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-        "popularity": 203.2403,
-        "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
+        "original_language": "en",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+        "popularity": 38.6463,
+        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "production_companies": [
           {
-            "id": 21444,
-            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
-            "name": "MAPPA",
-            "origin_country": "JP"
+            "id": 90517,
+            "logo_path": "/uq7itRpnnb1LX1VDDaJg64pKFmT.png",
+            "name": "Secret Hideout",
+            "origin_country": "US"
+          },
+          {
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+          },
+          {
+            "id": 85205,
+            "logo_path": "/nrKSo8OkzCXobQ27cZuW5ooFuKR.png",
+            "name": "Epic Films",
+            "origin_country": "AU"
+          },
+          {
+            "id": 114336,
+            "logo_path": null,
+            "name": "Reese Wernick Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 491,
+            "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+            "name": "Summit Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 279807,
+            "logo_path": null,
+            "name": "The Fusion Media",
+            "origin_country": ""
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "JP",
-            "name": "Japan"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-19",
-        "revenue": 139000000,
-        "runtime": 100,
+        "release_date": "2025-11-12",
+        "revenue": 0,
+        "runtime": 112,
         "spoken_languages": [
           {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "日本語"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "everyone’s after my chainsaw heart! what about denji’s heart?!?",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "tagline": "Unlock the illusion.",
+        "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 8.215,
-        "vote_count": 165
+        "vote_average": 7.056,
+        "vote_count": 9
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.215,
+      "tmdb_vote_average": 7.056,
       "omdb": {
-        "Title": "Chainsaw Man - The Movie: Reze Arc",
+        "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "24 Oct 2025",
-        "Runtime": "100 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Tatsuya Yoshihara",
-        "Writer": "Tatsuki Fujimoto, Hiroshi Seko",
-        "Actors": "Kikunosuke Toya, Tomori Kusunoki, Shôgo Sakata",
-        "Plot": "Denji encounters a new romantic interest, Reze, who works at a coffee café.",
-        "Language": "Japanese",
-        "Country": "Japan",
+        "Rated": "PG-13",
+        "Released": "14 Nov 2025",
+        "Runtime": "112 min",
+        "Genre": "Crime, Thriller",
+        "Director": "Ruben Fleischer",
+        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
+        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
+        "Language": "English",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "8.5/10"
-          }
-        ],
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
         "Metascore": "N/A",
-        "imdbRating": "8.5",
-        "imdbVotes": "3,800",
-        "imdbID": "tt30472557",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt4712810",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
-        "Production": "N/A",
+        "Production": "Lionsgate",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -7822,55 +6798,89 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ZQ6UhPyC5y0mO4CrIEKA5go7Lpg",
-          "id": "tAzAhDNdehs",
+          "etag": "a2k9TQ_s136zkbCT_a26dhWxB98",
+          "id": "-E3lMRx7HRQ",
           "snippet": {
-            "publishedAt": "2025-07-03T23:50:00Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-            "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie",
+            "publishedAt": "2025-04-29T16:54:59Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/default.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
+            "channelTitle": "Lionsgate Movies",
+            "tags": [
+              "Jesse Eisenberg",
+              "Woody Harrelson",
+              "Dave Franco",
+              "Isla Fisher",
+              "Justice Smith",
+              "Dominic Sessa",
+              "Ariana Greenblatt",
+              "with Rosamund Pike",
+              "Morgan Freeman",
+              "Now You See Me",
+              "sequel",
+              "series",
+              "Now You See Me 3",
+              "Now You See Me Now You Don't",
+              "Trailer",
+              "Official Trailer",
+              "Now You See Me 3 Trailer",
+              "NYSM Trailer",
+              "NYSM",
+              "NYSM 3",
+              "magician",
+              "illusions",
+              "heist",
+              "heist movie",
+              "bank heist",
+              "crime thriller",
+              "thriller",
+              "comedy",
+              "action",
+              "crime team",
+              "ruben fleischer",
+              "coming soon"
+            ],
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-              "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie"
+              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "994538",
-            "likeCount": "27954",
+            "viewCount": "17179515",
+            "likeCount": "246847",
             "favoriteCount": "0",
-            "commentCount": "1061"
+            "commentCount": "11669"
           }
         }
       ],
@@ -7881,18 +6891,1338 @@
     },
     "creative": {
       "director": [
-        "Tatsuya Yoshihara"
+        "Ruben Fleischer"
       ],
       "writers": [],
       "cast_top": [
-        "Kikunosuke Toya",
-        "Reina Ueda",
-        "Shiori Izawa",
-        "Tomori Kusunoki",
-        "Shogo Sakata",
-        "Fairouz Ai",
-        "Karin Takahashi",
-        "Natsuki Hanae"
+        "Jesse Eisenberg",
+        "Woody Harrelson",
+        "Dave Franco",
+        "Isla Fisher",
+        "Justice Smith",
+        "Dominic Sessa",
+        "Ariana Greenblatt",
+        "Rosamund Pike"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 8,
+    "metadata": {
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-17",
+      "release_year": "2025",
+      "genres": [
+        "Romance",
+        "Fantasy",
+        "Adventure"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Universal Pictures",
+        "Marc Platt Productions"
+      ],
+      "runtime": 138,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
+    },
+    "commercial": {
+      "budget": 150000000,
+      "revenue": 0,
+      "opening_weekend": null,
+      "roi": null,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "belongs_to_collection": {
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+        },
+        "budget": 150000000,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 29.7689,
+        "poster_path": "/w04YxcQHGhTUgHPGGCjSIaya0V4.jpg",
+        "production_companies": [
+          {
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-11-17",
+        "revenue": 0,
+        "runtime": 138,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
+        "video": false,
+        "vote_average": 10.0,
+        "vote_count": 2
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 10.0,
+      "omdb": {
+        "Title": "Wicked: For Good",
+        "Year": "2025",
+        "Rated": "PG",
+        "Released": "21 Nov 2025",
+        "Runtime": "138 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
+        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "3 wins total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt19847976",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "interest_over_time": [
+          {
+            "date": "2024-11-10T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-17T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "Wicked: For Good": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Wicked: For Good": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Wicked: For Good": 14,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Wicked: For Good": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Wicked: For Good": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Wicked: For Good": 65,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Wicked: For Good": 13,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Wicked: For Good": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Wicked: For Good": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Wicked: For Good": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Wicked: For Good": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Wicked: For Good": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Wicked: For Good": 36,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Wicked: For Good": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Wicked: For Good": 49,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Wicked: For Good": 30,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Wicked: For Good": 38,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Wicked: For Good": 39,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Wicked: For Good": 71,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "Wicked: For Good": 100,
+            "isPartial": true
+          }
+        ]
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "xYQSxLWDFY-xCjAS3cXURNeJBlM",
+          "id": "vt98AlBDI9Y",
+          "snippet": {
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-US",
+            "localized": {
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "12248545",
+            "likeCount": "290227",
+            "favoriteCount": "0",
+            "commentCount": "14721"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Jon M. Chu"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Michelle Yeoh",
+        "Jeff Goldblum",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Peter Dinklage"
       ],
       "star_power": {
         "actor_count": 8
@@ -8719,83 +9049,74 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 760329,
-      "imdb_id": "tt11214558",
-      "title": "The Smashing Machine",
-      "release_date": "2025-10-01",
+      "tmdb_id": 617126,
+      "imdb_id": "tt10676052",
+      "title": "The Fantastic 4: First Steps",
+      "release_date": "2025-07-23",
       "release_year": "2025",
       "genres": [
-        "History",
-        "Drama"
+        "Science Fiction",
+        "Adventure",
+        "Action"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "A24",
-        "Seven Bucks Productions",
-        "Out for the Count",
-        "Magnetic Fields Entertainment"
+        "Marvel Studios",
+        "Kevin Feige Productions"
       ],
-      "runtime": 123,
-      "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn."
+      "runtime": 115,
+      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 10057115,
+      "budget": 200000000,
+      "revenue": 520652419,
       "opening_weekend": null,
-      "roi": 0.201,
+      "roi": 2.603,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/4TOVar1q5KfUpe1pZOkYqjBOLyI.jpg",
+        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
         "belongs_to_collection": null,
-        "budget": 50000000,
+        "budget": 200000000,
         "genres": [
           {
-            "id": 36,
-            "name": "History"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 28,
+            "name": "Action"
           }
         ],
-        "homepage": "https://a24films.com/films/the-smashing-machine",
-        "id": 760329,
-        "imdb_id": "tt11214558",
+        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
+        "id": 617126,
+        "imdb_id": "tt10676052",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Smashing Machine",
-        "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
-        "popularity": 50.0623,
-        "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
+        "original_title": "The Fantastic 4: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 124.4198,
+        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
         "production_companies": [
           {
-            "id": 41077,
-            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
-            "name": "A24",
+            "id": 420,
+            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+            "name": "Marvel Studios",
             "origin_country": "US"
           },
           {
-            "id": 73669,
-            "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
-            "name": "Seven Bucks Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 215974,
+            "id": 176762,
             "logo_path": null,
-            "name": "Out for the Count",
-            "origin_country": "US"
-          },
-          {
-            "id": 260754,
-            "logo_path": null,
-            "name": "Magnetic Fields Entertainment",
+            "name": "Kevin Feige Productions",
             "origin_country": "US"
           }
         ],
@@ -8805,9 +9126,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-01",
-        "revenue": 10057115,
-        "runtime": 123,
+        "release_date": "2025-07-23",
+        "revenue": 520652419,
+        "runtime": 115,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -8815,49 +9136,40 @@
             "name": "English"
           },
           {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "日本語"
-          },
-          {
-            "english_name": "Ukrainian",
-            "iso_639_1": "uk",
-            "name": "Український"
+            "english_name": "Uzbek",
+            "iso_639_1": "uz",
+            "name": "ozbek"
           }
         ],
         "status": "Released",
-        "tagline": "The unforgettable true story of a UFC legend.",
-        "title": "The Smashing Machine",
+        "tagline": "Welcome to the family.",
+        "title": "The Fantastic 4: First Steps",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 153
+        "vote_average": 7.085,
+        "vote_count": 2313
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.5,
+      "tmdb_vote_average": 7.085,
       "omdb": {
-        "Title": "The Smashing Machine",
+        "Title": "The Fantastic Four: First Steps",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "03 Oct 2025",
-        "Runtime": "123 min",
-        "Genre": "Action, Biography, Drama",
-        "Director": "Benny Safdie",
-        "Writer": "Mark Kerr, Benny Safdie",
-        "Actors": "Emily Blunt, Dwayne Johnson, Whitney Moore",
-        "Plot": "The story of mixed-martial arts and UFC champion, Mark Kerr.",
-        "Language": "English, Japanese",
-        "Country": "United States, Japan, Canada",
-        "Awards": "1 win & 2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "PG-13",
+        "Released": "25 Jul 2025",
+        "Runtime": "114 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Matt Shakman",
+        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
+        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
+        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
+        "Language": "English",
+        "Country": "United Kingdom, United States, Canada, New Zealand",
+        "Awards": "3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
             "Value": "7.0/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "72%"
           },
           {
             "Source": "Metacritic",
@@ -8866,17 +9178,17 @@
         ],
         "Metascore": "65",
         "imdbRating": "7.0",
-        "imdbVotes": "24,804",
-        "imdbID": "tt11214558",
+        "imdbVotes": "174,805",
+        "imdbID": "tt10676052",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$6,000,171",
+        "BoxOffice": "$274,282,985",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8903,69 +9215,82 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "7i1PjbTTW4sWzEWYzhNEg4fU3aY",
-          "id": "aRpnP3LZ99g",
+          "etag": "urJS1I0G7imGFf4K3umsEUe4U5Y",
+          "id": "18QQWa5MEcs",
           "snippet": {
-            "publishedAt": "2025-04-29T12:59:01Z",
-            "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
-            "title": "The Smashing Machine | Official Trailer HD | A24",
-            "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
+            "publishedAt": "2025-06-25T13:00:01Z",
+            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
+            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/default.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "A24",
+            "channelTitle": "Marvel Entertainment",
             "tags": [
-              "a24",
-              "a24 films",
-              "a24 trailers",
-              "independent films",
-              "trailer",
-              "HD",
-              "official",
-              "movie",
-              "film",
-              "a24 movies",
-              "oscar winner",
-              "academy award winner"
+              "marvel",
+              "comics",
+              "Marvel Cinematic Universe",
+              "MCU",
+              "The Fantastic Four",
+              "The Fantastic Four: First Steps",
+              "Fantastic Four movie",
+              "superhero",
+              "superhero team",
+              "Mister Fantastic",
+              "Reed Richards",
+              "Invisible Woman",
+              "Sue Storm",
+              "Johnny Storm",
+              "The Human Torch",
+              "Ben Grimm",
+              "The Thing",
+              "Pedro Pascal",
+              "Vanessa Kirby",
+              "Joseph Quinn",
+              "Ebon Moss-Bachrach",
+              "Silver Surfer",
+              "Galactus",
+              "alien invasion",
+              "Herbie"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Smashing Machine | Official Trailer HD | A24",
-              "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
+              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
+              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24035049",
-            "likeCount": "112670",
+            "viewCount": "17006403",
+            "likeCount": "310513",
             "favoriteCount": "0",
-            "commentCount": "12727"
+            "commentCount": "20568"
           }
         }
       ],
@@ -8976,18 +9301,18 @@
     },
     "creative": {
       "director": [
-        "Benny Safdie"
+        "Matt Shakman"
       ],
       "writers": [],
       "cast_top": [
-        "Dwayne Johnson",
-        "Emily Blunt",
-        "Ryan Bader",
-        "Bas Rutten",
-        "Lyndsey Gavin",
-        "Zoe Kosovic",
-        "Oleksandr Usyk",
-        "Satoshi Ishii"
+        "Pedro Pascal",
+        "Vanessa Kirby",
+        "Ebon Moss-Bachrach",
+        "Joseph Quinn",
+        "Ralph Ineson",
+        "Julia Garner",
+        "Paul Walter Hauser",
+        "Natasha Lyonne"
       ],
       "star_power": {
         "actor_count": 8
@@ -9814,74 +10139,83 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 617126,
-      "imdb_id": "tt10676052",
-      "title": "The Fantastic 4: First Steps",
-      "release_date": "2025-07-23",
+      "tmdb_id": 760329,
+      "imdb_id": "tt11214558",
+      "title": "The Smashing Machine",
+      "release_date": "2025-10-01",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Action"
+        "History",
+        "Drama"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Marvel Studios",
-        "Kevin Feige Productions"
+        "A24",
+        "Seven Bucks Productions",
+        "Out for the Count",
+        "Magnetic Fields Entertainment"
       ],
-      "runtime": 115,
-      "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer."
+      "runtime": 123,
+      "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn."
     },
     "commercial": {
-      "budget": 200000000,
-      "revenue": 520652419,
+      "budget": 50000000,
+      "revenue": 10057115,
       "opening_weekend": null,
-      "roi": 2.603,
+      "roi": 0.201,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+        "backdrop_path": "/4TOVar1q5KfUpe1pZOkYqjBOLyI.jpg",
         "belongs_to_collection": null,
-        "budget": 200000000,
+        "budget": 50000000,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 36,
+            "name": "History"
           },
           {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 28,
-            "name": "Action"
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.marvel.com/movies/the-fantastic-four-first-steps",
-        "id": 617126,
-        "imdb_id": "tt10676052",
+        "homepage": "https://a24films.com/films/the-smashing-machine",
+        "id": 760329,
+        "imdb_id": "tt11214558",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Fantastic 4: First Steps",
-        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
-        "popularity": 124.4198,
-        "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.jpg",
+        "original_title": "The Smashing Machine",
+        "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
+        "popularity": 50.0623,
+        "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
         "production_companies": [
           {
-            "id": 420,
-            "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
-            "name": "Marvel Studios",
+            "id": 41077,
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
             "origin_country": "US"
           },
           {
-            "id": 176762,
+            "id": 73669,
+            "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+            "name": "Seven Bucks Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 215974,
             "logo_path": null,
-            "name": "Kevin Feige Productions",
+            "name": "Out for the Count",
+            "origin_country": "US"
+          },
+          {
+            "id": 260754,
+            "logo_path": null,
+            "name": "Magnetic Fields Entertainment",
             "origin_country": "US"
           }
         ],
@@ -9891,9 +10225,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-07-23",
-        "revenue": 520652419,
-        "runtime": 115,
+        "release_date": "2025-10-01",
+        "revenue": 10057115,
+        "runtime": 123,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -9901,40 +10235,49 @@
             "name": "English"
           },
           {
-            "english_name": "Uzbek",
-            "iso_639_1": "uz",
-            "name": "ozbek"
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Ukrainian",
+            "iso_639_1": "uk",
+            "name": "Український"
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to the family.",
-        "title": "The Fantastic 4: First Steps",
+        "tagline": "The unforgettable true story of a UFC legend.",
+        "title": "The Smashing Machine",
         "video": false,
-        "vote_average": 7.1,
-        "vote_count": 2305
+        "vote_average": 6.4,
+        "vote_count": 155
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.1,
+      "tmdb_vote_average": 6.4,
       "omdb": {
-        "Title": "The Fantastic Four: First Steps",
+        "Title": "The Smashing Machine",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "25 Jul 2025",
-        "Runtime": "114 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Matt Shakman",
-        "Writer": "Josh Friedman, Eric Pearson, Jeff Kaplan",
-        "Actors": "Pedro Pascal, Vanessa Kirby, Ebon Moss-Bachrach",
-        "Plot": "Forced to balance their roles as heroes with the strength of their family bond, the Fantastic Four must defend Earth from a ravenous space god called Galactus and his enigmatic herald, the Silver Surfer.",
-        "Language": "English",
-        "Country": "United Kingdom, United States, Canada, New Zealand",
-        "Awards": "3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGM5MzA3MDAtYmEwMi00ZDNiLTg4MDgtMTZjOTc0ZGMyNTIwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "R",
+        "Released": "03 Oct 2025",
+        "Runtime": "123 min",
+        "Genre": "Action, Biography, Drama",
+        "Director": "Benny Safdie",
+        "Writer": "Mark Kerr, Benny Safdie",
+        "Actors": "Emily Blunt, Dwayne Johnson, Whitney Moore",
+        "Plot": "The story of mixed-martial arts and UFC champion, Mark Kerr.",
+        "Language": "English, Japanese",
+        "Country": "United States, Japan, Canada",
+        "Awards": "1 win & 2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
             "Value": "7.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
           },
           {
             "Source": "Metacritic",
@@ -9943,17 +10286,17 @@
         ],
         "Metascore": "65",
         "imdbRating": "7.0",
-        "imdbVotes": "174,805",
-        "imdbID": "tt10676052",
+        "imdbVotes": "24,804",
+        "imdbID": "tt11214558",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$274,282,985",
+        "BoxOffice": "$6,000,171",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_fantastic_four_first_steps\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9980,82 +10323,69 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ov9DMso6FKbtq4Z1qm3kGrGhlEo",
-          "id": "18QQWa5MEcs",
+          "etag": "ApJomucOtelq9RlL6S9f3gVrhek",
+          "id": "aRpnP3LZ99g",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:01Z",
-            "channelId": "UCvC4D8onUfXzvjTOM-dBfEA",
-            "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-            "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus",
+            "publishedAt": "2025-04-29T12:59:01Z",
+            "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+            "title": "The Smashing Machine | Official Trailer HD | A24",
+            "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/default.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/18QQWa5MEcs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Marvel Entertainment",
+            "channelTitle": "A24",
             "tags": [
-              "marvel",
-              "comics",
-              "Marvel Cinematic Universe",
-              "MCU",
-              "The Fantastic Four",
-              "The Fantastic Four: First Steps",
-              "Fantastic Four movie",
-              "superhero",
-              "superhero team",
-              "Mister Fantastic",
-              "Reed Richards",
-              "Invisible Woman",
-              "Sue Storm",
-              "Johnny Storm",
-              "The Human Torch",
-              "Ben Grimm",
-              "The Thing",
-              "Pedro Pascal",
-              "Vanessa Kirby",
-              "Joseph Quinn",
-              "Ebon Moss-Bachrach",
-              "Silver Surfer",
-              "Galactus",
-              "alien invasion",
-              "Herbie"
+              "a24",
+              "a24 films",
+              "a24 trailers",
+              "independent films",
+              "trailer",
+              "HD",
+              "official",
+              "movie",
+              "film",
+              "a24 movies",
+              "oscar winner",
+              "academy award winner"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Fantastic Four: First Steps | Final Trailer | Only in Theaters July 25",
-              "description": "In ONE MONTH, Marvel Studios’ The Fantastic Four: First Steps arrives in theaters July 25.\n\nWatch the new trailer and get tickets now: https://fandango.com/FantasticFour\n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stream all of your favorite Marvel shows and movies: https://www.disneyplus.com/\n\nFollow on social media to get the latest news and announcements from Marvel:\n\nTikTok: https://www.tiktok.com/@marvel\nInstagram: https://www.instagram.com/marvel\nFacebook: https://www.facebook.com/Marvel\nX: https://x.com/marvel\n\nExperience more stories by subscribing: \n\n/ @Disney\n/ @StarWars\n/ @pixar\n/ @disneyplus"
+              "title": "The Smashing Machine | Official Trailer HD | A24",
+              "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "17004795",
-            "likeCount": "310504",
+            "viewCount": "24039893",
+            "likeCount": "112688",
             "favoriteCount": "0",
-            "commentCount": "20565"
+            "commentCount": "12731"
           }
         }
       ],
@@ -10066,18 +10396,18 @@
     },
     "creative": {
       "director": [
-        "Matt Shakman"
+        "Benny Safdie"
       ],
       "writers": [],
       "cast_top": [
-        "Pedro Pascal",
-        "Vanessa Kirby",
-        "Ebon Moss-Bachrach",
-        "Joseph Quinn",
-        "Ralph Ineson",
-        "Julia Garner",
-        "Paul Walter Hauser",
-        "Natasha Lyonne"
+        "Dwayne Johnson",
+        "Emily Blunt",
+        "Ryan Bader",
+        "Bas Rutten",
+        "Lyndsey Gavin",
+        "Zoe Kosovic",
+        "Oleksandr Usyk",
+        "Satoshi Ishii"
       ],
       "star_power": {
         "actor_count": 8
