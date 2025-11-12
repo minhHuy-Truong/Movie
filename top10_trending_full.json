@@ -1,2213 +1,11 @@
 [
   {
-    "rank": 1,
-    "metadata": {
-      "tmdb_id": 1062722,
-      "imdb_id": "tt1312221",
-      "title": "Frankenstein",
-      "release_date": "2025-10-17",
-      "release_year": "2025",
-      "genres": [
-        "Drama",
-        "Horror",
-        "Fantasy"
-      ],
-      "production_countries": [
-        "US",
-        "CA"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Double Dare You",
-        "Demilo Films",
-        "Bluegrass 7"
-      ],
-      "runtime": 150,
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
-    },
-    "commercial": {
-      "budget": 120000000,
-      "revenue": 144496,
-      "opening_weekend": null,
-      "roi": 0.001,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-        "belongs_to_collection": null,
-        "budget": 120000000,
-        "genres": [
-          {
-            "id": 18,
-            "name": "Drama"
-          },
-          {
-            "id": 27,
-            "name": "Horror"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
-          }
-        ],
-        "homepage": "https://www.netflix.com/title/81507921",
-        "id": 1062722,
-        "imdb_id": "tt1312221",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Frankenstein",
-        "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 1011.0264,
-        "poster_path": "/v9NLaLBbrkDwq44qG51v8T6sPuI.jpg",
-        "production_companies": [
-          {
-            "id": 101082,
-            "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
-            "name": "Double Dare You",
-            "origin_country": "US"
-          },
-          {
-            "id": 10678,
-            "logo_path": null,
-            "name": "Demilo Films",
-            "origin_country": "CA"
-          },
-          {
-            "id": 279898,
-            "logo_path": null,
-            "name": "Bluegrass 7",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "CA",
-            "name": "Canada"
-          }
-        ],
-        "release_date": "2025-10-17",
-        "revenue": 144496,
-        "runtime": 150,
-        "spoken_languages": [
-          {
-            "english_name": "Danish",
-            "iso_639_1": "da",
-            "name": "Dansk"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
-          },
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Only monsters play God.",
-        "title": "Frankenstein",
-        "video": false,
-        "vote_average": 7.936,
-        "vote_count": 924
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.936,
-      "omdb": {
-        "Title": "Frankenstein",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "07 Nov 2025",
-        "Runtime": "149 min",
-        "Genre": "Drama, Fantasy, Horror",
-        "Director": "Guillermo del Toro",
-        "Writer": "Mary Shelley, Guillermo del Toro",
-        "Actors": "Mia Goth, Burn Gorman, Charles Dance",
-        "Plot": "A brilliant but egotistical scientist brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "Language": "English, Danish, French",
-        "Country": "Mexico, United States",
-        "Awards": "1 win & 2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.7/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "87%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "78/100"
-          }
-        ],
-        "Metascore": "78",
-        "imdbRating": "7.7",
-        "imdbVotes": "3,792",
-        "imdbID": "tt1312221",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "u57MRlcCKDV0ewrPPIKWq5Gggtw",
-          "id": "8aulMPhE12g",
-          "snippet": {
-            "publishedAt": "2025-10-01T13:00:01Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-            "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Netflix",
-            "tags": [
-              "Academy Awards",
-              "Adaptation",
-              "Award Season",
-              "Boris Karloff",
-              "Bride of Frankenstein",
-              "Charles Dance",
-              "Christoph Waltz",
-              "Craft",
-              "Creature",
-              "Drama",
-              "Felix Kammerer",
-              "Film",
-              "Film Festival",
-              "Frankenstein",
-              "Gothic",
-              "Guillermo del Toro",
-              "Horror",
-              "Jacob Elordi",
-              "James Whale",
-              "Mary Shelley",
-              "Mia Goth",
-              "Monster",
-              "Monster Movie",
-              "Movie",
-              "Novel",
-              "Oscar Isaac",
-              "Oscars",
-              "Victor",
-              "Victor Frankenstein"
-            ],
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-              "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "11681433",
-            "likeCount": "166661",
-            "favoriteCount": "0",
-            "commentCount": "7095"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Guillermo del Toro"
-      ],
-      "writers": [
-        "Guillermo del Toro"
-      ],
-      "cast_top": [
-        "Oscar Isaac",
-        "Jacob Elordi",
-        "Christoph Waltz",
-        "Mia Goth",
-        "Felix Kammerer",
-        "Charles Dance",
-        "David Bradley",
-        "Lars Mikkelsen"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
+    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
+    "title": "Frankenstein",
+    "index": 0
   },
   {
     "rank": 2,
-    "metadata": {
-      "tmdb_id": 7451,
-      "imdb_id": "tt0295701",
-      "title": "xXx",
-      "release_date": "2002-08-09",
-      "release_year": "2002",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Thriller",
-        "Crime",
-        "Drama"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Revolution Studios"
-      ],
-      "runtime": 124,
-      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
-    },
-    "commercial": {
-      "budget": 70000000,
-      "revenue": 277448382,
-      "opening_weekend": null,
-      "roi": 3.964,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
-        "belongs_to_collection": {
-          "id": 52785,
-          "name": "xXx Collection",
-          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
-          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
-        },
-        "budget": 70000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 18,
-            "name": "Drama"
-          }
-        ],
-        "homepage": "http://www.sonypictures.com/movies/xxx/",
-        "id": 7451,
-        "imdb_id": "tt0295701",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "xXx",
-        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
-        "popularity": 145.1775,
-        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
-        "production_companies": [
-          {
-            "id": 497,
-            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
-            "name": "Revolution Studios",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2002-08-09",
-        "revenue": 277448382,
-        "runtime": 124,
-        "spoken_languages": [
-          {
-            "english_name": "Czech",
-            "iso_639_1": "cs",
-            "name": "Český"
-          },
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
-          }
-        ],
-        "status": "Released",
-        "tagline": "A new breed of secret agent.",
-        "title": "xXx",
-        "video": false,
-        "vote_average": 5.966,
-        "vote_count": 4630
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 5.966,
-      "omdb": {
-        "Title": "xXx",
-        "Year": "2002",
-        "Rated": "PG-13",
-        "Released": "09 Aug 2002",
-        "Runtime": "124 min",
-        "Genre": "Action, Adventure, Drama",
-        "Director": "Rob Cohen",
-        "Writer": "Rich Wilkes",
-        "Actors": "Vin Diesel, Asia Argento, Marton Csokas",
-        "Plot": "The US government recruits extreme sports athlete Xander Cage to infiltrate a Russian criminal ring, which is plotting the destruction of the world.",
-        "Language": "English, German, Spanish, Russian, Czech",
-        "Country": "United States",
-        "Awards": "4 wins & 14 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNjY0MTc4ZDEtY2MxYi00ODIxLWJlNzQtZTlmZDVkYTYwM2NhXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "5.9/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "48%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "48/100"
-          }
-        ],
-        "Metascore": "48",
-        "imdbRating": "5.9",
-        "imdbVotes": "191,427",
-        "imdbID": "tt0295701",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$142,109,382",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "bD4TmIPFj_luUQn-h3LRS_6v9aE",
-          "id": "NgPdDDzVhkA",
-          "snippet": {
-            "publishedAt": "2022-08-09T19:00:15Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "XXX [2002] - Official Trailer (HD)",
-            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "XXX [2002] - Official Trailer (HD)",
-              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "8425122",
-            "likeCount": "7346",
-            "favoriteCount": "0",
-            "commentCount": "289"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Rob Cohen"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Vin Diesel",
-        "Asia Argento",
-        "Marton Csokas",
-        "Samuel L. Jackson",
-        "Michael Roof",
-        "Richy Müller",
-        "Werner Daehn",
-        "Petr Jákl"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 3,
     "metadata": {
       "tmdb_id": 1242898,
       "imdb_id": "tt31227572",
@@ -2326,12 +124,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.167,
-        "vote_count": 231
+        "vote_average": 7.178,
+        "vote_count": 233
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.167,
+      "tmdb_vote_average": 7.178,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -2396,7 +194,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "zJXuMbCBqzPoGxAU7oyPof-NuxI",
+          "etag": "Pc57B0Wxr-ewA-Hdow7B6vWYOAk",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -2444,10 +242,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24474371",
-            "likeCount": "309598",
+            "viewCount": "24511709",
+            "likeCount": "309816",
             "favoriteCount": "0",
-            "commentCount": "25328"
+            "commentCount": "25348"
           }
         }
       ],
@@ -3294,7 +1092,7 @@
     ]
   },
   {
-    "rank": 4,
+    "rank": 3,
     "metadata": {
       "tmdb_id": 1114967,
       "imdb_id": "tt27543578",
@@ -3463,7 +1261,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "6biKD7LQqy-x-1V62w3Zkj-j8-U",
+          "etag": "s0MaJsKtjDW4BPHRsXlUIbrURxE",
           "id": "ZKWndx83RwQ",
           "snippet": {
             "publishedAt": "2025-07-23T13:00:22Z",
@@ -3541,10 +1339,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6797774",
-            "likeCount": "78752",
+            "viewCount": "6801564",
+            "likeCount": "78784",
             "favoriteCount": "0",
-            "commentCount": "4801"
+            "commentCount": "4805"
           }
         }
       ],
@@ -4393,6 +2191,11 @@
     ]
   },
   {
+    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
+    "title": "Playdate",
+    "index": 3
+  },
+  {
     "rank": 5,
     "metadata": {
       "tmdb_id": 1197137,
@@ -4505,12 +2308,12 @@
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.217,
-        "vote_count": 411
+        "vote_average": 7.205,
+        "vote_count": 415
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.217,
+      "tmdb_vote_average": 7.205,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -4579,7 +2382,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "z337vqiPcrXeMr7N29H39f-g5cM",
+          "etag": "PPsrZK4Zm8Y-lDCzdr1-OKEVg3Q",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -4624,8 +2427,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1898659",
-            "likeCount": "28925",
+            "viewCount": "1908665",
+            "likeCount": "28980",
             "favoriteCount": "0",
             "commentCount": "1569"
           }
@@ -5477,2243 +3280,14 @@
     ]
   },
   {
-    "rank": 6,
-    "metadata": {
-      "tmdb_id": 1248226,
-      "imdb_id": "tt31425731",
-      "title": "Playdate",
-      "release_date": "2025-11-05",
-      "release_year": "2025",
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "production_countries": [
-        "US",
-        "CA"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Nickel City Pictures",
-        "Wide Awake Pictures",
-        "A Higher Standard",
-        "Gramercy Park Media",
-        "Arcana Studio",
-        "Industry Entertainment Partners"
-      ],
-      "runtime": 93,
-      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
-    },
-    "commercial": {
-      "budget": 0,
-      "revenue": 0,
-      "opening_weekend": null,
-      "roi": null,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/diHlt857a8NhcuTQEHpHxoMlVvO.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
-          }
-        ],
-        "homepage": "https://www.amazon.com/gp/video/detail/B0FQ1MCFKJ",
-        "id": 1248226,
-        "imdb_id": "tt31425731",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Playdate",
-        "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
-        "popularity": 8.9192,
-        "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
-        "production_companies": [
-          {
-            "id": 110723,
-            "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
-            "name": "Nickel City Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 28787,
-            "logo_path": null,
-            "name": "Wide Awake Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 221397,
-            "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
-            "name": "A Higher Standard",
-            "origin_country": "US"
-          },
-          {
-            "id": 215935,
-            "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
-            "name": "Gramercy Park Media",
-            "origin_country": "US"
-          },
-          {
-            "id": 55446,
-            "logo_path": "/zi63Cmjvx06eELmmduPBDRyP135.png",
-            "name": "Arcana Studio",
-            "origin_country": "CA"
-          },
-          {
-            "id": 376,
-            "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
-            "name": "Industry Entertainment Partners",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "CA",
-            "name": "Canada"
-          }
-        ],
-        "release_date": "2025-11-05",
-        "revenue": 0,
-        "runtime": 93,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Playtime just got real.",
-        "title": "Playdate",
-        "video": false,
-        "vote_average": 8.2,
-        "vote_count": 4
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 8.2,
-      "omdb": {
-        "Title": "Playdate",
-        "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "12 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Comedy",
-        "Director": "Luke Greenfield",
-        "Writer": "Neil Goldman",
-        "Actors": "Alan Tudyk, Alan Ritchson, Sarah Chalke",
-        "Plot": "Brian has just been fired from his job. He becomes a stay-at-home dad. He accepts a playdate invitation from another stay-at-home dad who turns out to be a loose cannon.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlOWNlMjctNmFjYS00Y2I3LWFhNzAtZGVmNTJjOWEwNjZiXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt31425731",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "hdb4QBHNTaZZK7Roix4mxalT8nI",
-          "id": "xGTq0blCPVQ",
-          "snippet": {
-            "publishedAt": "2025-10-08T13:59:52Z",
-            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
-            "title": "Playdate - Official Trailer | Prime Video",
-            "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Prime Video",
-            "tags": [
-              "playdate official trailer",
-              "playdate trailer",
-              "official trailer",
-              "trailer",
-              "official trailer 2025",
-              "trailer 2025",
-              "prime video official trailer",
-              "new amazon trailer",
-              "playdate prime video",
-              "prime video playdate",
-              "comedy",
-              "action",
-              "comedy movie",
-              "action movie",
-              "comedy film",
-              "action film",
-              "prime video",
-              "amazon prime video",
-              "amazon prime",
-              "prime",
-              "playdate",
-              "new trailer",
-              "prime video trailer",
-              "trailer prime video",
-              "official trailer prime video",
-              "alan ritchson",
-              "kevin james",
-              "banks pierce"
-            ],
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "Playdate - Official Trailer | Prime Video",
-              "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo"
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "21096600",
-            "likeCount": "70669",
-            "favoriteCount": "0",
-            "commentCount": "3119"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Luke Greenfield"
-      ],
-      "writers": [
-        "Neil Goldman"
-      ],
-      "cast_top": [
-        "Kevin James",
-        "Alan Ritchson",
-        "Sarah Chalke",
-        "Isla Fisher",
-        "Alan Tudyk",
-        "Stephen Root",
-        "Benjamin Pajak",
-        "Banks Pierce"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
+    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
+    "title": "The Rats: A Witcher Tale",
+    "index": 5
   },
   {
-    "rank": 7,
-    "metadata": {
-      "tmdb_id": 436969,
-      "imdb_id": "tt6334354",
-      "title": "The Suicide Squad",
-      "release_date": "2021-07-28",
-      "release_year": "2021",
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "DC Films",
-        "Atlas Entertainment",
-        "The Safran Company",
-        "Warner Bros. Pictures"
-      ],
-      "runtime": 132,
-      "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese."
-    },
-    "commercial": {
-      "budget": 185000000,
-      "revenue": 168717425,
-      "opening_weekend": null,
-      "roi": 0.912,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg",
-        "belongs_to_collection": {
-          "id": 531242,
-          "name": "Suicide Squad Collection",
-          "poster_path": "/1OCbjYENSzVcpQgOYLrV3B5598d.jpg",
-          "backdrop_path": "/e0uUxFdhdGLcvy9eC7WlO2eLusr.jpg"
-        },
-        "budget": 185000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          }
-        ],
-        "homepage": "https://www.thesuicidesquad.net",
-        "id": 436969,
-        "imdb_id": "tt6334354",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Suicide Squad",
-        "overview": "Supervillains Harley Quinn, Bloodsport, Peacemaker and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-        "popularity": 13.0023,
-        "poster_path": "/q61qEyssk2ku3okWICKArlAdhBn.jpg",
-        "production_companies": [
-          {
-            "id": 128064,
-            "logo_path": "/13F3Jf7EFAcREU0xzZqJnVnyGXu.png",
-            "name": "DC Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 507,
-            "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
-            "name": "Atlas Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 11565,
-            "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
-            "name": "The Safran Company",
-            "origin_country": "US"
-          },
-          {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2021-07-28",
-        "revenue": 168717425,
-        "runtime": 132,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          }
-        ],
-        "status": "Released",
-        "tagline": "They’re dying to save the world.",
-        "title": "The Suicide Squad",
-        "video": false,
-        "vote_average": 7.478,
-        "vote_count": 9220
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.478,
-      "omdb": {
-        "Title": "The Suicide Squad",
-        "Year": "2021",
-        "Rated": "R",
-        "Released": "05 Aug 2021",
-        "Runtime": "132 min",
-        "Genre": "Action, Adventure, Comedy",
-        "Director": "James Gunn",
-        "Writer": "James Gunn",
-        "Actors": "Margot Robbie, Idris Elba, John Cena",
-        "Plot": "Supervillains Harley Quinn, Bloodsport, Peacemaker, and a collection of nutty cons at Belle Reve prison join the super-secret, super-shady Task Force X as they are dropped off at the remote, enemy-infused island of Corto Maltese.",
-        "Language": "English, Spanish, Japanese, Cantonese",
-        "Country": "United States",
-        "Awards": "4 wins & 43 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMWU3Y2NlZmEtMjJjNS00ZWMxLWE1MzctYWYyMjMzMDdkNTE4XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.2/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "72/100"
-          }
-        ],
-        "Metascore": "72",
-        "imdbRating": "7.2",
-        "imdbVotes": "448,732",
-        "imdbID": "tt6334354",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$55,817,425",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_suicide_squad\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_suicide_squad\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "Rm_bHvcOMhUv-K9Cfq4sXEc-fNY",
-          "id": "Z1EbSXxrZ34",
-          "snippet": {
-            "publishedAt": "2021-03-26T16:00:12Z",
-            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
-            "title": "The Suicide Squad - Official Red Band Trailer",
-            "description": "From writer/director James Gunn comes Warner Bros. Pictures’ superhero action adventure “The Suicide Squad,” featuring a collection of the most degenerate delinquents in the DC lineup.\n\nWelcome to hell—a.k.a. Belle Reve, the prison with the highest mortality rate in the US of A.  Where the worst Super-Villains are kept and where they will do anything to get out—even join the super-secret, super-shady Task Force X.  Today’s do-or-die assignment?  Assemble a collection of cons, including Bloodsport, Peacemaker, Captain Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin and everyone’s favorite psycho, Harley Quinn.  Then arm them heavily and drop them (literally) on the remote, enemy-infused island of Corto Maltese.  Trekking through a jungle teeming with militant adversaries and guerrilla forces at every turn, the Squad is on a search-and-destroy mission with only Colonel Rick Flag on the ground to make them behave…and Amanda Waller’s government techies in their ears, tracking their every movement.  And as always, one wrong move and they’re dead (whether at the hands of their opponents, a teammate, or Waller herself).  If anyone’s laying down bets, the smart money is against them—all of them. \n\nThe film stars Margot Robbie (“Birds of Prey,” “Bombshell”), Idris Elba (“Avengers: Infinity War”), John Cena (upcoming HBO Max series “Peacemaker,” “Bumblebee”), Joel Kinnaman (“Suicide Squad”), Jai Courtney (the “Divergent” franchise), Peter Capaldi (“World War Z,” BBC’s “Doctor Who” ), David Dastmalchian (upcoming “Dune,” “Ant-Man and the Wasp”), Daniela Melchior (“Parque Mayer”), Michael Rooker (the “Guardians of the Galaxy” films), Alice Braga (“Elysium”), Pete Davidson (“The King of Staten Island,” TV’s “Saturday Night Live”), Joaquín Cosio (“Spider-Man: Into the Spider-Verse,” TV’s “Narcos: Mexico”), Juan Diego Botto (“The Europeans”), Storm Reid (“The Invisible Man,” “A Wrinkle in Time”, “Euphoria”), Nathan Fillion (“Guardians of the Galaxy,” TV’s “The Rookie”), Steve Agee (“Brightburn,” “Guardians of the Galaxy Vol. 2”), Sean Gunn (the “Guardians of the Galaxy” films, the “Avengers” films), Mayling Ng (“Wonder Woman”), Flula Borg (“Ralph Breaks the Internet”), Jennifer Holland (“Brightburn,” upcoming HBO Max series “Peacemaker”) and Tinashe Kajese (TV’s “Valor,” “The Inspectors”), with Sylvester Stallone (the “Rocky,” “Rambo” and “Expendables” franchises), and Viola Davis (“Ma Rainey’s Black Bottom,” “Suicide Squad”).\n\nGunn (the “Guardian of the Galaxy” films) directs from his own screenplay, based on characters from DC.  The film is produced by Charles Roven and Peter Safran, with Zack Snyder, Deborah Snyder, Walter Hamada, Chantal Nong Vo, Nikolas Korda and Richard Suckle executive producing.\n\nGunn’s creative team includes director of photography Henry Braham (“Guardians of the Galaxy Vol. 2”), production designer Beth Mickle (“Captain Marvel”), editors Fred Raskin (“Guardians of the Galaxy Vol. 2,” “Once Upon a Time… In Hollywood”) and Christian Wagner (the “Fast & Furious” films) and Oscar-nominated costume designer Judianna Makovsky (“Guardians of the Galaxy Vol 2,” “Avengers: Endgame,” “Harry Potter and the Sorcerer’s Stone”).  The music is by John Murphy (“Kick-Ass”).\n\nWarner Bros. Pictures Presents An Atlas Entertainment/Peter Safran Production, A James Gunn Film, “The Suicide Squad.”  The film will be distributed worldwide by Warner Bros. Pictures.  It is set for release nationwide in theaters and IMAX on August 6, 2021 and will be available on HBO Max for 31 days from theatrical release.\n\nwww.thesuicidesquad.com",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/Z1EbSXxrZ34/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/Z1EbSXxrZ34/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/Z1EbSXxrZ34/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/Z1EbSXxrZ34/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/Z1EbSXxrZ34/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Warner Bros.",
-            "tags": [
-              "Action",
-              "Adventure",
-              "Antihero",
-              "Batman v Superman",
-              "Birds of Prey",
-              "Bloodsport",
-              "Captain Boomerang",
-              "Charles Roven",
-              "Coming Soon",
-              "DC",
-              "DC Comics",
-              "DC Extended Universe",
-              "Deadpool",
-              "Film",
-              "Film Trailer",
-              "Film Warner",
-              "Gotham",
-              "Harley Quinn",
-              "Idris Elba",
-              "James Gunn",
-              "Joel Kinnaman",
-              "John Cena",
-              "Justice League",
-              "King Shark",
-              "Margot Robbie",
-              "Movie",
-              "Official Trailer",
-              "Peacemaker",
-              "Suicide Squad",
-              "Super Hero",
-              "Superhero",
-              "Trailer",
-              "Trailer 2021",
-              "Viola Davis",
-              "WB",
-              "Warner",
-              "Warner Bros",
-              "Warner Brothers",
-              "Warner Media"
-            ],
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "The Suicide Squad - Official Red Band Trailer",
-              "description": "From writer/director James Gunn comes Warner Bros. Pictures’ superhero action adventure “The Suicide Squad,” featuring a collection of the most degenerate delinquents in the DC lineup.\n\nWelcome to hell—a.k.a. Belle Reve, the prison with the highest mortality rate in the US of A.  Where the worst Super-Villains are kept and where they will do anything to get out—even join the super-secret, super-shady Task Force X.  Today’s do-or-die assignment?  Assemble a collection of cons, including Bloodsport, Peacemaker, Captain Boomerang, Ratcatcher 2, Savant, King Shark, Blackguard, Javelin and everyone’s favorite psycho, Harley Quinn.  Then arm them heavily and drop them (literally) on the remote, enemy-infused island of Corto Maltese.  Trekking through a jungle teeming with militant adversaries and guerrilla forces at every turn, the Squad is on a search-and-destroy mission with only Colonel Rick Flag on the ground to make them behave…and Amanda Waller’s government techies in their ears, tracking their every movement.  And as always, one wrong move and they’re dead (whether at the hands of their opponents, a teammate, or Waller herself).  If anyone’s laying down bets, the smart money is against them—all of them. \n\nThe film stars Margot Robbie (“Birds of Prey,” “Bombshell”), Idris Elba (“Avengers: Infinity War”), John Cena (upcoming HBO Max series “Peacemaker,” “Bumblebee”), Joel Kinnaman (“Suicide Squad”), Jai Courtney (the “Divergent” franchise), Peter Capaldi (“World War Z,” BBC’s “Doctor Who” ), David Dastmalchian (upcoming “Dune,” “Ant-Man and the Wasp”), Daniela Melchior (“Parque Mayer”), Michael Rooker (the “Guardians of the Galaxy” films), Alice Braga (“Elysium”), Pete Davidson (“The King of Staten Island,” TV’s “Saturday Night Live”), Joaquín Cosio (“Spider-Man: Into the Spider-Verse,” TV’s “Narcos: Mexico”), Juan Diego Botto (“The Europeans”), Storm Reid (“The Invisible Man,” “A Wrinkle in Time”, “Euphoria”), Nathan Fillion (“Guardians of the Galaxy,” TV’s “The Rookie”), Steve Agee (“Brightburn,” “Guardians of the Galaxy Vol. 2”), Sean Gunn (the “Guardians of the Galaxy” films, the “Avengers” films), Mayling Ng (“Wonder Woman”), Flula Borg (“Ralph Breaks the Internet”), Jennifer Holland (“Brightburn,” upcoming HBO Max series “Peacemaker”) and Tinashe Kajese (TV’s “Valor,” “The Inspectors”), with Sylvester Stallone (the “Rocky,” “Rambo” and “Expendables” franchises), and Viola Davis (“Ma Rainey’s Black Bottom,” “Suicide Squad”).\n\nGunn (the “Guardian of the Galaxy” films) directs from his own screenplay, based on characters from DC.  The film is produced by Charles Roven and Peter Safran, with Zack Snyder, Deborah Snyder, Walter Hamada, Chantal Nong Vo, Nikolas Korda and Richard Suckle executive producing.\n\nGunn’s creative team includes director of photography Henry Braham (“Guardians of the Galaxy Vol. 2”), production designer Beth Mickle (“Captain Marvel”), editors Fred Raskin (“Guardians of the Galaxy Vol. 2,” “Once Upon a Time… In Hollywood”) and Christian Wagner (the “Fast & Furious” films) and Oscar-nominated costume designer Judianna Makovsky (“Guardians of the Galaxy Vol 2,” “Avengers: Endgame,” “Harry Potter and the Sorcerer’s Stone”).  The music is by John Murphy (“Kick-Ass”).\n\nWarner Bros. Pictures Presents An Atlas Entertainment/Peter Safran Production, A James Gunn Film, “The Suicide Squad.”  The film will be distributed worldwide by Warner Bros. Pictures.  It is set for release nationwide in theaters and IMAX on August 6, 2021 and will be available on HBO Max for 31 days from theatrical release.\n\nwww.thesuicidesquad.com"
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "2542281",
-            "likeCount": "84713",
-            "favoriteCount": "0",
-            "commentCount": "12347"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "James Gunn"
-      ],
-      "writers": [
-        "James Gunn"
-      ],
-      "cast_top": [
-        "Margot Robbie",
-        "Idris Elba",
-        "John Cena",
-        "Joel Kinnaman",
-        "Sylvester Stallone",
-        "Viola Davis",
-        "David Dastmalchian",
-        "Daniela Melchior"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
+    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
+    "title": "TRON: Ares",
+    "index": 6
   },
   {
     "rank": 8,
@@ -7908,7 +3482,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "VegVUQAPXN2PXTWp11a-sBjHS0E",
+          "etag": "AuodHlpDxWLFEkoh18FsTaodTQE",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -7987,10 +3561,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "17210999",
-            "likeCount": "247047",
+            "viewCount": "17230503",
+            "likeCount": "247194",
             "favoriteCount": "0",
-            "commentCount": "11674"
+            "commentCount": "11678"
           }
         }
       ],
@@ -8839,135 +4413,180 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1218925,
-      "imdb_id": "tt30472557",
-      "title": "Chainsaw Man - The Movie: Reze Arc",
-      "release_date": "2025-09-19",
+      "tmdb_id": 1242419,
+      "imdb_id": "tt4627382",
+      "title": "Roofman",
+      "release_date": "2025-10-08",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Action",
-        "Romance",
-        "Fantasy"
+        "Comedy",
+        "Drama",
+        "Crime"
       ],
       "production_countries": [
-        "JP"
+        "US"
       ],
-      "language": "ja",
+      "language": "en",
       "studio_distributor": [
-        "MAPPA"
+        "Limelight",
+        "High Frequency Entertainment",
+        "51 Entertainment",
+        "Miramax",
+        "Von Waaden Entertainment",
+        "FilmNation Entertainment",
+        "Hunting Lane Films"
       ],
-      "runtime": 100,
-      "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules."
+      "runtime": 126,
+      "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 139000000,
+      "budget": 18000000,
+      "revenue": 17246758,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.958,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
+        "backdrop_path": "/4TP8wF7Yf5pg4ypjF0bjN1c6yN2.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 18000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
+            "id": 35,
+            "name": "Comedy"
           },
           {
-            "id": 28,
-            "name": "Action"
+            "id": 18,
+            "name": "Drama"
           },
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://www.roofmanmovie.com",
+        "id": 1242419,
+        "imdb_id": "tt4627382",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Roofman",
+        "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+        "popularity": 54.9297,
+        "poster_path": "/pUpFD3Oq1eN5mdF9MDwCwH874P8.jpg",
+        "production_companies": [
+          {
+            "id": 128360,
+            "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+            "name": "Limelight",
+            "origin_country": "US"
+          },
+          {
+            "id": 52053,
+            "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+            "name": "High Frequency Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 106178,
+            "logo_path": null,
+            "name": "51 Entertainment",
+            "origin_country": "US"
           },
           {
             "id": 14,
-            "name": "Fantasy"
-          }
-        ],
-        "homepage": "https://chainsawman.movie",
-        "id": 1218925,
-        "imdb_id": "tt30472557",
-        "origin_country": [
-          "JP"
-        ],
-        "original_language": "ja",
-        "original_title": "チェンソーマン レゼ篇",
-        "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
-        "popularity": 181.8341,
-        "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.jpg",
-        "production_companies": [
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
+            "origin_country": "US"
+          },
           {
-            "id": 21444,
-            "logo_path": "/wSejGn3lAZdQ5muByxvzigwyDY6.png",
-            "name": "MAPPA",
-            "origin_country": "JP"
+            "id": 278601,
+            "logo_path": null,
+            "name": "Von Waaden Entertainment",
+            "origin_country": ""
+          },
+          {
+            "id": 7493,
+            "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+            "name": "FilmNation Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 2290,
+            "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+            "name": "Hunting Lane Films",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "JP",
-            "name": "Japan"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-19",
-        "revenue": 139000000,
-        "runtime": 100,
+        "release_date": "2025-10-08",
+        "revenue": 17246758,
+        "runtime": 126,
         "spoken_languages": [
           {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "日本語"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "everyone’s after my chainsaw heart! what about denji’s heart?!?",
-        "title": "Chainsaw Man - The Movie: Reze Arc",
+        "tagline": "Based on actual events. And terrible decisions.",
+        "title": "Roofman",
         "video": false,
-        "vote_average": 8.229,
-        "vote_count": 168
+        "vote_average": 7.3,
+        "vote_count": 92
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.229,
+      "tmdb_vote_average": 7.3,
       "omdb": {
-        "Title": "Chainsaw Man - The Movie: Reze Arc",
+        "Title": "Roofman",
         "Year": "2025",
         "Rated": "R",
-        "Released": "24 Oct 2025",
-        "Runtime": "100 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Tatsuya Yoshihara",
-        "Writer": "Tatsuki Fujimoto, Hiroshi Seko",
-        "Actors": "Kikunosuke Toya, Tomori Kusunoki, Shôgo Sakata",
-        "Plot": "Denji encounters a new romantic interest, Reze, who works at a coffee café.",
-        "Language": "Japanese",
-        "Country": "Japan",
+        "Released": "10 Oct 2025",
+        "Runtime": "126 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Derek Cianfrance",
+        "Writer": "Derek Cianfrance, Kirt Gunn",
+        "Actors": "Juno Temple, Peter Dinklage, Channing Tatum",
+        "Plot": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky.",
+        "Language": "English",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZmMzNGVhODktYmU5MS00MDg1LThlNTEtNTMyYTg5MDA0Njk4XkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.5/10"
+            "Value": "7.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "8.5",
-        "imdbVotes": "3,800",
-        "imdbID": "tt30472557",
+        "Metascore": "65",
+        "imdbRating": "7.2",
+        "imdbVotes": "2,585",
+        "imdbID": "tt4627382",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$3,250,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/chainsaw_man_the_movie_reze_arc\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8994,55 +4613,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "UdY7NyYNUAiZg7kiqp7PEP89QuY",
-          "id": "tAzAhDNdehs",
+          "etag": "pxu2RaZ6CxzmDyJ7RAbLr_8Onjw",
+          "id": "GXecSGmQDEI",
           "snippet": {
-            "publishedAt": "2025-07-03T23:50:00Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-            "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie",
+            "publishedAt": "2025-06-25T13:00:08Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+            "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/default.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/tAzAhDNdehs/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
+            "channelTitle": "Paramount Pictures",
+            "tags": [
+              "Channing Tatum",
+              "Kirsten Dunst",
+              "Ben Mendelsohn",
+              "LaKeith Stanfield",
+              "Juno Temple",
+              "Melonie Diaz",
+              "Uzo Aduba",
+              "Lily Collias",
+              "Jimmy O. Yang",
+              "PeterDinklage",
+              "New Movie",
+              "2025 movie",
+              "new movie trailer",
+              "coming soon"
+            ],
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "CHAINSAW MAN – THE MOVIE: REZE ARC - Official Trailer (HD)",
-              "description": "Boom. Check out the new #ChainsawManMovie trailer! Chainsaw Man – The Movie: Reze Arc is coming exclusively to movie theatres October 29.\n\n\nWebsite: https://chainsawman.movie/\n   \nFollow us on Social:\nhttps://www.instagram.com/chainsaw_en/\nhttps://twitter.com/Chainsaw_EN\nhttp://facebook.com/chainsawman.en\nhttps://www.tiktok.com/@chainsawman_en\n\nSubscribe to the Sony Pictures YouTube Channel for more exclusive content: \nhttps://bit.ly/SonyPicsSubscribe\n\n\n\nTheme Song: Kenshi Yonezu \"IRIS OUT\" (Sony Music Labels Inc.)\n\n\n\nFor the first time, Chainsaw Man slashes his way onto the big screen in an epic, action-fueled adventure that continues the hugely popular anime series. Denji worked as a Devil Hunter for the yakuza, trying to pay off the debt he inherited from his parents, until the yakuza betrayed him and had him killed. As he was losing consciousness, Denji’s beloved chainsaw-powered devil-dog, Pochita, made a deal with Denji and saved his life. This fused the two together, creating the unstoppable Chainsaw Man. Now, in a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into his world, and Denji faces his deadliest battle yet, fueled by love in a world where survival knows no rules.\n\nDirected by: Tatsuya Yoshihara \n \nBased on the original work “Chainsaw Man” by Tatsuki Fujimoto (Serialized in Shueisha’s “Shonen Jump+”)\n\nScreenplay by: Hiroshi Seko \n\nProduction by: MAPPA \n\n© 2025 MAPPA/CHAINSAW MAN PROJECT ©Tatsuki Fujimoto/SHUEISHA\n\nCredits not final\n\nThis film is not yet rated by The Motion Picture Association. For future rating information, please visit www.filmratings.com.\n\n\n#チェンソーマン #chainsawman #レゼ篇 #mappa #chainsawmanmovie"
+              "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+              "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "997545",
-            "likeCount": "28010",
+            "viewCount": "13608225",
+            "likeCount": "56792",
             "favoriteCount": "0",
-            "commentCount": "1062"
+            "commentCount": "3367"
           }
         }
       ],
@@ -9053,18 +4688,18 @@
     },
     "creative": {
       "director": [
-        "Tatsuya Yoshihara"
+        "Derek Cianfrance"
       ],
       "writers": [],
       "cast_top": [
-        "Kikunosuke Toya",
-        "Reina Ueda",
-        "Shiori Izawa",
-        "Tomori Kusunoki",
-        "Shogo Sakata",
-        "Fairouz Ai",
-        "Karin Takahashi",
-        "Natsuki Hanae"
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn",
+        "LaKeith Stanfield",
+        "Juno Temple",
+        "Peter Dinklage",
+        "Uzo Aduba",
+        "Lily Collias"
       ],
       "star_power": {
         "actor_count": 8
@@ -9891,89 +5526,83 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1571470,
-      "imdb_id": "tt28283547",
-      "title": "The Rats: A Witcher Tale",
-      "release_date": "2025-10-29",
+      "tmdb_id": 760329,
+      "imdb_id": "tt11214558",
+      "title": "The Smashing Machine",
+      "release_date": "2025-10-01",
       "release_year": "2025",
       "genres": [
-        "Fantasy",
-        "Drama",
-        "Adventure"
+        "History",
+        "Drama"
       ],
       "production_countries": [
-        "US",
-        "PL"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Platige Films",
-        "Hivemind",
-        "Little Schmidt Productions",
-        "Hailzor"
+        "A24",
+        "Seven Bucks Productions",
+        "Out for the Count",
+        "Magnetic Fields Entertainment"
       ],
-      "runtime": 83,
-      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
+      "runtime": 123,
+      "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 50000000,
+      "revenue": 10057115,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.201,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+        "backdrop_path": "/4TOVar1q5KfUpe1pZOkYqjBOLyI.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 50000000,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 36,
+            "name": "History"
           },
           {
             "id": 18,
             "name": "Drama"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81572393",
-        "id": 1571470,
-        "imdb_id": "tt28283547",
+        "homepage": "https://a24films.com/films/the-smashing-machine",
+        "id": 760329,
+        "imdb_id": "tt11214558",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Rats: A Witcher Tale",
-        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
-        "popularity": 45.6548,
-        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+        "original_title": "The Smashing Machine",
+        "overview": "In the late 1990s, up-and-coming mixed martial artist Mark Kerr aspires to become the greatest fighter in the world. However, he must also battle his opiod dependence and a volatile relationship with his girlfriend Dawn.",
+        "popularity": 40.3236,
+        "poster_path": "/mPuBDGrVIBGOymBxR6rO3iIvBSe.jpg",
         "production_companies": [
           {
-            "id": 137769,
-            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
-            "name": "Platige Films",
-            "origin_country": "PL"
-          },
-          {
-            "id": 124634,
-            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
-            "name": "Hivemind",
+            "id": 41077,
+            "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+            "name": "A24",
             "origin_country": "US"
           },
           {
-            "id": 162859,
-            "logo_path": null,
-            "name": "Little Schmidt Productions",
+            "id": 73669,
+            "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+            "name": "Seven Bucks Productions",
             "origin_country": "US"
           },
           {
-            "id": 279361,
+            "id": 215974,
             "logo_path": null,
-            "name": "Hailzor",
+            "name": "Out for the Count",
+            "origin_country": "US"
+          },
+          {
+            "id": 260754,
+            "logo_path": null,
+            "name": "Magnetic Fields Entertainment",
             "origin_country": "US"
           }
         ],
@@ -9981,66 +5610,80 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "PL",
-            "name": "Poland"
           }
         ],
-        "release_date": "2025-10-29",
-        "revenue": 0,
-        "runtime": 83,
+        "release_date": "2025-10-01",
+        "revenue": 10057115,
+        "runtime": 123,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
+          },
+          {
+            "english_name": "Ukrainian",
+            "iso_639_1": "uk",
+            "name": "Український"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Rats: A Witcher Tale",
+        "tagline": "The unforgettable true story of a UFC legend.",
+        "title": "The Smashing Machine",
         "video": false,
-        "vote_average": 4.946,
-        "vote_count": 65
+        "vote_average": 6.459,
+        "vote_count": 158
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.946,
+      "tmdb_vote_average": 6.459,
       "omdb": {
-        "Title": "The Rats: A Witcher Tale",
+        "Title": "The Smashing Machine",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "30 Oct 2025",
-        "Runtime": "82 min",
-        "Genre": "Action",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "N/A",
-        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "R",
+        "Released": "03 Oct 2025",
+        "Runtime": "123 min",
+        "Genre": "Action, Biography, Drama",
+        "Director": "Benny Safdie",
+        "Writer": "Mark Kerr, Benny Safdie",
+        "Actors": "Emily Blunt, Dwayne Johnson, Whitney Moore",
+        "Plot": "The story of mixed-martial arts and UFC champion, Mark Kerr.",
+        "Language": "English, Japanese",
+        "Country": "United States, Japan, Canada",
+        "Awards": "1 win & 2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOWYxZTM1ZGMtMjg5MC00NzcyLTk0ZTEtZWI0ZThkNDJiYjZmXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.0/10"
+            "Value": "7.0/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "65/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.0",
-        "imdbVotes": "33",
-        "imdbID": "tt28283547",
+        "Metascore": "65",
+        "imdbRating": "7.0",
+        "imdbVotes": "24,804",
+        "imdbID": "tt11214558",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$6,000,171",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_smashing_machine_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10067,85 +5710,69 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "4UzFC05fAGbbza_H3-xhzzwFwYI",
-          "id": "HK9dU6JIroU",
+          "etag": "3Pp7rty0Tyl8hclDI4c5VFe41vI",
+          "id": "aRpnP3LZ99g",
           "snippet": {
-            "publishedAt": "2025-10-07T15:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-            "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again.",
+            "publishedAt": "2025-04-29T12:59:01Z",
+            "channelId": "UCuPivVjnfNo4mb3Oog_frZg",
+            "title": "The Smashing Machine | Official Trailer HD | A24",
+            "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/default.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/aRpnP3LZ99g/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "A24",
             "tags": [
-              "Andrzej Sapkowski",
-              "Anya Chalotra",
-              "CD Projekt Red",
-              "CDPR",
-              "Ciri",
-              "Freya Allan",
-              "Geralt",
-              "Halloween",
-              "Hemsworth",
-              "Jaskier",
-              "Joey Batey",
-              "Lauren Hissrich",
-              "Laurence Fishburne",
-              "Liam Hemsworth",
-              "Regis",
-              "The Witcher",
-              "Witcher",
-              "Witcher video game",
-              "Yennefer",
-              "beast",
-              "continent",
-              "ghost",
-              "monster",
-              "season 4",
-              "the continent",
-              "treat",
-              "trick",
-              "wraith"
+              "a24",
+              "a24 films",
+              "a24 trailers",
+              "independent films",
+              "trailer",
+              "HD",
+              "official",
+              "movie",
+              "film",
+              "a24 movies",
+              "oscar winner",
+              "academy award winner"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-              "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again."
+              "title": "The Smashing Machine | Official Trailer HD | A24",
+              "description": "SUBSCRIBE: http://bit.ly/A24subscribe\n\nFrom writer/director Benny Safdie and starring Dwayne Johnson and Emily Blunt. THE SMASHING MACHINE – In Theaters October 3.\n\nNOW AVAILABLE TO WATCH AT HOME: https://bit.ly/TheSmashingMachine-OnDemand\n\nRELEASE DATE: October 3\nDIRECTOR: Benny Safdie \nCAST: Dwayne Johnson, Emily Blunt\n\nFollow THE SMASHING MACHINE on Instagram: https://bit.ly/TheSmashingMachine_IG\nFollow THE SMASHING MACHINE on X: https://bit.ly/TheSmashingMachine_X\nLike THE SMASHING MACHINE on Facebook: https://bit.ly/TheSmashingMachine_FB\n\n------\n\nABOUT A24:\nThe studio behind EVERYTHING EVERYWHERE ALL AT ONCE, UNCUT GEMS, MIDSOMMAR, MOONLIGHT, BEEF on Netflix, EUPHORIA on Max & more.\n\nComing Soon: MATERIALISTS, BRING HER BACK, EDDINGTON, THE SMASHING MACHINE, MARTY SUPREME & more\n\nSubscribe to A24's NEWSLETTER:  http://bit.ly/A24signup\nSign up for A24 MEMBERSHIP: aaa24.com\nVisit A24 WEBSITE: http://bit.ly/A24filmsdotcom\nLike A24 on FACEBOOK: http://bit.ly/FBA24\nFollow A24 on TWITTER: http://bit.ly/TweetA24\nFollow A24 on INSTAGRAM: http://bit.ly/InstaA24"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "2247638",
-            "likeCount": "25989",
+            "viewCount": "24046193",
+            "likeCount": "112716",
             "favoriteCount": "0",
-            "commentCount": "17989"
+            "commentCount": "12732"
           }
         }
       ],
@@ -10156,21 +5783,18 @@
     },
     "creative": {
       "director": [
-        "Mairzee Almas"
+        "Benny Safdie"
       ],
-      "writers": [
-        "Haily Hall",
-        "Lauren Schmidt Hissrich"
-      ],
+      "writers": [],
       "cast_top": [
-        "Christelle Elwin",
-        "Ben Radcliffe",
-        "Fabian McCallum",
-        "Aggy K. Adams",
-        "Connor Crawford",
-        "Juliette Alexandra",
-        "Dolph Lundgren",
-        "Ben Robson"
+        "Dwayne Johnson",
+        "Emily Blunt",
+        "Ryan Bader",
+        "Bas Rutten",
+        "Lyndsey Gavin",
+        "Zoe Kosovic",
+        "Oleksandr Usyk",
+        "Satoshi Ishii"
       ],
       "star_power": {
         "actor_count": 8
