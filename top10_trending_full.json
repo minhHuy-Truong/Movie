@@ -116,7 +116,7 @@
         "title": "Frankenstein",
         "video": false,
         "vote_average": 7.924,
-        "vote_count": 972
+        "vote_count": 997
       }
     },
     "ratings": {
@@ -189,7 +189,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ZGw_HdzA6xBKPJs5lvLwhKBdm8I",
+          "etag": "aTDeS8cX8hG_GXJVGPxRxgvkxQ0",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -265,10 +265,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11745480",
-            "likeCount": "167590",
+            "viewCount": "11768721",
+            "likeCount": "167893",
             "favoriteCount": "0",
-            "commentCount": "7141"
+            "commentCount": "7155"
           }
         }
       ],
@@ -1119,88 +1119,100 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 106646,
-      "imdb_id": "tt0993846",
-      "title": "The Wolf of Wall Street",
-      "release_date": "2013-12-25",
-      "release_year": "2013",
+      "tmdb_id": 1242898,
+      "imdb_id": "tt31227572",
+      "title": "Predator: Badlands",
+      "release_date": "2025-11-05",
+      "release_year": "2025",
       "genres": [
-        "Crime",
-        "Drama",
-        "Comedy"
+        "Action",
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Red Granite Pictures",
-        "Appian Way",
-        "Sikelia Productions",
-        "EMJAG Productions"
+        "20th Century Studios",
+        "Lawrence Gordon Productions",
+        "Davis Entertainment",
+        "Toberoff Productions",
+        "TSG Entertainment"
       ],
-      "runtime": 180,
-      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
+      "runtime": 107,
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
     },
     "commercial": {
-      "budget": 100000000,
-      "revenue": 407038432,
+      "budget": 105000000,
+      "revenue": 88535677,
       "opening_weekend": null,
-      "roi": 4.07,
+      "roi": 0.843,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
-        "belongs_to_collection": null,
-        "budget": 100000000,
+        "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+        "belongs_to_collection": {
+          "id": 399,
+          "name": "Predator Collection",
+          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+        },
+        "budget": 105000000,
         "genres": [
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "http://www.thewolfofwallstreet.com/",
-        "id": 106646,
-        "imdb_id": "tt0993846",
+        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+        "id": 1242898,
+        "imdb_id": "tt31227572",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Wolf of Wall Street",
-        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
-        "popularity": 20.3839,
-        "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
+        "original_title": "Predator: Badlands",
+        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "popularity": 330.6468,
+        "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
         "production_companies": [
           {
-            "id": 19177,
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 840,
             "logo_path": null,
-            "name": "Red Granite Pictures",
+            "name": "Lawrence Gordon Productions",
             "origin_country": "US"
           },
           {
-            "id": 562,
-            "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
-            "name": "Appian Way",
+            "id": 1302,
+            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+            "name": "Davis Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 23243,
-            "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
-            "name": "Sikelia Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 14654,
+            "id": 185309,
             "logo_path": null,
-            "name": "EMJAG Productions",
+            "name": "Toberoff Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
             "origin_country": "US"
           }
         ],
@@ -1210,73 +1222,68 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2013-12-25",
-        "revenue": 407038432,
-        "runtime": 180,
+        "release_date": "2025-11-05",
+        "revenue": 88535677,
+        "runtime": 107,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Earn. Spend. Party.",
-        "title": "The Wolf of Wall Street",
+        "tagline": "First hunt. Last chance.",
+        "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 8.0,
-        "vote_count": 25147
+        "vote_average": 7.2,
+        "vote_count": 253
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.0,
+      "tmdb_vote_average": 7.2,
       "omdb": {
-        "Title": "The Wolf of Wall Street",
-        "Year": "2013",
-        "Rated": "R",
-        "Released": "25 Dec 2013",
-        "Runtime": "180 min",
-        "Genre": "Biography, Comedy, Crime",
-        "Director": "Martin Scorsese",
-        "Writer": "Terence Winter, Jordan Belfort",
-        "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
-        "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
-        "Language": "English, French",
-        "Country": "United States",
-        "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "Title": "Predator: Badlands",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Dan Trachtenberg",
+        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
+        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
+        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Language": "English",
+        "Country": "United States, Australia, New Zealand, Canada",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.2/10"
+            "Value": "7.6/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "79%"
+            "Value": "85%"
           },
           {
             "Source": "Metacritic",
-            "Value": "75/100"
+            "Value": "71/100"
           }
         ],
-        "Metascore": "75",
-        "imdbRating": "8.2",
-        "imdbVotes": "1,722,525",
-        "imdbID": "tt0993846",
+        "Metascore": "71",
+        "imdbRating": "7.6",
+        "imdbVotes": "18,100",
+        "imdbID": "tt31227572",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$116,900,694",
+        "BoxOffice": "$40,000,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1303,74 +1310,58 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "3OGfuqEaqFMZdW9RgpRXwysGcA8",
-          "id": "iszwuX1AK6A",
+          "etag": "LcBFFz69brueOl3-1X3FPi-lQWA",
+          "id": "43R9l7EkJwE",
           "snippet": {
-            "publishedAt": "2013-06-17T05:40:12Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Wolf of Wall Street Official Trailer",
-            "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com",
+            "publishedAt": "2025-07-21T16:00:06Z",
+            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+            "title": "Predator: Badlands | Official Trailer",
+            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/default.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
+            "channelTitle": "20th Century Studios",
             "tags": [
-              "The Wold of Wall Street",
-              "Martin Scorsese",
-              "Leonardo DiCaprio",
-              "Jonah Hill",
-              "Margot Robbie",
-              "Matthew McConaughey",
-              "Jon Favreau",
-              "Kyle Chandler",
-              "Rob Reiner",
-              "Jean Dujardin",
-              "Pj Byrne",
-              "Kenneth Choi",
-              "Paramount Pictures",
-              "Trailer",
-              "The Wolf Of Wall Street (Film)",
-              "Official Trailer",
-              "New Trailer"
+              "Trailer"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Wolf of Wall Street Official Trailer",
-              "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com"
+              "title": "Predator: Badlands | Official Trailer",
+              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "33577114",
-            "likeCount": "196957",
+            "viewCount": "24607522",
+            "likeCount": "310228",
             "favoriteCount": "0",
-            "commentCount": "13028"
+            "commentCount": "25392"
           }
         }
       ],
@@ -1381,18 +1372,18 @@
     },
     "creative": {
       "director": [
-        "Martin Scorsese"
+        "Dan Trachtenberg"
       ],
       "writers": [],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Jonah Hill",
-        "Margot Robbie",
-        "Matthew McConaughey",
-        "Kyle Chandler",
-        "Rob Reiner",
-        "Jon Bernthal",
-        "Jon Favreau"
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Rohinal Nayaran",
+        "Michael Homick",
+        "Stefan Grube",
+        "Reuben De Jong",
+        "Cameron Brown",
+        "Alison Wright"
       ],
       "star_power": {
         "actor_count": 8
@@ -2312,12 +2303,12 @@
         "tagline": "Need a miracle?",
         "title": "Good Fortune",
         "video": false,
-        "vote_average": 6.726,
-        "vote_count": 117
+        "vote_average": 6.7,
+        "vote_count": 118
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.726,
+      "tmdb_vote_average": 6.7,
       "omdb": {
         "Title": "Good Fortune",
         "Year": "2025",
@@ -2340,7 +2331,7 @@
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "Value": "77%"
           },
           {
             "Source": "Metacritic",
@@ -2386,7 +2377,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ckQrPqHjO8PGt-gcDHO0p_xJdeU",
+          "etag": "k006v-mxTTqwnENNmT5i5VwTN5g",
           "id": "ZKWndx83RwQ",
           "snippet": {
             "publishedAt": "2025-07-23T13:00:22Z",
@@ -2464,10 +2455,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6806813",
-            "likeCount": "78842",
+            "viewCount": "6809749",
+            "likeCount": "78859",
             "favoriteCount": "0",
-            "commentCount": "4814"
+            "commentCount": "4817"
           }
         }
       ],
@@ -3318,100 +3309,98 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1242898,
-      "imdb_id": "tt31227572",
-      "title": "Predator: Badlands",
+      "tmdb_id": 1248226,
+      "imdb_id": "tt31425731",
+      "title": "Playdate",
       "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
         "Action",
-        "Science Fiction",
-        "Adventure"
+        "Comedy"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "CA"
       ],
       "language": "en",
       "studio_distributor": [
-        "20th Century Studios",
-        "Lawrence Gordon Productions",
-        "Davis Entertainment",
-        "Toberoff Productions",
-        "TSG Entertainment"
+        "Nickel City Pictures",
+        "Wide Awake Pictures",
+        "A Higher Standard",
+        "Gramercy Park Media",
+        "Arcana Studio",
+        "Industry Entertainment Partners"
       ],
-      "runtime": 107,
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+      "runtime": 93,
+      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
     },
     "commercial": {
-      "budget": 105000000,
-      "revenue": 88535677,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.843,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-        "belongs_to_collection": {
-          "id": 399,
-          "name": "Predator Collection",
-          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-        },
-        "budget": 105000000,
+        "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
         "genres": [
           {
             "id": 28,
             "name": "Action"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
+            "id": 35,
+            "name": "Comedy"
           }
         ],
-        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
-        "id": 1242898,
-        "imdb_id": "tt31227572",
+        "homepage": "https://www.amazon.com/gp/video/detail/B0FQ1MCFKJ",
+        "id": 1248226,
+        "imdb_id": "tt31425731",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Predator: Badlands",
-        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 330.6468,
-        "poster_path": "/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg",
+        "original_title": "Playdate",
+        "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
+        "popularity": 214.915,
+        "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
         "production_companies": [
           {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
+            "id": 110723,
+            "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
+            "name": "Nickel City Pictures",
             "origin_country": "US"
           },
           {
-            "id": 840,
+            "id": 28787,
             "logo_path": null,
-            "name": "Lawrence Gordon Productions",
+            "name": "Wide Awake Pictures",
             "origin_country": "US"
           },
           {
-            "id": 1302,
-            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-            "name": "Davis Entertainment",
+            "id": 221397,
+            "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
+            "name": "A Higher Standard",
             "origin_country": "US"
           },
           {
-            "id": 185309,
-            "logo_path": null,
-            "name": "Toberoff Productions",
+            "id": 215935,
+            "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+            "name": "Gramercy Park Media",
             "origin_country": "US"
           },
           {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
+            "id": 55446,
+            "logo_path": "/zi63Cmjvx06eELmmduPBDRyP135.png",
+            "name": "Arcana Studio",
+            "origin_country": "CA"
+          },
+          {
+            "id": 376,
+            "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+            "name": "Industry Entertainment Partners",
             "origin_country": "US"
           }
         ],
@@ -3419,11 +3408,15 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
           }
         ],
         "release_date": "2025-11-05",
-        "revenue": 88535677,
-        "runtime": 107,
+        "revenue": 0,
+        "runtime": 93,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -3432,53 +3425,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "First hunt. Last chance.",
-        "title": "Predator: Badlands",
+        "tagline": "Playtime just got real.",
+        "title": "Playdate",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 253
+        "vote_average": 7.1,
+        "vote_count": 33
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 7.1,
       "omdb": {
-        "Title": "Predator: Badlands",
+        "Title": "Playdate",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "07 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Dan Trachtenberg",
-        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
-        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
-        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Released": "12 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Action, Comedy",
+        "Director": "Luke Greenfield",
+        "Writer": "Neil Goldman",
+        "Actors": "Alan Tudyk, Alan Ritchson, Sarah Chalke",
+        "Plot": "Brian has just been fired from his job. He becomes a stay-at-home dad. He accepts a playdate invitation from another stay-at-home dad who turns out to be a loose cannon.",
         "Language": "English",
-        "Country": "United States, Australia, New Zealand, Canada",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "71/100"
-          }
-        ],
-        "Metascore": "71",
-        "imdbRating": "7.6",
-        "imdbVotes": "18,100",
-        "imdbID": "tt31227572",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlOWNlMjctNmFjYS00Y2I3LWFhNzAtZGVmNTJjOWEwNjZiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt31425731",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$40,000,000",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -3505,58 +3489,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "uq65iVx9WFm_FVuMTlK9N6lgzN0",
-          "id": "43R9l7EkJwE",
+          "etag": "z_-f4gJ41x5RJwYiEJ5KVlPdQFc",
+          "id": "xGTq0blCPVQ",
           "snippet": {
-            "publishedAt": "2025-07-21T16:00:06Z",
-            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-            "title": "Predator: Badlands | Official Trailer",
-            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
+            "publishedAt": "2025-10-08T13:59:52Z",
+            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
+            "title": "Playdate - Official Trailer | Prime Video",
+            "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "20th Century Studios",
+            "channelTitle": "Prime Video",
             "tags": [
-              "Trailer"
+              "playdate official trailer",
+              "playdate trailer",
+              "official trailer",
+              "trailer",
+              "official trailer 2025",
+              "trailer 2025",
+              "prime video official trailer",
+              "new amazon trailer",
+              "playdate prime video",
+              "prime video playdate",
+              "comedy",
+              "action",
+              "comedy movie",
+              "action movie",
+              "comedy film",
+              "action film",
+              "prime video",
+              "amazon prime video",
+              "amazon prime",
+              "prime",
+              "playdate",
+              "new trailer",
+              "prime video trailer",
+              "trailer prime video",
+              "official trailer prime video",
+              "alan ritchson",
+              "kevin james",
+              "banks pierce"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Predator: Badlands | Official Trailer",
-              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
+              "title": "Playdate - Official Trailer | Prime Video",
+              "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "24580161",
-            "likeCount": "310079",
+            "viewCount": "21294037",
+            "likeCount": "71750",
             "favoriteCount": "0",
-            "commentCount": "25379"
+            "commentCount": "3201"
           }
         }
       ],
@@ -3567,18 +3578,20 @@
     },
     "creative": {
       "director": [
-        "Dan Trachtenberg"
+        "Luke Greenfield"
       ],
-      "writers": [],
+      "writers": [
+        "Neil Goldman"
+      ],
       "cast_top": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Rohinal Nayaran",
-        "Michael Homick",
-        "Stefan Grube",
-        "Reuben De Jong",
-        "Cameron Brown",
-        "Alison Wright"
+        "Kevin James",
+        "Alan Ritchson",
+        "Sarah Chalke",
+        "Isla Fisher",
+        "Alan Tudyk",
+        "Stephen Root",
+        "Benjamin Pajak",
+        "Banks Pierce"
       ],
       "star_power": {
         "actor_count": 8
@@ -4405,1060 +4418,6 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 967941,
-      "imdb_id": "tt19847976",
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-17",
-      "release_year": "2025",
-      "genres": [
-        "Romance",
-        "Fantasy",
-        "Adventure"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Universal Pictures",
-        "Marc Platt Productions"
-      ],
-      "runtime": 138,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
-    },
-    "commercial": {
-      "budget": 150000000,
-      "revenue": 0,
-      "opening_weekend": null,
-      "roi": null,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-        "belongs_to_collection": {
-          "id": 968080,
-          "name": "Wicked Collection",
-          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
-          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
-        },
-        "budget": 150000000,
-        "genres": [
-          {
-            "id": 10749,
-            "name": "Romance"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          }
-        ],
-        "homepage": "https://www.wickedmovie.com",
-        "id": 967941,
-        "imdb_id": "tt19847976",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Wicked: For Good",
-        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 37.7625,
-        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-        "production_companies": [
-          {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 2527,
-            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
-            "name": "Marc Platt Productions",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2025-11-17",
-        "revenue": 0,
-        "runtime": 138,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "You will be changed.",
-        "title": "Wicked: For Good",
-        "video": false,
-        "vote_average": 5.5,
-        "vote_count": 12
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 5.5,
-      "omdb": {
-        "Title": "Wicked: For Good",
-        "Year": "2025",
-        "Rated": "PG",
-        "Released": "21 Nov 2025",
-        "Runtime": "138 min",
-        "Genre": "Family, Fantasy, Musical",
-        "Director": "Jon M. Chu",
-        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
-        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
-        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "3 wins total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt19847976",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "sS1T1oID5jUYAT-GdQagDNj7kYA",
-          "id": "vt98AlBDI9Y",
-          "snippet": {
-            "publishedAt": "2025-06-05T00:55:09Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Wicked: For Good | Official Trailer",
-            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Universal Pictures",
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
-            "localized": {
-              "title": "Wicked: For Good | Official Trailer",
-              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "12287024",
-            "likeCount": "290564",
-            "favoriteCount": "0",
-            "commentCount": "14735"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Jon M. Chu"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jonathan Bailey",
-        "Michelle Yeoh",
-        "Jeff Goldblum",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Bowen Yang"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 6,
-    "metadata": {
       "tmdb_id": 1197137,
       "imdb_id": "tt29644189",
       "title": "Black Phone 2",
@@ -5569,12 +4528,12 @@
         "tagline": "Dead is just a word.",
         "title": "Black Phone 2",
         "video": false,
-        "vote_average": 7.195,
+        "vote_average": 7.2,
         "vote_count": 423
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.195,
+      "tmdb_vote_average": 7.2,
       "omdb": {
         "Title": "Black Phone 2",
         "Year": "2025",
@@ -5643,7 +4602,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "gg-TLqpfvxOlZm46OhprnJYvRoc",
+          "etag": "x-twuPWkGq6MKJphtRZHLmMq9KQ",
           "id": "DdR-gzFZoDk",
           "snippet": {
             "publishedAt": "2025-09-04T15:00:16Z",
@@ -5688,8 +4647,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1917260",
-            "likeCount": "29021",
+            "viewCount": "1921869",
+            "likeCount": "29054",
             "favoriteCount": "0",
             "commentCount": "1570"
           }
@@ -6541,100 +5500,110 @@
     ]
   },
   {
-    "rank": 7,
+    "rank": 6,
     "metadata": {
-      "tmdb_id": 1248226,
-      "imdb_id": "tt31425731",
-      "title": "Playdate",
-      "release_date": "2025-11-05",
+      "tmdb_id": 425274,
+      "imdb_id": "tt4712810",
+      "title": "Now You See Me: Now You Don't",
+      "release_date": "2025-11-12",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Comedy"
+        "Thriller",
+        "Crime",
+        "Mystery"
       ],
       "production_countries": [
         "US",
-        "CA"
+        "AU"
       ],
       "language": "en",
       "studio_distributor": [
-        "Nickel City Pictures",
-        "Wide Awake Pictures",
-        "A Higher Standard",
-        "Gramercy Park Media",
-        "Arcana Studio",
-        "Industry Entertainment Partners"
+        "Secret Hideout",
+        "Lionsgate",
+        "Epic Films",
+        "Reese Wernick Productions",
+        "Summit Entertainment",
+        "The Fusion Media"
       ],
-      "runtime": 93,
-      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
+      "runtime": 112,
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
     },
     "commercial": {
-      "budget": 0,
+      "budget": 90000000,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+        "belongs_to_collection": {
+          "id": 382685,
+          "name": "Now You See Me Collection",
+          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
+        },
+        "budget": 90000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 53,
+            "name": "Thriller"
           },
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.amazon.com/gp/video/detail/B0FQ1MCFKJ",
-        "id": 1248226,
-        "imdb_id": "tt31425731",
+        "homepage": "https://nowyouseeme.movie",
+        "id": 425274,
+        "imdb_id": "tt4712810",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Playdate",
-        "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
-        "popularity": 214.915,
-        "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+        "popularity": 66.8975,
+        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "production_companies": [
           {
-            "id": 110723,
-            "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
-            "name": "Nickel City Pictures",
+            "id": 90517,
+            "logo_path": "/uq7itRpnnb1LX1VDDaJg64pKFmT.png",
+            "name": "Secret Hideout",
             "origin_country": "US"
           },
           {
-            "id": 28787,
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
+          },
+          {
+            "id": 85205,
+            "logo_path": "/nrKSo8OkzCXobQ27cZuW5ooFuKR.png",
+            "name": "Epic Films",
+            "origin_country": "AU"
+          },
+          {
+            "id": 114336,
             "logo_path": null,
-            "name": "Wide Awake Pictures",
+            "name": "Reese Wernick Productions",
             "origin_country": "US"
           },
           {
-            "id": 221397,
-            "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
-            "name": "A Higher Standard",
+            "id": 491,
+            "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+            "name": "Summit Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 215935,
-            "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
-            "name": "Gramercy Park Media",
-            "origin_country": "US"
-          },
-          {
-            "id": 55446,
-            "logo_path": "/zi63Cmjvx06eELmmduPBDRyP135.png",
-            "name": "Arcana Studio",
-            "origin_country": "CA"
-          },
-          {
-            "id": 376,
-            "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
-            "name": "Industry Entertainment Partners",
+            "id": 279807,
+            "logo_path": null,
+            "name": "The Fusion Media",
             "origin_country": "US"
           }
         ],
@@ -6644,59 +5613,64 @@
             "name": "United States of America"
           },
           {
-            "iso_3166_1": "CA",
-            "name": "Canada"
+            "iso_3166_1": "AU",
+            "name": "Australia"
           }
         ],
-        "release_date": "2025-11-05",
+        "release_date": "2025-11-12",
         "revenue": 0,
-        "runtime": 93,
+        "runtime": 112,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Playtime just got real.",
-        "title": "Playdate",
+        "tagline": "Unlock the illusion.",
+        "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 7.135,
-        "vote_count": 26
+        "vote_average": 7.109,
+        "vote_count": 23
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.135,
+      "tmdb_vote_average": 7.109,
       "omdb": {
-        "Title": "Playdate",
+        "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "12 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Comedy",
-        "Director": "Luke Greenfield",
-        "Writer": "Neil Goldman",
-        "Actors": "Alan Tudyk, Alan Ritchson, Sarah Chalke",
-        "Plot": "Brian has just been fired from his job. He becomes a stay-at-home dad. He accepts a playdate invitation from another stay-at-home dad who turns out to be a loose cannon.",
+        "Released": "14 Nov 2025",
+        "Runtime": "112 min",
+        "Genre": "Crime, Thriller",
+        "Director": "Ruben Fleischer",
+        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
+        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
         "Language": "English",
         "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2JlOWNlMjctNmFjYS00Y2I3LWFhNzAtZGVmNTJjOWEwNjZiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [],
         "Metascore": "N/A",
         "imdbRating": "N/A",
         "imdbVotes": "N/A",
-        "imdbID": "tt31425731",
+        "imdbID": "tt4712810",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
-        "Production": "N/A",
+        "Production": "Lionsgate",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -6723,85 +5697,89 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "6hoAYQmemDs04BIHnV4ZfAk1EOM",
-          "id": "xGTq0blCPVQ",
+          "etag": "PvLQIWSZFRl3xw5dHQ1t3AvtMxQ",
+          "id": "-E3lMRx7HRQ",
           "snippet": {
-            "publishedAt": "2025-10-08T13:59:52Z",
-            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
-            "title": "Playdate - Official Trailer | Prime Video",
-            "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo",
+            "publishedAt": "2025-04-29T16:54:59Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Prime Video",
+            "channelTitle": "Lionsgate Movies",
             "tags": [
-              "playdate official trailer",
-              "playdate trailer",
-              "official trailer",
-              "trailer",
-              "official trailer 2025",
-              "trailer 2025",
-              "prime video official trailer",
-              "new amazon trailer",
-              "playdate prime video",
-              "prime video playdate",
+              "Jesse Eisenberg",
+              "Woody Harrelson",
+              "Dave Franco",
+              "Isla Fisher",
+              "Justice Smith",
+              "Dominic Sessa",
+              "Ariana Greenblatt",
+              "with Rosamund Pike",
+              "Morgan Freeman",
+              "Now You See Me",
+              "sequel",
+              "series",
+              "Now You See Me 3",
+              "Now You See Me Now You Don't",
+              "Trailer",
+              "Official Trailer",
+              "Now You See Me 3 Trailer",
+              "NYSM Trailer",
+              "NYSM",
+              "NYSM 3",
+              "magician",
+              "illusions",
+              "heist",
+              "heist movie",
+              "bank heist",
+              "crime thriller",
+              "thriller",
               "comedy",
               "action",
-              "comedy movie",
-              "action movie",
-              "comedy film",
-              "action film",
-              "prime video",
-              "amazon prime video",
-              "amazon prime",
-              "prime",
-              "playdate",
-              "new trailer",
-              "prime video trailer",
-              "trailer prime video",
-              "official trailer prime video",
-              "alan ritchson",
-              "kevin james",
-              "banks pierce"
+              "crime team",
+              "ruben fleischer",
+              "coming soon"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Playdate - Official Trailer | Prime Video",
-              "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo"
+              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21254766",
-            "likeCount": "71531",
+            "viewCount": "17301835",
+            "likeCount": "247574",
             "favoriteCount": "0",
-            "commentCount": "3195"
+            "commentCount": "11702"
           }
         }
       ],
@@ -6812,20 +5790,18 @@
     },
     "creative": {
       "director": [
-        "Luke Greenfield"
+        "Ruben Fleischer"
       ],
-      "writers": [
-        "Neil Goldman"
-      ],
+      "writers": [],
       "cast_top": [
-        "Kevin James",
-        "Alan Ritchson",
-        "Sarah Chalke",
+        "Jesse Eisenberg",
+        "Woody Harrelson",
+        "Dave Franco",
         "Isla Fisher",
-        "Alan Tudyk",
-        "Stephen Root",
-        "Benjamin Pajak",
-        "Banks Pierce"
+        "Justice Smith",
+        "Dominic Sessa",
+        "Ariana Greenblatt",
+        "Rosamund Pike"
       ],
       "star_power": {
         "actor_count": 8
@@ -7650,7 +6626,7 @@
     ]
   },
   {
-    "rank": 8,
+    "rank": 7,
     "metadata": {
       "tmdb_id": 1242419,
       "imdb_id": "tt4627382",
@@ -7778,12 +6754,12 @@
         "tagline": "Based on actual events. And terrible decisions.",
         "title": "Roofman",
         "video": false,
-        "vote_average": 7.3,
-        "vote_count": 99
+        "vote_average": 7.324,
+        "vote_count": 102
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.3,
+      "tmdb_vote_average": 7.324,
       "omdb": {
         "Title": "Roofman",
         "Year": "2025",
@@ -7852,7 +6828,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "FsgcRyesc0yj4tFlwgRIeU67dYg",
+          "etag": "6Zr0sbDU-lO4-Z2ITMlRNnfKOUQ",
           "id": "GXecSGmQDEI",
           "snippet": {
             "publishedAt": "2025-06-25T13:00:08Z",
@@ -7913,10 +6889,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13634451",
-            "likeCount": "56877",
+            "viewCount": "13642627",
+            "likeCount": "56905",
             "favoriteCount": "0",
-            "commentCount": "3361"
+            "commentCount": "3360"
           }
         }
       ],
@@ -8763,84 +7739,81 @@
     ]
   },
   {
-    "rank": 9,
+    "rank": 8,
     "metadata": {
-      "tmdb_id": 1084242,
-      "imdb_id": "tt26443597",
-      "title": "Zootopia 2",
-      "release_date": "2025-11-26",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-17",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Mystery"
+        "Romance",
+        "Fantasy",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Walt Disney Animation Studios"
+        "Universal Pictures",
+        "Marc Platt Productions"
       ],
-      "runtime": 107,
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis."
+      "runtime": 138,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 0,
+      "budget": 150000000,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
         "belongs_to_collection": {
-          "id": 1084247,
-          "name": "Zootopia Collection",
-          "poster_path": "/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg",
-          "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
         },
-        "budget": 0,
+        "budget": 150000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
+            "id": 10749,
+            "name": "Romance"
           },
           {
-            "id": 10751,
-            "name": "Family"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
             "id": 12,
             "name": "Adventure"
-          },
-          {
-            "id": 9648,
-            "name": "Mystery"
           }
         ],
-        "homepage": "",
-        "id": 1084242,
-        "imdb_id": "tt26443597",
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Zootopia 2",
-        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis.",
-        "popularity": 54.0434,
-        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 37.7625,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
-            "id": 6125,
-            "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
-            "name": "Walt Disney Animation Studios",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
             "origin_country": "US"
           }
         ],
@@ -8850,9 +7823,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-26",
+        "release_date": "2025-11-17",
         "revenue": 0,
-        "runtime": 107,
+        "runtime": 138,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -8861,35 +7834,35 @@
           }
         ],
         "status": "Released",
-        "tagline": "Zootopia will be changed furrrever...",
-        "title": "Zootopia 2",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 5.2,
+        "vote_count": 15
       }
     },
     "ratings": {
-      "tmdb_vote_average": 0.0,
+      "tmdb_vote_average": 5.2,
       "omdb": {
-        "Title": "Zootopia 2",
+        "Title": "Wicked: For Good",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "26 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Jared Bush, Byron Howard",
-        "Writer": "Jared Bush",
-        "Actors": "Jason Bateman, Quinta Brunson, Fortune Feimster",
-        "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
+        "Rated": "PG",
+        "Released": "21 Nov 2025",
+        "Runtime": "138 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
+        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
         "Language": "English",
         "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "3 wins total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [],
         "Metascore": "N/A",
         "imdbRating": "N/A",
         "imdbVotes": "N/A",
-        "imdbID": "tt26443597",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -8898,7 +7871,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8925,62 +7898,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "NSHtakU3FHDzYIW-VC1HdgEQiNE",
-          "id": "A-7RMaQaygI",
+          "etag": "RHo1KhAo-I3ovVqiLHxqKjWCIp8",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-07-30T16:00:30Z",
-            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
-            "title": "Zootopia 2 | Official Trailer (2025)",
-            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Entertainment Tonight",
-            "tags": [
-              "Zootopia 2",
-              "Ke Huy Quan",
-              "Quinta Brunson",
-              "Ginnifer Goodwin",
-              "Jason Bateman"
-            ],
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "Zootopia 2 | Official Trailer (2025)",
-              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "590249",
-            "likeCount": "6093",
+            "viewCount": "12293223",
+            "likeCount": "290623",
             "favoriteCount": "0",
-            "commentCount": "0"
+            "commentCount": "14736"
           }
         }
       ],
@@ -8991,21 +7957,1124 @@
     },
     "creative": {
       "director": [
-        "Jared Bush",
-        "Byron Howard"
+        "Jon M. Chu"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jonathan Bailey",
+        "Michelle Yeoh",
+        "Jeff Goldblum",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Bowen Yang"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 9,
+    "metadata": {
+      "tmdb_id": 1571470,
+      "imdb_id": "tt28283547",
+      "title": "The Rats: A Witcher Tale",
+      "release_date": "2025-10-29",
+      "release_year": "2025",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Adventure"
+      ],
+      "production_countries": [
+        "US",
+        "PL"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Platige Films",
+        "Hivemind",
+        "Little Schmidt Productions",
+        "Hailzor"
+      ],
+      "runtime": 83,
+      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
+    },
+    "commercial": {
+      "budget": 0,
+      "revenue": 0,
+      "opening_weekend": null,
+      "roi": null,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
+        "genres": [
+          {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.netflix.com/title/81572393",
+        "id": 1571470,
+        "imdb_id": "tt28283547",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Rats: A Witcher Tale",
+        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+        "popularity": 36.0366,
+        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+        "production_companies": [
+          {
+            "id": 137769,
+            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+            "name": "Platige Films",
+            "origin_country": "PL"
+          },
+          {
+            "id": 124634,
+            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+            "name": "Hivemind",
+            "origin_country": "US"
+          },
+          {
+            "id": 162859,
+            "logo_path": null,
+            "name": "Little Schmidt Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 279361,
+            "logo_path": null,
+            "name": "Hailzor",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "PL",
+            "name": "Poland"
+          }
+        ],
+        "release_date": "2025-10-29",
+        "revenue": 0,
+        "runtime": 83,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "",
+        "title": "The Rats: A Witcher Tale",
+        "video": false,
+        "vote_average": 4.918,
+        "vote_count": 67
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 4.918,
+      "omdb": {
+        "Title": "The Rats: A Witcher Tale",
+        "Year": "2025",
+        "Rated": "N/A",
+        "Released": "30 Oct 2025",
+        "Runtime": "82 min",
+        "Genre": "Action",
+        "Director": "N/A",
+        "Writer": "N/A",
+        "Actors": "N/A",
+        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+          }
+        ],
+        "Metascore": "N/A",
+        "imdbRating": "5.0",
+        "imdbVotes": "33",
+        "imdbID": "tt28283547",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "gsLQGyclYb-C3OEgjPTk8h8kHYU",
+          "id": "HK9dU6JIroU",
+          "snippet": {
+            "publishedAt": "2025-10-07T15:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "The Witcher: Season 4 | Official Trailer | Netflix",
+            "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Netflix",
+            "tags": [
+              "Andrzej Sapkowski",
+              "Anya Chalotra",
+              "CD Projekt Red",
+              "CDPR",
+              "Ciri",
+              "Freya Allan",
+              "Geralt",
+              "Halloween",
+              "Hemsworth",
+              "Jaskier",
+              "Joey Batey",
+              "Lauren Hissrich",
+              "Laurence Fishburne",
+              "Liam Hemsworth",
+              "Regis",
+              "The Witcher",
+              "Witcher",
+              "Witcher video game",
+              "Yennefer",
+              "beast",
+              "continent",
+              "ghost",
+              "monster",
+              "season 4",
+              "the continent",
+              "treat",
+              "trick",
+              "wraith"
+            ],
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Witcher: Season 4 | Official Trailer | Netflix",
+              "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "2256334",
+            "likeCount": "26036",
+            "favoriteCount": "0",
+            "commentCount": "18044"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Mairzee Almas"
       ],
       "writers": [
-        "Jared Bush"
+        "Haily Hall",
+        "Lauren Schmidt Hissrich"
       ],
       "cast_top": [
-        "Ginnifer Goodwin",
-        "Jason Bateman",
-        "Ke Huy Quan",
-        "Fortune Feimster",
-        "Andy Samberg",
-        "David Strathairn",
-        "Idris Elba",
-        "Shakira"
+        "Christelle Elwin",
+        "Ben Radcliffe",
+        "Fabian McCallum",
+        "Aggy K. Adams",
+        "Connor Crawford",
+        "Juliette Alexandra",
+        "Dolph Lundgren",
+        "Ben Robson"
       ],
       "star_power": {
         "actor_count": 8
@@ -9832,89 +9901,88 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1571470,
-      "imdb_id": "tt28283547",
-      "title": "The Rats: A Witcher Tale",
-      "release_date": "2025-10-29",
-      "release_year": "2025",
+      "tmdb_id": 106646,
+      "imdb_id": "tt0993846",
+      "title": "The Wolf of Wall Street",
+      "release_date": "2013-12-25",
+      "release_year": "2013",
       "genres": [
-        "Fantasy",
+        "Crime",
         "Drama",
-        "Adventure"
+        "Comedy"
       ],
       "production_countries": [
-        "US",
-        "PL"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Platige Films",
-        "Hivemind",
-        "Little Schmidt Productions",
-        "Hailzor"
+        "Red Granite Pictures",
+        "Appian Way",
+        "Sikelia Productions",
+        "EMJAG Productions"
       ],
-      "runtime": 83,
-      "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher."
+      "runtime": 180,
+      "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 100000000,
+      "revenue": 407038432,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 4.07,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+        "backdrop_path": "/7Nwnmyzrtd0FkcRyPqmdzTPppQa.jpg",
         "belongs_to_collection": null,
-        "budget": 0,
+        "budget": 100000000,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 80,
+            "name": "Crime"
           },
           {
             "id": 18,
             "name": "Drama"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 35,
+            "name": "Comedy"
           }
         ],
-        "homepage": "https://www.netflix.com/title/81572393",
-        "id": 1571470,
-        "imdb_id": "tt28283547",
+        "homepage": "http://www.thewolfofwallstreet.com/",
+        "id": 106646,
+        "imdb_id": "tt0993846",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Rats: A Witcher Tale",
-        "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
-        "popularity": 36.0366,
-        "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+        "original_title": "The Wolf of Wall Street",
+        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+        "popularity": 20.3839,
+        "poster_path": "/kW9LmvYHAaS9iA0tHmZVq8hQYoq.jpg",
         "production_companies": [
           {
-            "id": 137769,
-            "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
-            "name": "Platige Films",
-            "origin_country": "PL"
-          },
-          {
-            "id": 124634,
-            "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
-            "name": "Hivemind",
+            "id": 19177,
+            "logo_path": null,
+            "name": "Red Granite Pictures",
             "origin_country": "US"
           },
           {
-            "id": 162859,
-            "logo_path": null,
-            "name": "Little Schmidt Productions",
+            "id": 562,
+            "logo_path": "/azANEzu3H3Kztzt63sdjvlzxhuB.png",
+            "name": "Appian Way",
             "origin_country": "US"
           },
           {
-            "id": 279361,
+            "id": 23243,
+            "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+            "name": "Sikelia Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 14654,
             "logo_path": null,
-            "name": "Hailzor",
+            "name": "EMJAG Productions",
             "origin_country": "US"
           }
         ],
@@ -9922,66 +9990,75 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "PL",
-            "name": "Poland"
           }
         ],
-        "release_date": "2025-10-29",
-        "revenue": 0,
-        "runtime": 83,
+        "release_date": "2013-12-25",
+        "revenue": 407038432,
+        "runtime": 180,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Rats: A Witcher Tale",
+        "tagline": "Earn. Spend. Party.",
+        "title": "The Wolf of Wall Street",
         "video": false,
-        "vote_average": 4.918,
-        "vote_count": 67
+        "vote_average": 8.027,
+        "vote_count": 25148
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.918,
+      "tmdb_vote_average": 8.027,
       "omdb": {
-        "Title": "The Rats: A Witcher Tale",
-        "Year": "2025",
-        "Rated": "N/A",
-        "Released": "30 Oct 2025",
-        "Runtime": "82 min",
-        "Genre": "Action",
-        "Director": "N/A",
-        "Writer": "N/A",
-        "Actors": "N/A",
-        "Plot": "Follows a group of thieves as they plan the biggest heist of their lives against the most dangerous crime ring in the kingdom.",
-        "Language": "English",
+        "Title": "The Wolf of Wall Street",
+        "Year": "2013",
+        "Rated": "R",
+        "Released": "25 Dec 2013",
+        "Runtime": "180 min",
+        "Genre": "Biography, Comedy, Crime",
+        "Director": "Martin Scorsese",
+        "Writer": "Terence Winter, Jordan Belfort",
+        "Actors": "Leonardo DiCaprio, Jonah Hill, Margot Robbie",
+        "Plot": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "Language": "English, French",
         "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNmE3ZTctZjAyNS00Yjk0LTg3NGYtNDMwNzIwN2JiNWJjXkEyXkFqcGc@._V1_SX300.jpg",
+        "Awards": "Nominated for 5 Oscars. 38 wins & 180 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "5.0/10"
+            "Value": "8.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "75/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "5.0",
-        "imdbVotes": "33",
-        "imdbID": "tt28283547",
+        "Metascore": "75",
+        "imdbRating": "8.2",
+        "imdbVotes": "1,722,525",
+        "imdbID": "tt0993846",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$116,900,694",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_rats_a_witcher_tale\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_wolf_of_wall_street_2013\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10008,85 +10085,74 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Ggwo0O54E9kLF2qILy589XpGmR8",
-          "id": "HK9dU6JIroU",
+          "etag": "yZ1h8HJU4nI_2HIAe_rgy3ZePB0",
+          "id": "iszwuX1AK6A",
           "snippet": {
-            "publishedAt": "2025-10-07T15:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-            "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again.",
+            "publishedAt": "2013-06-17T05:40:12Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "The Wolf of Wall Street Official Trailer",
+            "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/default.jpg",
+                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/HK9dU6JIroU/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/iszwuX1AK6A/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Paramount Pictures",
             "tags": [
-              "Andrzej Sapkowski",
-              "Anya Chalotra",
-              "CD Projekt Red",
-              "CDPR",
-              "Ciri",
-              "Freya Allan",
-              "Geralt",
-              "Halloween",
-              "Hemsworth",
-              "Jaskier",
-              "Joey Batey",
-              "Lauren Hissrich",
-              "Laurence Fishburne",
-              "Liam Hemsworth",
-              "Regis",
-              "The Witcher",
-              "Witcher",
-              "Witcher video game",
-              "Yennefer",
-              "beast",
-              "continent",
-              "ghost",
-              "monster",
-              "season 4",
-              "the continent",
-              "treat",
-              "trick",
-              "wraith"
+              "The Wold of Wall Street",
+              "Martin Scorsese",
+              "Leonardo DiCaprio",
+              "Jonah Hill",
+              "Margot Robbie",
+              "Matthew McConaughey",
+              "Jon Favreau",
+              "Kyle Chandler",
+              "Rob Reiner",
+              "Jean Dujardin",
+              "Pj Byrne",
+              "Kenneth Choi",
+              "Paramount Pictures",
+              "Trailer",
+              "The Wolf Of Wall Street (Film)",
+              "Official Trailer",
+              "New Trailer"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Witcher: Season 4 | Official Trailer | Netflix",
-              "description": "After the Continent-altering events of Season Three, Geralt, Yennefer, and Ciri find themselves separated by a raging war and countless enemies. As their paths diverge, and their goals sharpen, they stumble on unexpected allies eager to join their journeys. And if they can accept these found families, they just might have a chance at reuniting for good…. The Witcher: Season 4 returns to Netflix October 30th.\n\nListen to The Witcher: Season 4 soundtrack here - https://netflixmusic.ffm.to/witcher4\n\nWatch on Netflix: https://www.netflix.com/title/81628138\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nThe Witcher: Season 4 | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nScattered to fates unknown, Geralt, Yennefer and Ciri traverse the war-torn Continent and its countless enemies in the hope of finding each other again."
+              "title": "The Wolf of Wall Street Official Trailer",
+              "description": "From Academy Award winning director Martin Scorsese comes The Wolf of Wall Street, starring Leonardo DiCaprio.\n\nFollow The Wolf of Wall Street movie on Twitter:\nhttps://twitter.com/TheWolfofWallSt\n\nLIKE The Wolf of Wall Street movie on Facebook:\nhttps://www.Facebook.com/TheWolfofWallStreet\n\nVisit The Wolf of Wall Street official movie site:\nhttp://www.TheWolfofWallStreet.com"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "2253843",
-            "likeCount": "26025",
+            "viewCount": "33577925",
+            "likeCount": "196967",
             "favoriteCount": "0",
-            "commentCount": "18031"
+            "commentCount": "13028"
           }
         }
       ],
@@ -10097,21 +10163,18 @@
     },
     "creative": {
       "director": [
-        "Mairzee Almas"
+        "Martin Scorsese"
       ],
-      "writers": [
-        "Haily Hall",
-        "Lauren Schmidt Hissrich"
-      ],
+      "writers": [],
       "cast_top": [
-        "Christelle Elwin",
-        "Ben Radcliffe",
-        "Fabian McCallum",
-        "Aggy K. Adams",
-        "Connor Crawford",
-        "Juliette Alexandra",
-        "Dolph Lundgren",
-        "Ben Robson"
+        "Leonardo DiCaprio",
+        "Jonah Hill",
+        "Margot Robbie",
+        "Matthew McConaughey",
+        "Kyle Chandler",
+        "Rob Reiner",
+        "Jon Bernthal",
+        "Jon Favreau"
       ],
       "star_power": {
         "actor_count": 8
