@@ -110,51 +110,16 @@
         "tagline": "Some search for battle, others are born into it...",
         "title": "One Battle After Another",
         "video": false,
-        "vote_average": 7.607,
-        "vote_count": 1403
+        "vote_average": 7.605,
+        "vote_count": 1410
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.607,
+      "tmdb_vote_average": 7.605,
       "omdb": {
-        "Title": "One Battle After Another",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "26 Sep 2025",
-        "Runtime": "161 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Paul Thomas Anderson",
-        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
-        "Actors": "Teyana Taylor, Leonardo DiCaprio, Regina Hall",
-        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-        "Language": "English, Spanish",
-        "Country": "United States",
-        "Awards": "4 wins & 8 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "8.3/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "95%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "95/100"
-          }
-        ],
-        "Metascore": "95",
-        "imdbRating": "8.3",
-        "imdbVotes": "137,751",
-        "imdbID": "tt30144839",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$69,629,424",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
+        "error": "invalid_json",
+        "status_code": 500,
+        "text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>omdbapi.com | 500: Internal server error</title>\n<meta charset=\"UTF-8\""
       },
       "rotten_unofficial": {
         "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
@@ -167,273 +132,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "One Battle After Another": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "One Battle After Another": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 67,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 48,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "One Battle After Another": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "One Battle After Another": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 46,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -442,15 +141,15 @@
             "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
           },
           {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "x_status": 500,
+            "x_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           }
         ]
       },
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "8wSHJPbOQbOe8ODYWnCoPXCOmbE",
+          "etag": "TovuLxmVl2U2lDKJk7ZLOJ1pyOo",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -515,10 +214,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19484088",
-            "likeCount": "53436",
+            "viewCount": "19491766",
+            "likeCount": "53467",
             "favoriteCount": "0",
-            "commentCount": "3410"
+            "commentCount": "3414"
           }
         }
       ],
@@ -1482,12 +1181,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.874,
-        "vote_count": 1425
+        "vote_average": 7.878,
+        "vote_count": 1436
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.874,
+      "tmdb_vote_average": 7.878,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -1539,273 +1238,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Frankenstein": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Frankenstein": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Frankenstein": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Frankenstein": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Frankenstein": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Frankenstein": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Frankenstein": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Frankenstein": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Frankenstein": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Frankenstein": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Frankenstein": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Frankenstein": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Frankenstein": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Frankenstein": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Frankenstein": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Frankenstein": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Frankenstein": 43,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Frankenstein": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Frankenstein": 71,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -1822,7 +1255,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "_hQaVUQ2T-HLqY6R6E2LlVCM3H4",
+          "etag": "gmPCK5Yf6pEOiDG9L6O8Xj2BgbU",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -1898,10 +1331,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12546858",
-            "likeCount": "171994",
+            "viewCount": "12577307",
+            "likeCount": "172112",
             "favoriteCount": "0",
-            "commentCount": "7365"
+            "commentCount": "7367"
           }
         }
       ],
@@ -2876,12 +2309,12 @@
         "tagline": "Playtime just got real.",
         "title": "Playdate",
         "video": false,
-        "vote_average": 6.515,
-        "vote_count": 172
+        "vote_average": 6.528,
+        "vote_count": 176
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.515,
+      "tmdb_vote_average": 6.528,
       "omdb": {
         "Title": "Playdate",
         "Year": "2025",
@@ -2933,22 +2366,22 @@
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -2958,17 +2391,17 @@
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -2978,7 +2411,7 @@
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -2998,12 +2431,12 @@
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3033,7 +2466,7 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Playdate": 4,
+            "Playdate": 5,
             "isPartial": false
           },
           {
@@ -3043,12 +2476,12 @@
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3058,7 +2491,7 @@
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3068,7 +2501,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3083,7 +2516,7 @@
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3093,12 +2526,12 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3128,7 +2561,7 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -3143,7 +2576,7 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Playdate": 9,
+            "Playdate": 10,
             "isPartial": false
           },
           {
@@ -3153,7 +2586,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Playdate": 15,
+            "Playdate": 16,
             "isPartial": false
           },
           {
@@ -3168,17 +2601,17 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Playdate": 5,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Playdate": 10,
+            "Playdate": 11,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Playdate": 71,
+            "Playdate": 74,
             "isPartial": false
           },
           {
@@ -3203,7 +2636,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "O8-ZAZHuP11lUhlUSRLUvC-Pvk8",
+          "etag": "NS7GG7YvIG9QvUM1I_kT8mp5Z7I",
           "id": "xGTq0blCPVQ",
           "snippet": {
             "publishedAt": "2025-10-08T13:59:52Z",
@@ -3278,10 +2711,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21723190",
-            "likeCount": "73978",
+            "viewCount": "21731064",
+            "likeCount": "74016",
             "favoriteCount": "0",
-            "commentCount": "3357"
+            "commentCount": "3358"
           }
         }
       ],
@@ -4305,279 +3738,13 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Now You See Me: Now You Don't": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Now You See Me: Now You Don't": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Now You See Me: Now You Don't": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Now You See Me: Now You Don't": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Now You See Me: Now You Don't": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Now You See Me: Now You Don't": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Now You See Me: Now You Don't": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Now You See Me: Now You Don't": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Now You See Me: Now You Don't": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
           {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "bearer_status": 500,
+            "bearer_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           },
           {
             "x_status": 401,
@@ -4588,7 +3755,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "SitWuoXF81wK9PB6OXIw6RyYPbc",
+          "etag": "ugxry5LuurcFjeNgtR2QSxEAXHg",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -4667,10 +3834,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18034785",
-            "likeCount": "250221",
+            "viewCount": "18053844",
+            "likeCount": "250300",
             "favoriteCount": "0",
-            "commentCount": "11883"
+            "commentCount": "11887"
           }
         }
       ],
@@ -5636,12 +4803,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.355,
-        "vote_count": 337
+        "vote_average": 7.4,
+        "vote_count": 340
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.355,
+      "tmdb_vote_average": 7.4,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -5693,279 +4860,13 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 91,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 60,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
           {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "bearer_status": 500,
+            "bearer_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           },
           {
             "x_status": 401,
@@ -5976,7 +4877,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ryn-ZigHl3r2dMZbDg7jFx5jV04",
+          "etag": "FMDduUw0Osq6XwlROef-4MHVqj4",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -6024,10 +4925,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "25203195",
-            "likeCount": "312578",
+            "viewCount": "25219756",
+            "likeCount": "312670",
             "favoriteCount": "0",
-            "commentCount": "25594"
+            "commentCount": "25596"
           }
         }
       ],
@@ -7059,290 +5960,24 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Roofman": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Roofman": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Roofman": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Roofman": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Roofman": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Roofman": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Roofman": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Roofman": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Roofman": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Roofman": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Roofman": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Roofman": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Roofman": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Roofman": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Roofman": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Roofman": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Roofman": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Roofman": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Roofman": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Roofman": 85,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Roofman": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Roofman": 64,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Roofman": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Roofman": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Roofman": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Roofman": 84,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
           {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "bearer_status": 500,
+            "bearer_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           },
           {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "x_status": 500,
+            "x_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           }
         ]
       },
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "TIf0JQ4l8kwq8WloIT9IxyLGt78",
+          "etag": "-kNsRFSQlogKzPtIMvmKnLBVkGQ",
           "id": "GXecSGmQDEI",
           "snippet": {
             "publishedAt": "2025-06-25T13:00:08Z",
@@ -7403,10 +6038,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13806170",
-            "likeCount": "57435",
+            "viewCount": "13809705",
+            "likeCount": "57456",
             "favoriteCount": "0",
-            "commentCount": "3387"
+            "commentCount": "3390"
           }
         }
       ],
@@ -8273,7 +6908,7 @@
       "language": "en",
       "studio_distributor": [
         "Kuku Studios",
-        "Netflix Animation"
+        "Netflix Animation Studios"
       ],
       "runtime": 87,
       "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
@@ -8332,7 +6967,7 @@
           {
             "id": 171251,
             "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
-            "name": "Netflix Animation",
+            "name": "Netflix Animation Studios",
             "origin_country": "US"
           }
         ],
@@ -8356,12 +6991,12 @@
         "tagline": "The adventure of a nighttime.",
         "title": "In Your Dreams",
         "video": false,
-        "vote_average": 7.278,
-        "vote_count": 63
+        "vote_average": 7.2,
+        "vote_count": 64
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.278,
+      "tmdb_vote_average": 7.2,
       "omdb": {
         "Title": "In Your Dreams",
         "Year": "2025",
@@ -8405,273 +7040,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "In Your Dreams": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "In Your Dreams": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "In Your Dreams": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "In Your Dreams": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "In Your Dreams": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "In Your Dreams": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "In Your Dreams": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "In Your Dreams": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "In Your Dreams": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "In Your Dreams": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "In Your Dreams": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "In Your Dreams": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "In Your Dreams": 49,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "In Your Dreams": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -8688,7 +7057,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "PCUGRM2B4xJxl4_rKAKuuInEEgo",
+          "etag": "RejNLBb_ZgGNPG5p6f43eSmDTgE",
           "id": "Jjjcn4acAC8",
           "snippet": {
             "publishedAt": "2025-09-25T13:00:00Z",
@@ -8787,10 +7156,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "3707903",
-            "likeCount": "36217",
+            "viewCount": "3713059",
+            "likeCount": "36233",
             "favoriteCount": "0",
-            "commentCount": "1693"
+            "commentCount": "1695"
           }
         }
       ],
@@ -9735,12 +8104,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 4.719,
-        "vote_count": 32
+        "vote_average": 5.1,
+        "vote_count": 37
       }
     },
     "ratings": {
-      "tmdb_vote_average": 4.719,
+      "tmdb_vote_average": 5.1,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -9779,279 +8148,13 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Wicked: For Good": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Wicked: For Good": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 51,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
           {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "bearer_status": 500,
+            "bearer_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           },
           {
             "x_status": 401,
@@ -10062,7 +8165,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "i_A9j0xv7LN7JpYA6WllyQmm6DE",
+          "etag": "aaFTYj7TBO1-XMvqr8Ojb7robjc",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -10107,10 +8210,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12525274",
-            "likeCount": "292556",
+            "viewCount": "12534831",
+            "likeCount": "292625",
             "favoriteCount": "0",
-            "commentCount": "14795"
+            "commentCount": "14796"
           }
         }
       ],
@@ -10959,162 +9062,151 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1311031,
-      "imdb_id": "tt32820897",
-      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
-      "release_date": "2025-07-18",
+      "tmdb_id": 798645,
+      "imdb_id": "tt14107334",
+      "title": "The Running Man",
+      "release_date": "2025-11-11",
       "release_year": "2025",
       "genres": [
-        "Animation",
         "Action",
-        "Fantasy",
-        "Thriller"
+        "Thriller",
+        "Science Fiction"
       ],
       "production_countries": [
-        "JP"
+        "US",
+        "GB"
       ],
-      "language": "ja",
+      "language": "en",
       "studio_distributor": [
-        "ufotable",
-        "Aniplex",
-        "Shueisha"
+        "Paramount Pictures",
+        "Complete Fiction",
+        "Genre Films",
+        "Domain Entertainment"
       ],
-      "runtime": 156,
-      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins."
+      "runtime": 133,
+      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
     },
     "commercial": {
-      "budget": 20000000,
-      "revenue": 740400000,
+      "budget": 110000000,
+      "revenue": 28200000,
       "opening_weekend": null,
-      "roi": 37.02,
+      "roi": 0.256,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-        "belongs_to_collection": {
-          "id": 925155,
-          "name": "Demon Slayer: Kimetsu no Yaiba Collection",
-          "poster_path": "/3exjjYTseefny9nYjSbkIblZZdK.jpg",
-          "backdrop_path": "/oHx043lHsysn8klll1nPvKMBHLf.jpg"
-        },
-        "budget": 20000000,
+        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
+        "belongs_to_collection": null,
+        "budget": 110000000,
         "genres": [
-          {
-            "id": 16,
-            "name": "Animation"
-          },
           {
             "id": 28,
             "name": "Action"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
             "id": 53,
             "name": "Thriller"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
           }
         ],
-        "homepage": "https://www.demonslayer-movie.com",
-        "id": 1311031,
-        "imdb_id": "tt32820897",
+        "homepage": "https://www.runningmanmovie.com",
+        "id": 798645,
+        "imdb_id": "tt14107334",
         "origin_country": [
-          "JP"
+          "US"
         ],
-        "original_language": "ja",
-        "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-        "popularity": 159.113,
-        "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
+        "original_language": "en",
+        "original_title": "The Running Man",
+        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+        "popularity": 76.4743,
+        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "production_companies": [
           {
-            "id": 5887,
-            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
-            "name": "ufotable",
-            "origin_country": "JP"
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
           },
           {
-            "id": 2883,
-            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
-            "name": "Aniplex",
-            "origin_country": "JP"
+            "id": 131464,
+            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+            "name": "Complete Fiction",
+            "origin_country": "GB"
           },
           {
-            "id": 2918,
-            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
-            "name": "Shueisha",
-            "origin_country": "JP"
+            "id": 28788,
+            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+            "name": "Genre Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "JP",
-            "name": "Japan"
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-07-18",
-        "revenue": 740400000,
-        "runtime": 156,
+        "release_date": "2025-11-11",
+        "revenue": 28200000,
+        "runtime": 133,
         "spoken_languages": [
           {
-            "english_name": "Japanese",
-            "iso_639_1": "ja",
-            "name": "日本語"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "It's time to have some fun.",
-        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+        "tagline": "Hunt him down.",
+        "title": "The Running Man",
         "video": false,
-        "vote_average": 7.794,
-        "vote_count": 535
+        "vote_average": 7.15,
+        "vote_count": 90
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.794,
+      "tmdb_vote_average": 7.15,
       "omdb": {
-        "Title": "Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle",
+        "Title": "The Running Man",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "12 Sep 2025",
-        "Runtime": "155 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Haruo Sotozaki, Hikaru Kondô",
-        "Writer": "Koyoharu Gotouge, Hikaru Kondô",
-        "Actors": "Zach Aguilar, Ryan Bartley, Johnny Yong Bosch",
-        "Plot": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
-        "Language": "Japanese",
-        "Country": "Japan, United States",
+        "Rated": "N/A",
+        "Released": "14 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Edgar Wright",
+        "Writer": "Michael Bacall, Stephen King, Edgar Wright",
+        "Actors": "Josh Brolin, Glen Powell, Lee Pace",
+        "Plot": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
+        "Language": "English",
+        "Country": "United Kingdom, United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "8.5/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "98%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "67/100"
-          }
-        ],
-        "Metascore": "67",
-        "imdbRating": "8.5",
-        "imdbVotes": "43,310",
-        "imdbID": "tt32820897",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt14107334",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$125,097,757",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/demon_slayer_kimetsu_no_yaiba_infinity_castle\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/demon_slayer_kimetsu_no_yaiba_infinity_castle\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11124,273 +9216,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 95,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 48,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 91,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 70,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 54,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 17,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -11399,63 +9225,63 @@
             "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
           },
           {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+            "x_status": 500,
+            "x_text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
           }
         ]
       },
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "iTY5OTwG03CpQGi-AQusD6U2CTM",
-          "id": "x7uLutVRBfI",
+          "etag": "xsqvFvayNbiJjtGzCoxhAGVBOfY",
+          "id": "KD18ddeFuyM",
           "snippet": {
-            "publishedAt": "2025-06-28T14:01:35Z",
-            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
-            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | MAIN TRAILER",
-            "description": "Demon Slayer: Kimetsu no Yaiba Infinity Castle is only in Movie Theatres September 12 ⚔️ https://demonslayer-movie.com\n\nTanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades, Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll",
+            "publishedAt": "2025-07-01T13:00:03Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/default.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Sony Pictures Entertainment",
-            "categoryId": "24",
+            "channelTitle": "Paramount Pictures",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | MAIN TRAILER",
-              "description": "Demon Slayer: Kimetsu no Yaiba Infinity Castle is only in Movie Theatres September 12 ⚔️ https://demonslayer-movie.com\n\nTanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades, Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll"
+              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "11329499",
-            "likeCount": "265581",
+            "viewCount": "15266759",
+            "likeCount": "98411",
             "favoriteCount": "0",
-            "commentCount": "9805"
+            "commentCount": "12166"
           }
         }
       ],
@@ -11466,18 +9292,18 @@
     },
     "creative": {
       "director": [
-        "Haruo Sotozaki"
+        "Edgar Wright"
       ],
       "writers": [],
       "cast_top": [
-        "Natsuki Hanae",
-        "Hiro Shimono",
-        "Takahiro Sakurai",
-        "Akira Ishida",
-        "Yoshitsugu Matsuoka",
-        "Toshihiko Seki",
-        "Reina Ueda",
-        "Nobuhiko Okamoto"
+        "Glen Powell",
+        "Josh Brolin",
+        "Michael Cera",
+        "Colman Domingo",
+        "Lee Pace",
+        "Jayme Lawson",
+        "William H. Macy",
+        "Emilia Jones"
       ],
       "star_power": {
         "actor_count": 8
@@ -12304,89 +10130,82 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 798645,
-      "imdb_id": "tt14107334",
-      "title": "The Running Man",
-      "release_date": "2025-11-11",
-      "release_year": "2025",
+      "tmdb_id": 7451,
+      "imdb_id": "tt0295701",
+      "title": "xXx",
+      "release_date": "2002-08-09",
+      "release_year": "2002",
       "genres": [
         "Action",
+        "Adventure",
         "Thriller",
-        "Science Fiction"
+        "Crime",
+        "Drama"
       ],
       "production_countries": [
-        "US",
-        "GB"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Paramount Pictures",
-        "Complete Fiction",
-        "Genre Films",
-        "Domain Entertainment"
+        "Revolution Studios"
       ],
-      "runtime": 133,
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
+      "runtime": 124,
+      "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi."
     },
     "commercial": {
-      "budget": 110000000,
-      "revenue": 28200000,
+      "budget": 70000000,
+      "revenue": 277448382,
       "opening_weekend": null,
-      "roi": 0.256,
+      "roi": 3.964,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
-        "belongs_to_collection": null,
-        "budget": 110000000,
+        "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
+        "belongs_to_collection": {
+          "id": 52785,
+          "name": "xXx Collection",
+          "poster_path": "/s13xGJSH3eEWPjSjDvI1iCqkwVg.jpg",
+          "backdrop_path": "/jSfCi0onZRDxbeg2dPJgB5iAoxX.jpg"
+        },
+        "budget": 70000000,
         "genres": [
           {
             "id": 28,
             "name": "Action"
           },
           {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
             "id": 53,
             "name": "Thriller"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.runningmanmovie.com",
-        "id": 798645,
-        "imdb_id": "tt14107334",
+        "homepage": "http://www.sonypictures.com/movies/xxx/",
+        "id": 7451,
+        "imdb_id": "tt0295701",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Running Man",
-        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-        "popularity": 76.4743,
-        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "original_title": "xXx",
+        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+        "popularity": 135.2649,
+        "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.jpg",
         "production_companies": [
           {
-            "id": 4,
-            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-            "name": "Paramount Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 131464,
-            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-            "name": "Complete Fiction",
-            "origin_country": "GB"
-          },
-          {
-            "id": 28788,
-            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-            "name": "Genre Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 497,
+            "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+            "name": "Revolution Studios",
             "origin_country": "US"
           }
         ],
@@ -12394,61 +10213,55 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 28200000,
-        "runtime": 133,
+        "release_date": "2002-08-09",
+        "revenue": 277448382,
+        "runtime": 124,
         "spoken_languages": [
+          {
+            "english_name": "Czech",
+            "iso_639_1": "cs",
+            "name": "Český"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Hunt him down.",
-        "title": "The Running Man",
+        "tagline": "A new breed of secret agent.",
+        "title": "xXx",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 88
+        "vote_average": 5.962,
+        "vote_count": 4643
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 5.962,
       "omdb": {
-        "Title": "The Running Man",
-        "Year": "2025",
-        "Rated": "N/A",
-        "Released": "14 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Edgar Wright",
-        "Writer": "Michael Bacall, Stephen King, Edgar Wright",
-        "Actors": "Josh Brolin, Glen Powell, Lee Pace",
-        "Plot": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
-        "Language": "English",
-        "Country": "United Kingdom, United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt14107334",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
+        "error": "invalid_json",
+        "status_code": 500,
+        "text": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n\n<title>omdbapi.com | 500: Internal server error</title>\n<meta charset=\"UTF-8\""
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/from_straight_as_to_xxx\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12458,273 +10271,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Running Man": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Running Man": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Running Man": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Running Man": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Running Man": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Running Man": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Running Man": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Running Man": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Running Man": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "The Running Man": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "The Running Man": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "The Running Man": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "The Running Man": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -12741,55 +10288,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "REu8OY8q9PGwv5qVGxbsXM6lHrg",
-          "id": "KD18ddeFuyM",
+          "etag": "F_eQvLdQdt5TNYNLiAIBvK1_Lc0",
+          "id": "NgPdDDzVhkA",
           "snippet": {
-            "publishedAt": "2025-07-01T13:00:03Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2022-08-09T19:00:15Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "XXX [2002] - Official Trailer (HD)",
+            "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/NgPdDDzVhkA/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "XXX [2002] - Official Trailer (HD)",
+              "description": "20 years ago, Xander Cage took saving the world to the extreme. 🏂 Watch #xXx on Disc and Digital now at https://bit.ly/xXx20th\n \nSubscribe to Sony Pictures for exclusive content: http://bit.ly/SonyPicsSubscribe\n \nFollow Us On Social:\nhttps://www.facebook.com/SonyPicturesHomeEntertainment\nhttps://www.instagram.com/SonyPicturesHomeEntertainment\nhttps://www.twitter.com/SonyPicsHomeEnt\n \nFrom Revolution Studios and Sony Pictures, Xander Cage (Vin Diesel) is a notorious underground thrill-seeker who, until now, has been deemed untouchable by the law. But when crack NSA Agent Gibbsons convinces Cage to infiltrate a ruthless Russian crime ring, this new breed of secret agent (codename: XXX) takes down the enemies of justice with a vengeance in this high-octane, turbo-charged thrill-ride from the acclaimed director of The Fast and the Furious.\n \n#TrailerRewind #XXX #VinDiesel #SamuelLJackson #20thAnniversary #OfficialTrailer #SonyPictures #Sony"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "15255942",
-            "likeCount": "98367",
+            "viewCount": "8440072",
+            "likeCount": "7375",
             "favoriteCount": "0",
-            "commentCount": "12164"
+            "commentCount": "289"
           }
         }
       ],
@@ -12800,18 +10347,18 @@
     },
     "creative": {
       "director": [
-        "Edgar Wright"
+        "Rob Cohen"
       ],
       "writers": [],
       "cast_top": [
-        "Glen Powell",
-        "Josh Brolin",
-        "Michael Cera",
-        "Colman Domingo",
-        "Lee Pace",
-        "Jayme Lawson",
-        "William H. Macy",
-        "Emilia Jones"
+        "Vin Diesel",
+        "Asia Argento",
+        "Marton Csokas",
+        "Samuel L. Jackson",
+        "Michael Roof",
+        "Richy Müller",
+        "Werner Daehn",
+        "Petr Jákl"
       ],
       "star_power": {
         "actor_count": 8
