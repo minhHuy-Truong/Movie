@@ -1,8 +1,1370 @@
 [
   {
-    "error": "HTTPConnectionPool(host='www.omdbapi.com', port=80): Read timed out. (read timeout=10)",
-    "title": "One Battle After Another",
-    "index": 0
+    "rank": 1,
+    "metadata": {
+      "tmdb_id": 1054867,
+      "imdb_id": "tt30144839",
+      "title": "One Battle After Another",
+      "release_date": "2025-09-23",
+      "release_year": "2025",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Crime"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Warner Bros. Pictures",
+        "Ghoulardi Film Company",
+        "Domain Entertainment"
+      ],
+      "runtime": 162,
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
+    },
+    "commercial": {
+      "budget": 130000000,
+      "revenue": 200300000,
+      "opening_weekend": null,
+      "roi": 1.541,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "belongs_to_collection": null,
+        "budget": 130000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          }
+        ],
+        "homepage": "https://www.onebattleafteranothermovie.com",
+        "id": 1054867,
+        "imdb_id": "tt30144839",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "One Battle After Another",
+        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+        "popularity": 414.7432,
+        "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "production_companies": [
+          {
+            "id": 174,
+            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+            "name": "Warner Bros. Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 178,
+            "logo_path": null,
+            "name": "Ghoulardi Film Company",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-09-23",
+        "revenue": 200300000,
+        "runtime": 162,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Some search for battle, others are born into it...",
+        "title": "One Battle After Another",
+        "video": false,
+        "vote_average": 7.607,
+        "vote_count": 1403
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.607,
+      "omdb": {
+        "Title": "One Battle After Another",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "26 Sep 2025",
+        "Runtime": "161 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Paul Thomas Anderson",
+        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+        "Actors": "Teyana Taylor, Leonardo DiCaprio, Regina Hall",
+        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "4 wins & 8 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "95/100"
+          }
+        ],
+        "Metascore": "95",
+        "imdbRating": "8.3",
+        "imdbVotes": "137,751",
+        "imdbID": "tt30144839",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$69,629,424",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "interest_over_time": [
+          {
+            "date": "2024-11-17T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-11-24T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "One Battle After Another": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "One Battle After Another": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "One Battle After Another": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "One Battle After Another": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "One Battle After Another": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "One Battle After Another": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "One Battle After Another": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "One Battle After Another": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "One Battle After Another": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "One Battle After Another": 12,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "One Battle After Another": 25,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "One Battle After Another": 76,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "One Battle After Another": 100,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "One Battle After Another": 67,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "One Battle After Another": 48,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "One Battle After Another": 31,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "One Battle After Another": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "One Battle After Another": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "One Battle After Another": 26,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-16T00:00:00",
+            "One Battle After Another": 46,
+            "isPartial": true
+          }
+        ]
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "8wSHJPbOQbOe8ODYWnCoPXCOmbE",
+          "id": "kQUPdVxZNPk",
+          "snippet": {
+            "publishedAt": "2025-07-24T12:30:06Z",
+            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+            "title": "One Battle After Another | Official Trailer 2",
+            "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Warner Bros.",
+            "tags": [
+              "Benicio Del Toro",
+              "Chase Infiniti",
+              "ComingSoon",
+              "Crime",
+              "Drama",
+              "Leonardo DiCaprio",
+              "Paul Thomas Anderson",
+              "Regina Hall",
+              "Sean Penn",
+              "September2025",
+              "Teyana Taylor",
+              "Thriller",
+              "Trailer",
+              "Trailer2025",
+              "WB",
+              "WBD",
+              "WarnerBros",
+              "WarnerBrothers"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "One Battle After Another | Official Trailer 2",
+              "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025."
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "19484088",
+            "likeCount": "53436",
+            "favoriteCount": "0",
+            "commentCount": "3410"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Paul Thomas Anderson"
+      ],
+      "writers": [
+        "Paul Thomas Anderson"
+      ],
+      "cast_top": [
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
   },
   {
     "rank": 2,
@@ -64,7 +1426,7 @@
         "original_language": "en",
         "original_title": "Frankenstein",
         "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 664.2854,
+        "popularity": 582.9067,
         "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "production_companies": [
           {
@@ -120,12 +1482,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.877,
-        "vote_count": 1400
+        "vote_average": 7.874,
+        "vote_count": 1425
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.877,
+      "tmdb_vote_average": 7.874,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -225,7 +1587,7 @@
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -280,7 +1642,7 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Frankenstein": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
@@ -295,12 +1657,12 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Frankenstein": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -425,12 +1787,12 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Frankenstein": 28,
+            "Frankenstein": 27,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 44,
+            "Frankenstein": 43,
             "isPartial": false
           },
           {
@@ -440,7 +1802,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Frankenstein": 70,
+            "Frankenstein": 71,
             "isPartial": true
           }
         ]
@@ -460,7 +1822,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "hW-w_QSG-kIKbekTxJsPQHCOxNs",
+          "etag": "_hQaVUQ2T-HLqY6R6E2LlVCM3H4",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -536,8 +1898,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12534481",
-            "likeCount": "171907",
+            "viewCount": "12546858",
+            "likeCount": "171994",
             "favoriteCount": "0",
             "commentCount": "7365"
           }
@@ -1561,7 +2923,7 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -1756,7 +3118,7 @@
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Playdate": 3,
+            "Playdate": 4,
             "isPartial": false
           },
           {
@@ -1786,17 +3148,17 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Playdate": 4,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Playdate": 14,
+            "Playdate": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Playdate": 9,
+            "Playdate": 10,
             "isPartial": false
           },
           {
@@ -1816,7 +3178,7 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Playdate": 70,
+            "Playdate": 71,
             "isPartial": false
           },
           {
@@ -1841,7 +3203,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "R7e9nj3on1qqrQolnc70jKeIX-c",
+          "etag": "O8-ZAZHuP11lUhlUSRLUvC-Pvk8",
           "id": "xGTq0blCPVQ",
           "snippet": {
             "publishedAt": "2025-10-08T13:59:52Z",
@@ -1916,10 +3278,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21738681",
-            "likeCount": "73938",
+            "viewCount": "21723190",
+            "likeCount": "73978",
             "favoriteCount": "0",
-            "commentCount": "3358"
+            "commentCount": "3357"
           }
         }
       ],
@@ -2835,7 +4197,7 @@
         "original_language": "en",
         "original_title": "Now You See Me: Now You Don't",
         "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-        "popularity": 153.298,
+        "popularity": 160.4002,
         "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "production_companies": [
           {
@@ -2899,12 +4261,12 @@
         "tagline": "Unlock the illusion.",
         "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 6.781,
-        "vote_count": 113
+        "vote_average": 6.8,
+        "vote_count": 120
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.781,
+      "tmdb_vote_average": 6.8,
       "omdb": {
         "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
@@ -3061,7 +4423,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 11,
+            "Now You See Me: Now You Don't": 12,
             "isPartial": false
           },
           {
@@ -3116,7 +4478,7 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -3131,17 +4493,17 @@
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -3181,7 +4543,7 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
@@ -3196,12 +4558,12 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Now You See Me: Now You Don't": 17,
+            "Now You See Me: Now You Don't": 18,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 66,
+            "Now You See Me: Now You Don't": 69,
             "isPartial": false
           },
           {
@@ -3226,7 +4588,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "jzzlchpFhAZVGNEyx-XtLouw9E0",
+          "etag": "SitWuoXF81wK9PB6OXIw6RyYPbc",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -3305,10 +4667,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18016176",
-            "likeCount": "250157",
+            "viewCount": "18034785",
+            "likeCount": "250221",
             "favoriteCount": "0",
-            "commentCount": "11873"
+            "commentCount": "11883"
           }
         }
       ],
@@ -4157,109 +5519,100 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 1242419,
-      "imdb_id": "tt4627382",
-      "title": "Roofman",
-      "release_date": "2025-10-08",
+      "tmdb_id": 1242898,
+      "imdb_id": "tt31227572",
+      "title": "Predator: Badlands",
+      "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
-        "Comedy",
-        "Drama",
-        "Crime"
+        "Action",
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Limelight",
-        "High Frequency Entertainment",
-        "51 Entertainment",
-        "Miramax",
-        "Von Waaden Entertainment",
-        "FilmNation Entertainment",
-        "Hunting Lane Films"
+        "20th Century Studios",
+        "Lawrence Gordon Productions",
+        "Davis Entertainment",
+        "Toberoff Productions",
+        "TSG Entertainment"
       ],
-      "runtime": 126,
-      "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in."
+      "runtime": 107,
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
     },
     "commercial": {
-      "budget": 18000000,
-      "revenue": 17246758,
+      "budget": 105000000,
+      "revenue": 136304860,
       "opening_weekend": null,
-      "roi": 0.958,
+      "roi": 1.298,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
-        "belongs_to_collection": null,
-        "budget": 18000000,
+        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+        "belongs_to_collection": {
+          "id": 399,
+          "name": "Predator Collection",
+          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+        },
+        "budget": 105000000,
         "genres": [
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "https://www.roofmanmovie.com",
-        "id": 1242419,
-        "imdb_id": "tt4627382",
+        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+        "id": 1242898,
+        "imdb_id": "tt31227572",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Roofman",
-        "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
-        "popularity": 120.9776,
-        "poster_path": "/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
+        "original_title": "Predator: Badlands",
+        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "popularity": 263.6485,
+        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
         "production_companies": [
           {
-            "id": 128360,
-            "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
-            "name": "Limelight",
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
             "origin_country": "US"
           },
           {
-            "id": 52053,
-            "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
-            "name": "High Frequency Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 106178,
+            "id": 840,
             "logo_path": null,
-            "name": "51 Entertainment",
+            "name": "Lawrence Gordon Productions",
             "origin_country": "US"
           },
           {
-            "id": 14,
-            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
-            "name": "Miramax",
+            "id": 1302,
+            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+            "name": "Davis Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 278601,
+            "id": 185309,
             "logo_path": null,
-            "name": "Von Waaden Entertainment",
-            "origin_country": ""
-          },
-          {
-            "id": 7493,
-            "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
-            "name": "FilmNation Entertainment",
+            "name": "Toberoff Productions",
             "origin_country": "US"
           },
           {
-            "id": 2290,
-            "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
-            "name": "Hunting Lane Films",
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
             "origin_country": "US"
           }
         ],
@@ -4269,9 +5622,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-08",
-        "revenue": 17246758,
-        "runtime": 126,
+        "release_date": "2025-11-05",
+        "revenue": 136304860,
+        "runtime": 107,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -4280,57 +5633,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "Based on actual events. And terrible decisions.",
-        "title": "Roofman",
+        "tagline": "First hunt. Last chance.",
+        "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.185,
-        "vote_count": 157
+        "vote_average": 7.355,
+        "vote_count": 337
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.185,
+      "tmdb_vote_average": 7.355,
       "omdb": {
-        "Title": "Roofman",
+        "Title": "Predator: Badlands",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "10 Oct 2025",
-        "Runtime": "126 min",
-        "Genre": "Biography, Crime, Drama",
-        "Director": "Derek Cianfrance",
-        "Writer": "Derek Cianfrance, Kirt Gunn",
-        "Actors": "Juno Temple, Peter Dinklage, Channing Tatum",
-        "Plot": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky.",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Dan Trachtenberg",
+        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
+        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
+        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
         "Language": "English",
-        "Country": "United States",
+        "Country": "United States, Australia, New Zealand, Canada",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.2/10"
+            "Value": "7.6/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "Value": "85%"
           },
           {
             "Source": "Metacritic",
-            "Value": "65/100"
+            "Value": "71/100"
           }
         ],
-        "Metascore": "65",
-        "imdbRating": "7.2",
-        "imdbVotes": "2,585",
-        "imdbID": "tt4627382",
+        "Metascore": "71",
+        "imdbRating": "7.6",
+        "imdbVotes": "18,100",
+        "imdbID": "tt31227572",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$3,250,000",
+        "BoxOffice": "$40,000,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4343,267 +5696,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Roofman": 1,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Roofman": 1,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 15,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Roofman": 0,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Roofman": 19,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Roofman": 6,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Roofman": 3,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Roofman": 2,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Roofman": 2,
+            "Predator: Badlands": 12,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Roofman": 2,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Roofman": 2,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Roofman": 2,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Roofman": 3,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Roofman": 3,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Roofman": 6,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Roofman": 11,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Roofman": 8,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Roofman": 16,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Roofman": 26,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Roofman": 83,
+            "Predator: Badlands": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Roofman": 100,
+            "Predator: Badlands": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Roofman": 65,
+            "Predator: Badlands": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Roofman": 41,
+            "Predator: Badlands": 17,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Roofman": 32,
+            "Predator: Badlands": 91,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Roofman": 72,
+            "Predator: Badlands": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Roofman": 85,
+            "Predator: Badlands": 60,
             "isPartial": true
           }
         ]
@@ -4623,71 +5976,58 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "A6A49QnOSXVH6is3h9sFTeJkMI8",
-          "id": "GXecSGmQDEI",
+          "etag": "ryn-ZigHl3r2dMZbDg7jFx5jV04",
+          "id": "43R9l7EkJwE",
           "snippet": {
-            "publishedAt": "2025-06-25T13:00:08Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
-            "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2025-07-21T16:00:06Z",
+            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+            "title": "Predator: Badlands | Official Trailer",
+            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/default.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
+            "channelTitle": "20th Century Studios",
             "tags": [
-              "Channing Tatum",
-              "Kirsten Dunst",
-              "Ben Mendelsohn",
-              "LaKeith Stanfield",
-              "Juno Temple",
-              "Melonie Diaz",
-              "Uzo Aduba",
-              "Lily Collias",
-              "Jimmy O. Yang",
-              "PeterDinklage",
-              "New Movie",
-              "2025 movie",
-              "new movie trailer",
-              "coming soon"
+              "Trailer"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
-              "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "Predator: Badlands | Official Trailer",
+              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13802087",
-            "likeCount": "57421",
+            "viewCount": "25203195",
+            "likeCount": "312578",
             "favoriteCount": "0",
-            "commentCount": "3387"
+            "commentCount": "25594"
           }
         }
       ],
@@ -4698,18 +6038,18 @@
     },
     "creative": {
       "director": [
-        "Derek Cianfrance"
+        "Dan Trachtenberg"
       ],
       "writers": [],
       "cast_top": [
-        "Channing Tatum",
-        "Kirsten Dunst",
-        "Ben Mendelsohn",
-        "LaKeith Stanfield",
-        "Juno Temple",
-        "Peter Dinklage",
-        "Uzo Aduba",
-        "Lily Collias"
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Rohinal Nayaran",
+        "Michael Homick",
+        "Stefan Grube",
+        "Reuben De Jong",
+        "Cameron Brown",
+        "Alison Wright"
       ],
       "star_power": {
         "actor_count": 8
@@ -5536,100 +6876,109 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 1242898,
-      "imdb_id": "tt31227572",
-      "title": "Predator: Badlands",
-      "release_date": "2025-11-05",
+      "tmdb_id": 1242419,
+      "imdb_id": "tt4627382",
+      "title": "Roofman",
+      "release_date": "2025-10-08",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure"
+        "Comedy",
+        "Drama",
+        "Crime"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "20th Century Studios",
-        "Lawrence Gordon Productions",
-        "Davis Entertainment",
-        "Toberoff Productions",
-        "TSG Entertainment"
+        "Limelight",
+        "High Frequency Entertainment",
+        "51 Entertainment",
+        "Miramax",
+        "Von Waaden Entertainment",
+        "FilmNation Entertainment",
+        "Hunting Lane Films"
       ],
-      "runtime": 107,
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+      "runtime": 126,
+      "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in."
     },
     "commercial": {
-      "budget": 105000000,
-      "revenue": 136304860,
+      "budget": 18000000,
+      "revenue": 17246758,
       "opening_weekend": null,
-      "roi": 1.298,
+      "roi": 0.958,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-        "belongs_to_collection": {
-          "id": 399,
-          "name": "Predator Collection",
-          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-        },
-        "budget": 105000000,
+        "backdrop_path": "/2YOnE2qmoyyOUqQsFit12gDSauk.jpg",
+        "belongs_to_collection": null,
+        "budget": 18000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 35,
+            "name": "Comedy"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 18,
+            "name": "Drama"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 80,
+            "name": "Crime"
           }
         ],
-        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
-        "id": 1242898,
-        "imdb_id": "tt31227572",
+        "homepage": "https://www.roofmanmovie.com",
+        "id": 1242419,
+        "imdb_id": "tt4627382",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Predator: Badlands",
-        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 286.8371,
-        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "original_title": "Roofman",
+        "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
+        "popularity": 113.3467,
+        "poster_path": "/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
         "production_companies": [
           {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
+            "id": 128360,
+            "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+            "name": "Limelight",
             "origin_country": "US"
           },
           {
-            "id": 840,
+            "id": 52053,
+            "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+            "name": "High Frequency Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 106178,
             "logo_path": null,
-            "name": "Lawrence Gordon Productions",
+            "name": "51 Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 1302,
-            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-            "name": "Davis Entertainment",
+            "id": 14,
+            "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+            "name": "Miramax",
             "origin_country": "US"
           },
           {
-            "id": 185309,
+            "id": 278601,
             "logo_path": null,
-            "name": "Toberoff Productions",
+            "name": "Von Waaden Entertainment",
+            "origin_country": ""
+          },
+          {
+            "id": 7493,
+            "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+            "name": "FilmNation Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
+            "id": 2290,
+            "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+            "name": "Hunting Lane Films",
             "origin_country": "US"
           }
         ],
@@ -5639,9 +6988,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-05",
-        "revenue": 136304860,
-        "runtime": 107,
+        "release_date": "2025-10-08",
+        "revenue": 17246758,
+        "runtime": 126,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -5650,57 +6999,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "First hunt. Last chance.",
-        "title": "Predator: Badlands",
+        "tagline": "Based on actual events. And terrible decisions.",
+        "title": "Roofman",
         "video": false,
-        "vote_average": 7.358,
-        "vote_count": 334
+        "vote_average": 7.197,
+        "vote_count": 160
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.358,
+      "tmdb_vote_average": 7.197,
       "omdb": {
-        "Title": "Predator: Badlands",
+        "Title": "Roofman",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "07 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Dan Trachtenberg",
-        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
-        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
-        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Rated": "R",
+        "Released": "10 Oct 2025",
+        "Runtime": "126 min",
+        "Genre": "Biography, Crime, Drama",
+        "Director": "Derek Cianfrance",
+        "Writer": "Derek Cianfrance, Kirt Gunn",
+        "Actors": "Juno Temple, Peter Dinklage, Channing Tatum",
+        "Plot": "A charismatic criminal, while on the run from the police, hides in a hidden space of a toy store. There, he adopts a new identity and becomes involved with an employee, beginning a relationship as unlikely as it is risky.",
         "Language": "English",
-        "Country": "United States, Australia, New Zealand, Canada",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjU4OTkyN2MtYjI0Mi00MjE3LWFkNTktZDNjODc3OTdiMDdiXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.6/10"
+            "Value": "7.2/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "Value": "86%"
           },
           {
             "Source": "Metacritic",
-            "Value": "71/100"
+            "Value": "65/100"
           }
         ],
-        "Metascore": "71",
-        "imdbRating": "7.6",
-        "imdbVotes": "18,100",
-        "imdbID": "tt31227572",
+        "Metascore": "65",
+        "imdbRating": "7.2",
+        "imdbVotes": "2,585",
+        "imdbID": "tt4627382",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$40,000,000",
+        "BoxOffice": "$3,250,000",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/roofman\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5713,267 +7062,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
+            "Roofman": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 15,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 5,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 19,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 6,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 1,
+            "Roofman": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 12,
+            "Roofman": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 4,
+            "Roofman": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 4,
+            "Roofman": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 4,
+            "Roofman": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 3,
+            "Roofman": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 11,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 2,
+            "Roofman": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 3,
+            "Roofman": 16,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 3,
+            "Roofman": 26,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 6,
+            "Roofman": 85,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 8,
+            "Roofman": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 8,
+            "Roofman": 64,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 15,
+            "Roofman": 40,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 83,
+            "Roofman": 30,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
+            "Roofman": 72,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 58,
+            "Roofman": 84,
             "isPartial": true
           }
         ]
@@ -5993,58 +7342,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "V2gXgxS5pm-BTBqhu-MC5nGIOho",
-          "id": "43R9l7EkJwE",
+          "etag": "TIf0JQ4l8kwq8WloIT9IxyLGt78",
+          "id": "GXecSGmQDEI",
           "snippet": {
-            "publishedAt": "2025-07-21T16:00:06Z",
-            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-            "title": "Predator: Badlands | Official Trailer",
-            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
+            "publishedAt": "2025-06-25T13:00:08Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+            "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/GXecSGmQDEI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "20th Century Studios",
+            "channelTitle": "Paramount Pictures",
             "tags": [
-              "Trailer"
+              "Channing Tatum",
+              "Kirsten Dunst",
+              "Ben Mendelsohn",
+              "LaKeith Stanfield",
+              "Juno Temple",
+              "Melonie Diaz",
+              "Uzo Aduba",
+              "Lily Collias",
+              "Jimmy O. Yang",
+              "PeterDinklage",
+              "New Movie",
+              "2025 movie",
+              "new movie trailer",
+              "coming soon"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Predator: Badlands | Official Trailer",
-              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
+              "title": "Roofman | Official Trailer (2025 Movie) - Channing Tatum, Kirsten Dunst",
+              "description": "How far would you go to change who you are? #Roofman is coming only to theatres October 10. \n\nBased on an unbelievable true story, Roofman follows Jeffrey Manchester (Channing Tatum), a former Army Ranger and struggling father who turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname: Roofman. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for Leigh (Kirsten Dunst), a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.\n\nConnect with #Roofman online:\nInstagram: https://www.instagram.com/ROOFMANMOVIE/\nFacebook: https://www.facebook.com/ROOFMANMOVIE/ \nTikTok: https://www.tiktok.com/@ROOFMANMOVIE\nX: https://x.com/roofmanmovie\nThreads: https://www.threads.net/@ROOFMANMOVIE \nWebsite: https://www.roofmanmovie.com/\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "25185835",
-            "likeCount": "312529",
+            "viewCount": "13806170",
+            "likeCount": "57435",
             "favoriteCount": "0",
-            "commentCount": "25591"
+            "commentCount": "3387"
           }
         }
       ],
@@ -6055,18 +7417,18 @@
     },
     "creative": {
       "director": [
-        "Dan Trachtenberg"
+        "Derek Cianfrance"
       ],
       "writers": [],
       "cast_top": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Rohinal Nayaran",
-        "Michael Homick",
-        "Stefan Grube",
-        "Reuben De Jong",
-        "Cameron Brown",
-        "Alison Wright"
+        "Channing Tatum",
+        "Kirsten Dunst",
+        "Ben Mendelsohn",
+        "LaKeith Stanfield",
+        "Juno Temple",
+        "Peter Dinklage",
+        "Uzo Aduba",
+        "Lily Collias"
       ],
       "star_power": {
         "actor_count": 8
@@ -6958,7 +8320,7 @@
         "original_language": "en",
         "original_title": "In Your Dreams",
         "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-        "popularity": 111.1251,
+        "popularity": 112.6916,
         "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
         "production_companies": [
           {
@@ -6994,12 +8356,12 @@
         "tagline": "The adventure of a nighttime.",
         "title": "In Your Dreams",
         "video": false,
-        "vote_average": 7.307,
-        "vote_count": 57
+        "vote_average": 7.278,
+        "vote_count": 63
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.307,
+      "tmdb_vote_average": 7.278,
       "omdb": {
         "Title": "In Your Dreams",
         "Year": "2025",
@@ -7046,7 +8408,7 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
@@ -7086,7 +8448,7 @@
           },
           {
             "date": "2025-01-12T00:00:00",
-            "In Your Dreams": 18,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
@@ -7111,12 +8473,12 @@
           },
           {
             "date": "2025-02-16T00:00:00",
-            "In Your Dreams": 18,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "In Your Dreams": 18,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
@@ -7141,12 +8503,12 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
@@ -7171,7 +8533,7 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
@@ -7191,22 +8553,22 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "In Your Dreams": 16,
+            "In Your Dreams": 17,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "In Your Dreams": 16,
+            "In Your Dreams": 17,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "In Your Dreams": 15,
+            "In Your Dreams": 16,
             "isPartial": false
           },
           {
@@ -7236,17 +8598,17 @@
           },
           {
             "date": "2025-08-10T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
@@ -7256,7 +8618,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "In Your Dreams": 17,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
@@ -7271,12 +8633,12 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "In Your Dreams": 20,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "In Your Dreams": 18,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
@@ -7296,12 +8658,12 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "In Your Dreams": 20,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "In Your Dreams": 46,
+            "In Your Dreams": 49,
             "isPartial": false
           },
           {
@@ -7326,7 +8688,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "X3rv80DebTVxst0I-taF55XZ8B0",
+          "etag": "PCUGRM2B4xJxl4_rKAKuuInEEgo",
           "id": "Jjjcn4acAC8",
           "snippet": {
             "publishedAt": "2025-09-25T13:00:00Z",
@@ -7425,10 +8787,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "3714573",
-            "likeCount": "36192",
+            "viewCount": "3707903",
+            "likeCount": "36217",
             "favoriteCount": "0",
-            "commentCount": "1690"
+            "commentCount": "1693"
           }
         }
       ],
@@ -8337,7 +9699,7 @@
         "original_language": "en",
         "original_title": "Wicked: For Good",
         "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 55.8692,
+        "popularity": 68.8833,
         "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
@@ -8373,12 +9735,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 5.0,
-        "vote_count": 30
+        "vote_average": 4.719,
+        "vote_count": 32
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.0,
+      "tmdb_vote_average": 4.719,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -8420,7 +9782,7 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
@@ -8430,7 +9792,7 @@
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
@@ -8455,7 +9817,7 @@
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
@@ -8465,17 +9827,17 @@
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -8515,7 +9877,7 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 7,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
@@ -8525,7 +9887,7 @@
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -8535,7 +9897,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -8555,17 +9917,17 @@
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 38,
+            "Wicked: For Good": 31,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 7,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
@@ -8595,7 +9957,7 @@
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
@@ -8605,17 +9967,17 @@
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 4,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
@@ -8630,52 +9992,52 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 4,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 6,
+            "Wicked: For Good": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 19,
+            "Wicked: For Good": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 12,
+            "Wicked: For Good": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 26,
+            "Wicked: For Good": 23,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 17,
+            "Wicked: For Good": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 20,
+            "Wicked: For Good": 17,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 21,
+            "Wicked: For Good": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 39,
+            "Wicked: For Good": 33,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 57,
+            "Wicked: For Good": 51,
             "isPartial": false
           },
           {
@@ -8700,7 +10062,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "jM3aAG1OmSqpmY14OyZhpjSOSkc",
+          "etag": "i_A9j0xv7LN7JpYA6WllyQmm6DE",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -8745,10 +10107,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12513458",
-            "likeCount": "292466",
+            "viewCount": "12525274",
+            "likeCount": "292556",
             "favoriteCount": "0",
-            "commentCount": "14793"
+            "commentCount": "14795"
           }
         }
       ],
@@ -9597,151 +10959,162 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 798645,
-      "imdb_id": "tt14107334",
-      "title": "The Running Man",
-      "release_date": "2025-11-11",
+      "tmdb_id": 1311031,
+      "imdb_id": "tt32820897",
+      "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "release_date": "2025-07-18",
       "release_year": "2025",
       "genres": [
+        "Animation",
         "Action",
-        "Thriller",
-        "Science Fiction"
+        "Fantasy",
+        "Thriller"
       ],
       "production_countries": [
-        "US",
-        "GB"
+        "JP"
       ],
-      "language": "en",
+      "language": "ja",
       "studio_distributor": [
-        "Paramount Pictures",
-        "Complete Fiction",
-        "Genre Films",
-        "Domain Entertainment"
+        "ufotable",
+        "Aniplex",
+        "Shueisha"
       ],
-      "runtime": 133,
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
+      "runtime": 156,
+      "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins."
     },
     "commercial": {
-      "budget": 110000000,
-      "revenue": 28200000,
+      "budget": 20000000,
+      "revenue": 740400000,
       "opening_weekend": null,
-      "roi": 0.256,
+      "roi": 37.02,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
-        "belongs_to_collection": null,
-        "budget": 110000000,
+        "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+        "belongs_to_collection": {
+          "id": 925155,
+          "name": "Demon Slayer: Kimetsu no Yaiba Collection",
+          "poster_path": "/3exjjYTseefny9nYjSbkIblZZdK.jpg",
+          "backdrop_path": "/oHx043lHsysn8klll1nPvKMBHLf.jpg"
+        },
+        "budget": 20000000,
         "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
           {
             "id": 28,
             "name": "Action"
           },
           {
+            "id": 14,
+            "name": "Fantasy"
+          },
+          {
             "id": 53,
             "name": "Thriller"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
           }
         ],
-        "homepage": "https://www.runningmanmovie.com",
-        "id": 798645,
-        "imdb_id": "tt14107334",
+        "homepage": "https://www.demonslayer-movie.com",
+        "id": 1311031,
+        "imdb_id": "tt32820897",
         "origin_country": [
-          "US"
+          "JP"
         ],
-        "original_language": "en",
-        "original_title": "The Running Man",
-        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-        "popularity": 73.5503,
-        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "original_language": "ja",
+        "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+        "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "popularity": 159.113,
+        "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg",
         "production_companies": [
           {
-            "id": 4,
-            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-            "name": "Paramount Pictures",
-            "origin_country": "US"
+            "id": 5887,
+            "logo_path": "/m6FEqz8rQECnmfjEwjNhNAlmhCJ.png",
+            "name": "ufotable",
+            "origin_country": "JP"
           },
           {
-            "id": 131464,
-            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-            "name": "Complete Fiction",
-            "origin_country": "GB"
+            "id": 2883,
+            "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+            "name": "Aniplex",
+            "origin_country": "JP"
           },
           {
-            "id": 28788,
-            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-            "name": "Genre Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
-            "origin_country": "US"
+            "id": 2918,
+            "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+            "name": "Shueisha",
+            "origin_country": "JP"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
+            "iso_3166_1": "JP",
+            "name": "Japan"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 28200000,
-        "runtime": 133,
+        "release_date": "2025-07-18",
+        "revenue": 740400000,
+        "runtime": 156,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Japanese",
+            "iso_639_1": "ja",
+            "name": "日本語"
           }
         ],
         "status": "Released",
-        "tagline": "Hunt him down.",
-        "title": "The Running Man",
+        "tagline": "It's time to have some fun.",
+        "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 83
+        "vote_average": 7.794,
+        "vote_count": 535
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 7.794,
       "omdb": {
-        "Title": "The Running Man",
+        "Title": "Demon Slayer: Kimetsu no Yaiba- The Movie - Infinity Castle",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "14 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Edgar Wright",
-        "Writer": "Michael Bacall, Stephen King, Edgar Wright",
-        "Actors": "Josh Brolin, Glen Powell, Lee Pace",
-        "Plot": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
-        "Language": "English",
-        "Country": "United Kingdom, United States",
+        "Rated": "R",
+        "Released": "12 Sep 2025",
+        "Runtime": "155 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Haruo Sotozaki, Hikaru Kondô",
+        "Writer": "Koyoharu Gotouge, Hikaru Kondô",
+        "Actors": "Zach Aguilar, Ryan Bartley, Johnny Yong Bosch",
+        "Plot": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+        "Language": "Japanese",
+        "Country": "Japan, United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt14107334",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BOGQ3YWUzYjEtMTJiYy00ZjQ0LWI0YjktYjhiNGVhNGExYTM3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "67/100"
+          }
+        ],
+        "Metascore": "67",
+        "imdbRating": "8.5",
+        "imdbVotes": "43,310",
+        "imdbID": "tt32820897",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$125,097,757",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/demon_slayer_kimetsu_no_yaiba_infinity_castle\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/demon_slayer_kimetsu_no_yaiba_infinity_castle\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9754,267 +11127,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 7,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Running Man": 5,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Running Man": 3,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 6,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Running Man": 4,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 7,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Running Man": 21,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 14,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Running Man": 8,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 10,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 42,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Running Man": 6,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 95,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 41,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 34,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Running Man": 6,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 45,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 48,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 34,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Running Man": 8,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 40,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Running Man": 10,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 91,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Running Man": 8,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 100,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Running Man": 8,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 70,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Running Man": 7,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 54,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Running Man": 9,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 38,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Running Man": 13,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 30,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Running Man": 14,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 25,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Running Man": 17,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 20,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Running Man": 29,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 18,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Running Man": 81,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 16,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Running Man": 100,
+            "Demon Slayer: Kimetsu no Yaiba Infinity Castle": 17,
             "isPartial": true
           }
         ]
@@ -10034,55 +11407,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "nrVLmRPTxNmvdrqSnQrQH403JvA",
-          "id": "KD18ddeFuyM",
+          "etag": "iTY5OTwG03CpQGi-AQusD6U2CTM",
+          "id": "x7uLutVRBfI",
           "snippet": {
-            "publishedAt": "2025-07-01T13:00:03Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2025-06-28T14:01:35Z",
+            "channelId": "UCz97F7dMxBNOfGYu3rx8aCw",
+            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | MAIN TRAILER",
+            "description": "Demon Slayer: Kimetsu no Yaiba Infinity Castle is only in Movie Theatres September 12 ⚔️ https://demonslayer-movie.com\n\nTanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades, Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
+                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/x7uLutVRBfI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
+            "channelTitle": "Sony Pictures Entertainment",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle | MAIN TRAILER",
+              "description": "Demon Slayer: Kimetsu no Yaiba Infinity Castle is only in Movie Theatres September 12 ⚔️ https://demonslayer-movie.com\n\nTanjiro Kamado – a boy who joined an organization dedicated to hunting down demons called the Demon Slayer Corps after his younger sister Nezuko was turned into a demon.\n\nWhile growing stronger and deepening his friendships and bonds with fellow corps members, Tanjiro has battled many demons with his comrades, Zenitsu Agatsuma and Inosuke Hashibira. Along the way, his journey has led him to fight alongside the Demon Slayer Corps’ highest-ranking swordsmen, the Hashira, including Flame Hashira Kyojuro Rengoku aboard the Mugen Train, Sound Hashira Tengen Uzui within the Entertainment District, as well as Mist Hashira Muichiro Tokito and Love Hashira Mitsuri Kanroji at the Swordsmith Village.\n\nAs the Demon Slayer Corps members and Hashira engaged in a group strength training program, the Hashira Training, in preparation for the forthcoming battle against the demons, Muzan Kibutsuji appears at the Ubuyashiki Mansion. With the head of the Demon Corps in danger, Tanjiro and the Hashira rush to the headquarters but are plunged into a deep descent to a mysterious space by the hands of Muzan Kibutsuji.\n\nThe destination of where Tanjiro and Demon Slayer Corps have fallen is the demons’ stronghold – the Infinity Castle. And so, the battleground is set as the final battle between the Demon Slayer Corps and the demons ignites.\n\nCrunchyroll brings you the latest clips, openings, full episodes, and more from your favorite anime!\n\nFREE 7-DAY CRUNCHYROLL TRIAL 🌟 https://got.cr/cc-7dayspv\n\n#DemonSlayer #KimetsunoYaiba #Crunchyroll"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "15292964",
-            "likeCount": "98329",
+            "viewCount": "11329499",
+            "likeCount": "265581",
             "favoriteCount": "0",
-            "commentCount": "12159"
+            "commentCount": "9805"
           }
         }
       ],
@@ -10093,18 +11466,18 @@
     },
     "creative": {
       "director": [
-        "Edgar Wright"
+        "Haruo Sotozaki"
       ],
       "writers": [],
       "cast_top": [
-        "Glen Powell",
-        "Josh Brolin",
-        "Michael Cera",
-        "Colman Domingo",
-        "Lee Pace",
-        "Jayme Lawson",
-        "William H. Macy",
-        "Emilia Jones"
+        "Natsuki Hanae",
+        "Hiro Shimono",
+        "Takahiro Sakurai",
+        "Akira Ishida",
+        "Yoshitsugu Matsuoka",
+        "Toshihiko Seki",
+        "Reina Ueda",
+        "Nobuhiko Okamoto"
       ],
       "star_power": {
         "actor_count": 8
@@ -10931,88 +12304,89 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1197137,
-      "imdb_id": "tt29644189",
-      "title": "Black Phone 2",
-      "release_date": "2025-10-15",
+      "tmdb_id": 798645,
+      "imdb_id": "tt14107334",
+      "title": "The Running Man",
+      "release_date": "2025-11-11",
       "release_year": "2025",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Science Fiction"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "GB"
       ],
       "language": "en",
       "studio_distributor": [
-        "Blumhouse Productions",
-        "Universal Pictures",
-        "Crooked Highway",
-        "Divide / Conquer"
+        "Paramount Pictures",
+        "Complete Fiction",
+        "Genre Films",
+        "Domain Entertainment"
       ],
-      "runtime": 114,
-      "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine."
+      "runtime": 133,
+      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 127722175,
+      "budget": 110000000,
+      "revenue": 28200000,
       "opening_weekend": null,
-      "roi": 4.257,
+      "roi": 0.256,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
-        "belongs_to_collection": {
-          "id": 1197140,
-          "name": "The Black Phone Collection",
-          "poster_path": "/y1MEKjR03NSP6AmYthDATS6U2u8.jpg",
-          "backdrop_path": "/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg"
-        },
-        "budget": 30000000,
+        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
+        "belongs_to_collection": null,
+        "budget": 110000000,
         "genres": [
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 28,
+            "name": "Action"
           },
           {
             "id": 53,
             "name": "Thriller"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
           }
         ],
-        "homepage": "http://www.blackphonemovie.com",
-        "id": 1197137,
-        "imdb_id": "tt29644189",
+        "homepage": "https://www.runningmanmovie.com",
+        "id": 798645,
+        "imdb_id": "tt14107334",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Black Phone 2",
-        "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
-        "popularity": 200.5235,
-        "poster_path": "/xUWUODKPIilQoFUzjHM6wKJkP3Y.jpg",
+        "original_title": "The Running Man",
+        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+        "popularity": 76.4743,
+        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
         "production_companies": [
           {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
             "origin_country": "US"
           },
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
+            "id": 131464,
+            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+            "name": "Complete Fiction",
+            "origin_country": "GB"
+          },
+          {
+            "id": 28788,
+            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+            "name": "Genre Films",
             "origin_country": "US"
           },
           {
-            "id": 162439,
-            "logo_path": "/h9hG1svKeylr9KqUOGmO4i3wRP0.png",
-            "name": "Crooked Highway",
-            "origin_country": "US"
-          },
-          {
-            "id": 89115,
-            "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
-            "name": "Divide / Conquer",
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
             "origin_country": "US"
           }
         ],
@@ -11020,17 +12394,16 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-10-15",
-        "revenue": 127722175,
-        "runtime": 114,
+        "release_date": "2025-11-11",
+        "revenue": 28200000,
+        "runtime": 133,
         "spoken_languages": [
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
@@ -11038,57 +12411,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "Dead is just a word.",
-        "title": "Black Phone 2",
+        "tagline": "Hunt him down.",
+        "title": "The Running Man",
         "video": false,
-        "vote_average": 7.073,
-        "vote_count": 493
+        "vote_average": 7.2,
+        "vote_count": 88
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.073,
+      "tmdb_vote_average": 7.2,
       "omdb": {
-        "Title": "Black Phone 2",
+        "Title": "The Running Man",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
-        "Runtime": "114 min",
-        "Genre": "Horror",
-        "Director": "Scott Derrickson",
-        "Writer": "C. Robert Cargill, Scott Derrickson, Joe Hill",
-        "Actors": "Ethan Hawke, Mason Thames, Arianna Rivas",
-        "Plot": "As Finn, now 17, struggles with life after his captivity, his sister begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake.",
+        "Rated": "N/A",
+        "Released": "14 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Edgar Wright",
+        "Writer": "Michael Bacall, Stephen King, Edgar Wright",
+        "Actors": "Josh Brolin, Glen Powell, Lee Pace",
+        "Plot": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
         "Language": "English",
-        "Country": "United States, Canada",
+        "Country": "United Kingdom, United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTVjMzNmZGYtOWU5NS00NDYzLThhZTktZGNlODIwYWVhMDRmXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.7/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "73%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "59/100"
-          }
-        ],
-        "Metascore": "59",
-        "imdbRating": "6.7",
-        "imdbVotes": "8,046",
-        "imdbID": "tt29644189",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt14107334",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$27,332,040",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/black_phone_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11101,267 +12461,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Black Phone 2": 2,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Black Phone 2": 1,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Black Phone 2": 2,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Black Phone 2": 9,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Black Phone 2": 3,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Black Phone 2": 2,
+            "The Running Man": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Black Phone 2": 2,
+            "The Running Man": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Black Phone 2": 3,
+            "The Running Man": 22,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Black Phone 2": 4,
+            "The Running Man": 9,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Black Phone 2": 3,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Black Phone 2": 4,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Black Phone 2": 5,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Black Phone 2": 5,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Black Phone 2": 5,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Black Phone 2": 6,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Black Phone 2": 6,
+            "The Running Man": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Black Phone 2": 8,
+            "The Running Man": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Black Phone 2": 9,
+            "The Running Man": 10,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Black Phone 2": 7,
+            "The Running Man": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Black Phone 2": 12,
+            "The Running Man": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Black Phone 2": 19,
+            "The Running Man": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Black Phone 2": 25,
+            "The Running Man": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Black Phone 2": 91,
+            "The Running Man": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Black Phone 2": 100,
+            "The Running Man": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Black Phone 2": 61,
+            "The Running Man": 18,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Black Phone 2": 51,
+            "The Running Man": 31,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Black Phone 2": 33,
+            "The Running Man": 83,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Black Phone 2": 27,
+            "The Running Man": 100,
             "isPartial": true
           }
         ]
@@ -11381,55 +12741,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "dJgSHt6hPRAvEnRJd3uwVRNi7h0",
-          "id": "DdR-gzFZoDk",
+          "etag": "REu8OY8q9PGwv5qVGxbsXM6lHrg",
+          "id": "KD18ddeFuyM",
           "snippet": {
-            "publishedAt": "2025-09-04T15:00:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Black Phone 2 | Official Trailer 2",
-            "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/",
+            "publishedAt": "2025-07-01T13:00:03Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/default.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/DdR-gzFZoDk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
-            "categoryId": "24",
+            "channelTitle": "Paramount Pictures",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Black Phone 2 | Official Trailer 2",
-              "description": "What do you think happens when you die? Black Phone 2 only in theaters October 17.\n\n\n-\nFour years ago, 13-year-old Finn killed his abductor and escaped, becoming the sole survivor of The Grabber. But true evil transcends death … and the phone is ringing again. \n\nFour-time Academy Award® nominee Ethan Hawke returns to the most sinister role of his career as The Grabber seeks vengeance on Finn (Mason Thames) from beyond the grave by menacing Finn’s younger sister, Gwen (Madeleine McGraw). \n\nAs Finn, now 17, struggles with life after his captivity, the headstrong 15-year-old Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp known as Alpine Lake. \n\nDetermined to solve the mystery and end the torment for both her and her brother, Gwen persuades Finn to visit the camp during a winter storm. There, she uncovers a shattering intersection between The Grabber and her own family’s history. Together, she and Finn must confront a killer who has grown more powerful in death and more significant to them than either could imagine.\n\nFrom returning visionary writer-director Scott Derrickson, Black Phone 2 is written again by Derrickson & C. Robert Cargill, based on characters created by Joe Hill. The film is produced by Jason Blum, Derrickson and Cargill. The executive producers are Adam Hendricks and Ryan Turek.\n\nThe cast includes Oscar® nominee Demián Bichir (The Nun, A Better Life) as the supervisor of the camp, Arianna Rivas (A Working Man) as his niece, Miguel Mora (The Black Phone) as the brother of one of The Grabber’s victims, and Jeremy Davies, returning as Finn and Gwen’s father, Terrence. Other new cast members include Maev Beaty (Beau is Afraid) and Graham Abbey (Under the Banner of Heaven). \n\nUniversal Pictures and Blumhouse’s horror phenomenon The Black Phone, released in 2022, received widespread critical acclaim and earned more than $160 million.\n\n\nFollow Black Phone on socials:\nhttps://www.instagram.com/blackphonemovie/ \nhttps://www.facebook.com/TheBlackPhoneMovie\nwww.blackphonemovie.com \n\nFind Universal Pictures on Instagram at https://www.instagram.com/universalpictures/ \nFollow Universal Pictures on X at https://www.twitter.com/universalpictures/ \nFollow Universal Pictures on Facebook at: https://facebook.com/UniversalPictures \nhttps://www.universalpictures.com/"
+              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1992045",
-            "likeCount": "29358",
+            "viewCount": "15255942",
+            "likeCount": "98367",
             "favoriteCount": "0",
-            "commentCount": "1589"
+            "commentCount": "12164"
           }
         }
       ],
@@ -11440,21 +12800,18 @@
     },
     "creative": {
       "director": [
-        "Scott Derrickson"
+        "Edgar Wright"
       ],
-      "writers": [
-        "Scott Derrickson",
-        "C. Robert Cargill"
-      ],
+      "writers": [],
       "cast_top": [
-        "Ethan Hawke",
-        "Mason Thames",
-        "Madeleine McGraw",
-        "Demián Bichir",
-        "Miguel Mora",
-        "Jeremy Davies",
-        "Arianna Rivas",
-        "Maev Beaty"
+        "Glen Powell",
+        "Josh Brolin",
+        "Michael Cera",
+        "Colman Domingo",
+        "Lee Pace",
+        "Jayme Lawson",
+        "William H. Macy",
+        "Emilia Jones"
       ],
       "star_power": {
         "actor_count": 8
