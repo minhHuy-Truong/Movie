@@ -110,12 +110,12 @@
         "tagline": "Some search for battle, others are born into it...",
         "title": "One Battle After Another",
         "video": false,
-        "vote_average": 7.569,
-        "vote_count": 1440
+        "vote_average": 7.565,
+        "vote_count": 1445
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.569,
+      "tmdb_vote_average": 7.565,
       "omdb": {
         "Title": "One Battle After Another",
         "Year": "2025",
@@ -167,273 +167,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "One Battle After Another": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 73,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "One Battle After Another": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 65,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "One Battle After Another": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "One Battle After Another": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 38,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -450,7 +184,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "XvzAUZleKBml95hVdj_qoLIotp8",
+          "etag": "ZlfJ2AD6F6uKSBydWbNbifI7XDA",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -515,10 +249,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19521053",
-            "likeCount": "53579",
+            "viewCount": "19527649",
+            "likeCount": "53615",
             "favoriteCount": "0",
-            "commentCount": "3425"
+            "commentCount": "3430"
           }
         }
       ],
@@ -1493,12 +1227,12 @@
         "tagline": "Playtime just got real.",
         "title": "Playdate",
         "video": false,
-        "vote_average": 6.376,
-        "vote_count": 194
+        "vote_average": 6.4,
+        "vote_count": 196
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.376,
+      "tmdb_vote_average": 6.4,
       "omdb": {
         "Title": "Playdate",
         "Year": "2025",
@@ -1537,273 +1271,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Playdate": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Playdate": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Playdate": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Playdate": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Playdate": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Playdate": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Playdate": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Playdate": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Playdate": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Playdate": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Playdate": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Playdate": 81,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Playdate": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -1820,7 +1288,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "rK_b_ZzgMKIF2LyuGeKt898oBag",
+          "etag": "Sbyyl_t-1AHSLJcqf5vknNVhsSg",
           "id": "xGTq0blCPVQ",
           "snippet": {
             "publishedAt": "2025-10-08T13:59:52Z",
@@ -1895,10 +1363,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21764700",
-            "likeCount": "74147",
+            "viewCount": "21759987",
+            "likeCount": "74178",
             "favoriteCount": "0",
-            "commentCount": "3365"
+            "commentCount": "3367"
           }
         }
       ],
@@ -2806,7 +2274,7 @@
         "original_language": "en",
         "original_title": "Frankenstein",
         "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 582.9067,
+        "popularity": 529.4985,
         "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "production_companies": [
           {
@@ -2862,12 +2330,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.8,
-        "vote_count": 1482
+        "vote_average": 7.84,
+        "vote_count": 1497
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.8,
+      "tmdb_vote_average": 7.84,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -2987,7 +2455,7 @@
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -3037,7 +2505,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -3062,7 +2530,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Frankenstein": 7,
+            "Frankenstein": 6,
             "isPartial": false
           },
           {
@@ -3162,7 +2630,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Frankenstein": 21,
+            "Frankenstein": 20,
             "isPartial": false
           },
           {
@@ -3182,7 +2650,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Frankenstein": 62,
+            "Frankenstein": 58,
             "isPartial": true
           }
         ]
@@ -3202,7 +2670,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "DmQqBMqzu3kVxsz-mGGN1DrpXnA",
+          "etag": "wDyQ1I8cICP1z0idmDuxjmg7NmU",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -3278,10 +2746,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12699840",
-            "likeCount": "172475",
+            "viewCount": "12704660",
+            "likeCount": "172566",
             "favoriteCount": "0",
-            "commentCount": "7388"
+            "commentCount": "7393"
           }
         }
       ],
@@ -4261,12 +3729,12 @@
         "tagline": "Unlock the illusion.",
         "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 6.526,
-        "vote_count": 151
+        "vote_average": 6.532,
+        "vote_count": 154
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.526,
+      "tmdb_vote_average": 6.532,
       "omdb": {
         "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
@@ -4308,7 +3776,7 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
@@ -4363,7 +3831,7 @@
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
@@ -4383,7 +3851,7 @@
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
@@ -4423,7 +3891,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 13,
+            "Now You See Me: Now You Don't": 14,
             "isPartial": false
           },
           {
@@ -4448,7 +3916,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
@@ -4508,7 +3976,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
@@ -4533,7 +4001,7 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
@@ -4543,17 +4011,17 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 6,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Now You See Me: Now You Don't": 10,
+            "Now You See Me: Now You Don't": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Now You See Me: Now You Don't": 15,
+            "Now You See Me: Now You Don't": 16,
             "isPartial": false
           },
           {
@@ -4563,7 +4031,7 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 75,
+            "Now You See Me: Now You Don't": 84,
             "isPartial": false
           },
           {
@@ -4588,7 +4056,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ura0NqWn47wIfqLz3u7DGWOvO7w",
+          "etag": "wgOuubv6bJbdp_8PINCzk7FUBa4",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -4667,10 +4135,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18135171",
-            "likeCount": "250566",
+            "viewCount": "18153003",
+            "likeCount": "250620",
             "favoriteCount": "0",
-            "commentCount": "11897"
+            "commentCount": "11898"
           }
         }
       ],
@@ -5519,79 +4987,84 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 967941,
-      "imdb_id": "tt19847976",
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-16",
+      "tmdb_id": 1117857,
+      "imdb_id": "tt27604215",
+      "title": "In Your Dreams",
+      "release_date": "2025-11-07",
       "release_year": "2025",
       "genres": [
-        "Romance",
-        "Fantasy",
-        "Adventure"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Universal Pictures",
-        "Marc Platt Productions"
+        "Kuku Studios",
+        "Netflix Animation Studios"
       ],
-      "runtime": 137,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
+      "runtime": 87,
+      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
     },
     "commercial": {
-      "budget": 150000000,
+      "budget": 0,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-        "belongs_to_collection": {
-          "id": 968080,
-          "name": "Wicked Collection",
-          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
-          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
-        },
-        "budget": 150000000,
+        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
         "genres": [
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 16,
+            "name": "Animation"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 10751,
+            "name": "Family"
+          },
+          {
+            "id": 35,
+            "name": "Comedy"
           },
           {
             "id": 12,
             "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.wickedmovie.com",
-        "id": 967941,
-        "imdb_id": "tt19847976",
+        "homepage": "https://www.netflix.com/title/80992977",
+        "id": 1117857,
+        "imdb_id": "tt27604215",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Wicked: For Good",
-        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 105.8531,
-        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "original_title": "In Your Dreams",
+        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "popularity": 113.7095,
+        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
         "production_companies": [
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
+            "id": 144322,
+            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
+            "name": "Kuku Studios",
             "origin_country": "US"
           },
           {
-            "id": 2527,
-            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
-            "name": "Marc Platt Productions",
+            "id": 171251,
+            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+            "name": "Netflix Animation Studios",
             "origin_country": "US"
           }
         ],
@@ -5601,9 +5074,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-16",
+        "release_date": "2025-11-07",
         "revenue": 0,
-        "runtime": 137,
+        "runtime": 87,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -5612,35 +5085,48 @@
           }
         ],
         "status": "Released",
-        "tagline": "You will be changed.",
-        "title": "Wicked: For Good",
+        "tagline": "The adventure of a nighttime.",
+        "title": "In Your Dreams",
         "video": false,
-        "vote_average": 5.489,
-        "vote_count": 45
+        "vote_average": 7.206,
+        "vote_count": 68
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.489,
+      "tmdb_vote_average": 7.206,
       "omdb": {
-        "Title": "Wicked: For Good",
+        "Title": "In Your Dreams",
         "Year": "2025",
         "Rated": "PG",
-        "Released": "21 Nov 2025",
-        "Runtime": "138 min",
-        "Genre": "Family, Fantasy, Musical",
-        "Director": "Jon M. Chu",
-        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
-        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
-        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Released": "14 Nov 2025",
+        "Runtime": "90 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Alexander Woo, Erik Benson",
+        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
+        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
+        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
         "Language": "English",
         "Country": "United States",
-        "Awards": "3 wins total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt19847976",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "59/100"
+          }
+        ],
+        "Metascore": "59",
+        "imdbRating": "6.5",
+        "imdbVotes": "1,343",
+        "imdbID": "tt27604215",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5649,7 +5135,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5659,273 +5145,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 43,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -5942,55 +5162,109 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "x1tsZUxbCwKkpoOC7B_1M4yAFnk",
-          "id": "vt98AlBDI9Y",
+          "etag": "Ipzw1bsgxuK4Yb8DuUjac_jhGKE",
+          "id": "Jjjcn4acAC8",
           "snippet": {
-            "publishedAt": "2025-06-05T00:55:09Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Wicked: For Good | Official Trailer",
-            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+            "publishedAt": "2025-09-25T13:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "In Your Dreams | Official Trailer | Netflix",
+            "description": "Get ready for the adventure of a nighttime. IN YOUR DREAMS – only on Netflix November 14.\n\nStevie and her younger brother Elliot embark on a journey into the absurd landscape of their own dreams in search of The Sandman, who holds the power to grant them their ultimate dream come true. Starring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Netflix",
+            "tags": [
+              "2025",
+              "Netflix",
+              "action",
+              "adventure",
+              "animated",
+              "animation",
+              "announcement",
+              "baloney",
+              "best",
+              "binge",
+              "cartoon",
+              "comedic",
+              "comedy",
+              "commercial",
+              "craig robinson",
+              "cristin milioti",
+              "debut",
+              "disney",
+              "dreams",
+              "dreamworks",
+              "eurythmics",
+              "family",
+              "film",
+              "funny",
+              "heart",
+              "home",
+              "kids",
+              "movie",
+              "new",
+              "nightmare",
+              "now",
+              "official",
+              "online",
+              "parents",
+              "pixar",
+              "play",
+              "premiere",
+              "sandman",
+              "simu liu",
+              "sony",
+              "stream",
+              "sweet",
+              "teaser",
+              "theaters",
+              "tony",
+              "top",
+              "trailer",
+              "tv",
+              "video",
+              "watch",
+              "wicked",
+              "zootopia"
+            ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Wicked: For Good | Official Trailer",
-              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
+              "title": "In Your Dreams | Official Trailer | Netflix",
+              "description": "Get ready for the adventure of a nighttime. IN YOUR DREAMS – only on Netflix November 14.\n\nStevie and her younger brother Elliot embark on a journey into the absurd landscape of their own dreams in search of The Sandman, who holds the power to grant them their ultimate dream come true. Starring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12587349",
-            "likeCount": "292941",
+            "viewCount": "3728159",
+            "likeCount": "36345",
             "favoriteCount": "0",
-            "commentCount": "14806"
+            "commentCount": "1709"
           }
         }
       ],
@@ -6001,18 +5275,18 @@
     },
     "creative": {
       "director": [
-        "Jon M. Chu"
+        "Alex Woo"
       ],
       "writers": [],
       "cast_top": [
-        "Cynthia Erivo",
-        "Ariana Grande",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Jonathan Bailey",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Jolie Hoang-Rappaport",
+        "Elias Janssen",
+        "Simu Liu",
+        "Craig Robinson",
+        "Cristin Milioti",
+        "Gia Carides",
+        "Omid Djalili",
+        "SungWon Cho"
       ],
       "star_power": {
         "actor_count": 8
@@ -6839,84 +6113,79 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 1117857,
-      "imdb_id": "tt27604215",
-      "title": "In Your Dreams",
-      "release_date": "2025-11-07",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-16",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
+        "Romance",
+        "Fantasy",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Kuku Studios",
-        "Netflix Animation Studios"
+        "Universal Pictures",
+        "Marc Platt Productions"
       ],
-      "runtime": 87,
-      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
+      "runtime": 137,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 0,
+      "budget": 150000000,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "belongs_to_collection": {
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+        },
+        "budget": 150000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
-          },
-          {
-            "id": 10751,
-            "name": "Family"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
+            "id": 10749,
+            "name": "Romance"
           },
           {
             "id": 14,
             "name": "Fantasy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "https://www.netflix.com/title/80992977",
-        "id": 1117857,
-        "imdb_id": "tt27604215",
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "In Your Dreams",
-        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-        "popularity": 112.6916,
-        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 105.8531,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
-            "id": 144322,
-            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
-            "name": "Kuku Studios",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 171251,
-            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
-            "name": "Netflix Animation Studios",
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
             "origin_country": "US"
           }
         ],
@@ -6926,9 +6195,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-07",
+        "release_date": "2025-11-16",
         "revenue": 0,
-        "runtime": 87,
+        "runtime": 137,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -6937,48 +6206,35 @@
           }
         ],
         "status": "Released",
-        "tagline": "The adventure of a nighttime.",
-        "title": "In Your Dreams",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 7.179,
-        "vote_count": 67
+        "vote_average": 5.5,
+        "vote_count": 49
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.179,
+      "tmdb_vote_average": 5.5,
       "omdb": {
-        "Title": "In Your Dreams",
+        "Title": "Wicked: For Good",
         "Year": "2025",
         "Rated": "PG",
-        "Released": "14 Nov 2025",
-        "Runtime": "90 min",
-        "Genre": "Animation, Adventure, Comedy",
-        "Director": "Alexander Woo, Erik Benson",
-        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
-        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
-        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "Released": "21 Nov 2025",
+        "Runtime": "138 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
+        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
         "Language": "English",
         "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "59/100"
-          }
-        ],
-        "Metascore": "59",
-        "imdbRating": "6.5",
-        "imdbVotes": "1,343",
-        "imdbID": "tt27604215",
+        "Awards": "3 wins total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -6987,7 +6243,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -7000,267 +6256,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "In Your Dreams": 26,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "In Your Dreams": 22,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "In Your Dreams": 22,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "In Your Dreams": 18,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "In Your Dreams": 18,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 27,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "In Your Dreams": 17,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "In Your Dreams": 19,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "In Your Dreams": 20,
+            "Wicked: For Good": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "In Your Dreams": 24,
+            "Wicked: For Good": 15,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "In Your Dreams": 23,
+            "Wicked: For Good": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "In Your Dreams": 21,
+            "Wicked: For Good": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "In Your Dreams": 22,
+            "Wicked: For Good": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "In Your Dreams": 23,
+            "Wicked: For Good": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "In Your Dreams": 22,
+            "Wicked: For Good": 16,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "In Your Dreams": 23,
+            "Wicked: For Good": 29,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "In Your Dreams": 53,
+            "Wicked: For Good": 42,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "In Your Dreams": 100,
+            "Wicked: For Good": 100,
             "isPartial": true
           }
         ]
@@ -7280,109 +6536,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "TtUKuiOxK-zhzVypiqHKIuEtyko",
-          "id": "Jjjcn4acAC8",
+          "etag": "8KFHVwUP1esf7_Y2EWGyY2PIRTE",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-09-25T13:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "In Your Dreams | Official Trailer | Netflix",
-            "description": "Get ready for the adventure of a nighttime. IN YOUR DREAMS – only on Netflix November 14.\n\nStevie and her younger brother Elliot embark on a journey into the absurd landscape of their own dreams in search of The Sandman, who holds the power to grant them their ultimate dream come true. Starring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/Jjjcn4acAC8/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
-            "tags": [
-              "2025",
-              "Netflix",
-              "action",
-              "adventure",
-              "animated",
-              "animation",
-              "announcement",
-              "baloney",
-              "best",
-              "binge",
-              "cartoon",
-              "comedic",
-              "comedy",
-              "commercial",
-              "craig robinson",
-              "cristin milioti",
-              "debut",
-              "disney",
-              "dreams",
-              "dreamworks",
-              "eurythmics",
-              "family",
-              "film",
-              "funny",
-              "heart",
-              "home",
-              "kids",
-              "movie",
-              "new",
-              "nightmare",
-              "now",
-              "official",
-              "online",
-              "parents",
-              "pixar",
-              "play",
-              "premiere",
-              "sandman",
-              "simu liu",
-              "sony",
-              "stream",
-              "sweet",
-              "teaser",
-              "theaters",
-              "tony",
-              "top",
-              "trailer",
-              "tv",
-              "video",
-              "watch",
-              "wicked",
-              "zootopia"
-            ],
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "In Your Dreams | Official Trailer | Netflix",
-              "description": "Get ready for the adventure of a nighttime. IN YOUR DREAMS – only on Netflix November 14.\n\nStevie and her younger brother Elliot embark on a journey into the absurd landscape of their own dreams in search of The Sandman, who holds the power to grant them their ultimate dream come true. Starring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "3728828",
-            "likeCount": "36327",
+            "viewCount": "12601362",
+            "likeCount": "293009",
             "favoriteCount": "0",
-            "commentCount": "1705"
+            "commentCount": "14789"
           }
         }
       ],
@@ -7393,18 +6595,18 @@
     },
     "creative": {
       "director": [
-        "Alex Woo"
+        "Jon M. Chu"
       ],
       "writers": [],
       "cast_top": [
-        "Jolie Hoang-Rappaport",
-        "Elias Janssen",
-        "Simu Liu",
-        "Craig Robinson",
-        "Cristin Milioti",
-        "Gia Carides",
-        "Omid Djalili",
-        "SungWon Cho"
+        "Cynthia Erivo",
+        "Ariana Grande",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Jonathan Bailey",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
       ],
       "star_power": {
         "actor_count": 8
@@ -8294,7 +7496,7 @@
         "original_language": "en",
         "original_title": "Predator: Badlands",
         "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 263.6485,
+        "popularity": 259.6158,
         "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
         "production_companies": [
           {
@@ -8349,7 +7551,7 @@
         "title": "Predator: Badlands",
         "video": false,
         "vote_average": 7.4,
-        "vote_count": 359
+        "vote_count": 361
       }
     },
     "ratings": {
@@ -8453,7 +7655,7 @@
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 0,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
@@ -8518,7 +7720,7 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 15,
+            "Predator: Badlands": 16,
             "isPartial": false
           },
           {
@@ -8553,7 +7755,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
@@ -8658,7 +7860,7 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 86,
+            "Predator: Badlands": 89,
             "isPartial": false
           },
           {
@@ -8668,7 +7870,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 55,
+            "Predator: Badlands": 52,
             "isPartial": true
           }
         ]
@@ -8688,7 +7890,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Jr125daEgxRMLbnSK7_4Sl49Wes",
+          "etag": "S6v1yZUIPM2nZ8WYMEjqt161y20",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -8736,10 +7938,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "25286471",
-            "likeCount": "312848",
+            "viewCount": "25300622",
+            "likeCount": "312893",
             "favoriteCount": "0",
-            "commentCount": "25658"
+            "commentCount": "25669"
           }
         }
       ],
@@ -9588,6 +8790,1083 @@
   {
     "rank": 8,
     "metadata": {
+      "tmdb_id": 798645,
+      "imdb_id": "tt14107334",
+      "title": "The Running Man",
+      "release_date": "2025-11-11",
+      "release_year": "2025",
+      "genres": [
+        "Action",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "production_countries": [
+        "US",
+        "GB"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Paramount Pictures",
+        "Complete Fiction",
+        "Genre Films",
+        "Domain Entertainment"
+      ],
+      "runtime": 133,
+      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
+    },
+    "commercial": {
+      "budget": 110000000,
+      "revenue": 28200000,
+      "opening_weekend": null,
+      "roi": 0.256,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
+        "belongs_to_collection": null,
+        "budget": 110000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          }
+        ],
+        "homepage": "https://www.runningmanmovie.com",
+        "id": 798645,
+        "imdb_id": "tt14107334",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "The Running Man",
+        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+        "popularity": 75.8418,
+        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "production_companies": [
+          {
+            "id": 4,
+            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+            "name": "Paramount Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 131464,
+            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
+            "name": "Complete Fiction",
+            "origin_country": "GB"
+          },
+          {
+            "id": 28788,
+            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+            "name": "Genre Films",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          }
+        ],
+        "release_date": "2025-11-11",
+        "revenue": 28200000,
+        "runtime": 133,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Hunt him down.",
+        "title": "The Running Man",
+        "video": false,
+        "vote_average": 7.078,
+        "vote_count": 102
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.078,
+      "omdb": {
+        "Title": "The Running Man",
+        "Year": "2025",
+        "Rated": "R",
+        "Released": "14 Nov 2025",
+        "Runtime": "133 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Edgar Wright",
+        "Writer": "Stephen King, Michael Bacall, Edgar Wright",
+        "Actors": "Glen Powell, Alyssa Benn, Sienna Benn",
+        "Plot": "A man joins a game show in which contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
+        "Language": "English",
+        "Country": "United Kingdom, United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "56/100"
+          }
+        ],
+        "Metascore": "56",
+        "imdbRating": "6.8",
+        "imdbVotes": "12,930",
+        "imdbID": "tt14107334",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$16,495,564",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "GIg5X1iFrfke8IG5CNAg6SAO6yo",
+          "id": "KD18ddeFuyM",
+          "snippet": {
+            "publishedAt": "2025-07-01T13:00:03Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Paramount Pictures",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
+              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "15335337",
+            "likeCount": "98621",
+            "favoriteCount": "0",
+            "commentCount": "12181"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Edgar Wright"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Glen Powell",
+        "Josh Brolin",
+        "Michael Cera",
+        "Colman Domingo",
+        "Lee Pace",
+        "Jayme Lawson",
+        "William H. Macy",
+        "Emilia Jones"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 9,
+    "metadata": {
       "tmdb_id": 1242419,
       "imdb_id": "tt4627382",
       "title": "Roofman",
@@ -9648,7 +9927,7 @@
         "original_language": "en",
         "original_title": "Roofman",
         "overview": "A former Army Ranger and struggling father turns to robbing McDonald’s restaurants by cutting holes in their roofs, earning him the nickname 'Roofman'. After escaping prison, he secretly lives inside a Toys “R” Us for six months, surviving undetected while planning his next move. But when he falls for a divorced mom drawn to his undeniable charm, his double life begins to unravel, setting off a compelling and suspenseful game of cat and mouse as his past closes in.",
-        "popularity": 113.3467,
+        "popularity": 99.4941,
         "poster_path": "/uhXxW7EmzZIWFVpbF42r6L2g7Oh.jpg",
         "production_companies": [
           {
@@ -9714,12 +9993,12 @@
         "tagline": "Based on actual events. And terrible decisions.",
         "title": "Roofman",
         "video": false,
-        "vote_average": 7.198,
-        "vote_count": 164
+        "vote_average": 7.2,
+        "vote_count": 165
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.198,
+      "tmdb_vote_average": 7.2,
       "omdb": {
         "Title": "Roofman",
         "Year": "2025",
@@ -9789,7 +10068,7 @@
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Roofman": 1,
+            "Roofman": 0,
             "isPartial": false
           },
           {
@@ -9929,7 +10208,7 @@
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Roofman": 19,
+            "Roofman": 18,
             "isPartial": false
           },
           {
@@ -9994,17 +10273,17 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Roofman": 17,
+            "Roofman": 16,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Roofman": 27,
+            "Roofman": 26,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Roofman": 86,
+            "Roofman": 84,
             "isPartial": false
           },
           {
@@ -10014,27 +10293,27 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Roofman": 67,
+            "Roofman": 65,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Roofman": 40,
+            "Roofman": 41,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Roofman": 31,
+            "Roofman": 30,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Roofman": 72,
+            "Roofman": 70,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Roofman": 71,
+            "Roofman": 68,
             "isPartial": true
           }
         ]
@@ -10054,7 +10333,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "rp8L49GvkM6JI4lOgfhsPC6HroI",
+          "etag": "uGWOrIzwglimQIs3h7liVKTA4ck",
           "id": "GXecSGmQDEI",
           "snippet": {
             "publishedAt": "2025-06-25T13:00:08Z",
@@ -10115,8 +10394,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13824809",
-            "likeCount": "57502",
+            "viewCount": "13827828",
+            "likeCount": "57519",
             "favoriteCount": "0",
             "commentCount": "3392"
           }
@@ -10965,1421 +11244,84 @@
     ]
   },
   {
-    "rank": 9,
-    "metadata": {
-      "tmdb_id": 798645,
-      "imdb_id": "tt14107334",
-      "title": "The Running Man",
-      "release_date": "2025-11-11",
-      "release_year": "2025",
-      "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "production_countries": [
-        "US",
-        "GB"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Paramount Pictures",
-        "Complete Fiction",
-        "Genre Films",
-        "Domain Entertainment"
-      ],
-      "runtime": 133,
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
-    },
-    "commercial": {
-      "budget": 110000000,
-      "revenue": 28200000,
-      "opening_weekend": null,
-      "roi": 0.256,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/xv7KQ4YfYEZPwfyxGeteasTQENi.jpg",
-        "belongs_to_collection": null,
-        "budget": 110000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
-          }
-        ],
-        "homepage": "https://www.runningmanmovie.com",
-        "id": 798645,
-        "imdb_id": "tt14107334",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Running Man",
-        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-        "popularity": 75.8418,
-        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
-        "production_companies": [
-          {
-            "id": 4,
-            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-            "name": "Paramount Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 131464,
-            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-            "name": "Complete Fiction",
-            "origin_country": "GB"
-          },
-          {
-            "id": 28788,
-            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-            "name": "Genre Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
-          }
-        ],
-        "release_date": "2025-11-11",
-        "revenue": 28200000,
-        "runtime": 133,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Hunt him down.",
-        "title": "The Running Man",
-        "video": false,
-        "vote_average": 7.129,
-        "vote_count": 97
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.129,
-      "omdb": {
-        "Title": "The Running Man",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "14 Nov 2025",
-        "Runtime": "133 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Edgar Wright",
-        "Writer": "Stephen King, Michael Bacall, Edgar Wright",
-        "Actors": "Glen Powell, Alyssa Benn, Sienna Benn",
-        "Plot": "A man joins a game show in which contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
-        "Language": "English",
-        "Country": "United Kingdom, United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.8/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "56/100"
-          }
-        ],
-        "Metascore": "56",
-        "imdbRating": "6.8",
-        "imdbVotes": "12,930",
-        "imdbID": "tt14107334",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$16,495,564",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Running Man": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Running Man": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Running Man": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Running Man": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Running Man": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Running Man": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Running Man": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Running Man": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Running Man": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Running Man": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Running Man": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Running Man": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Running Man": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Running Man": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "The Running Man": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "The Running Man": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "The Running Man": 96,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "The Running Man": 100,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "f6vkcsKxYFmgKa-YiWK5eLsQ1kg",
-          "id": "KD18ddeFuyM",
-          "snippet": {
-            "publishedAt": "2025-07-01T13:00:03Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "15323398",
-            "likeCount": "98574",
-            "favoriteCount": "0",
-            "commentCount": "12178"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Edgar Wright"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Glen Powell",
-        "Josh Brolin",
-        "Michael Cera",
-        "Colman Domingo",
-        "Lee Pace",
-        "Jayme Lawson",
-        "William H. Macy",
-        "Emilia Jones"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 1114967,
-      "imdb_id": "tt27543578",
-      "title": "Good Fortune",
-      "release_date": "2025-10-14",
+      "tmdb_id": 1084242,
+      "imdb_id": "tt26443597",
+      "title": "Zootopia 2",
+      "release_date": "2025-11-26",
       "release_year": "2025",
       "genres": [
+        "Animation",
+        "Family",
         "Comedy",
-        "Fantasy"
+        "Adventure",
+        "Mystery"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "Media Capital Technologies",
-        "Oh Brudder Productions"
+        "Walt Disney Animation Studios"
       ],
-      "runtime": 98,
-      "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist."
+      "runtime": 107,
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis."
     },
     "commercial": {
-      "budget": 30000000,
-      "revenue": 18145814,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.605,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/q2V1q2Xxwqg3uXQKufpdCtrnAdn.jpg",
-        "belongs_to_collection": null,
-        "budget": 30000000,
+        "backdrop_path": "/iAMxwAtriQkAOTt1jeGER0oLMNN.jpg",
+        "belongs_to_collection": {
+          "id": 1084247,
+          "name": "Zootopia Collection",
+          "poster_path": "/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg",
+          "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+        },
+        "budget": 0,
         "genres": [
+          {
+            "id": 16,
+            "name": "Animation"
+          },
+          {
+            "id": 10751,
+            "name": "Family"
+          },
           {
             "id": 35,
             "name": "Comedy"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.goodfortune.movie",
-        "id": 1114967,
-        "imdb_id": "tt27543578",
+        "homepage": "",
+        "id": 1084242,
+        "imdb_id": "tt26443597",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Good Fortune",
-        "overview": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
-        "popularity": 34.8412,
-        "poster_path": "/r83HIGA0mUiy7I9qVr17pF7SCDP.jpg",
+        "original_title": "Zootopia 2",
+        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis.",
+        "popularity": 87.7635,
+        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
-            "origin_country": "US"
-          },
-          {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
-            "origin_country": "US"
-          },
-          {
-            "id": 168945,
-            "logo_path": null,
-            "name": "Oh Brudder Productions",
+            "id": 6125,
+            "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+            "name": "Walt Disney Animation Studios",
             "origin_country": "US"
           }
         ],
@@ -12389,9 +11331,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-14",
-        "revenue": 18145814,
-        "runtime": 98,
+        "release_date": "2025-11-26",
+        "revenue": 0,
+        "runtime": 107,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -12400,57 +11342,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "Need a miracle?",
-        "title": "Good Fortune",
+        "tagline": "Zootopia will be changed furrrever...",
+        "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.167,
-        "vote_count": 198
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.167,
+      "tmdb_vote_average": 0.0,
       "omdb": {
-        "Title": "Good Fortune",
+        "Title": "Zootopia 2",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "17 Oct 2025",
-        "Runtime": "97 min",
-        "Genre": "Action, Comedy, Fantasy",
-        "Director": "Aziz Ansari",
-        "Writer": "Aziz Ansari",
-        "Actors": "Seth Rogen, Aziz Ansari, Keke Palmer",
-        "Plot": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy venture capitalist.",
+        "Rated": "N/A",
+        "Released": "26 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Jared Bush, Byron Howard",
+        "Writer": "Jared Bush",
+        "Actors": "Jason Bateman, Quinta Brunson, Fortune Feimster",
+        "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
         "Language": "English",
         "Country": "United States",
-        "Awards": "2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjk3ZTgwZmUtOTVlMy00ODExLTkzMTUtYzRhM2FjNGYyMzZkXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.9/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "77%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "62/100"
-          }
-        ],
-        "Metascore": "62",
-        "imdbRating": "6.9",
-        "imdbVotes": "5,350",
-        "imdbID": "tt27543578",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt26443597",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$12,964,684",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/good_fortune\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12460,273 +11389,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-17T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2024-11-24T00:00:00",
-            "Good Fortune": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Good Fortune": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Good Fortune": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Good Fortune": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Good Fortune": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Good Fortune": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Good Fortune": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Good Fortune": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Good Fortune": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Good Fortune": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Good Fortune": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Good Fortune": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Good Fortune": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Good Fortune": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Good Fortune": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Good Fortune": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Good Fortune": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Good Fortune": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Good Fortune": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Good Fortune": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Good Fortune": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Good Fortune": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Good Fortune": 94,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Good Fortune": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Good Fortune": 61,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Good Fortune": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Good Fortune": 78,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Good Fortune": 49,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -12743,88 +11406,62 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "4loltrtN17NZr0ppvTGYpLsTMIg",
-          "id": "ZKWndx83RwQ",
+          "etag": "WnbpGVy98XxhfX-GxH0mN0Vab68",
+          "id": "A-7RMaQaygI",
           "snippet": {
-            "publishedAt": "2025-07-23T13:00:22Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-            "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen).",
+            "publishedAt": "2025-07-30T16:00:30Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Zootopia 2 | Official Trailer (2025)",
+            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/ZKWndx83RwQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
+            "channelTitle": "Entertainment Tonight",
             "tags": [
-              "Good Fortune (2025) official teaser",
-              "Good Fortune teaser",
-              "Good Fortune 2025 teaser",
-              "Good Fortune 2025 official teaser",
-              "Good Fortune",
-              "Good Fortune 2025",
-              "Seth Rogen",
-              "Aziz Ansari",
-              "Keke Palmer",
-              "Keanu Reeves",
-              "John Wick",
-              "angel",
-              "god",
-              "devil",
-              "gabriel",
-              "gabriel angel",
-              "arc angel",
-              "venture capitalist",
-              "VC",
-              "wealthy",
-              "Sandra Oh",
-              "Stephen McKinley Henderson",
-              "gig worker",
-              "worker",
-              "middle class",
-              "lost soul",
-              "guardian angel",
-              "comedy",
-              "drama",
-              "good fortune movie",
-              "life swap"
+              "Zootopia 2",
+              "Ke Huy Quan",
+              "Quinta Brunson",
+              "Ginnifer Goodwin",
+              "Jason Bateman"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Good Fortune (2025) Official Trailer - Seth Rogen, Aziz Ansari, Keke Palmer, Keanu Reeves",
-              "description": "GOOD FORTUNE – in theatres October 17, 2025. Starring Seth Rogen, Aziz Ansari, Keke Palmer, with Sandra Oh, and Keanu Reeves.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n\nhttps://www.instagram.com/GoodFortuneFilm/\nhttps://www.facebook.com/GoodFortuneFilm/\nhttps://twitter.com/GoodFortuneFilm/\nhttps://www.tiktok.com/@GoodFortuneFilm/\n\n#GoodFortune\n\nIn GOOD FORTUNE, a well-meaning but rather inept angel named Gabriel (Keanu Reeves) meddles in the lives of a struggling gig worker (Aziz Ansari) and a wealthy venture capitalist (Seth Rogen)."
+              "title": "Zootopia 2 | Official Trailer (2025)",
+              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6889884",
-            "likeCount": "79313",
+            "viewCount": "705288",
+            "likeCount": "6834",
             "favoriteCount": "0",
-            "commentCount": "4856"
+            "commentCount": "0"
           }
         }
       ],
@@ -12835,20 +11472,21 @@
     },
     "creative": {
       "director": [
-        "Aziz Ansari"
+        "Jared Bush",
+        "Byron Howard"
       ],
       "writers": [
-        "Aziz Ansari"
+        "Jared Bush"
       ],
       "cast_top": [
-        "Keanu Reeves",
-        "Aziz Ansari",
-        "Seth Rogen",
-        "Keke Palmer",
-        "Sandra Oh",
-        "Sherry Cola",
-        "Stephen McKinley Henderson",
-        "Blanca Araceli"
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan",
+        "Fortune Feimster",
+        "Andy Samberg",
+        "David Strathairn",
+        "Idris Elba",
+        "Shakira"
       ],
       "star_power": {
         "actor_count": 8
