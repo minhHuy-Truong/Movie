@@ -58,7 +58,7 @@
         "original_language": "en",
         "original_title": "One Battle After Another",
         "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 379.5305,
+        "popularity": 326.5727,
         "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "production_companies": [
           {
@@ -110,12 +110,12 @@
         "tagline": "Some search for battle, others are born into it...",
         "title": "One Battle After Another",
         "video": false,
-        "vote_average": 7.513,
-        "vote_count": 1522
+        "vote_average": 7.515,
+        "vote_count": 1528
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.513,
+      "tmdb_vote_average": 7.515,
       "omdb": {
         "Title": "One Battle After Another",
         "Year": "2025",
@@ -335,7 +335,7 @@
           },
           {
             "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
@@ -400,7 +400,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 67,
+            "One Battle After Another": 68,
             "isPartial": false
           },
           {
@@ -420,12 +420,12 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "One Battle After Another": 18,
+            "One Battle After Another": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 27,
+            "One Battle After Another": 26,
             "isPartial": false
           },
           {
@@ -450,7 +450,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "5CyYGxGbowSjAhqecfxEmNv5LKs",
+          "etag": "xKDiPxGRiKOiCU0wSJFFxJVDCyQ",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -515,10 +515,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19630162",
-            "likeCount": "53939",
+            "viewCount": "19637581",
+            "likeCount": "53963",
             "favoriteCount": "0",
-            "commentCount": "3451"
+            "commentCount": "3453"
           }
         }
       ],
@@ -1465,12 +1465,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.524,
-        "vote_count": 124
+        "vote_average": 6.5,
+        "vote_count": 131
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.524,
+      "tmdb_vote_average": 6.5,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -1607,7 +1607,7 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 3,
+            "Wicked: For Good": 4,
             "isPartial": false
           },
           {
@@ -1652,7 +1652,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 17,
+            "Wicked: For Good": 16,
             "isPartial": false
           },
           {
@@ -1747,7 +1747,7 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 8,
+            "Wicked: For Good": 7,
             "isPartial": false
           },
           {
@@ -1792,7 +1792,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "mNsLl_cfOPoyDvErfH5nSZCLpD8",
+          "etag": "Yc2Wy81BuihT5d_5qPJb4CbAEec",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -1837,10 +1837,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12864482",
-            "likeCount": "294692",
+            "viewCount": "12889568",
+            "likeCount": "294860",
             "favoriteCount": "0",
-            "commentCount": "14894"
+            "commentCount": "14903"
           }
         }
       ],
@@ -2803,7 +2803,7 @@
         "title": "Frankenstein",
         "video": false,
         "vote_average": 7.793,
-        "vote_count": 1640
+        "vote_count": 1650
       }
     },
     "ratings": {
@@ -2830,7 +2830,7 @@
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "87%"
+            "Value": "86%"
           },
           {
             "Source": "Metacritic",
@@ -2927,7 +2927,7 @@
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -2977,12 +2977,12 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -3067,7 +3067,7 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Frankenstein": 9,
+            "Frankenstein": 8,
             "isPartial": false
           },
           {
@@ -3092,7 +3092,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Frankenstein": 11,
+            "Frankenstein": 12,
             "isPartial": false
           },
           {
@@ -3102,17 +3102,17 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Frankenstein": 21,
+            "Frankenstein": 19,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Frankenstein": 29,
+            "Frankenstein": 28,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 44,
+            "Frankenstein": 45,
             "isPartial": false
           },
           {
@@ -3142,7 +3142,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "fwSnqeAlsXRfIv1Fw0S98GHVSac",
+          "etag": "ml6w2LcT87JjYrMv4pv4kZgLhMc",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -3218,10 +3218,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12798327",
-            "likeCount": "173610",
+            "viewCount": "12807250",
+            "likeCount": "173694",
             "favoriteCount": "0",
-            "commentCount": "7436"
+            "commentCount": "7441"
           }
         }
       ],
@@ -4072,31 +4072,25 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1248226,
-      "imdb_id": "tt31425731",
-      "title": "Playdate",
-      "release_date": "2025-11-05",
+      "tmdb_id": 1363123,
+      "imdb_id": "tt34276058",
+      "title": "The Family Plan 2",
+      "release_date": "2025-11-11",
       "release_year": "2025",
       "genres": [
         "Action",
-        "Comedy",
-        "Family"
+        "Comedy"
       ],
       "production_countries": [
-        "US",
-        "CA"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Nickel City Pictures",
-        "Wide Awake Pictures",
-        "A Higher Standard",
-        "Gramercy Park Media",
-        "Arcana Studio",
-        "Industry Entertainment Partners"
+        "Skydance Media",
+        "Municipal Pictures"
       ],
-      "runtime": 95,
-      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
+      "runtime": 106,
+      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
     },
     "commercial": {
       "budget": 0,
@@ -4106,8 +4100,13 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
-        "belongs_to_collection": null,
+        "backdrop_path": "/nxGHDkUtLhv9ZwIau9QUlS1sMv3.jpg",
+        "belongs_to_collection": {
+          "id": 1363124,
+          "name": "The Family Plan Collection",
+          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
+        },
         "budget": 0,
         "genres": [
           {
@@ -4117,58 +4116,30 @@
           {
             "id": 35,
             "name": "Comedy"
-          },
-          {
-            "id": 10751,
-            "name": "Family"
           }
         ],
-        "homepage": "https://www.amazon.com/gp/video/detail/B0FQ1MCFKJ",
-        "id": 1248226,
-        "imdb_id": "tt31425731",
+        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
+        "id": 1363123,
+        "imdb_id": "tt34276058",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Playdate",
-        "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
-        "popularity": 250.7214,
-        "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
+        "original_title": "The Family Plan 2",
+        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+        "popularity": 215.9812,
+        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "production_companies": [
           {
-            "id": 110723,
-            "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
-            "name": "Nickel City Pictures",
+            "id": 82819,
+            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+            "name": "Skydance Media",
             "origin_country": "US"
           },
           {
-            "id": 28787,
-            "logo_path": null,
-            "name": "Wide Awake Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 221397,
-            "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
-            "name": "A Higher Standard",
-            "origin_country": "US"
-          },
-          {
-            "id": 215935,
-            "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
-            "name": "Gramercy Park Media",
-            "origin_country": "US"
-          },
-          {
-            "id": 55446,
-            "logo_path": "/zi63Cmjvx06eELmmduPBDRyP135.png",
-            "name": "Arcana Studio",
-            "origin_country": "CA"
-          },
-          {
-            "id": 376,
-            "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
-            "name": "Industry Entertainment Partners",
+            "id": 169668,
+            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
+            "name": "Municipal Pictures",
             "origin_country": "US"
           }
         ],
@@ -4176,61 +4147,63 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "CA",
-            "name": "Canada"
           }
         ],
-        "release_date": "2025-11-05",
+        "release_date": "2025-11-11",
         "revenue": 0,
-        "runtime": 95,
+        "runtime": 106,
         "spoken_languages": [
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Playtime just got real.",
-        "title": "Playdate",
+        "tagline": "Deck the halls, dodge the bad guys.",
+        "title": "The Family Plan 2",
         "video": false,
-        "vote_average": 6.294,
-        "vote_count": 236
+        "vote_average": 7.1,
+        "vote_count": 29
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.294,
+      "tmdb_vote_average": 7.1,
       "omdb": {
-        "Title": "Playdate",
+        "Title": "The Family Plan 2",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "12 Nov 2025",
-        "Runtime": "93 min",
-        "Genre": "Action, Comedy",
-        "Director": "Luke Greenfield",
-        "Writer": "Neil Goldman",
-        "Actors": "Alan Ritchson, Kevin James, Banks Pierce",
-        "Plot": "Brian has just been fired from his job. He becomes a stay-at-home dad. He accepts a playdate invitation from another stay-at-home dad who turns out to be a loose cannon.",
+        "Released": "21 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Action, Comedy, Family",
+        "Director": "Simon Cellan Jones",
+        "Writer": "David Coggeshall",
+        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
+        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
         "Language": "English",
-        "Country": "United States",
+        "Country": "United States, United Kingdom",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ4N2Y5YjYtNGE1Ni00YWExLWIzNDYtMmM2ZTc0OGJmMDA1XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "5.5/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "20/100"
-          }
-        ],
-        "Metascore": "20",
-        "imdbRating": "5.5",
-        "imdbVotes": "9,675",
-        "imdbID": "tt31425731",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt34276058",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -4239,7 +4212,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4252,267 +4225,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Playdate": 4,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Playdate": 4,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Playdate": 4,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Playdate": 6,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Playdate": 7,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Playdate": 6,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 12,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 12,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Playdate": 5,
+            "The Family Plan 2": 14,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Playdate": 4,
+            "The Family Plan 2": 15,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Playdate": 4,
+            "The Family Plan 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Playdate": 13,
+            "The Family Plan 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Playdate": 6,
+            "The Family Plan 2": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Playdate": 20,
+            "The Family Plan 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Playdate": 13,
+            "The Family Plan 2": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Playdate": 8,
+            "The Family Plan 2": 18,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Playdate": 7,
+            "The Family Plan 2": 17,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Playdate": 14,
+            "The Family Plan 2": 20,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Playdate": 100,
+            "The Family Plan 2": 22,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Playdate": 93,
+            "The Family Plan 2": 100,
             "isPartial": true
           }
         ]
@@ -4532,85 +4505,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "bs2KLQeVvPvCE6Hq1tltzGbyiOI",
-          "id": "xGTq0blCPVQ",
+          "etag": "WLgNgP4eNK7y6MbHc3MbAWBk5mo",
+          "id": "dqolYtJGuf4",
           "snippet": {
-            "publishedAt": "2025-10-08T13:59:52Z",
-            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
-            "title": "Playdate - Official Trailer | Prime Video",
-            "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo",
+            "publishedAt": "2025-10-14T12:59:46Z",
+            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+            "title": "The Family Plan 2 — Official Trailer | Apple TV",
+            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. Streaming November 21. https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Prime Video",
+            "channelTitle": "Apple TV",
             "tags": [
-              "playdate official trailer",
-              "playdate trailer",
+              "the family plan",
+              "the family plan 2",
+              "the family plan sequel",
+              "the family plan 2 official trailer",
               "official trailer",
               "trailer",
-              "official trailer 2025",
-              "trailer 2025",
-              "prime video official trailer",
-              "new amazon trailer",
-              "playdate prime video",
-              "prime video playdate",
-              "comedy",
-              "action",
-              "comedy movie",
-              "action movie",
-              "comedy film",
-              "action film",
-              "prime video",
-              "amazon prime video",
-              "amazon prime",
-              "prime",
-              "playdate",
-              "new trailer",
-              "prime video trailer",
-              "trailer prime video",
-              "official trailer prime video",
-              "alan ritchson",
-              "kevin james",
-              "banks pierce"
+              "trailers",
+              "the family plan 2 trailer",
+              "family plan 2 trailer",
+              "mark wahlberg",
+              "the family plan 2 mark wahlberg",
+              "michelle monaghan",
+              "said taghmaoui",
+              "maggie q",
+              "zoe colletti",
+              "van crosby",
+              "mark wahlburg the family plan 2",
+              "the family plan 2 apple tv",
+              "family plan apple tv",
+              "apple tv",
+              "apple",
+              "tv",
+              "apple tv+",
+              "apple tv app",
+              "apple original",
+              "apple original film",
+              "movie",
+              "comedy"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Playdate - Official Trailer | Prime Video",
-              "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo"
+              "title": "The Family Plan 2 — Official Trailer | Apple TV",
+              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. Streaming November 21. https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21825786",
-            "likeCount": "74704",
+            "viewCount": "5422219",
+            "likeCount": "20772",
             "favoriteCount": "0",
-            "commentCount": "3426"
+            "commentCount": "631"
           }
         }
       ],
@@ -4621,20 +4594,20 @@
     },
     "creative": {
       "director": [
-        "Luke Greenfield"
+        "Simon Cellan Jones"
       ],
       "writers": [
-        "Neil Goldman"
+        "David Coggeshall"
       ],
       "cast_top": [
-        "Kevin James",
-        "Alan Ritchson",
-        "Sarah Chalke",
-        "Isla Fisher",
-        "Alan Tudyk",
-        "Stephen Root",
-        "Benjamin Pajak",
-        "Banks Pierce"
+        "Mark Wahlberg",
+        "Michelle Monaghan",
+        "Kit Harington",
+        "Zoe Colletti",
+        "Van Crosby",
+        "Theodore Lindsey",
+        "Peter Lindsey",
+        "Sanjeev Bhaskar"
       ],
       "star_power": {
         "actor_count": 8
@@ -5461,100 +5434,79 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 1242898,
-      "imdb_id": "tt31227572",
-      "title": "Predator: Badlands",
-      "release_date": "2025-11-05",
+      "tmdb_id": 1265063,
+      "imdb_id": "tt32159989",
+      "title": "After the Hunt",
+      "release_date": "2025-10-09",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure"
+        "Drama"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "IT"
       ],
       "language": "en",
       "studio_distributor": [
-        "20th Century Studios",
-        "Lawrence Gordon Productions",
-        "Davis Entertainment",
-        "Toberoff Productions",
-        "TSG Entertainment"
+        "Frenesy Film",
+        "Imagine Entertainment",
+        "Big Indie Pictures",
+        "Amazon MGM Studios"
       ],
-      "runtime": 107,
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+      "runtime": 139,
+      "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light."
     },
     "commercial": {
-      "budget": 105000000,
-      "revenue": 136304860,
+      "budget": 80000000,
+      "revenue": 9299531,
       "opening_weekend": null,
-      "roi": 1.298,
+      "roi": 0.116,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-        "belongs_to_collection": {
-          "id": 399,
-          "name": "Predator Collection",
-          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-        },
-        "budget": 105000000,
+        "backdrop_path": "/x0J0OMKwnX1eeVRQWeb2D05yd3K.jpg",
+        "belongs_to_collection": null,
+        "budget": 80000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
-        "id": 1242898,
-        "imdb_id": "tt31227572",
+        "homepage": "https://www.amazon.com/salp/afterthehunt",
+        "id": 1265063,
+        "imdb_id": "tt32159989",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Predator: Badlands",
-        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 230.8365,
-        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "original_title": "After the Hunt",
+        "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+        "popularity": 82.9787,
+        "poster_path": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
         "production_companies": [
           {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
+            "id": 46344,
+            "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+            "name": "Frenesy Film",
+            "origin_country": "IT"
+          },
+          {
+            "id": 23,
+            "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+            "name": "Imagine Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 840,
-            "logo_path": null,
-            "name": "Lawrence Gordon Productions",
+            "id": 6831,
+            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+            "name": "Big Indie Pictures",
             "origin_country": "US"
           },
           {
-            "id": 1302,
-            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-            "name": "Davis Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 185309,
-            "logo_path": null,
-            "name": "Toberoff Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
+            "id": 210099,
+            "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+            "name": "Amazon MGM Studios",
             "origin_country": "US"
           }
         ],
@@ -5562,70 +5514,79 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "IT",
+            "name": "Italy"
           }
         ],
-        "release_date": "2025-11-05",
-        "revenue": 136304860,
-        "runtime": 107,
+        "release_date": "2025-10-09",
+        "revenue": 9299531,
+        "runtime": 139,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
           }
         ],
         "status": "Released",
-        "tagline": "First hunt. Last chance.",
-        "title": "Predator: Badlands",
+        "tagline": "Not everything is supposed to make you comfortable.",
+        "title": "After the Hunt",
         "video": false,
-        "vote_average": 7.402,
-        "vote_count": 388
+        "vote_average": 6.1,
+        "vote_count": 162
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.402,
+      "tmdb_vote_average": 6.1,
       "omdb": {
-        "Title": "Predator: Badlands",
+        "Title": "After the Hunt",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "07 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Dan Trachtenberg",
-        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
-        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
-        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Rated": "R",
+        "Released": "10 Oct 2025",
+        "Runtime": "138 min",
+        "Genre": "Crime, Drama, Thriller",
+        "Director": "Luca Guadagnino",
+        "Writer": "Nora Garrett",
+        "Actors": "Julia Roberts, Andrew Garfield, Ayo Edebiri",
+        "Plot": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues and a dark secret from her own past threatens to come to light.",
         "Language": "English",
-        "Country": "United States, Australia, New Zealand, Canada",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States, Italy",
+        "Awards": "1 win & 1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.6/10"
+            "Value": "6.3/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "85%"
+            "Value": "38%"
           },
           {
             "Source": "Metacritic",
-            "Value": "71/100"
+            "Value": "52/100"
           }
         ],
-        "Metascore": "71",
-        "imdbRating": "7.6",
-        "imdbVotes": "18,100",
-        "imdbID": "tt31227572",
+        "Metascore": "52",
+        "imdbRating": "6.3",
+        "imdbVotes": "3,467",
+        "imdbID": "tt32159989",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$40,000,000",
+        "BoxOffice": "$2,133,914",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5638,267 +5599,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 15,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 6,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 1,
+            "After the Hunt": 14,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 12,
+            "After the Hunt": 8,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 4,
+            "After the Hunt": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 4,
+            "After the Hunt": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 4,
+            "After the Hunt": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 3,
+            "After the Hunt": 26,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 3,
+            "After the Hunt": 17,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 14,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 2,
+            "After the Hunt": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 3,
+            "After the Hunt": 18,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 3,
+            "After the Hunt": 24,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 7,
+            "After the Hunt": 36,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 8,
+            "After the Hunt": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 8,
+            "After the Hunt": 78,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 16,
+            "After the Hunt": 35,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 90,
+            "After the Hunt": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
+            "After the Hunt": 13,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 46,
+            "After the Hunt": 64,
             "isPartial": true
           }
         ]
@@ -5918,58 +5879,78 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "XY0YUbZC95DYVBJ4qifZhaCkf_o",
-          "id": "43R9l7EkJwE",
+          "etag": "gYhARBTRMyE0qrjk_yN7UHyytmw",
+          "id": "A8R6DMlDtxk",
           "snippet": {
-            "publishedAt": "2025-07-21T16:00:06Z",
-            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-            "title": "Predator: Badlands | Official Trailer",
-            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
+            "publishedAt": "2025-07-16T13:06:16Z",
+            "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
+            "title": "After The Hunt | Official Trailer",
+            "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "20th Century Studios",
+            "channelTitle": "Amazon MGM Studios",
             "tags": [
-              "Trailer"
+              "MGM",
+              "MGM Studios",
+              "Metro-Goldwyn- Mayer",
+              "Metro Pictures Corporations",
+              "Goldwyn Pictures",
+              "Louis B. Mayer Pictures",
+              "MGM Pictures",
+              "United Artists",
+              "Metro MGM/UA",
+              "Amazon MGM",
+              "Amazon MGM Studios",
+              "Amazon",
+              "After The Hunt Official Trailer",
+              "After The Hunt Trailer",
+              "After The Hunt",
+              "Trailer",
+              "Official Trailer",
+              "Julia Roberts",
+              "Andrew Garfield",
+              "Ayo Edebiri",
+              "New Movies 2025"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Predator: Badlands | Official Trailer",
-              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
+              "title": "After The Hunt | Official Trailer",
+              "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "25530754",
-            "likeCount": "313490",
+            "viewCount": "10366180",
+            "likeCount": "25588",
             "favoriteCount": "0",
-            "commentCount": "25755"
+            "commentCount": "1353"
           }
         }
       ],
@@ -5980,18 +5961,20 @@
     },
     "creative": {
       "director": [
-        "Dan Trachtenberg"
+        "Luca Guadagnino"
       ],
-      "writers": [],
+      "writers": [
+        "Nora Garrett"
+      ],
       "cast_top": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Rohinal Nayaran",
-        "Michael Homick",
-        "Stefan Grube",
-        "Reuben De Jong",
-        "Cameron Brown",
-        "Alison Wright"
+        "Julia Roberts",
+        "Ayo Edebiri",
+        "Andrew Garfield",
+        "Michael Stuhlbarg",
+        "Chloë Sevigny",
+        "Lio Mehiel",
+        "David Leiber",
+        "Thaddea Graham"
       ],
       "star_power": {
         "actor_count": 8
@@ -6948,7 +6931,7 @@
         "title": "Now You See Me: Now You Don't",
         "video": false,
         "vote_average": 6.3,
-        "vote_count": 200
+        "vote_count": 201
       }
     },
     "ratings": {
@@ -6999,12 +6982,12 @@
           },
           {
             "date": "2024-11-24T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
@@ -7034,7 +7017,7 @@
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
@@ -7139,7 +7122,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
@@ -7209,7 +7192,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Now You See Me: Now You Don't": 6,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
@@ -7229,7 +7212,7 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "Now You See Me: Now You Don't": 8,
             "isPartial": false
           },
           {
@@ -7274,7 +7257,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "OZgZiqzUJiE7wzg3YizCRslFX_k",
+          "etag": "NW9CjA2-zMaYK2RsaV0bZlrsT_8",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -7353,10 +7336,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18420356",
-            "likeCount": "251416",
+            "viewCount": "18443291",
+            "likeCount": "251473",
             "favoriteCount": "0",
-            "commentCount": "11941"
+            "commentCount": "11944"
           }
         }
       ],
@@ -8205,28 +8188,31 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 1117857,
-      "imdb_id": "tt27604215",
-      "title": "In Your Dreams",
-      "release_date": "2025-11-07",
+      "tmdb_id": 1248226,
+      "imdb_id": "tt31425731",
+      "title": "Playdate",
+      "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Family",
+        "Action",
         "Comedy",
-        "Adventure",
-        "Fantasy"
+        "Family"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "CA"
       ],
       "language": "en",
       "studio_distributor": [
-        "Kuku Studios",
-        "Netflix Animation Studios"
+        "Nickel City Pictures",
+        "Wide Awake Pictures",
+        "A Higher Standard",
+        "Gramercy Park Media",
+        "Arcana Studio",
+        "Industry Entertainment Partners"
       ],
-      "runtime": 87,
-      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
+      "runtime": 95,
+      "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another."
     },
     "commercial": {
       "budget": 0,
@@ -8236,53 +8222,69 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+        "backdrop_path": "/5lQ4euO30sDin5nCifvi0vURFNd.jpg",
         "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
-          },
-          {
-            "id": 10751,
-            "name": "Family"
+            "id": 28,
+            "name": "Action"
           },
           {
             "id": 35,
             "name": "Comedy"
           },
           {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 10751,
+            "name": "Family"
           }
         ],
-        "homepage": "https://www.netflix.com/title/80992977",
-        "id": 1117857,
-        "imdb_id": "tt27604215",
+        "homepage": "https://www.amazon.com/gp/video/detail/B0FQ1MCFKJ",
+        "id": 1248226,
+        "imdb_id": "tt31425731",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "In Your Dreams",
-        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-        "popularity": 88.8244,
-        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+        "original_title": "Playdate",
+        "overview": "When out-of-work accountant Brian joins stay-at-home dad Jeff for a playdate with their sons, he expects a laid-back afternoon. Instead, they're chased by mercenaries, and Brian—totally unprepared—must survive one absurd obstacle after another.",
+        "popularity": 213.6918,
+        "poster_path": "/fGodXWqJkkkbSebPIlxLSygV8GY.jpg",
         "production_companies": [
           {
-            "id": 144322,
-            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
-            "name": "Kuku Studios",
+            "id": 110723,
+            "logo_path": "/27Od860h9Xc7gDS3Pph6yRlUyBI.png",
+            "name": "Nickel City Pictures",
             "origin_country": "US"
           },
           {
-            "id": 171251,
-            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
-            "name": "Netflix Animation Studios",
+            "id": 28787,
+            "logo_path": null,
+            "name": "Wide Awake Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 221397,
+            "logo_path": "/pfhFwisBqJGN0V3OKFvDHcOQ8Om.png",
+            "name": "A Higher Standard",
+            "origin_country": "US"
+          },
+          {
+            "id": 215935,
+            "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+            "name": "Gramercy Park Media",
+            "origin_country": "US"
+          },
+          {
+            "id": 55446,
+            "logo_path": "/zi63Cmjvx06eELmmduPBDRyP135.png",
+            "name": "Arcana Studio",
+            "origin_country": "CA"
+          },
+          {
+            "id": 376,
+            "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+            "name": "Industry Entertainment Partners",
             "origin_country": "US"
           }
         ],
@@ -8290,11 +8292,15 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
           }
         ],
-        "release_date": "2025-11-07",
+        "release_date": "2025-11-05",
         "revenue": 0,
-        "runtime": 87,
+        "runtime": 95,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -8303,48 +8309,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "The adventure of a nighttime.",
-        "title": "In Your Dreams",
+        "tagline": "Playtime just got real.",
+        "title": "Playdate",
         "video": false,
-        "vote_average": 7.22,
-        "vote_count": 82
+        "vote_average": 6.303,
+        "vote_count": 242
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.22,
+      "tmdb_vote_average": 6.303,
       "omdb": {
-        "Title": "In Your Dreams",
+        "Title": "Playdate",
         "Year": "2025",
-        "Rated": "PG",
-        "Released": "14 Nov 2025",
-        "Runtime": "90 min",
-        "Genre": "Animation, Adventure, Comedy",
-        "Director": "Alexander Woo, Erik Benson",
-        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
-        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
-        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "Rated": "PG-13",
+        "Released": "12 Nov 2025",
+        "Runtime": "93 min",
+        "Genre": "Action, Comedy",
+        "Director": "Luke Greenfield",
+        "Writer": "Neil Goldman",
+        "Actors": "Alan Ritchson, Kevin James, Banks Pierce",
+        "Plot": "Brian has just been fired from his job. He becomes a stay-at-home dad. He accepts a playdate invitation from another stay-at-home dad who turns out to be a loose cannon.",
         "Language": "English",
         "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ4N2Y5YjYtNGE1Ni00YWExLWIzNDYtMmM2ZTc0OGJmMDA1XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.5/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
+            "Value": "5.5/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "59/100"
+            "Value": "20/100"
           }
         ],
-        "Metascore": "59",
-        "imdbRating": "6.5",
-        "imdbVotes": "1,343",
-        "imdbID": "tt27604215",
+        "Metascore": "20",
+        "imdbRating": "5.5",
+        "imdbVotes": "9,675",
+        "imdbID": "tt31425731",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -8353,7 +8355,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/playdate_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8366,267 +8368,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "In Your Dreams": 27,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "In Your Dreams": 23,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "In Your Dreams": 23,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 7,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "In Your Dreams": 19,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "In Your Dreams": 19,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "In Your Dreams": 18,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "In Your Dreams": 20,
+            "Playdate": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "In Your Dreams": 21,
+            "Playdate": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "In Your Dreams": 25,
+            "Playdate": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "In Your Dreams": 24,
+            "Playdate": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "In Your Dreams": 23,
+            "Playdate": 14,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "In Your Dreams": 24,
+            "Playdate": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "In Your Dreams": 22,
+            "Playdate": 8,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "In Your Dreams": 24,
+            "Playdate": 15,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "In Your Dreams": 56,
+            "Playdate": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "In Your Dreams": 100,
+            "Playdate": 97,
             "isPartial": true
           }
         ]
@@ -8646,109 +8648,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "TOSuecuTpJk7MMMkDjsTdXe0g78",
-          "id": "IG1p9fhNIks",
+          "etag": "Y75gbdZxNmo2fL23uBcW1L7x0R0",
+          "id": "xGTq0blCPVQ",
           "snippet": {
-            "publishedAt": "2025-06-12T13:00:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "In Your Dreams | Official Teaser | Netflix",
-            "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2025-10-08T13:59:52Z",
+            "channelId": "UCQJWtTnAHhEG5w4uN0udnUQ",
+            "title": "Playdate - Official Trailer | Prime Video",
+            "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/default.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/xGTq0blCPVQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Prime Video",
             "tags": [
-              "2025",
-              "Netflix",
-              "action",
-              "adventure",
-              "animated",
-              "animation",
-              "announcement",
-              "baloney",
-              "best",
-              "binge",
-              "cartoon",
-              "comedic",
-              "comedy",
-              "commercial",
-              "craig robinson",
-              "cristin milioti",
-              "debut",
-              "disney",
-              "dreams",
-              "dreamworks",
-              "eurythmics",
-              "family",
-              "film",
-              "funny",
-              "heart",
-              "home",
-              "kids",
-              "movie",
-              "new",
-              "nightmare",
-              "now",
-              "official",
-              "online",
-              "parents",
-              "pixar",
-              "play",
-              "premiere",
-              "sandman",
-              "simu liu",
-              "sony",
-              "stream",
-              "sweet",
-              "teaser",
-              "theaters",
-              "tony",
-              "top",
+              "playdate official trailer",
+              "playdate trailer",
+              "official trailer",
               "trailer",
-              "tv",
-              "video",
-              "watch",
-              "wicked",
-              "zootopia"
+              "official trailer 2025",
+              "trailer 2025",
+              "prime video official trailer",
+              "new amazon trailer",
+              "playdate prime video",
+              "prime video playdate",
+              "comedy",
+              "action",
+              "comedy movie",
+              "action movie",
+              "comedy film",
+              "action film",
+              "prime video",
+              "amazon prime video",
+              "amazon prime",
+              "prime",
+              "playdate",
+              "new trailer",
+              "prime video trailer",
+              "trailer prime video",
+              "official trailer prime video",
+              "alan ritchson",
+              "kevin james",
+              "banks pierce"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "In Your Dreams | Official Teaser | Netflix",
-              "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "Playdate - Official Trailer | Prime Video",
+              "description": "An afternoon playdate between two stay-at-home dads (Kevin James and Alan Ritchson) turns into high-stakes chaos. Stream the movie November 12, on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. Prime Video offers a variety of unique and captivating entertainment, including original series “The Boys,” “Invincible,” “Hazbin Hotel,” “The Summer I Turned Pretty,” and more.\n \nGet More Prime Video: \nStream Now: http://bit.ly/WatchMorePrimeVideo\nInstagram: http://bit.ly/primevideoIG\nTikTok: https://bit.ly/PrimeVideoTikTok\nFacebook: http://bit.ly/PrimeVideoFB\nX: http://bit.ly/PrimeVideoTW\n \nPlaydate - Official Trailer | Prime Video\nhttps://youtu.be/xGTq0blCPVQ\n \nPrime Video\nhttps://www.youtube.com/PrimeVideo\n\n#Playdate #OfficialTrailer #PrimeVideo"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "2831456",
-            "likeCount": "11561",
+            "viewCount": "21832672",
+            "likeCount": "74734",
             "favoriteCount": "0",
-            "commentCount": "787"
+            "commentCount": "3429"
           }
         }
       ],
@@ -8759,18 +8737,20 @@
     },
     "creative": {
       "director": [
-        "Alex Woo"
+        "Luke Greenfield"
       ],
-      "writers": [],
+      "writers": [
+        "Neil Goldman"
+      ],
       "cast_top": [
-        "Jolie Hoang-Rappaport",
-        "Elias Janssen",
-        "Simu Liu",
-        "Craig Robinson",
-        "Cristin Milioti",
-        "Gia Carides",
-        "Omid Djalili",
-        "SungWon Cho"
+        "Kevin James",
+        "Alan Ritchson",
+        "Sarah Chalke",
+        "Isla Fisher",
+        "Alan Tudyk",
+        "Stephen Root",
+        "Benjamin Pajak",
+        "Banks Pierce"
       ],
       "star_power": {
         "actor_count": 8
@@ -9597,41 +9577,40 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1363123,
-      "imdb_id": "tt34276058",
-      "title": "The Family Plan 2",
-      "release_date": "2025-11-11",
+      "tmdb_id": 1419406,
+      "imdb_id": "tt34610311",
+      "title": "The Shadow's Edge",
+      "release_date": "2025-08-16",
       "release_year": "2025",
       "genres": [
         "Action",
-        "Comedy"
+        "Crime",
+        "Thriller"
       ],
       "production_countries": [
-        "US"
+        "CN",
+        "HK"
       ],
-      "language": "en",
+      "language": "zh",
       "studio_distributor": [
-        "Skydance Media",
-        "Municipal Pictures"
+        "iQIYI Pictures",
+        "Tao Piao Piao",
+        "Hairun Pictures Company",
+        "Dong Fang Chen Xiang"
       ],
-      "runtime": 106,
-      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
+      "runtime": 142,
+      "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves."
     },
     "commercial": {
       "budget": 0,
-      "revenue": 0,
+      "revenue": 702538,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/93mQVskuy8kZOXPoLve8P2E5zdD.jpg",
-        "belongs_to_collection": {
-          "id": 1363124,
-          "name": "The Family Plan Collection",
-          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
-          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
-        },
+        "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+        "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
@@ -9639,81 +9618,111 @@
             "name": "Action"
           },
           {
-            "id": 35,
-            "name": "Comedy"
-          }
-        ],
-        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
-        "id": 1363123,
-        "imdb_id": "tt34276058",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Family Plan 2",
-        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
-        "popularity": 215.9812,
-        "poster_path": "/mHHmcMW9NFaNbtjD8Uvhpk28bq1.jpg",
-        "production_companies": [
-          {
-            "id": 82819,
-            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-            "name": "Skydance Media",
-            "origin_country": "US"
+            "id": 80,
+            "name": "Crime"
           },
           {
-            "id": 169668,
-            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
-            "name": "Municipal Pictures",
-            "origin_country": "US"
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "",
+        "id": 1419406,
+        "imdb_id": "tt34610311",
+        "origin_country": [
+          "CN",
+          "HK"
+        ],
+        "original_language": "zh",
+        "original_title": "捕风追影",
+        "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+        "popularity": 496.923,
+        "poster_path": "/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "production_companies": [
+          {
+            "id": 122699,
+            "logo_path": null,
+            "name": "iQIYI Pictures",
+            "origin_country": "CN"
+          },
+          {
+            "id": 197030,
+            "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+            "name": "Tao Piao Piao",
+            "origin_country": "CN"
+          },
+          {
+            "id": 25657,
+            "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+            "name": "Hairun Pictures Company",
+            "origin_country": "CN"
+          },
+          {
+            "id": 250765,
+            "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
+            "name": "Dong Fang Chen Xiang",
+            "origin_country": "CN"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "CN",
+            "name": "China"
+          },
+          {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 0,
-        "runtime": 106,
+        "release_date": "2025-08-16",
+        "revenue": 702538,
+        "runtime": 142,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
           }
         ],
         "status": "Released",
-        "tagline": "Deck the halls, dodge the bad guys.",
-        "title": "The Family Plan 2",
+        "tagline": "",
+        "title": "The Shadow's Edge",
         "video": false,
-        "vote_average": 7.522,
-        "vote_count": 23
+        "vote_average": 6.547,
+        "vote_count": 75
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.522,
+      "tmdb_vote_average": 6.547,
       "omdb": {
-        "Title": "The Family Plan 2",
+        "Title": "The Shadow's Edge",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "21 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Comedy, Family",
-        "Director": "Simon Cellan Jones",
-        "Writer": "David Coggeshall",
-        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
-        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
-        "Language": "English",
-        "Country": "United States, United Kingdom",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
+        "Rated": "Not Rated",
+        "Released": "16 Aug 2025",
+        "Runtime": "141 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Larry Yang",
+        "Writer": "Larry Yang",
+        "Actors": "Jackie Chan, Zifeng Zhang, Tony Ka Fai Leung",
+        "Plot": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+        "Language": "Mandarin",
+        "Country": "Hong Kong, China",
+        "Awards": "7 wins & 1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhhODA0NzctMDY0Ny00YTRkLWIzNzgtN2E1MDY3MTU2ODQyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+          }
+        ],
         "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt34276058",
+        "imdbRating": "7.5",
+        "imdbVotes": "1,982",
+        "imdbID": "tt34610311",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -9722,7 +9731,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9735,267 +9744,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Family Plan 2": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Family Plan 2": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Family Plan 2": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Family Plan 2": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Family Plan 2": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Family Plan 2": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Family Plan 2": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Family Plan 2": 11,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Family Plan 2": 8,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Family Plan 2": 10,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Family Plan 2": 9,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Family Plan 2": 10,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Family Plan 2": 12,
+            "The Shadow's Edge": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Family Plan 2": 12,
+            "The Shadow's Edge": 10,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Family Plan 2": 12,
+            "The Shadow's Edge": 13,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Family Plan 2": 14,
+            "The Shadow's Edge": 15,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Family Plan 2": 15,
+            "The Shadow's Edge": 10,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Family Plan 2": 13,
+            "The Shadow's Edge": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Family Plan 2": 14,
+            "The Shadow's Edge": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Family Plan 2": 15,
+            "The Shadow's Edge": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Family Plan 2": 13,
+            "The Shadow's Edge": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Family Plan 2": 22,
+            "The Shadow's Edge": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Family Plan 2": 18,
+            "The Shadow's Edge": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Family Plan 2": 17,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Family Plan 2": 21,
+            "The Shadow's Edge": 2,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Family Plan 2": 24,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Family Plan 2": 100,
+            "The Shadow's Edge": 100,
             "isPartial": true
           }
         ]
@@ -10015,85 +10024,77 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "9rdnZFR_ENHJzpxL6QOQRWDkovE",
-          "id": "dqolYtJGuf4",
+          "etag": "VKY0NnlOpt2WB74dD4YrXrrFBxw",
+          "id": "Xa6B6n3VD50",
           "snippet": {
-            "publishedAt": "2025-10-14T12:59:46Z",
-            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
-            "title": "The Family Plan 2 — Official Trailer | Apple TV",
-            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. Streaming November 21. https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
+            "publishedAt": "2025-09-15T17:22:39Z",
+            "channelId": "UCwBV-eg1dAkzrdjqJfyEj0w",
+            "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+            "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Apple TV",
+            "channelTitle": "MovieGasm‍․com",
             "tags": [
-              "the family plan",
-              "the family plan 2",
-              "the family plan sequel",
-              "the family plan 2 official trailer",
-              "official trailer",
               "trailer",
-              "trailers",
-              "the family plan 2 trailer",
-              "family plan 2 trailer",
-              "mark wahlberg",
-              "the family plan 2 mark wahlberg",
-              "michelle monaghan",
-              "said taghmaoui",
-              "maggie q",
-              "zoe colletti",
-              "van crosby",
-              "mark wahlburg the family plan 2",
-              "the family plan 2 apple tv",
-              "family plan apple tv",
-              "apple tv",
-              "apple",
-              "tv",
-              "apple tv+",
-              "apple tv app",
-              "apple original",
-              "apple original film",
+              "movies",
+              "2025",
               "movie",
-              "comedy"
+              "trailers",
+              "THE SHADOW'S EDGE",
+              "THE SHADOW'S EDGE trailer",
+              "official",
+              "jackie chan",
+              "action",
+              "THE SHADOW'S EDGE official trailer",
+              "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+              "Action Movies",
+              "jackie chan movies",
+              "final scene",
+              "action scenes",
+              "fight",
+              "scene",
+              "movie clip",
+              "4k"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Family Plan 2 — Official Trailer | Apple TV",
-              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. Streaming November 21. https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
+              "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+              "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "5405600",
-            "likeCount": "20689",
+            "viewCount": "568259",
+            "likeCount": "4714",
             "favoriteCount": "0",
-            "commentCount": "628"
+            "commentCount": "205"
           }
         }
       ],
@@ -10104,20 +10105,20 @@
     },
     "creative": {
       "director": [
-        "Simon Cellan Jones"
+        "Larry Yang"
       ],
       "writers": [
-        "David Coggeshall"
+        "Larry Yang"
       ],
       "cast_top": [
-        "Mark Wahlberg",
-        "Michelle Monaghan",
-        "Kit Harington",
-        "Zoe Colletti",
-        "Van Crosby",
-        "Theodore Lindsey",
-        "Peter Lindsey",
-        "Sanjeev Bhaskar"
+        "Jackie Chan",
+        "Zhang Zifeng",
+        "Tony Leung Ka-fai",
+        "Ci Sha",
+        "Jun",
+        "Zhou Zhengjie",
+        "Wang Ziyi",
+        "Lang Yueting"
       ],
       "star_power": {
         "actor_count": 8
@@ -10944,84 +10945,64 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1265063,
-      "imdb_id": "tt32159989",
-      "title": "After the Hunt",
-      "release_date": "2025-10-09",
+      "tmdb_id": 1241983,
+      "imdb_id": "tt29768334",
+      "title": "Train Dreams",
+      "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
-        "Thriller",
         "Drama"
       ],
       "production_countries": [
-        "US",
-        "IT"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Frenesy Film",
-        "Imagine Entertainment",
-        "Big Indie Pictures",
-        "Amazon MGM Studios"
+        "Kamala Films",
+        "Black Bear Pictures"
       ],
-      "runtime": 139,
-      "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light."
+      "runtime": 102,
+      "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
     },
     "commercial": {
-      "budget": 80000000,
-      "revenue": 9299531,
+      "budget": 10000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.116,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/x0J0OMKwnX1eeVRQWeb2D05yd3K.jpg",
+        "backdrop_path": "/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
         "belongs_to_collection": null,
-        "budget": 80000000,
+        "budget": 10000000,
         "genres": [
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
           {
             "id": 18,
             "name": "Drama"
           }
         ],
-        "homepage": "https://www.amazon.com/salp/afterthehunt",
-        "id": 1265063,
-        "imdb_id": "tt32159989",
+        "homepage": "https://www.netflix.com/title/82020378",
+        "id": 1241983,
+        "imdb_id": "tt29768334",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "After the Hunt",
-        "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
-        "popularity": 55.5607,
-        "poster_path": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+        "original_title": "Train Dreams",
+        "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+        "popularity": 67.5375,
+        "poster_path": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
         "production_companies": [
           {
-            "id": 46344,
-            "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
-            "name": "Frenesy Film",
-            "origin_country": "IT"
-          },
-          {
-            "id": 23,
-            "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
-            "name": "Imagine Entertainment",
+            "id": 3540,
+            "logo_path": null,
+            "name": "Kamala Films",
             "origin_country": "US"
           },
           {
-            "id": 6831,
-            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
-            "name": "Big Indie Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 210099,
-            "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-            "name": "Amazon MGM Studios",
+            "id": 22146,
+            "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+            "name": "Black Bear Pictures",
             "origin_country": "US"
           }
         ],
@@ -11029,79 +11010,70 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "IT",
-            "name": "Italy"
           }
         ],
-        "release_date": "2025-10-09",
-        "revenue": 9299531,
-        "runtime": 139,
+        "release_date": "2025-11-05",
+        "revenue": 0,
+        "runtime": 102,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
           }
         ],
         "status": "Released",
-        "tagline": "Not everything is supposed to make you comfortable.",
-        "title": "After the Hunt",
+        "tagline": "",
+        "title": "Train Dreams",
         "video": false,
-        "vote_average": 6.2,
-        "vote_count": 152
+        "vote_average": 8.694,
+        "vote_count": 18
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.2,
+      "tmdb_vote_average": 8.694,
       "omdb": {
-        "Title": "After the Hunt",
+        "Title": "Train Dreams",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "10 Oct 2025",
-        "Runtime": "138 min",
-        "Genre": "Crime, Drama, Thriller",
-        "Director": "Luca Guadagnino",
-        "Writer": "Nora Garrett",
-        "Actors": "Julia Roberts, Andrew Garfield, Ayo Edebiri",
-        "Plot": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues and a dark secret from her own past threatens to come to light.",
+        "Rated": "PG-13",
+        "Released": "21 Nov 2025",
+        "Runtime": "102 min",
+        "Genre": "Drama",
+        "Director": "Clint Bentley",
+        "Writer": "Clint Bentley, Denis Johnson, Greg Kwedar",
+        "Actors": "Kerry Condon, Felicity Jones, Joel Edgerton",
+        "Plot": "Based on Denis Johnson's beloved novella, Train Dreams is the moving portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly-changing America of the early 20th Century.",
         "Language": "English",
-        "Country": "United States, Italy",
-        "Awards": "1 win & 1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States",
+        "Awards": "1 win & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "Value": "7.4/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "38%"
+            "Value": "97%"
           },
           {
             "Source": "Metacritic",
-            "Value": "52/100"
+            "Value": "86/100"
           }
         ],
-        "Metascore": "52",
-        "imdbRating": "6.3",
-        "imdbVotes": "3,467",
-        "imdbID": "tt32159989",
+        "Metascore": "86",
+        "imdbRating": "7.4",
+        "imdbVotes": "365",
+        "imdbID": "tt29768334",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$2,133,914",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11114,267 +11086,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 6,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "After the Hunt": 4,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "After the Hunt": 2,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "After the Hunt": 3,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "After the Hunt": 14,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "After the Hunt": 8,
+            "Train Dreams": 6,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "After the Hunt": 4,
+            "Train Dreams": 11,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "After the Hunt": 4,
+            "Train Dreams": 8,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "After the Hunt": 6,
+            "Train Dreams": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "After the Hunt": 5,
+            "Train Dreams": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "After the Hunt": 23,
+            "Train Dreams": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "After the Hunt": 16,
+            "Train Dreams": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "After the Hunt": 14,
+            "Train Dreams": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "After the Hunt": 9,
+            "Train Dreams": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "After the Hunt": 17,
+            "Train Dreams": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "After the Hunt": 23,
+            "Train Dreams": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "After the Hunt": 35,
+            "Train Dreams": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "After the Hunt": 100,
+            "Train Dreams": 10,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "After the Hunt": 78,
+            "Train Dreams": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "After the Hunt": 35,
+            "Train Dreams": 12,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "After the Hunt": 21,
+            "Train Dreams": 31,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "After the Hunt": 13,
+            "Train Dreams": 42,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "After the Hunt": 61,
+            "Train Dreams": 100,
             "isPartial": true
           }
         ]
@@ -11394,78 +11366,73 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "kqgqIqzfju2xiRgzQ8F9BmEhtAU",
-          "id": "A8R6DMlDtxk",
+          "etag": "jmRWZGG5uGjtlR6JOVEJHklgZj4",
+          "id": "6voWeM-xQ4Y",
           "snippet": {
-            "publishedAt": "2025-07-16T13:06:16Z",
-            "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
-            "title": "After The Hunt | Official Trailer",
-            "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts",
+            "publishedAt": "2025-11-20T17:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "Train Dreams | Final Trailer | Netflix",
+            "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/default.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Amazon MGM Studios",
+            "channelTitle": "Netflix",
             "tags": [
-              "MGM",
-              "MGM Studios",
-              "Metro-Goldwyn- Mayer",
-              "Metro Pictures Corporations",
-              "Goldwyn Pictures",
-              "Louis B. Mayer Pictures",
-              "MGM Pictures",
-              "United Artists",
-              "Metro MGM/UA",
-              "Amazon MGM",
-              "Amazon MGM Studios",
-              "Amazon",
-              "After The Hunt Official Trailer",
-              "After The Hunt Trailer",
-              "After The Hunt",
+              "Clint Bentley",
+              "Denis Johnson",
+              "Drama",
+              "Felicity Jones",
+              "Greg Kwedar",
+              "Joel Edgerton",
+              "Kerry Condon",
+              "Netflix",
+              "Netflix Films",
+              "Sing Sing",
+              "Sundance",
+              "Sundance Film Festival 2025",
+              "TIFF",
+              "Toronto International Film Festival",
               "Trailer",
-              "Official Trailer",
-              "Julia Roberts",
-              "Andrew Garfield",
-              "Ayo Edebiri",
-              "New Movies 2025"
+              "William H. Macy"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "After The Hunt | Official Trailer",
-              "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts"
+              "title": "Train Dreams | Final Trailer | Netflix",
+              "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "10359433",
-            "likeCount": "25570",
+            "viewCount": "188547",
+            "likeCount": "1799",
             "favoriteCount": "0",
-            "commentCount": "1346"
+            "commentCount": "95"
           }
         }
       ],
@@ -11476,20 +11443,18 @@
     },
     "creative": {
       "director": [
-        "Luca Guadagnino"
+        "Clint Bentley"
       ],
-      "writers": [
-        "Nora Garrett"
-      ],
+      "writers": [],
       "cast_top": [
-        "Julia Roberts",
-        "Ayo Edebiri",
-        "Andrew Garfield",
-        "Michael Stuhlbarg",
-        "Chloë Sevigny",
-        "Lio Mehiel",
-        "David Leiber",
-        "Thaddea Graham"
+        "Joel Edgerton",
+        "Felicity Jones",
+        "Kerry Condon",
+        "William H. Macy",
+        "Will Patton",
+        "Paul Schneider",
+        "Clifton Collins Jr.",
+        "Alfred Hsing"
       ],
       "star_power": {
         "actor_count": 8
@@ -12316,89 +12281,84 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 798645,
-      "imdb_id": "tt14107334",
-      "title": "The Running Man",
-      "release_date": "2025-11-11",
+      "tmdb_id": 1117857,
+      "imdb_id": "tt27604215",
+      "title": "In Your Dreams",
+      "release_date": "2025-11-07",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Thriller",
-        "Science Fiction"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ],
       "production_countries": [
-        "US",
-        "GB"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Paramount Pictures",
-        "Complete Fiction",
-        "Genre Films",
-        "Domain Entertainment"
+        "Kuku Studios",
+        "Netflix Animation Studios"
       ],
-      "runtime": 133,
-      "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall."
+      "runtime": 87,
+      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
     },
     "commercial": {
-      "budget": 110000000,
-      "revenue": 28200000,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.256,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/docDyCJrhPoFXAckB1aOiIv9Mz0.jpg",
+        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
         "belongs_to_collection": null,
-        "budget": 110000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 16,
+            "name": "Animation"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 10751,
+            "name": "Family"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.runningmanmovie.com",
-        "id": 798645,
-        "imdb_id": "tt14107334",
+        "homepage": "https://www.netflix.com/title/80992977",
+        "id": 1117857,
+        "imdb_id": "tt27604215",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Running Man",
-        "overview": "Desperate to save his sick daughter, working-class Ben Richards is convinced by The Running Man's charming but ruthless producer to enter the deadly competition game as a last resort. But Ben's defiance, instincts, and grit turn him into an unexpected fan favorite - and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
-        "popularity": 70.3567,
-        "poster_path": "/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+        "original_title": "In Your Dreams",
+        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "popularity": 88.8244,
+        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
         "production_companies": [
           {
-            "id": 4,
-            "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
-            "name": "Paramount Pictures",
+            "id": 144322,
+            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
+            "name": "Kuku Studios",
             "origin_country": "US"
           },
           {
-            "id": 131464,
-            "logo_path": "/9Gk6sEs92Eshc1mZm4r2JEebran.png",
-            "name": "Complete Fiction",
-            "origin_country": "GB"
-          },
-          {
-            "id": 28788,
-            "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
-            "name": "Genre Films",
-            "origin_country": "US"
-          },
-          {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 171251,
+            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+            "name": "Netflix Animation Studios",
             "origin_country": "US"
           }
         ],
@@ -12406,15 +12366,11 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 28200000,
-        "runtime": 133,
+        "release_date": "2025-11-07",
+        "revenue": 0,
+        "runtime": 87,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -12423,57 +12379,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "Hunt him down.",
-        "title": "The Running Man",
+        "tagline": "The adventure of a nighttime.",
+        "title": "In Your Dreams",
         "video": false,
-        "vote_average": 6.8,
-        "vote_count": 142
+        "vote_average": 7.3,
+        "vote_count": 84
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.8,
+      "tmdb_vote_average": 7.3,
       "omdb": {
-        "Title": "The Running Man",
+        "Title": "In Your Dreams",
         "Year": "2025",
-        "Rated": "R",
+        "Rated": "PG",
         "Released": "14 Nov 2025",
-        "Runtime": "133 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Edgar Wright",
-        "Writer": "Stephen King, Michael Bacall, Edgar Wright",
-        "Actors": "Glen Powell, Alyssa Benn, Sienna Benn",
-        "Plot": "A man joins a game show in which contestants, allowed to go anywhere in the world, are pursued by \"hunters\" hired to kill them.",
+        "Runtime": "90 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Alexander Woo, Erik Benson",
+        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
+        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
+        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
         "Language": "English",
-        "Country": "United Kingdom, United States",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NjU4OTAtNTEyMS00ZjBiLTg0ZjMtOGJiMGJhNjQ3MzYxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.8/10"
+            "Value": "6.5/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "66%"
+            "Value": "82%"
           },
           {
             "Source": "Metacritic",
-            "Value": "56/100"
+            "Value": "59/100"
           }
         ],
-        "Metascore": "56",
-        "imdbRating": "6.8",
-        "imdbVotes": "12,930",
-        "imdbID": "tt14107334",
+        "Metascore": "59",
+        "imdbRating": "6.5",
+        "imdbVotes": "1,343",
+        "imdbID": "tt27604215",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$16,495,564",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_running_man_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12486,267 +12442,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-17T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2024-11-24T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 27,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Running Man": 6,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Running Man": 4,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Running Man": 5,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Running Man": 27,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Running Man": 10,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Running Man": 8,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Running Man": 8,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Running Man": 9,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Running Man": 8,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Running Man": 8,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Running Man": 8,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Running Man": 9,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Running Man": 10,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Running Man": 13,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Running Man": 11,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Running Man": 10,
+            "In Your Dreams": 25,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Running Man": 10,
+            "In Your Dreams": 25,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Running Man": 11,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Running Man": 16,
+            "In Your Dreams": 24,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Running Man": 17,
+            "In Your Dreams": 24,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Running Man": 22,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Running Man": 38,
+            "In Your Dreams": 25,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Running Man": 100,
+            "In Your Dreams": 56,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Running Man": 89,
+            "In Your Dreams": 100,
             "isPartial": true
           }
         ]
@@ -12766,55 +12722,109 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "QpCWiUqr4ZahOoyZ0MEJP6fuslA",
-          "id": "KD18ddeFuyM",
+          "etag": "_ukwtvX_NnVvaHkxUnbCJ4yUWhE",
+          "id": "IG1p9fhNIks",
           "snippet": {
-            "publishedAt": "2025-07-01T13:00:03Z",
-            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
-            "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-            "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "publishedAt": "2025-06-12T13:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "In Your Dreams | Official Teaser | Netflix",
+            "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/default.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/KD18ddeFuyM/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Paramount Pictures",
-            "categoryId": "1",
+            "channelTitle": "Netflix",
+            "tags": [
+              "2025",
+              "Netflix",
+              "action",
+              "adventure",
+              "animated",
+              "animation",
+              "announcement",
+              "baloney",
+              "best",
+              "binge",
+              "cartoon",
+              "comedic",
+              "comedy",
+              "commercial",
+              "craig robinson",
+              "cristin milioti",
+              "debut",
+              "disney",
+              "dreams",
+              "dreamworks",
+              "eurythmics",
+              "family",
+              "film",
+              "funny",
+              "heart",
+              "home",
+              "kids",
+              "movie",
+              "new",
+              "nightmare",
+              "now",
+              "official",
+              "online",
+              "parents",
+              "pixar",
+              "play",
+              "premiere",
+              "sandman",
+              "simu liu",
+              "sony",
+              "stream",
+              "sweet",
+              "teaser",
+              "theaters",
+              "tony",
+              "top",
+              "trailer",
+              "tv",
+              "video",
+              "watch",
+              "wicked",
+              "zootopia"
+            ],
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Running Man | Official Trailer (2025 Movie) - Edgar Wright, Glen Powell",
-              "description": "Millions Hunt. One Runs. Everyone Watches. Watch the Official Trailer for The #RunningManMovie – Only in theatres November 14\n\n​In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.\n\nConnect with #RunningManMovie\nInstagram: https://www.instagram.com/RunningManMovie\nX: https://x.com/RunningManMovie\nFacebook: https://www.facebook.com/RunningManMovie\nTikTok: https://www.tiktok.com/@RunningManMovie\nThreads: https://www.threads.net/@RunningManMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n \nConnect with Paramount Pictures Online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+              "title": "In Your Dreams | Official Teaser | Netflix",
+              "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "15517963",
-            "likeCount": "99070",
+            "viewCount": "2832599",
+            "likeCount": "11562",
             "favoriteCount": "0",
-            "commentCount": "12235"
+            "commentCount": "787"
           }
         }
       ],
@@ -12825,18 +12835,18 @@
     },
     "creative": {
       "director": [
-        "Edgar Wright"
+        "Alex Woo"
       ],
       "writers": [],
       "cast_top": [
-        "Glen Powell",
-        "Josh Brolin",
-        "Michael Cera",
-        "Colman Domingo",
-        "Lee Pace",
-        "Jayme Lawson",
-        "William H. Macy",
-        "Emilia Jones"
+        "Jolie Hoang-Rappaport",
+        "Elias Janssen",
+        "Simu Liu",
+        "Craig Robinson",
+        "Cristin Milioti",
+        "Gia Carides",
+        "Omid Djalili",
+        "SungWon Cho"
       ],
       "star_power": {
         "actor_count": 8
