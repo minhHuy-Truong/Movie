@@ -108,12 +108,12 @@
         "tagline": "Deck the halls, dodge the bad guys.",
         "title": "The Family Plan 2",
         "video": false,
-        "vote_average": 6.667,
-        "vote_count": 120
+        "vote_average": 6.639,
+        "vote_count": 125
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.667,
+      "tmdb_vote_average": 6.639,
       "omdb": {
         "Title": "The Family Plan 2",
         "Year": "2025",
@@ -160,12 +160,12 @@
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -210,27 +210,27 @@
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -240,7 +240,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -250,17 +250,17 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -290,17 +290,17 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -365,27 +365,27 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Family Plan 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Family Plan 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
             "The Family Plan 2": 5,
             "isPartial": false
           },
           {
+            "date": "2025-09-21T00:00:00",
+            "The Family Plan 2": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "The Family Plan 2": 6,
+            "isPartial": false
+          },
+          {
             "date": "2025-10-05T00:00:00",
-            "The Family Plan 2": 4,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Family Plan 2": 7,
+            "The Family Plan 2": 8,
             "isPartial": false
           },
           {
@@ -400,17 +400,17 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Family Plan 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
             "The Family Plan 2": 8,
             "isPartial": false
           },
           {
+            "date": "2025-11-09T00:00:00",
+            "The Family Plan 2": 9,
+            "isPartial": false
+          },
+          {
             "date": "2025-11-16T00:00:00",
-            "The Family Plan 2": 39,
+            "The Family Plan 2": 44,
             "isPartial": false
           },
           {
@@ -435,7 +435,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "SFUMrfgupRlMzIUc92PWL4Q4EZY",
+          "etag": "PmexT9-cb1BAE6bc_Pho_DseBFg",
           "id": "dqolYtJGuf4",
           "snippet": {
             "publishedAt": "2025-10-14T12:59:46Z",
@@ -510,8 +510,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "5546486",
-            "likeCount": "21133",
+            "viewCount": "5555287",
+            "likeCount": "21164",
             "favoriteCount": "0",
             "commentCount": "651"
           }
@@ -1460,12 +1460,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.702,
-        "vote_count": 191
+        "vote_average": 6.7,
+        "vote_count": 197
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.702,
+      "tmdb_vote_average": 6.7,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -1527,7 +1527,7 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1542,7 +1542,7 @@
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1577,7 +1577,7 @@
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1592,7 +1592,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1602,7 +1602,7 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1632,7 +1632,7 @@
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1642,7 +1642,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 8,
+            "Wicked: For Good": 10,
             "isPartial": false
           },
           {
@@ -1667,7 +1667,7 @@
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 0,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
@@ -1717,12 +1717,12 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 1,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 4,
+            "Wicked: For Good": 5,
             "isPartial": false
           },
           {
@@ -1732,7 +1732,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 6,
+            "Wicked: For Good": 7,
             "isPartial": false
           },
           {
@@ -1747,22 +1747,22 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 5,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 9,
+            "Wicked: For Good": 10,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 13,
+            "Wicked: For Good": 16,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 57,
+            "Wicked: For Good": 65,
             "isPartial": false
           },
           {
@@ -1787,7 +1787,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "zjkNECpLdFhEHzR741kspMwLta4",
+          "etag": "msg3TKjtDJm5dNPi9gcPS_xdixU",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -1832,10 +1832,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13070389",
-            "likeCount": "295999",
+            "viewCount": "13084125",
+            "likeCount": "296079",
             "favoriteCount": "0",
-            "commentCount": "15021"
+            "commentCount": "15027"
           }
         }
       ],
@@ -2770,12 +2770,12 @@
         "tagline": "",
         "title": "Train Dreams",
         "video": false,
-        "vote_average": 7.704,
-        "vote_count": 71
+        "vote_average": 7.7,
+        "vote_count": 73
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.704,
+      "tmdb_vote_average": 7.7,
       "omdb": {
         "Title": "Train Dreams",
         "Year": "2025",
@@ -2970,7 +2970,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Train Dreams": 0,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -2980,7 +2980,7 @@
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Train Dreams": 0,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -2995,7 +2995,7 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Train Dreams": 0,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -3035,7 +3035,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Train Dreams": 1,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
@@ -3075,17 +3075,17 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Train Dreams": 5,
+            "Train Dreams": 6,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Train Dreams": 7,
+            "Train Dreams": 8,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Train Dreams": 23,
+            "Train Dreams": 26,
             "isPartial": false
           },
           {
@@ -3110,36 +3110,36 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "AgWNooIhuMJCQ6uZ71i24_AbY0o",
-          "id": "6voWeM-xQ4Y",
+          "etag": "gsj-iBlUtoxGJ2VF1jztXsMa5b8",
+          "id": "_Nk8TrBHOrA",
           "snippet": {
-            "publishedAt": "2025-11-20T17:00:00Z",
+            "publishedAt": "2025-10-08T15:30:00Z",
             "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Train Dreams | Final Trailer | Netflix",
-            "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+            "title": "Train Dreams | Official Trailer | Netflix",
+            "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
@@ -3167,16 +3167,16 @@
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Train Dreams | Final Trailer | Netflix",
-              "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
+              "title": "Train Dreams | Official Trailer | Netflix",
+              "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "364681",
-            "likeCount": "2400",
+            "viewCount": "6867503",
+            "likeCount": "11389",
             "favoriteCount": "0",
-            "commentCount": "153"
+            "commentCount": "460"
           }
         }
       ],
@@ -4025,81 +4025,79 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1054867,
-      "imdb_id": "tt30144839",
-      "title": "One Battle After Another",
-      "release_date": "2025-09-23",
+      "tmdb_id": 1265063,
+      "imdb_id": "tt32159989",
+      "title": "After the Hunt",
+      "release_date": "2025-10-09",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Thriller",
-        "Crime"
+        "Drama"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "IT"
       ],
       "language": "en",
       "studio_distributor": [
-        "Warner Bros. Pictures",
-        "Ghoulardi Film Company",
-        "Domain Entertainment"
+        "Frenesy Film",
+        "Imagine Entertainment",
+        "Big Indie Pictures",
+        "Amazon MGM Studios"
       ],
-      "runtime": 162,
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
+      "runtime": 139,
+      "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light."
     },
     "commercial": {
-      "budget": 130000000,
-      "revenue": 201175005,
+      "budget": 80000000,
+      "revenue": 9299531,
       "opening_weekend": null,
-      "roi": 1.548,
+      "roi": 0.116,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "backdrop_path": "/sJxLi807vafkcFtHsnTe080Emt0.jpg",
         "belongs_to_collection": null,
-        "budget": 130000000,
+        "budget": 80000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://www.onebattleafteranothermovie.com",
-        "id": 1054867,
-        "imdb_id": "tt30144839",
+        "homepage": "https://www.amazon.com/salp/afterthehunt",
+        "id": 1265063,
+        "imdb_id": "tt32159989",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "One Battle After Another",
-        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 274.793,
-        "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "original_title": "After the Hunt",
+        "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+        "popularity": 86.6091,
+        "poster_path": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
         "production_companies": [
           {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
+            "id": 46344,
+            "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+            "name": "Frenesy Film",
+            "origin_country": "IT"
+          },
+          {
+            "id": 23,
+            "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+            "name": "Imagine Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 178,
-            "logo_path": null,
-            "name": "Ghoulardi Film Company",
+            "id": 6831,
+            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+            "name": "Big Indie Pictures",
             "origin_country": "US"
           },
           {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 210099,
+            "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+            "name": "Amazon MGM Studios",
             "origin_country": "US"
           }
         ],
@@ -4107,11 +4105,15 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "IT",
+            "name": "Italy"
           }
         ],
-        "release_date": "2025-09-23",
-        "revenue": 201175005,
-        "runtime": 162,
+        "release_date": "2025-10-09",
+        "revenue": 9299531,
+        "runtime": 139,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -4119,68 +4121,63 @@
             "name": "English"
           },
           {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Telugu",
-            "iso_639_1": "te",
-            "name": "తెలుగు"
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
           }
         ],
         "status": "Released",
-        "tagline": "Some search for battle, others are born into it...",
-        "title": "One Battle After Another",
+        "tagline": "Not everything is supposed to make you comfortable.",
+        "title": "After the Hunt",
         "video": false,
-        "vote_average": 7.492,
-        "vote_count": 1592
+        "vote_average": 6.0,
+        "vote_count": 196
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.492,
+      "tmdb_vote_average": 6.0,
       "omdb": {
-        "Title": "One Battle After Another",
+        "Title": "After the Hunt",
         "Year": "2025",
         "Rated": "R",
-        "Released": "26 Sep 2025",
-        "Runtime": "161 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Paul Thomas Anderson",
-        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
-        "Actors": "Teyana Taylor, Leonardo DiCaprio, Regina Hall",
-        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-        "Language": "English, Spanish",
-        "Country": "United States",
-        "Awards": "4 wins & 8 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Released": "10 Oct 2025",
+        "Runtime": "138 min",
+        "Genre": "Crime, Drama, Thriller",
+        "Director": "Luca Guadagnino",
+        "Writer": "Nora Garrett",
+        "Actors": "Julia Roberts, Andrew Garfield, Ayo Edebiri",
+        "Plot": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues and a dark secret from her own past threatens to come to light.",
+        "Language": "English",
+        "Country": "United States, Italy",
+        "Awards": "1 win & 1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "8.3/10"
+            "Value": "6.3/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "95%"
+            "Value": "38%"
           },
           {
             "Source": "Metacritic",
-            "Value": "95/100"
+            "Value": "52/100"
           }
         ],
-        "Metascore": "95",
-        "imdbRating": "8.3",
-        "imdbVotes": "137,751",
-        "imdbID": "tt30144839",
+        "Metascore": "52",
+        "imdbRating": "6.3",
+        "imdbVotes": "3,467",
+        "imdbID": "tt32159989",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$69,629,424",
+        "BoxOffice": "$2,133,914",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4193,267 +4190,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "One Battle After Another": 3,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "One Battle After Another": 4,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "One Battle After Another": 2,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "One Battle After Another": 0,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 8,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
+            "After the Hunt": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "One Battle After Another": 1,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "One Battle After Another": 2,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "One Battle After Another": 2,
+            "After the Hunt": 13,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
+            "After the Hunt": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "One Battle After Another": 12,
+            "After the Hunt": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 25,
+            "After the Hunt": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 75,
+            "After the Hunt": 10,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "One Battle After Another": 100,
+            "After the Hunt": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 67,
+            "After the Hunt": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 47,
+            "After the Hunt": 57,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 32,
+            "After the Hunt": 43,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "One Battle After Another": 23,
+            "After the Hunt": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "One Battle After Another": 19,
+            "After the Hunt": 12,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 27,
+            "After the Hunt": 7,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 35,
+            "After the Hunt": 41,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "One Battle After Another": 34,
+            "After the Hunt": 100,
             "isPartial": true
           }
         ]
@@ -4473,75 +4470,78 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "m9w4pmQcFjo5HV288KRiH1AUjug",
-          "id": "kQUPdVxZNPk",
+          "etag": "Da2fdOTSwg9lHfOhw9uwpuzD2Ts",
+          "id": "A8R6DMlDtxk",
           "snippet": {
-            "publishedAt": "2025-07-24T12:30:06Z",
-            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
-            "title": "One Battle After Another | Official Trailer 2",
-            "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025.",
+            "publishedAt": "2025-07-16T13:06:16Z",
+            "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
+            "title": "After The Hunt | Official Trailer",
+            "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/default.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Warner Bros.",
+            "channelTitle": "Amazon MGM Studios",
             "tags": [
-              "Benicio Del Toro",
-              "Chase Infiniti",
-              "ComingSoon",
-              "Crime",
-              "Drama",
-              "Leonardo DiCaprio",
-              "Paul Thomas Anderson",
-              "Regina Hall",
-              "Sean Penn",
-              "September2025",
-              "Teyana Taylor",
-              "Thriller",
+              "MGM",
+              "MGM Studios",
+              "Metro-Goldwyn- Mayer",
+              "Metro Pictures Corporations",
+              "Goldwyn Pictures",
+              "Louis B. Mayer Pictures",
+              "MGM Pictures",
+              "United Artists",
+              "Metro MGM/UA",
+              "Amazon MGM",
+              "Amazon MGM Studios",
+              "Amazon",
+              "After The Hunt Official Trailer",
+              "After The Hunt Trailer",
+              "After The Hunt",
               "Trailer",
-              "Trailer2025",
-              "WB",
-              "WBD",
-              "WarnerBros",
-              "WarnerBrothers"
+              "Official Trailer",
+              "Julia Roberts",
+              "Andrew Garfield",
+              "Ayo Edebiri",
+              "New Movies 2025"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "One Battle After Another | Official Trailer 2",
-              "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025."
+              "title": "After The Hunt | Official Trailer",
+              "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19715090",
-            "likeCount": "54224",
+            "viewCount": "10413296",
+            "likeCount": "25710",
             "favoriteCount": "0",
-            "commentCount": "3491"
+            "commentCount": "1376"
           }
         }
       ],
@@ -4552,20 +4552,20 @@
     },
     "creative": {
       "director": [
-        "Paul Thomas Anderson"
+        "Luca Guadagnino"
       ],
       "writers": [
-        "Paul Thomas Anderson"
+        "Nora Garrett"
       ],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Sean Penn",
-        "Chase Infiniti",
-        "Benicio del Toro",
-        "Regina Hall",
-        "Teyana Taylor",
-        "Wood Harris",
-        "Tony Goldwyn"
+        "Julia Roberts",
+        "Ayo Edebiri",
+        "Andrew Garfield",
+        "Michael Stuhlbarg",
+        "Chloë Sevigny",
+        "Lio Mehiel",
+        "David Leiber",
+        "Thaddea Graham"
       ],
       "star_power": {
         "actor_count": 8
@@ -5392,79 +5392,81 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 1265063,
-      "imdb_id": "tt32159989",
-      "title": "After the Hunt",
-      "release_date": "2025-10-09",
+      "tmdb_id": 1054867,
+      "imdb_id": "tt30144839",
+      "title": "One Battle After Another",
+      "release_date": "2025-09-23",
       "release_year": "2025",
       "genres": [
-        "Drama"
+        "Action",
+        "Thriller",
+        "Crime"
       ],
       "production_countries": [
-        "US",
-        "IT"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Frenesy Film",
-        "Imagine Entertainment",
-        "Big Indie Pictures",
-        "Amazon MGM Studios"
+        "Warner Bros. Pictures",
+        "Ghoulardi Film Company",
+        "Domain Entertainment"
       ],
-      "runtime": 139,
-      "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light."
+      "runtime": 162,
+      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
     },
     "commercial": {
-      "budget": 80000000,
-      "revenue": 9299531,
+      "budget": 130000000,
+      "revenue": 201175005,
       "opening_weekend": null,
-      "roi": 0.116,
+      "roi": 1.548,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/sJxLi807vafkcFtHsnTe080Emt0.jpg",
+        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
         "belongs_to_collection": null,
-        "budget": 80000000,
+        "budget": 130000000,
         "genres": [
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
           }
         ],
-        "homepage": "https://www.amazon.com/salp/afterthehunt",
-        "id": 1265063,
-        "imdb_id": "tt32159989",
+        "homepage": "https://www.onebattleafteranothermovie.com",
+        "id": 1054867,
+        "imdb_id": "tt30144839",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "After the Hunt",
-        "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
-        "popularity": 84.7987,
-        "poster_path": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+        "original_title": "One Battle After Another",
+        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+        "popularity": 274.793,
+        "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "production_companies": [
           {
-            "id": 46344,
-            "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
-            "name": "Frenesy Film",
-            "origin_country": "IT"
-          },
-          {
-            "id": 23,
-            "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
-            "name": "Imagine Entertainment",
+            "id": 174,
+            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+            "name": "Warner Bros. Pictures",
             "origin_country": "US"
           },
           {
-            "id": 6831,
-            "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
-            "name": "Big Indie Pictures",
+            "id": 178,
+            "logo_path": null,
+            "name": "Ghoulardi Film Company",
             "origin_country": "US"
           },
           {
-            "id": 210099,
-            "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
-            "name": "Amazon MGM Studios",
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
             "origin_country": "US"
           }
         ],
@@ -5472,79 +5474,80 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "IT",
-            "name": "Italy"
           }
         ],
-        "release_date": "2025-10-09",
-        "revenue": 9299531,
-        "runtime": 139,
+        "release_date": "2025-09-23",
+        "revenue": 201175005,
+        "runtime": 162,
         "spoken_languages": [
-          {
-            "english_name": "German",
-            "iso_639_1": "de",
-            "name": "Deutsch"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Spanish",
+            "iso_639_1": "es",
+            "name": "Español"
+          },
+          {
+            "english_name": "Telugu",
+            "iso_639_1": "te",
+            "name": "తెలుగు"
           }
         ],
         "status": "Released",
-        "tagline": "Not everything is supposed to make you comfortable.",
-        "title": "After the Hunt",
+        "tagline": "Some search for battle, others are born into it...",
+        "title": "One Battle After Another",
         "video": false,
-        "vote_average": 6.046,
-        "vote_count": 196
+        "vote_average": 7.491,
+        "vote_count": 1601
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.046,
+      "tmdb_vote_average": 7.491,
       "omdb": {
-        "Title": "After the Hunt",
+        "Title": "One Battle After Another",
         "Year": "2025",
         "Rated": "R",
-        "Released": "10 Oct 2025",
-        "Runtime": "138 min",
-        "Genre": "Crime, Drama, Thriller",
-        "Director": "Luca Guadagnino",
-        "Writer": "Nora Garrett",
-        "Actors": "Julia Roberts, Andrew Garfield, Ayo Edebiri",
-        "Plot": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues and a dark secret from her own past threatens to come to light.",
-        "Language": "English",
-        "Country": "United States, Italy",
-        "Awards": "1 win & 1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzYyOTAwODEtZTY4My00MjVkLWJjYjUtMjE2N2UzYTE3MTY3XkEyXkFqcGc@._V1_SX300.jpg",
+        "Released": "26 Sep 2025",
+        "Runtime": "161 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Paul Thomas Anderson",
+        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
+        "Actors": "Teyana Taylor, Leonardo DiCaprio, Regina Hall",
+        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
+        "Language": "English, Spanish",
+        "Country": "United States",
+        "Awards": "4 wins & 8 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "Value": "8.3/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "38%"
+            "Value": "95%"
           },
           {
             "Source": "Metacritic",
-            "Value": "52/100"
+            "Value": "95/100"
           }
         ],
-        "Metascore": "52",
-        "imdbRating": "6.3",
-        "imdbVotes": "3,467",
-        "imdbID": "tt32159989",
+        "Metascore": "95",
+        "imdbRating": "8.3",
+        "imdbVotes": "137,751",
+        "imdbID": "tt30144839",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$2,133,914",
+        "BoxOffice": "$69,629,424",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/after_the_hunt\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5557,267 +5560,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "After the Hunt": 2,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "After the Hunt": 2,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "After the Hunt": 1,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "After the Hunt": 7,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "After the Hunt": 4,
+            "One Battle After Another": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "After the Hunt": 2,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "After the Hunt": 2,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "After the Hunt": 3,
+            "One Battle After Another": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "After the Hunt": 3,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "After the Hunt": 11,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "After the Hunt": 8,
+            "One Battle After Another": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "After the Hunt": 7,
+            "One Battle After Another": 12,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "After the Hunt": 4,
+            "One Battle After Another": 25,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "After the Hunt": 9,
+            "One Battle After Another": 74,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "After the Hunt": 12,
+            "One Battle After Another": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "After the Hunt": 17,
+            "One Battle After Another": 65,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "After the Hunt": 49,
+            "One Battle After Another": 46,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "After the Hunt": 39,
+            "One Battle After Another": 31,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "After the Hunt": 17,
+            "One Battle After Another": 23,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "After the Hunt": 10,
+            "One Battle After Another": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "After the Hunt": 7,
+            "One Battle After Another": 26,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "After the Hunt": 38,
+            "One Battle After Another": 36,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "After the Hunt": 100,
+            "One Battle After Another": 31,
             "isPartial": true
           }
         ]
@@ -5837,78 +5840,75 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "bLOfMG5bP4aNSLFnsGlsTHsadn4",
-          "id": "A8R6DMlDtxk",
+          "etag": "Z0REXLZcKKgkzg3vqtklssfKMLA",
+          "id": "kQUPdVxZNPk",
           "snippet": {
-            "publishedAt": "2025-07-16T13:06:16Z",
-            "channelId": "UCf5CjDJvsFvtVIhkfmKAwAA",
-            "title": "After The Hunt | Official Trailer",
-            "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts",
+            "publishedAt": "2025-07-24T12:30:06Z",
+            "channelId": "UCjmJDM5pRKbUlVIzDYYWb6g",
+            "title": "One Battle After Another | Official Trailer 2",
+            "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/default.jpg",
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/A8R6DMlDtxk/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/kQUPdVxZNPk/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Amazon MGM Studios",
+            "channelTitle": "Warner Bros.",
             "tags": [
-              "MGM",
-              "MGM Studios",
-              "Metro-Goldwyn- Mayer",
-              "Metro Pictures Corporations",
-              "Goldwyn Pictures",
-              "Louis B. Mayer Pictures",
-              "MGM Pictures",
-              "United Artists",
-              "Metro MGM/UA",
-              "Amazon MGM",
-              "Amazon MGM Studios",
-              "Amazon",
-              "After The Hunt Official Trailer",
-              "After The Hunt Trailer",
-              "After The Hunt",
+              "Benicio Del Toro",
+              "Chase Infiniti",
+              "ComingSoon",
+              "Crime",
+              "Drama",
+              "Leonardo DiCaprio",
+              "Paul Thomas Anderson",
+              "Regina Hall",
+              "Sean Penn",
+              "September2025",
+              "Teyana Taylor",
+              "Thriller",
               "Trailer",
-              "Official Trailer",
-              "Julia Roberts",
-              "Andrew Garfield",
-              "Ayo Edebiri",
-              "New Movies 2025"
+              "Trailer2025",
+              "WB",
+              "WBD",
+              "WarnerBros",
+              "WarnerBrothers"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "After The Hunt | Official Trailer",
-              "description": "Not everything is supposed to make you comfortable. Watch the trailer for #AfterTheHuntMovie, directed by Luca Guadagnino, starring Julia Roberts, Ayo Edebiri, and Andrew Garfield. See the movie only in theaters this October.  \n\nFollow @AfterTheHuntMovie on Social:\nInstagram: https://www.instagram.com/afterthehuntmovie \nFacebook: https://www.facebook.com/afterthehuntmovie \n\n#AfterTheHuntMovie\n\nAbout Amazon MGM Studios: Amazon MGM (Metro Goldwyn Mayer) is a leading entertainment company focused on the production and global distribution of film and television content across all platforms. The company owns one of the world’s deepest libraries of premium film and television content as well as the premium pay television network MGM+, which is available throughout the U.S. via cable, satellite, telco and digital distributors.  In addition, Amazon MGM has investments in numerous other television channels, digital platforms and interactive ventures and is producing premium short-form content for distribution. \n\nConnect with MGM Studios Online\nVisit the MGM Studios WEBSITE: http://amazonmgmstudios.com/\nCheck out Amazon MGM on TIKTOK: https://www.tiktok.com/@amazonmgmstudios\nFollow Amazon MGM Studios on INSTAGRAM: https://www.instagram.com/amazonmgmstudios/\nFollow Amazon MGM Studios on TWITTER: https://twitter.com/amazonmgmstudio\nLike Amazon MGM Studios on FACEBOOK: https://www.facebook.com/AmazonMGMStudios\n\nAfter The Hunt | Official Trailer\nhttps://www.youtube.com/@AmazonMGMStudios\n\n#AmazonMGM #AfterTheHunt #JuliaRoberts"
+              "title": "One Battle After Another | Official Trailer 2",
+              "description": "No fear. #OneBattleAfterAnother only in theaters September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Sean Penn and Benicio Del Toro also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay. The producers are Oscar and BAFTA nominees Adam Somner and Sara Murphy and Anderson, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning 24 September 2025."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "10409965",
-            "likeCount": "25698",
+            "viewCount": "19719927",
+            "likeCount": "54239",
             "favoriteCount": "0",
-            "commentCount": "1377"
+            "commentCount": "3492"
           }
         }
       ],
@@ -5919,20 +5919,20 @@
     },
     "creative": {
       "director": [
-        "Luca Guadagnino"
+        "Paul Thomas Anderson"
       ],
       "writers": [
-        "Nora Garrett"
+        "Paul Thomas Anderson"
       ],
       "cast_top": [
-        "Julia Roberts",
-        "Ayo Edebiri",
-        "Andrew Garfield",
-        "Michael Stuhlbarg",
-        "Chloë Sevigny",
-        "Lio Mehiel",
-        "David Leiber",
-        "Thaddea Graham"
+        "Leonardo DiCaprio",
+        "Sean Penn",
+        "Chase Infiniti",
+        "Benicio del Toro",
+        "Regina Hall",
+        "Teyana Taylor",
+        "Wood Harris",
+        "Tony Goldwyn"
       ],
       "star_power": {
         "actor_count": 8
@@ -6872,12 +6872,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.77,
-        "vote_count": 1756
+        "vote_average": 7.771,
+        "vote_count": 1772
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.77,
+      "tmdb_vote_average": 7.771,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -6942,7 +6942,7 @@
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 5,
             "isPartial": false
           },
           {
@@ -7052,7 +7052,7 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Frankenstein": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
@@ -7067,7 +7067,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Frankenstein": 6,
+            "Frankenstein": 7,
             "isPartial": false
           },
           {
@@ -7137,7 +7137,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Frankenstein": 6,
+            "Frankenstein": 5,
             "isPartial": false
           },
           {
@@ -7177,7 +7177,7 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 47,
+            "Frankenstein": 46,
             "isPartial": false
           },
           {
@@ -7192,7 +7192,7 @@
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Frankenstein": 44,
+            "Frankenstein": 40,
             "isPartial": true
           }
         ]
@@ -7212,7 +7212,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "QdhdwFaAdAdjPUUIVuuyZC2fDRo",
+          "etag": "8Ra2YKWYrvIXKci1V0KOYKvOL0Y",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -7288,10 +7288,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12872347",
-            "likeCount": "174288",
+            "viewCount": "12878450",
+            "likeCount": "174340",
             "favoriteCount": "0",
-            "commentCount": "7470"
+            "commentCount": "7475"
           }
         }
       ],
@@ -8241,12 +8241,12 @@
         "tagline": "Zootopia will be changed furrrever...",
         "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.2,
-        "vote_count": 12
+        "vote_average": 7.3,
+        "vote_count": 13
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.2,
+      "tmdb_vote_average": 7.3,
       "omdb": {
         "Title": "Zootopia 2",
         "Year": "2025",
@@ -8368,7 +8368,7 @@
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Zootopia 2": 2,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
@@ -8378,7 +8378,7 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 3,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
@@ -8388,7 +8388,7 @@
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Zootopia 2": 2,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
@@ -8413,7 +8413,7 @@
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 10,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
@@ -8463,32 +8463,32 @@
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 18,
+            "Zootopia 2": 19,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 12,
+            "Zootopia 2": 14,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 6,
+            "Zootopia 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Zootopia 2": 6,
+            "Zootopia 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Zootopia 2": 6,
+            "Zootopia 2": 7,
             "isPartial": false
           },
           {
@@ -8498,7 +8498,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 5,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
@@ -8508,42 +8508,42 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 11,
+            "Zootopia 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 11,
+            "Zootopia 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
             "Zootopia 2": 12,
             "isPartial": false
           },
           {
+            "date": "2025-10-19T00:00:00",
+            "Zootopia 2": 13,
+            "isPartial": false
+          },
+          {
             "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 19,
+            "Zootopia 2": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Zootopia 2": 31,
+            "Zootopia 2": 35,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 46,
+            "Zootopia 2": 52,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Zootopia 2": 62,
+            "Zootopia 2": 72,
             "isPartial": false
           },
           {
@@ -8568,60 +8568,60 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "WuK-7MOzxewQqAh7bC5QmbFNqfU",
-          "id": "A-7RMaQaygI",
+          "etag": "f8ij55m8E6Znb1rbAqCo0bz1APw",
+          "id": "BjkIOU5PhyQ",
           "snippet": {
-            "publishedAt": "2025-07-30T16:00:30Z",
-            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
-            "title": "Zootopia 2 | Official Trailer (2025)",
-            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
+            "publishedAt": "2025-07-30T12:47:33Z",
+            "channelId": "UC_976xMxPgzIa290Hqtk-9g",
+            "title": "Zootopia 2 | Trailer",
+            "description": "Hopps & Wilde are BACK 🦊🐰\nGet ready for #Zootopia2, only in theaters November 26!\n\nAfter cracking the biggest case in Zootopia’s history, rookie cops Judy Hopps (voice of Ginnifer Goodwin) and Nick Wilde (voice of Jason Bateman) find their partnership isn’t as solid as they thought when Chief Bogo (voice of Idris Elba) orders them to join the Partners in Crisis counseling program. But it doesn’t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis. The trailer, poster and trailer stills are now available to download and share.\n \nWhile “Zootopia 2” introduces Gary De’Snake (voice of Ke Huy Quan), Nibbles (voice of Fortune Feimster) and quokka therapist Dr. Fuzzby (voice of Quinta Brunson), the upcoming feature film also welcomes back a herd of characters who made their debut in the Oscar®-winning film “Zootopia.” “It’s been an absolute joy to reteam with so many actors who made the first film so special, and so exciting to expand the world with our phenomenal new cast members,” said director/writer Jared Bush (chief creative officer for Walt Disney Animation Studios). “I can’t wait for audiences to see what other surprises we have in store in this brand-new adventure.”\n\nSee more from official Disney Animation:\n\nInstagram: https://www.instagram.com/disneyanimation/\nFacebook: https://www.facebook.com/DisneyAnimation\nX: https://twitter.com/disneyanimation\n\nWelcome to the official Walt Disney Animation Studios YouTube channel! There’s much from the archive that we want to share, while also giving you glimpses into our current studio--a dynamic place full of fresh voices and talent.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
+                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Entertainment Tonight",
+            "channelTitle": "Walt Disney Animation Studios",
             "tags": [
-              "Zootopia 2",
-              "Ke Huy Quan",
-              "Quinta Brunson",
-              "Ginnifer Goodwin",
-              "Jason Bateman"
+              "Disney",
+              "Walt Disney Animation Studios",
+              "Disney Animation",
+              "Walt Disney",
+              "Animation"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Zootopia 2 | Official Trailer (2025)",
-              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
+              "title": "Zootopia 2 | Trailer",
+              "description": "Hopps & Wilde are BACK 🦊🐰\nGet ready for #Zootopia2, only in theaters November 26!\n\nAfter cracking the biggest case in Zootopia’s history, rookie cops Judy Hopps (voice of Ginnifer Goodwin) and Nick Wilde (voice of Jason Bateman) find their partnership isn’t as solid as they thought when Chief Bogo (voice of Idris Elba) orders them to join the Partners in Crisis counseling program. But it doesn’t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis. The trailer, poster and trailer stills are now available to download and share.\n \nWhile “Zootopia 2” introduces Gary De’Snake (voice of Ke Huy Quan), Nibbles (voice of Fortune Feimster) and quokka therapist Dr. Fuzzby (voice of Quinta Brunson), the upcoming feature film also welcomes back a herd of characters who made their debut in the Oscar®-winning film “Zootopia.” “It’s been an absolute joy to reteam with so many actors who made the first film so special, and so exciting to expand the world with our phenomenal new cast members,” said director/writer Jared Bush (chief creative officer for Walt Disney Animation Studios). “I can’t wait for audiences to see what other surprises we have in store in this brand-new adventure.”\n\nSee more from official Disney Animation:\n\nInstagram: https://www.instagram.com/disneyanimation/\nFacebook: https://www.facebook.com/DisneyAnimation\nX: https://twitter.com/disneyanimation\n\nWelcome to the official Walt Disney Animation Studios YouTube channel! There’s much from the archive that we want to share, while also giving you glimpses into our current studio--a dynamic place full of fresh voices and talent."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "820598",
-            "likeCount": "7551",
+            "viewCount": "15370229",
+            "likeCount": "280552",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -9475,100 +9475,86 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1242898,
-      "imdb_id": "tt31227572",
-      "title": "Predator: Badlands",
-      "release_date": "2025-11-05",
+      "tmdb_id": 425274,
+      "imdb_id": "tt4712810",
+      "title": "Now You See Me: Now You Don't",
+      "release_date": "2025-11-12",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure"
+        "Thriller",
+        "Crime",
+        "Mystery"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "20th Century Studios",
-        "Lawrence Gordon Productions",
-        "Davis Entertainment",
-        "Toberoff Productions",
-        "TSG Entertainment"
+        "Lionsgate",
+        "Cohen Pictures",
+        "Media Capital Technologies"
       ],
-      "runtime": 107,
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+      "runtime": 112,
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
     },
     "commercial": {
-      "budget": 105000000,
-      "revenue": 159584737,
+      "budget": 90000000,
+      "revenue": 84569120,
       "opening_weekend": null,
-      "roi": 1.52,
+      "roi": 0.94,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
         "belongs_to_collection": {
-          "id": 399,
-          "name": "Predator Collection",
-          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+          "id": 382685,
+          "name": "Now You See Me Collection",
+          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
         },
-        "budget": 105000000,
+        "budget": 90000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 53,
+            "name": "Thriller"
           },
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 80,
+            "name": "Crime"
           },
           {
-            "id": 12,
-            "name": "Adventure"
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
-        "id": 1242898,
-        "imdb_id": "tt31227572",
+        "homepage": "https://nowyouseeme.movie",
+        "id": 425274,
+        "imdb_id": "tt4712810",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Predator: Badlands",
-        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 212.2015,
-        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+        "popularity": 155.9048,
+        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "production_companies": [
           {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
             "origin_country": "US"
           },
           {
-            "id": 840,
+            "id": 281285,
             "logo_path": null,
-            "name": "Lawrence Gordon Productions",
+            "name": "Cohen Pictures",
             "origin_country": "US"
           },
           {
-            "id": 1302,
-            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-            "name": "Davis Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 185309,
-            "logo_path": null,
-            "name": "Toberoff Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
+            "id": 221429,
+            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+            "name": "Media Capital Technologies",
             "origin_country": "US"
           }
         ],
@@ -9578,9 +9564,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-05",
-        "revenue": 159584737,
-        "runtime": 107,
+        "release_date": "2025-11-12",
+        "revenue": 84569120,
+        "runtime": 112,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -9589,57 +9575,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "First hunt. Last chance.",
-        "title": "Predator: Badlands",
+        "tagline": "Unlock the illusion.",
+        "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 7.4,
-        "vote_count": 418
+        "vote_average": 6.205,
+        "vote_count": 233
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.4,
+      "tmdb_vote_average": 6.205,
       "omdb": {
-        "Title": "Predator: Badlands",
+        "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "07 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Dan Trachtenberg",
-        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
-        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
-        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Released": "14 Nov 2025",
+        "Runtime": "112 min",
+        "Genre": "Crime, Thriller",
+        "Director": "Ruben Fleischer",
+        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
+        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
         "Language": "English",
-        "Country": "United States, Australia, New Zealand, Canada",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "85%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "71/100"
-          }
-        ],
-        "Metascore": "71",
-        "imdbRating": "7.6",
-        "imdbVotes": "18,100",
-        "imdbID": "tt31227572",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt4712810",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$40,000,000",
-        "Production": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "Lionsgate",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9652,267 +9625,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 15,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 5,
+            "Now You See Me: Now You Don't": 16,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 1,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 12,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 3,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 3,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 2,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 3,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 3,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 7,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 8,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 8,
+            "Now You See Me: Now You Don't": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 16,
+            "Now You See Me: Now You Don't": 17,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 86,
+            "Now You See Me: Now You Don't": 23,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
+            "Now You See Me: Now You Don't": 91,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 45,
+            "Now You See Me: Now You Don't": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Predator: Badlands": 43,
+            "Now You See Me: Now You Don't": 93,
             "isPartial": true
           }
         ]
@@ -9932,58 +9905,89 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "c_yYFh0b5eX5CQA_Z1eB7rDt_Zw",
-          "id": "43R9l7EkJwE",
+          "etag": "wKrMFrBDvbzpNiNBMnpo0nJ_pXs",
+          "id": "-E3lMRx7HRQ",
           "snippet": {
-            "publishedAt": "2025-07-21T16:00:06Z",
-            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-            "title": "Predator: Badlands | Official Trailer",
-            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
+            "publishedAt": "2025-04-29T16:54:59Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "20th Century Studios",
+            "channelTitle": "Lionsgate Movies",
             "tags": [
-              "Trailer"
+              "Jesse Eisenberg",
+              "Woody Harrelson",
+              "Dave Franco",
+              "Isla Fisher",
+              "Justice Smith",
+              "Dominic Sessa",
+              "Ariana Greenblatt",
+              "with Rosamund Pike",
+              "Morgan Freeman",
+              "Now You See Me",
+              "sequel",
+              "series",
+              "Now You See Me 3",
+              "Now You See Me Now You Don't",
+              "Trailer",
+              "Official Trailer",
+              "Now You See Me 3 Trailer",
+              "NYSM Trailer",
+              "NYSM",
+              "NYSM 3",
+              "magician",
+              "illusions",
+              "heist",
+              "heist movie",
+              "bank heist",
+              "crime thriller",
+              "thriller",
+              "comedy",
+              "action",
+              "crime team",
+              "ruben fleischer",
+              "coming soon"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Predator: Badlands | Official Trailer",
-              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
+              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "25704004",
-            "likeCount": "314009",
+            "viewCount": "18671058",
+            "likeCount": "251992",
             "favoriteCount": "0",
-            "commentCount": "25804"
+            "commentCount": "12028"
           }
         }
       ],
@@ -9994,18 +9998,18 @@
     },
     "creative": {
       "director": [
-        "Dan Trachtenberg"
+        "Ruben Fleischer"
       ],
       "writers": [],
       "cast_top": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Rohinal Nayaran",
-        "Michael Homick",
-        "Stefan Grube",
-        "Reuben De Jong",
-        "Cameron Brown",
-        "Alison Wright"
+        "Jesse Eisenberg",
+        "Dominic Sessa",
+        "Ariana Greenblatt",
+        "Justice Smith",
+        "Rosamund Pike",
+        "Woody Harrelson",
+        "Dave Franco",
+        "Isla Fisher"
       ],
       "star_power": {
         "actor_count": 8
@@ -10832,28 +10836,27 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1117857,
-      "imdb_id": "tt27604215",
-      "title": "In Your Dreams",
-      "release_date": "2025-11-07",
+      "tmdb_id": 1323475,
+      "imdb_id": "tt33053440",
+      "title": "Champagne Problems",
+      "release_date": "2025-11-18",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Fantasy"
+        "Romance",
+        "Comedy"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "FR"
       ],
       "language": "en",
       "studio_distributor": [
-        "Kuku Studios",
-        "Netflix Animation Studios"
+        "Off Camera Entertainment",
+        "Grumpy Entertainment",
+        "FullDawa Films"
       ],
-      "runtime": 91,
-      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
+      "runtime": 99,
+      "overview": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire."
     },
     "commercial": {
       "budget": 0,
@@ -10863,115 +10866,105 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+        "backdrop_path": "/4FzoxZAJnhpoeYHexQCHorsWLxB.jpg",
         "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
-          },
-          {
-            "id": 10751,
-            "name": "Family"
+            "id": 10749,
+            "name": "Romance"
           },
           {
             "id": 35,
             "name": "Comedy"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 14,
-            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.netflix.com/title/80992977",
-        "id": 1117857,
-        "imdb_id": "tt27604215",
+        "homepage": "https://www.netflix.com/title/81628146",
+        "id": 1323475,
+        "imdb_id": "tt33053440",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "In Your Dreams",
-        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
-        "popularity": 68.3148,
-        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+        "original_title": "Champagne Problems",
+        "overview": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+        "popularity": 59.4948,
+        "poster_path": "/a66w2eVNFHMgevJlw0d6f4TTrrD.jpg",
         "production_companies": [
           {
-            "id": 144322,
-            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
-            "name": "Kuku Studios",
+            "id": 123789,
+            "logo_path": "/kSfI86pw0LxtWhflXxmX0V9fHNQ.png",
+            "name": "Off Camera Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 171251,
-            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
-            "name": "Netflix Animation Studios",
-            "origin_country": "US"
+            "id": 180075,
+            "logo_path": null,
+            "name": "Grumpy Entertainment",
+            "origin_country": ""
+          },
+          {
+            "id": 50500,
+            "logo_path": "/bzsYDghl8K32AypHbMUriXoyrF.png",
+            "name": "FullDawa Films",
+            "origin_country": "FR"
           }
         ],
         "production_countries": [
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "FR",
+            "name": "France"
           }
         ],
-        "release_date": "2025-11-07",
+        "release_date": "2025-11-18",
         "revenue": 0,
-        "runtime": 91,
+        "runtime": 99,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "The adventure of a nighttime.",
-        "title": "In Your Dreams",
+        "tagline": "Christmas in France is always a good idea.",
+        "title": "Champagne Problems",
         "video": false,
-        "vote_average": 7.08,
-        "vote_count": 95
+        "vote_average": 6.167,
+        "vote_count": 51
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.08,
+      "tmdb_vote_average": 6.167,
       "omdb": {
-        "Title": "In Your Dreams",
+        "Title": "Champagne Problems",
         "Year": "2025",
-        "Rated": "PG",
-        "Released": "14 Nov 2025",
-        "Runtime": "90 min",
-        "Genre": "Animation, Adventure, Comedy",
-        "Director": "Alexander Woo, Erik Benson",
-        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
-        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
-        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "Rated": "N/A",
+        "Released": "19 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Comedy, Romance",
+        "Director": "Mark Steven Johnson",
+        "Writer": "Mark Steven Johnson",
+        "Actors": "Tom Wozniczka, Joël Cudennec, Thierry René",
+        "Plot": "An executive travels to France to secure the acquisition of a renowned champagne brand before Christmas, but her plans are upended when she falls into a whirlwind romance with a charming Parisian - only to discover he's the founde...",
         "Language": "English",
         "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.5/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "59/100"
-          }
-        ],
-        "Metascore": "59",
-        "imdbRating": "6.5",
-        "imdbVotes": "1,343",
-        "imdbID": "tt27604215",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZiMTZlMzktOGMxYi00MGJhLWI4YTUtYTAwNTU5Y2UyMGNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt33053440",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -10980,7 +10973,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/champagne_problems\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/champagne_problems\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10993,267 +10986,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "In Your Dreams": 24,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "In Your Dreams": 21,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "In Your Dreams": 21,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "In Your Dreams": 17,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "In Your Dreams": 17,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "In Your Dreams": 17,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "In Your Dreams": 18,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "In Your Dreams": 19,
+            "Champagne Problems": 1,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "In Your Dreams": 23,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "In Your Dreams": 22,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "In Your Dreams": 20,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "In Your Dreams": 21,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "In Your Dreams": 22,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "In Your Dreams": 21,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "In Your Dreams": 23,
+            "Champagne Problems": 2,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "In Your Dreams": 51,
+            "Champagne Problems": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "In Your Dreams": 91,
+            "Champagne Problems": 38,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "In Your Dreams": 100,
+            "Champagne Problems": 100,
             "isPartial": true
           }
         ]
@@ -11273,109 +11266,81 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "t0hQfxSO3-22e2q1YBSEq3clQD4",
-          "id": "IG1p9fhNIks",
+          "etag": "2VMU-k8_dMGytZmRIh0vCnYEpw4",
+          "id": "eba-EoMPBX8",
           "snippet": {
-            "publishedAt": "2025-06-12T13:00:00Z",
+            "publishedAt": "2025-10-15T14:00:00Z",
             "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "In Your Dreams | Official Teaser | Netflix",
-            "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
+            "title": "Champagne Problems | Official Trailer | Netflix",
+            "description": "Sydney is a determined executive who travels to France to secure the acquisition of a world-renowned champagne brand before Christmas, but her plans are upended when she falls into a whirlwind romance with a charming Parisian — who turns out to be the founder’s son.\r\n\r\nStarring Minka Kelly and Tom Wozniczka, Champagne Problems is this Holiday season’s reminder that one simple evening can turn into something special and that Christmas in France is always a good idea.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81628146\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nChampagne Problems | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/default.jpg",
+                "url": "https://i.ytimg.com/vi/eba-EoMPBX8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/eba-EoMPBX8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/eba-EoMPBX8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/eba-EoMPBX8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/eba-EoMPBX8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
             "channelTitle": "Netflix",
             "tags": [
-              "2025",
-              "Netflix",
-              "action",
-              "adventure",
-              "animated",
-              "animation",
-              "announcement",
-              "baloney",
-              "best",
-              "binge",
-              "cartoon",
-              "comedic",
-              "comedy",
-              "commercial",
-              "craig robinson",
-              "cristin milioti",
-              "debut",
-              "disney",
-              "dreams",
-              "dreamworks",
-              "eurythmics",
-              "family",
-              "film",
-              "funny",
-              "heart",
-              "home",
-              "kids",
-              "movie",
-              "new",
-              "nightmare",
-              "now",
-              "official",
-              "online",
-              "parents",
-              "pixar",
-              "play",
-              "premiere",
-              "sandman",
-              "simu liu",
-              "sony",
-              "stream",
-              "sweet",
-              "teaser",
-              "theaters",
-              "tony",
-              "top",
-              "trailer",
-              "tv",
-              "video",
-              "watch",
-              "wicked",
-              "zootopia"
+              "Abroad",
+              "Besties",
+              "Champagne",
+              "Christmas",
+              "Comedy",
+              "Date Night",
+              "Feelings",
+              "Flights",
+              "Flula Borg",
+              "France",
+              "Holiday",
+              "Lizzie McGuire",
+              "Millennial",
+              "Minka Kelly",
+              "New Years",
+              "Paris",
+              "Romance",
+              "Romantic",
+              "Romcom",
+              "Santa",
+              "Soul Cycle",
+              "Tom Wozniczka",
+              "Travel",
+              "Type A"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "In Your Dreams | Official Teaser | Netflix",
-              "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "Champagne Problems | Official Trailer | Netflix",
+              "description": "Sydney is a determined executive who travels to France to secure the acquisition of a world-renowned champagne brand before Christmas, but her plans are upended when she falls into a whirlwind romance with a charming Parisian — who turns out to be the founder’s son.\r\n\r\nStarring Minka Kelly and Tom Wozniczka, Champagne Problems is this Holiday season’s reminder that one simple evening can turn into something special and that Christmas in France is always a good idea.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/81628146\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nChampagne Problems | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix\r\n\r\nA driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "2841390",
-            "likeCount": "11592",
+            "viewCount": "1427190",
+            "likeCount": "14399",
             "favoriteCount": "0",
-            "commentCount": "791"
+            "commentCount": "550"
           }
         }
       ],
@@ -11386,18 +11351,20 @@
     },
     "creative": {
       "director": [
-        "Alex Woo"
+        "Mark Steven Johnson"
       ],
-      "writers": [],
+      "writers": [
+        "Mark Steven Johnson"
+      ],
       "cast_top": [
-        "Jolie Hoang-Rappaport",
-        "Elias Janssen",
-        "Simu Liu",
-        "Craig Robinson",
-        "Cristin Milioti",
-        "Gia Carides",
-        "Omid Djalili",
-        "SungWon Cho"
+        "Minka Kelly",
+        "Tom Wozniczka",
+        "Xavier Samuel",
+        "Flula Borg",
+        "Thibault de Montalembert",
+        "Maeve Courtier-Lilley",
+        "Sean Amsing",
+        "Mitchell Mullen"
       ],
       "star_power": {
         "actor_count": 8
@@ -12224,144 +12191,161 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 425274,
-      "imdb_id": "tt4712810",
-      "title": "Now You See Me: Now You Don't",
-      "release_date": "2025-11-12",
+      "tmdb_id": 1419406,
+      "imdb_id": "tt34610311",
+      "title": "The Shadow's Edge",
+      "release_date": "2025-08-16",
       "release_year": "2025",
       "genres": [
-        "Thriller",
+        "Action",
         "Crime",
-        "Mystery"
+        "Thriller"
       ],
       "production_countries": [
-        "US"
+        "CN",
+        "HK"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "Cohen Pictures",
-        "Media Capital Technologies"
+        "iQIYI Pictures",
+        "Tao Piao Piao",
+        "Hairun Pictures Company",
+        "Dong Fang Chen Xiang"
       ],
-      "runtime": 112,
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
+      "runtime": 142,
+      "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves."
     },
     "commercial": {
-      "budget": 90000000,
-      "revenue": 84569120,
+      "budget": 0,
+      "revenue": 702538,
       "opening_weekend": null,
-      "roi": 0.94,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-        "belongs_to_collection": {
-          "id": 382685,
-          "name": "Now You See Me Collection",
-          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
-          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
-        },
-        "budget": 90000000,
+        "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+        "belongs_to_collection": null,
+        "budget": 0,
         "genres": [
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 28,
+            "name": "Action"
           },
           {
             "id": 80,
             "name": "Crime"
           },
           {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://nowyouseeme.movie",
-        "id": 425274,
-        "imdb_id": "tt4712810",
+        "homepage": "",
+        "id": 1419406,
+        "imdb_id": "tt34610311",
         "origin_country": [
-          "US"
+          "CN",
+          "HK"
         ],
         "original_language": "en",
-        "original_title": "Now You See Me: Now You Don't",
-        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-        "popularity": 173.2076,
-        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "original_title": "捕风追影",
+        "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+        "popularity": 590.3429,
+        "poster_path": "/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
-            "origin_country": "US"
-          },
-          {
-            "id": 281285,
+            "id": 122699,
             "logo_path": null,
-            "name": "Cohen Pictures",
-            "origin_country": "US"
+            "name": "iQIYI Pictures",
+            "origin_country": "CN"
           },
           {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
-            "origin_country": "US"
+            "id": 197030,
+            "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+            "name": "Tao Piao Piao",
+            "origin_country": "CN"
+          },
+          {
+            "id": 25657,
+            "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+            "name": "Hairun Pictures Company",
+            "origin_country": "CN"
+          },
+          {
+            "id": 250765,
+            "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
+            "name": "Dong Fang Chen Xiang",
+            "origin_country": "CN"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "CN",
+            "name": "China"
+          },
+          {
+            "iso_3166_1": "HK",
+            "name": "Hong Kong"
           }
         ],
-        "release_date": "2025-11-12",
-        "revenue": 84569120,
-        "runtime": 112,
+        "release_date": "2025-08-16",
+        "revenue": 702538,
+        "runtime": 142,
         "spoken_languages": [
           {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
           }
         ],
         "status": "Released",
-        "tagline": "Unlock the illusion.",
-        "title": "Now You See Me: Now You Don't",
+        "tagline": "",
+        "title": "The Shadow's Edge",
         "video": false,
-        "vote_average": 6.2,
-        "vote_count": 228
+        "vote_average": 6.394,
+        "vote_count": 94
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.2,
+      "tmdb_vote_average": 6.394,
       "omdb": {
-        "Title": "Now You See Me: Now You Don't",
+        "Title": "The Shadow's Edge",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "14 Nov 2025",
-        "Runtime": "112 min",
-        "Genre": "Crime, Thriller",
-        "Director": "Ruben Fleischer",
-        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
-        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
-        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
+        "Rated": "Not Rated",
+        "Released": "16 Aug 2025",
+        "Runtime": "141 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Larry Yang",
+        "Writer": "Larry Yang",
+        "Actors": "Jackie Chan, Zifeng Zhang, Tony Ka Fai Leung",
+        "Plot": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
+        "Language": "Mandarin",
+        "Country": "Hong Kong, China",
+        "Awards": "7 wins & 1 nomination total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhhODA0NzctMDY0Ny00YTRkLWIzNzgtN2E1MDY3MTU2ODQyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+          }
+        ],
         "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt4712810",
+        "imdbRating": "7.5",
+        "imdbVotes": "1,982",
+        "imdbID": "tt34610311",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
-        "Production": "Lionsgate",
+        "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12374,267 +12358,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 14,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 0,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 9,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 11,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 13,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "The Shadow's Edge": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Now You See Me: Now You Don't": 6,
+            "The Shadow's Edge": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "The Shadow's Edge": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "The Shadow's Edge": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Now You See Me: Now You Don't": 11,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Now You See Me: Now You Don't": 16,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Now You See Me: Now You Don't": 21,
+            "The Shadow's Edge": 2,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 83,
+            "The Shadow's Edge": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Now You See Me: Now You Don't": 93,
+            "The Shadow's Edge": 90,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Now You See Me: Now You Don't": 100,
+            "The Shadow's Edge": 100,
             "isPartial": true
           }
         ]
@@ -12654,89 +12638,77 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "y6vOo_pa8B0XidGfuzgCmTdgF9o",
-          "id": "-E3lMRx7HRQ",
+          "etag": "XM-zvA-_woQYyNaiBP0TQhrG_8w",
+          "id": "Xa6B6n3VD50",
           "snippet": {
-            "publishedAt": "2025-04-29T16:54:59Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
+            "publishedAt": "2025-09-15T17:22:39Z",
+            "channelId": "UCwBV-eg1dAkzrdjqJfyEj0w",
+            "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+            "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
+            "channelTitle": "MovieGasm‍․com",
             "tags": [
-              "Jesse Eisenberg",
-              "Woody Harrelson",
-              "Dave Franco",
-              "Isla Fisher",
-              "Justice Smith",
-              "Dominic Sessa",
-              "Ariana Greenblatt",
-              "with Rosamund Pike",
-              "Morgan Freeman",
-              "Now You See Me",
-              "sequel",
-              "series",
-              "Now You See Me 3",
-              "Now You See Me Now You Don't",
-              "Trailer",
-              "Official Trailer",
-              "Now You See Me 3 Trailer",
-              "NYSM Trailer",
-              "NYSM",
-              "NYSM 3",
-              "magician",
-              "illusions",
-              "heist",
-              "heist movie",
-              "bank heist",
-              "crime thriller",
-              "thriller",
-              "comedy",
+              "trailer",
+              "movies",
+              "2025",
+              "movie",
+              "trailers",
+              "THE SHADOW'S EDGE",
+              "THE SHADOW'S EDGE trailer",
+              "official",
+              "jackie chan",
               "action",
-              "crime team",
-              "ruben fleischer",
-              "coming soon"
+              "THE SHADOW'S EDGE official trailer",
+              "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+              "Action Movies",
+              "jackie chan movies",
+              "final scene",
+              "action scenes",
+              "fight",
+              "scene",
+              "movie clip",
+              "4k"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
+              "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
+              "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18658429",
-            "likeCount": "251941",
+            "viewCount": "659983",
+            "likeCount": "5088",
             "favoriteCount": "0",
-            "commentCount": "12022"
+            "commentCount": "215"
           }
         }
       ],
@@ -12747,18 +12719,20 @@
     },
     "creative": {
       "director": [
-        "Ruben Fleischer"
+        "Larry Yang"
       ],
-      "writers": [],
+      "writers": [
+        "Larry Yang"
+      ],
       "cast_top": [
-        "Jesse Eisenberg",
-        "Dominic Sessa",
-        "Ariana Greenblatt",
-        "Justice Smith",
-        "Rosamund Pike",
-        "Woody Harrelson",
-        "Dave Franco",
-        "Isla Fisher"
+        "Jackie Chan",
+        "Zhang Zifeng",
+        "Tony Leung Ka-fai",
+        "Ci Sha",
+        "Jun",
+        "Zhou Zhengjie",
+        "Wang Ziyi",
+        "Lang Yueting"
       ],
       "star_power": {
         "actor_count": 8
