@@ -30,7 +30,7 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/nxGHDkUtLhv9ZwIau9QUlS1sMv3.jpg",
+        "backdrop_path": "/pHmWMsSrA8SvJPSOF64Dw7WMatr.jpg",
         "belongs_to_collection": {
           "id": 1363124,
           "name": "The Family Plan Collection",
@@ -57,7 +57,7 @@
         "original_language": "en",
         "original_title": "The Family Plan 2",
         "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
-        "popularity": 398.4084,
+        "popularity": 466.8658,
         "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "production_companies": [
           {
@@ -108,12 +108,12 @@
         "tagline": "Deck the halls, dodge the bad guys.",
         "title": "The Family Plan 2",
         "video": false,
-        "vote_average": 6.602,
-        "vote_count": 103
+        "vote_average": 6.667,
+        "vote_count": 120
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.602,
+      "tmdb_vote_average": 6.667,
       "omdb": {
         "Title": "The Family Plan 2",
         "Year": "2025",
@@ -265,7 +265,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Family Plan 2": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
@@ -395,7 +395,7 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Family Plan 2": 5,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
@@ -410,7 +410,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Family Plan 2": 38,
+            "The Family Plan 2": 39,
             "isPartial": false
           },
           {
@@ -435,7 +435,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "9oh5HO-rpxjvDqkFBFOBJ68YxmE",
+          "etag": "SFUMrfgupRlMzIUc92PWL4Q4EZY",
           "id": "dqolYtJGuf4",
           "snippet": {
             "publishedAt": "2025-10-14T12:59:46Z",
@@ -510,10 +510,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "5541063",
-            "likeCount": "21112",
+            "viewCount": "5546486",
+            "likeCount": "21133",
             "favoriteCount": "0",
-            "commentCount": "648"
+            "commentCount": "651"
           }
         }
       ],
@@ -1367,7 +1367,7 @@
       "tmdb_id": 967941,
       "imdb_id": "tt19847976",
       "title": "Wicked: For Good",
-      "release_date": "2025-11-16",
+      "release_date": "2025-11-19",
       "release_year": "2025",
       "genres": [
         "Romance",
@@ -1387,7 +1387,7 @@
     },
     "commercial": {
       "budget": 150000000,
-      "revenue": 226000000,
+      "revenue": 226042000,
       "opening_weekend": null,
       "roi": 1.507,
       "distribution": null,
@@ -1424,7 +1424,7 @@
         "original_language": "en",
         "original_title": "Wicked: For Good",
         "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 207.1159,
+        "popularity": 224.8457,
         "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
@@ -1446,8 +1446,8 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-16",
-        "revenue": 226000000,
+        "release_date": "2025-11-19",
+        "revenue": 226042000,
         "runtime": 137,
         "spoken_languages": [
           {
@@ -1460,12 +1460,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.634,
-        "vote_count": 186
+        "vote_average": 6.702,
+        "vote_count": 191
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.634,
+      "tmdb_vote_average": 6.702,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -1742,7 +1742,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 4,
+            "Wicked: For Good": 5,
             "isPartial": false
           },
           {
@@ -1762,7 +1762,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 54,
+            "Wicked: For Good": 57,
             "isPartial": false
           },
           {
@@ -1787,7 +1787,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "LqOcxCO9ktE-RDxFDOprpEZw0HM",
+          "etag": "zjkNECpLdFhEHzR741kspMwLta4",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -1832,10 +1832,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13064463",
-            "likeCount": "295899",
+            "viewCount": "13070389",
+            "likeCount": "295999",
             "favoriteCount": "0",
-            "commentCount": "15017"
+            "commentCount": "15021"
           }
         }
       ],
@@ -2729,7 +2729,7 @@
         "original_language": "en",
         "original_title": "Train Dreams",
         "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-        "popularity": 101.2287,
+        "popularity": 113.5138,
         "poster_path": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
         "production_companies": [
           {
@@ -2770,12 +2770,12 @@
         "tagline": "",
         "title": "Train Dreams",
         "video": false,
-        "vote_average": 7.773,
-        "vote_count": 64
+        "vote_average": 7.704,
+        "vote_count": 71
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.773,
+      "tmdb_vote_average": 7.704,
       "omdb": {
         "Title": "Train Dreams",
         "Year": "2025",
@@ -2980,7 +2980,7 @@
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Train Dreams": 1,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
@@ -3035,7 +3035,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Train Dreams": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -3080,7 +3080,7 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Train Dreams": 8,
+            "Train Dreams": 7,
             "isPartial": false
           },
           {
@@ -3110,36 +3110,36 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "FcUwK-A0U4bVQNrhm7qCmiJ5tV0",
-          "id": "_Nk8TrBHOrA",
+          "etag": "AgWNooIhuMJCQ6uZ71i24_AbY0o",
+          "id": "6voWeM-xQ4Y",
           "snippet": {
-            "publishedAt": "2025-10-08T15:30:00Z",
+            "publishedAt": "2025-11-20T17:00:00Z",
             "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Train Dreams | Official Trailer | Netflix",
-            "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix",
+            "title": "Train Dreams | Final Trailer | Netflix",
+            "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/default.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/6voWeM-xQ4Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
@@ -3167,16 +3167,16 @@
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Train Dreams | Official Trailer | Netflix",
-              "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix"
+              "title": "Train Dreams | Final Trailer | Netflix",
+              "description": "TRAIN DREAMS, now playing in select theaters and on Netflix tomorrow.\n\nWatch on Netflix: https://www.netflix.com/title/82020378\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nTrain Dreams | Final Trailer | Netflix\nhttps://www.youtube.com/@Netflix\n\nA logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "6134031",
-            "likeCount": "11308",
+            "viewCount": "364681",
+            "likeCount": "2400",
             "favoriteCount": "0",
-            "commentCount": "447"
+            "commentCount": "153"
           }
         }
       ],
@@ -4081,7 +4081,7 @@
         "original_language": "en",
         "original_title": "One Battle After Another",
         "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 309.9881,
+        "popularity": 274.793,
         "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "production_companies": [
           {
@@ -4134,7 +4134,7 @@
         "title": "One Battle After Another",
         "video": false,
         "vote_average": 7.492,
-        "vote_count": 1578
+        "vote_count": 1592
       }
     },
     "ratings": {
@@ -4403,12 +4403,12 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 26,
+            "One Battle After Another": 25,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 74,
+            "One Battle After Another": 75,
             "isPartial": false
           },
           {
@@ -4418,7 +4418,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 66,
+            "One Battle After Another": 67,
             "isPartial": false
           },
           {
@@ -4428,7 +4428,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 30,
+            "One Battle After Another": 32,
             "isPartial": false
           },
           {
@@ -4443,17 +4443,17 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 26,
+            "One Battle After Another": 27,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 36,
+            "One Battle After Another": 35,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "One Battle After Another": 37,
+            "One Battle After Another": 34,
             "isPartial": true
           }
         ]
@@ -4473,7 +4473,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ciXz1g7aHDnPnLIM0dgBp2EuHrA",
+          "etag": "m9w4pmQcFjo5HV288KRiH1AUjug",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -4538,10 +4538,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19709794",
-            "likeCount": "54201",
+            "viewCount": "19715090",
+            "likeCount": "54224",
             "favoriteCount": "0",
-            "commentCount": "3490"
+            "commentCount": "3491"
           }
         }
       ],
@@ -5772,12 +5772,12 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "After the Hunt": 8,
+            "After the Hunt": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "After the Hunt": 11,
+            "After the Hunt": 12,
             "isPartial": false
           },
           {
@@ -5787,17 +5787,17 @@
           },
           {
             "date": "2025-10-12T00:00:00",
-            "After the Hunt": 47,
+            "After the Hunt": 49,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "After the Hunt": 37,
+            "After the Hunt": 39,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "After the Hunt": 16,
+            "After the Hunt": 17,
             "isPartial": false
           },
           {
@@ -5807,12 +5807,12 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "After the Hunt": 6,
+            "After the Hunt": 7,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "After the Hunt": 36,
+            "After the Hunt": 38,
             "isPartial": false
           },
           {
@@ -5837,7 +5837,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "uwr7sVgNBb81t_yAh5l-EYFIHlc",
+          "etag": "bLOfMG5bP4aNSLFnsGlsTHsadn4",
           "id": "A8R6DMlDtxk",
           "snippet": {
             "publishedAt": "2025-07-16T13:06:16Z",
@@ -5905,8 +5905,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "10406529",
-            "likeCount": "25689",
+            "viewCount": "10409965",
+            "likeCount": "25698",
             "favoriteCount": "0",
             "commentCount": "1377"
           }
@@ -6816,7 +6816,7 @@
         "original_language": "en",
         "original_title": "Frankenstein",
         "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 384.5713,
+        "popularity": 367.6054,
         "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "production_companies": [
           {
@@ -6872,12 +6872,12 @@
         "tagline": "Only monsters play God.",
         "title": "Frankenstein",
         "video": false,
-        "vote_average": 7.763,
-        "vote_count": 1731
+        "vote_average": 7.77,
+        "vote_count": 1756
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.763,
+      "tmdb_vote_average": 7.77,
       "omdb": {
         "Title": "Frankenstein",
         "Year": "2025",
@@ -7037,7 +7037,7 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Frankenstein": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
@@ -7067,7 +7067,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Frankenstein": 7,
+            "Frankenstein": 6,
             "isPartial": false
           },
           {
@@ -7147,7 +7147,7 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Frankenstein": 6,
+            "Frankenstein": 7,
             "isPartial": false
           },
           {
@@ -7157,7 +7157,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Frankenstein": 11,
+            "Frankenstein": 12,
             "isPartial": false
           },
           {
@@ -7177,7 +7177,7 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 45,
+            "Frankenstein": 47,
             "isPartial": false
           },
           {
@@ -7187,12 +7187,12 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Frankenstein": 49,
+            "Frankenstein": 48,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Frankenstein": 46,
+            "Frankenstein": 44,
             "isPartial": true
           }
         ]
@@ -7212,7 +7212,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "z_0BX9MstqcDhGG8754Ibiq40kU",
+          "etag": "QdhdwFaAdAdjPUUIVuuyZC2fDRo",
           "id": "8aulMPhE12g",
           "snippet": {
             "publishedAt": "2025-10-01T13:00:01Z",
@@ -7288,10 +7288,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "12867988",
-            "likeCount": "174246",
+            "viewCount": "12872347",
+            "likeCount": "174288",
             "favoriteCount": "0",
-            "commentCount": "7469"
+            "commentCount": "7470"
           }
         }
       ],
@@ -8159,8 +8159,7 @@
       ],
       "language": "en",
       "studio_distributor": [
-        "Walt Disney Animation Studios",
-        "Walt Disney Pictures"
+        "Walt Disney Animation Studios"
       ],
       "runtime": 107,
       "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis."
@@ -8173,7 +8172,7 @@
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/zdva2LmrzZ0OdTI27ayzKPw0wkF.jpg",
+        "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
         "belongs_to_collection": {
           "id": 1084247,
           "name": "Zootopia Collection",
@@ -8212,19 +8211,13 @@
         "original_language": "en",
         "original_title": "Zootopia 2",
         "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find their partnership isn't as solid as they thought when Chief Bogo orders them to join the Partners in Crisis counseling program. But it doesn't take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis.",
-        "popularity": 120.2332,
+        "popularity": 134.436,
         "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "production_companies": [
           {
             "id": 6125,
             "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
             "name": "Walt Disney Animation Studios",
-            "origin_country": "US"
-          },
-          {
-            "id": 2,
-            "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
-            "name": "Walt Disney Pictures",
             "origin_country": "US"
           }
         ],
@@ -8248,12 +8241,12 @@
         "tagline": "Zootopia will be changed furrrever...",
         "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.3,
-        "vote_count": 11
+        "vote_average": 7.2,
+        "vote_count": 12
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.3,
+      "tmdb_vote_average": 7.2,
       "omdb": {
         "Title": "Zootopia 2",
         "Year": "2025",
@@ -8385,7 +8378,7 @@
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 4,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
@@ -8395,7 +8388,7 @@
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Zootopia 2": 3,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
@@ -8420,7 +8413,7 @@
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 11,
+            "Zootopia 2": 10,
             "isPartial": false
           },
           {
@@ -8445,7 +8438,7 @@
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Zootopia 2": 5,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
@@ -8465,27 +8458,27 @@
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Zootopia 2": 5,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 19,
+            "Zootopia 2": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 13,
+            "Zootopia 2": 12,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 8,
+            "Zootopia 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 7,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
@@ -8505,7 +8498,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 6,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
@@ -8515,17 +8508,17 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 12,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 12,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 12,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
@@ -8535,22 +8528,22 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 20,
+            "Zootopia 2": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Zootopia 2": 36,
+            "Zootopia 2": 31,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 50,
+            "Zootopia 2": 46,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Zootopia 2": 71,
+            "Zootopia 2": 62,
             "isPartial": false
           },
           {
@@ -8575,7 +8568,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "hNA0Ang7siwnvob1hg8q03bUIjE",
+          "etag": "WuK-7MOzxewQqAh7bC5QmbFNqfU",
           "id": "A-7RMaQaygI",
           "snippet": {
             "publishedAt": "2025-07-30T16:00:30Z",
@@ -8627,8 +8620,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "813397",
-            "likeCount": "7516",
+            "viewCount": "820598",
+            "likeCount": "7551",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -9482,86 +9475,100 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 425274,
-      "imdb_id": "tt4712810",
-      "title": "Now You See Me: Now You Don't",
-      "release_date": "2025-11-12",
+      "tmdb_id": 1242898,
+      "imdb_id": "tt31227572",
+      "title": "Predator: Badlands",
+      "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
-        "Thriller",
-        "Crime",
-        "Mystery"
+        "Action",
+        "Science Fiction",
+        "Adventure"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "Cohen Pictures",
-        "Media Capital Technologies"
+        "20th Century Studios",
+        "Lawrence Gordon Productions",
+        "Davis Entertainment",
+        "Toberoff Productions",
+        "TSG Entertainment"
       ],
-      "runtime": 112,
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
+      "runtime": 107,
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
     },
     "commercial": {
-      "budget": 90000000,
-      "revenue": 84569120,
+      "budget": 105000000,
+      "revenue": 159584737,
       "opening_weekend": null,
-      "roi": 0.94,
+      "roi": 1.52,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
         "belongs_to_collection": {
-          "id": 382685,
-          "name": "Now You See Me Collection",
-          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
-          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
+          "id": 399,
+          "name": "Predator Collection",
+          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
         },
-        "budget": 90000000,
+        "budget": 105000000,
         "genres": [
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 12,
+            "name": "Adventure"
           }
         ],
-        "homepage": "https://nowyouseeme.movie",
-        "id": 425274,
-        "imdb_id": "tt4712810",
+        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+        "id": 1242898,
+        "imdb_id": "tt31227572",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Now You See Me: Now You Don't",
-        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-        "popularity": 173.2076,
-        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "original_title": "Predator: Badlands",
+        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "popularity": 212.2015,
+        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
             "origin_country": "US"
           },
           {
-            "id": 281285,
+            "id": 840,
             "logo_path": null,
-            "name": "Cohen Pictures",
+            "name": "Lawrence Gordon Productions",
             "origin_country": "US"
           },
           {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
+            "id": 1302,
+            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+            "name": "Davis Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 185309,
+            "logo_path": null,
+            "name": "Toberoff Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
             "origin_country": "US"
           }
         ],
@@ -9571,9 +9578,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-12",
-        "revenue": 84569120,
-        "runtime": 112,
+        "release_date": "2025-11-05",
+        "revenue": 159584737,
+        "runtime": 107,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -9582,44 +9589,57 @@
           }
         ],
         "status": "Released",
-        "tagline": "Unlock the illusion.",
-        "title": "Now You See Me: Now You Don't",
+        "tagline": "First hunt. Last chance.",
+        "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 6.2,
-        "vote_count": 228
+        "vote_average": 7.4,
+        "vote_count": 418
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.2,
+      "tmdb_vote_average": 7.4,
       "omdb": {
-        "Title": "Now You See Me: Now You Don't",
+        "Title": "Predator: Badlands",
         "Year": "2025",
         "Rated": "PG-13",
-        "Released": "14 Nov 2025",
-        "Runtime": "112 min",
-        "Genre": "Crime, Thriller",
-        "Director": "Ruben Fleischer",
-        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
-        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
-        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
+        "Released": "07 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Dan Trachtenberg",
+        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
+        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
+        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
         "Language": "English",
-        "Country": "United States",
+        "Country": "United States, Australia, New Zealand, Canada",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt4712810",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "71/100"
+          }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.6",
+        "imdbVotes": "18,100",
+        "imdbID": "tt31227572",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "Lionsgate",
+        "BoxOffice": "$40,000,000",
+        "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9632,267 +9652,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Predator: Badlands": 15,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 15,
+            "Predator: Badlands": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 12,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Now You See Me: Now You Don't": 4,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Now You See Me: Now You Don't": 6,
+            "Predator: Badlands": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Predator: Badlands": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "Predator: Badlands": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Now You See Me: Now You Don't": 11,
+            "Predator: Badlands": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Now You See Me: Now You Don't": 16,
+            "Predator: Badlands": 16,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Now You See Me: Now You Don't": 21,
+            "Predator: Badlands": 86,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 85,
+            "Predator: Badlands": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Now You See Me: Now You Don't": 96,
+            "Predator: Badlands": 45,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Now You See Me: Now You Don't": 100,
+            "Predator: Badlands": 43,
             "isPartial": true
           }
         ]
@@ -9912,89 +9932,58 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "uQmhlnP-B2FUGBMz8IACtukV__E",
-          "id": "-E3lMRx7HRQ",
+          "etag": "c_yYFh0b5eX5CQA_Z1eB7rDt_Zw",
+          "id": "43R9l7EkJwE",
           "snippet": {
-            "publishedAt": "2025-04-29T16:54:59Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
+            "publishedAt": "2025-07-21T16:00:06Z",
+            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+            "title": "Predator: Badlands | Official Trailer",
+            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
+            "channelTitle": "20th Century Studios",
             "tags": [
-              "Jesse Eisenberg",
-              "Woody Harrelson",
-              "Dave Franco",
-              "Isla Fisher",
-              "Justice Smith",
-              "Dominic Sessa",
-              "Ariana Greenblatt",
-              "with Rosamund Pike",
-              "Morgan Freeman",
-              "Now You See Me",
-              "sequel",
-              "series",
-              "Now You See Me 3",
-              "Now You See Me Now You Don't",
-              "Trailer",
-              "Official Trailer",
-              "Now You See Me 3 Trailer",
-              "NYSM Trailer",
-              "NYSM",
-              "NYSM 3",
-              "magician",
-              "illusions",
-              "heist",
-              "heist movie",
-              "bank heist",
-              "crime thriller",
-              "thriller",
-              "comedy",
-              "action",
-              "crime team",
-              "ruben fleischer",
-              "coming soon"
+              "Trailer"
             ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
+              "title": "Predator: Badlands | Official Trailer",
+              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18643730",
-            "likeCount": "251902",
+            "viewCount": "25704004",
+            "likeCount": "314009",
             "favoriteCount": "0",
-            "commentCount": "12023"
+            "commentCount": "25804"
           }
         }
       ],
@@ -10005,18 +9994,18 @@
     },
     "creative": {
       "director": [
-        "Ruben Fleischer"
+        "Dan Trachtenberg"
       ],
       "writers": [],
       "cast_top": [
-        "Jesse Eisenberg",
-        "Woody Harrelson",
-        "Dave Franco",
-        "Isla Fisher",
-        "Justice Smith",
-        "Dominic Sessa",
-        "Ariana Greenblatt",
-        "Lizzy Caplan"
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Rohinal Nayaran",
+        "Michael Homick",
+        "Stefan Grube",
+        "Reuben De Jong",
+        "Cameron Brown",
+        "Alison Wright"
       ],
       "star_power": {
         "actor_count": 8
@@ -10843,152 +10832,146 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 1419406,
-      "imdb_id": "tt34610311",
-      "title": "The Shadow's Edge",
-      "release_date": "2025-08-16",
+      "tmdb_id": 1117857,
+      "imdb_id": "tt27604215",
+      "title": "In Your Dreams",
+      "release_date": "2025-11-07",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy"
       ],
       "production_countries": [
-        "CN",
-        "HK"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "iQIYI Pictures",
-        "Tao Piao Piao",
-        "Hairun Pictures Company",
-        "Dong Fang Chen Xiang"
+        "Kuku Studios",
+        "Netflix Animation Studios"
       ],
-      "runtime": 142,
-      "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves."
+      "runtime": 91,
+      "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family."
     },
     "commercial": {
       "budget": 0,
-      "revenue": 702538,
+      "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+        "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
         "belongs_to_collection": null,
         "budget": 0,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 16,
+            "name": "Animation"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 10751,
+            "name": "Family"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "",
-        "id": 1419406,
-        "imdb_id": "tt34610311",
+        "homepage": "https://www.netflix.com/title/80992977",
+        "id": 1117857,
+        "imdb_id": "tt27604215",
         "origin_country": [
-          "CN",
-          "HK"
+          "US"
         ],
         "original_language": "en",
-        "original_title": "捕风追影",
-        "overview": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
-        "popularity": 569.877,
-        "poster_path": "/e0RU6KpdnrqFxDKlI3NOqN8nHL6.jpg",
+        "original_title": "In Your Dreams",
+        "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "popularity": 68.3148,
+        "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
         "production_companies": [
           {
-            "id": 122699,
-            "logo_path": null,
-            "name": "iQIYI Pictures",
-            "origin_country": "CN"
+            "id": 144322,
+            "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
+            "name": "Kuku Studios",
+            "origin_country": "US"
           },
           {
-            "id": 197030,
-            "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
-            "name": "Tao Piao Piao",
-            "origin_country": "CN"
-          },
-          {
-            "id": 25657,
-            "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
-            "name": "Hairun Pictures Company",
-            "origin_country": "CN"
-          },
-          {
-            "id": 250765,
-            "logo_path": "/pl14N2WxiYBDNUrPaFBhzyKoO8Z.png",
-            "name": "Dong Fang Chen Xiang",
-            "origin_country": "CN"
+            "id": 171251,
+            "logo_path": "/AqUAfMC270bGGK09Nh3mycwT1hY.png",
+            "name": "Netflix Animation Studios",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "CN",
-            "name": "China"
-          },
-          {
-            "iso_3166_1": "HK",
-            "name": "Hong Kong"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-08-16",
-        "revenue": 702538,
-        "runtime": 142,
+        "release_date": "2025-11-07",
+        "revenue": 0,
+        "runtime": 91,
         "spoken_languages": [
           {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "The Shadow's Edge",
+        "tagline": "The adventure of a nighttime.",
+        "title": "In Your Dreams",
         "video": false,
-        "vote_average": 6.37,
-        "vote_count": 92
+        "vote_average": 7.08,
+        "vote_count": 95
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.37,
+      "tmdb_vote_average": 7.08,
       "omdb": {
-        "Title": "The Shadow's Edge",
+        "Title": "In Your Dreams",
         "Year": "2025",
-        "Rated": "Not Rated",
-        "Released": "16 Aug 2025",
-        "Runtime": "141 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Larry Yang",
-        "Writer": "Larry Yang",
-        "Actors": "Jackie Chan, Zifeng Zhang, Tony Ka Fai Leung",
-        "Plot": "Macau Police brings the tracking expert police officer out of retirement to help catch a dangerous group of professional thieves.",
-        "Language": "Mandarin",
-        "Country": "Hong Kong, China",
-        "Awards": "7 wins & 1 nomination total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjhhODA0NzctMDY0Ny00YTRkLWIzNzgtN2E1MDY3MTU2ODQyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Rated": "PG",
+        "Released": "14 Nov 2025",
+        "Runtime": "90 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Alexander Woo, Erik Benson",
+        "Writer": "Erik Benson, Alexander Woo, Stanley Moore",
+        "Actors": "Hailey Magpali, Simu Liu, Cristin Milioti",
+        "Plot": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMmFjOGIwMDUtMjEyYi00MzE0LWEwMmMtMjYyMGUzM2RkMjlhXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.5/10"
+            "Value": "6.5/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "80%"
+            "Value": "82%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "59/100"
           }
         ],
-        "Metascore": "N/A",
-        "imdbRating": "7.5",
-        "imdbVotes": "1,982",
-        "imdbID": "tt34610311",
+        "Metascore": "59",
+        "imdbRating": "6.5",
+        "imdbVotes": "1,343",
+        "imdbID": "tt27604215",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -10997,7 +10980,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_shadows_edge\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/in_your_dreams_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11010,267 +10993,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 24,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 17,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 17,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Shadow's Edge": 1,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Shadow's Edge": 1,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 17,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Shadow's Edge": 0,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Shadow's Edge": 1,
+            "In Your Dreams": 18,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Shadow's Edge": 2,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Shadow's Edge": 3,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Shadow's Edge": 8,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Shadow's Edge": 9,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Shadow's Edge": 11,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Shadow's Edge": 8,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Shadow's Edge": 7,
+            "In Your Dreams": 19,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Shadow's Edge": 5,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Shadow's Edge": 4,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Shadow's Edge": 3,
+            "In Your Dreams": 20,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Shadow's Edge": 3,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Shadow's Edge": 3,
+            "In Your Dreams": 22,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Shadow's Edge": 2,
+            "In Your Dreams": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Shadow's Edge": 2,
+            "In Your Dreams": 23,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Shadow's Edge": 2,
+            "In Your Dreams": 51,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Shadow's Edge": 80,
+            "In Your Dreams": 91,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "The Shadow's Edge": 100,
+            "In Your Dreams": 100,
             "isPartial": true
           }
         ]
@@ -11290,77 +11273,109 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "iwVU7iXUwCh6J-r7mszC8SxO6Tw",
-          "id": "Xa6B6n3VD50",
+          "etag": "t0hQfxSO3-22e2q1YBSEq3clQD4",
+          "id": "IG1p9fhNIks",
           "snippet": {
-            "publishedAt": "2025-09-15T17:22:39Z",
-            "channelId": "UCwBV-eg1dAkzrdjqJfyEj0w",
-            "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
-            "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers",
+            "publishedAt": "2025-06-12T13:00:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "In Your Dreams | Official Teaser | Netflix",
+            "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/default.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/Xa6B6n3VD50/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/IG1p9fhNIks/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "MovieGasm‍․com",
+            "channelTitle": "Netflix",
             "tags": [
-              "trailer",
-              "movies",
               "2025",
-              "movie",
-              "trailers",
-              "THE SHADOW'S EDGE",
-              "THE SHADOW'S EDGE trailer",
-              "official",
-              "jackie chan",
+              "Netflix",
               "action",
-              "THE SHADOW'S EDGE official trailer",
-              "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
-              "Action Movies",
-              "jackie chan movies",
-              "final scene",
-              "action scenes",
-              "fight",
-              "scene",
-              "movie clip",
-              "4k"
+              "adventure",
+              "animated",
+              "animation",
+              "announcement",
+              "baloney",
+              "best",
+              "binge",
+              "cartoon",
+              "comedic",
+              "comedy",
+              "commercial",
+              "craig robinson",
+              "cristin milioti",
+              "debut",
+              "disney",
+              "dreams",
+              "dreamworks",
+              "eurythmics",
+              "family",
+              "film",
+              "funny",
+              "heart",
+              "home",
+              "kids",
+              "movie",
+              "new",
+              "nightmare",
+              "now",
+              "official",
+              "online",
+              "parents",
+              "pixar",
+              "play",
+              "premiere",
+              "sandman",
+              "simu liu",
+              "sony",
+              "stream",
+              "sweet",
+              "teaser",
+              "theaters",
+              "tony",
+              "top",
+              "trailer",
+              "tv",
+              "video",
+              "watch",
+              "wicked",
+              "zootopia"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "THE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Action Movies 4K",
-              "description": "🥋 THE SHADOW’S EDGE – Official Trailer (2025) | Jackie Chan Action 🥋\nSilence isn’t safe, and shadows bring the fight. The Shadow’s Edge is the fierce new martial arts thriller of 2025 — where Jackie Chan faces old enemies & hidden secrets beneath the surface.\n\nFilm Overview\nRetired master of stealth, Li Shen, is pulled back into the underworld when his estranged son disappears during a secret mission. Following cryptic clues through Chinatown’s night markets and rooftop alleyways, Li must outsmart assassins, unravel conspiracies, and fight his own past.\n\n\nA huge thank you to All of our Channel Members! \nYa'll really do keep the lights on for us over here.\n\nTHE SHADOW'S EDGE Official Trailer (2025) Jackie Chan Movies 4K\nEnjoy advanced 4K Upscaling and HDR-10 mastering across future trailers. Stay tuned for more.\n-------\nFor More Movie News:\nhttps://www.MovieGasm.com \n-------\nTo Submit a Film:\n Advertising@MovieGasm.com \n-------\n#movies #trailers"
+              "title": "In Your Dreams | Official Teaser | Netflix",
+              "description": "What if your dreams could become reality? Get ready for the adventure of a nighttime in Netflix’s brand new animated film, IN YOUR DREAMS. Featuring Jolie Hoang-Rappaport, Elias Janssen, Craig Robinson, Simu Liu, and Cristin Milioti. Watch IN YOUR DREAMS, only on Netflix November 14.\n\nWatch on Netflix: https://www.netflix.com/title/80992977\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nIn Your Dreams | Official Teaser | Netflix\nhttps://www.youtube.com/@Netflix"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "642318",
-            "likeCount": "5014",
+            "viewCount": "2841390",
+            "likeCount": "11592",
             "favoriteCount": "0",
-            "commentCount": "212"
+            "commentCount": "791"
           }
         }
       ],
@@ -11371,20 +11386,18 @@
     },
     "creative": {
       "director": [
-        "Larry Yang"
+        "Alex Woo"
       ],
-      "writers": [
-        "Larry Yang"
-      ],
+      "writers": [],
       "cast_top": [
-        "Jackie Chan",
-        "Zhang Zifeng",
-        "Tony Leung Ka-fai",
-        "Ci Sha",
-        "Jun",
-        "Zhou Zhengjie",
-        "Wang Ziyi",
-        "Lang Yueting"
+        "Jolie Hoang-Rappaport",
+        "Elias Janssen",
+        "Simu Liu",
+        "Craig Robinson",
+        "Cristin Milioti",
+        "Gia Carides",
+        "Omid Djalili",
+        "SungWon Cho"
       ],
       "star_power": {
         "actor_count": 8
@@ -12211,162 +12224,144 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 639988,
-      "imdb_id": "tt1527793",
-      "title": "No Other Choice",
-      "release_date": "2025-09-24",
+      "tmdb_id": 425274,
+      "imdb_id": "tt4712810",
+      "title": "Now You See Me: Now You Don't",
+      "release_date": "2025-11-12",
       "release_year": "2025",
       "genres": [
-        "Crime",
         "Thriller",
-        "Comedy"
+        "Crime",
+        "Mystery"
       ],
       "production_countries": [
-        "KR",
-        "FR"
+        "US"
       ],
-      "language": "ko",
+      "language": "en",
       "studio_distributor": [
-        "CJ ENM Studios",
-        "Moho Film",
-        "KG Productions"
+        "Lionsgate",
+        "Cohen Pictures",
+        "Media Capital Technologies"
       ],
-      "runtime": 139,
-      "overview": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity."
+      "runtime": 112,
+      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 7500000,
+      "budget": 90000000,
+      "revenue": 84569120,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.94,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/uarnMfwwUUkFXjvwKumtjj8TkMY.jpg",
-        "belongs_to_collection": null,
-        "budget": 0,
+        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+        "belongs_to_collection": {
+          "id": 382685,
+          "name": "Now You See Me Collection",
+          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
+        },
+        "budget": 90000000,
         "genres": [
-          {
-            "id": 80,
-            "name": "Crime"
-          },
           {
             "id": 53,
             "name": "Thriller"
           },
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "",
-        "id": 639988,
-        "imdb_id": "tt1527793",
+        "homepage": "https://nowyouseeme.movie",
+        "id": 425274,
+        "imdb_id": "tt4712810",
         "origin_country": [
-          "KR"
+          "US"
         ],
-        "original_language": "ko",
-        "original_title": "어쩔수가없다",
-        "overview": "After being laid off and humiliated by a ruthless job market, a veteran paper mill manager descends into violence in a desperate bid to reclaim his dignity.",
-        "popularity": 48.694,
-        "poster_path": "/sBpxTGLzKnvPSVtL5yQYpSxvKEb.jpg",
+        "original_language": "en",
+        "original_title": "Now You See Me: Now You Don't",
+        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+        "popularity": 173.2076,
+        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
         "production_companies": [
           {
-            "id": 199265,
-            "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
-            "name": "CJ ENM Studios",
-            "origin_country": "KR"
+            "id": 1632,
+            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+            "name": "Lionsgate",
+            "origin_country": "US"
           },
           {
-            "id": 34725,
-            "logo_path": "/cRqXC6Dy6AvTGS2wiMt26yGJgZA.png",
-            "name": "Moho Film",
-            "origin_country": "KR"
+            "id": 281285,
+            "logo_path": null,
+            "name": "Cohen Pictures",
+            "origin_country": "US"
           },
           {
-            "id": 123220,
-            "logo_path": "/78WFEzOdyyCUrglTfnZi0CIYXsD.png",
-            "name": "KG Productions",
-            "origin_country": "FR"
+            "id": 221429,
+            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+            "name": "Media Capital Technologies",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
-          {
-            "iso_3166_1": "FR",
-            "name": "France"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-24",
-        "revenue": 7500000,
-        "runtime": 139,
+        "release_date": "2025-11-12",
+        "revenue": 84569120,
+        "runtime": 112,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Korean",
-            "iso_639_1": "ko",
-            "name": "한국어/조선말"
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "No Other Choice",
+        "tagline": "Unlock the illusion.",
+        "title": "Now You See Me: Now You Don't",
         "video": false,
-        "vote_average": 7.8,
-        "vote_count": 42
+        "vote_average": 6.2,
+        "vote_count": 228
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.8,
+      "tmdb_vote_average": 6.2,
       "omdb": {
-        "Title": "No Other Choice",
+        "Title": "Now You See Me: Now You Don't",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "N/A",
-        "Runtime": "139 min",
-        "Genre": "Comedy, Crime, Drama",
-        "Director": "Park Chan-wook",
-        "Writer": "Park Chan-wook, Lee Kyoung-mi, Jahye Lee",
-        "Actors": "Lee Byung-hun, Son Ye-jin, Park Hee-soon",
-        "Plot": "After being unemployed for several years, a man devises a unique plan to secure a new job: eliminate his competition.",
-        "Language": "Korean, English",
-        "Country": "South Korea",
-        "Awards": "4 wins & 18 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMjg3NzY0N2ItZGFlMy00NzAzLTk2NjItMDk2YTU3ZWU0MDA1XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.9/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "100%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "86/100"
-          }
-        ],
-        "Metascore": "86",
-        "imdbRating": "7.9",
-        "imdbVotes": "3,144",
-        "imdbID": "tt1527793",
+        "Rated": "PG-13",
+        "Released": "14 Nov 2025",
+        "Runtime": "112 min",
+        "Genre": "Crime, Thriller",
+        "Director": "Ruben Fleischer",
+        "Writer": "Seth Grahame-Smith, Michael Lesslie, Rhett Reese",
+        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
+        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt4712810",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
-        "Production": "N/A",
+        "Production": "Lionsgate",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/no_other_choice\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/no_other_choice\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12379,267 +12374,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "No Other Choice": 2,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "No Other Choice": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "No Other Choice": 3,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "No Other Choice": 6,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "No Other Choice": 6,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "No Other Choice": 7,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "No Other Choice": 6,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "No Other Choice": 8,
+            "Now You See Me: Now You Don't": 14,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "No Other Choice": 6,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "No Other Choice": 4,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "No Other Choice": 12,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "No Other Choice": 6,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "No Other Choice": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "No Other Choice": 9,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "No Other Choice": 22,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "No Other Choice": 50,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "No Other Choice": 27,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "No Other Choice": 29,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "No Other Choice": 32,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "No Other Choice": 37,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "No Other Choice": 37,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "No Other Choice": 32,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "No Other Choice": 34,
+            "Now You See Me: Now You Don't": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "No Other Choice": 31,
+            "Now You See Me: Now You Don't": 16,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "No Other Choice": 34,
+            "Now You See Me: Now You Don't": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "No Other Choice": 27,
+            "Now You See Me: Now You Don't": 83,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "No Other Choice": 53,
+            "Now You See Me: Now You Don't": 93,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "No Other Choice": 100,
+            "Now You See Me: Now You Don't": 100,
             "isPartial": true
           }
         ]
@@ -12659,55 +12654,89 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "gFV2s1PlooBro2Q1nkcLbjAz_tI",
-          "id": "HKZpuG_ezvY",
+          "etag": "y6vOo_pa8B0XidGfuzgCmTdgF9o",
+          "id": "-E3lMRx7HRQ",
           "snippet": {
-            "publishedAt": "2025-10-08T18:20:16Z",
-            "channelId": "UCpy5dRhZd-JbZP4NsrnLt1w",
-            "title": "NO OTHER CHOICE - Official Trailer - In Select Theaters Christmas",
-            "description": "From master filmmaker Park Chan-wook, NO OTHER CHOICE. Starring Lee Byung Hun and Son Yejin. In Select Theaters Christmas. Everywhere January.",
+            "publishedAt": "2025-04-29T16:54:59Z",
+            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
+            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/HKZpuG_ezvY/default.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/HKZpuG_ezvY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/HKZpuG_ezvY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/HKZpuG_ezvY/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/HKZpuG_ezvY/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "NEON",
+            "channelTitle": "Lionsgate Movies",
+            "tags": [
+              "Jesse Eisenberg",
+              "Woody Harrelson",
+              "Dave Franco",
+              "Isla Fisher",
+              "Justice Smith",
+              "Dominic Sessa",
+              "Ariana Greenblatt",
+              "with Rosamund Pike",
+              "Morgan Freeman",
+              "Now You See Me",
+              "sequel",
+              "series",
+              "Now You See Me 3",
+              "Now You See Me Now You Don't",
+              "Trailer",
+              "Official Trailer",
+              "Now You See Me 3 Trailer",
+              "NYSM Trailer",
+              "NYSM",
+              "NYSM 3",
+              "magician",
+              "illusions",
+              "heist",
+              "heist movie",
+              "bank heist",
+              "crime thriller",
+              "thriller",
+              "comedy",
+              "action",
+              "crime team",
+              "ruben fleischer",
+              "coming soon"
+            ],
             "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "NO OTHER CHOICE - Official Trailer - In Select Theaters Christmas",
-              "description": "From master filmmaker Park Chan-wook, NO OTHER CHOICE. Starring Lee Byung Hun and Son Yejin. In Select Theaters Christmas. Everywhere January."
+              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
+              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6081643",
-            "likeCount": "49947",
+            "viewCount": "18658429",
+            "likeCount": "251941",
             "favoriteCount": "0",
-            "commentCount": "1580"
+            "commentCount": "12022"
           }
         }
       ],
@@ -12718,23 +12747,18 @@
     },
     "creative": {
       "director": [
-        "Park Chan-wook"
+        "Ruben Fleischer"
       ],
-      "writers": [
-        "Park Chan-wook",
-        "Lee Kyoung-mi",
-        "Lee Ja-hye",
-        "Don McKellar"
-      ],
+      "writers": [],
       "cast_top": [
-        "Lee Byung-hun",
-        "Son Ye-jin",
-        "Park Hee-soon",
-        "Lee Sung-min",
-        "Yeom Hye-ran",
-        "Cha Seung-won",
-        "Kim Woo-seung",
-        "Choi So-yul"
+        "Jesse Eisenberg",
+        "Dominic Sessa",
+        "Ariana Greenblatt",
+        "Justice Smith",
+        "Rosamund Pike",
+        "Woody Harrelson",
+        "Dave Franco",
+        "Isla Fisher"
       ],
       "star_power": {
         "actor_count": 8
