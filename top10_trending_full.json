@@ -2,79 +2,74 @@
   {
     "rank": 1,
     "metadata": {
-      "tmdb_id": 967941,
-      "imdb_id": "tt19847976",
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-19",
+      "tmdb_id": 1363123,
+      "imdb_id": "tt34276058",
+      "title": "The Family Plan 2",
+      "release_date": "2025-11-11",
       "release_year": "2025",
       "genres": [
-        "Fantasy",
-        "Adventure",
-        "Romance"
+        "Action",
+        "Comedy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Universal Pictures",
-        "Marc Platt Productions"
+        "Skydance Media",
+        "Municipal Pictures"
       ],
-      "runtime": 137,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
+      "runtime": 106,
+      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
     },
     "commercial": {
-      "budget": 150000000,
-      "revenue": 223041640,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 1.487,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "backdrop_path": "/93mQVskuy8kZOXPoLve8P2E5zdD.jpg",
         "belongs_to_collection": {
-          "id": 968080,
-          "name": "Wicked Collection",
-          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
-          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+          "id": 1363124,
+          "name": "The Family Plan Collection",
+          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
         },
-        "budget": 150000000,
+        "budget": 0,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 10749,
-            "name": "Romance"
+            "id": 35,
+            "name": "Comedy"
           }
         ],
-        "homepage": "https://www.wickedmovie.com",
-        "id": 967941,
-        "imdb_id": "tt19847976",
+        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
+        "id": 1363123,
+        "imdb_id": "tt34276058",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Wicked: For Good",
-        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 217.6535,
-        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "original_title": "The Family Plan 2",
+        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+        "popularity": 416.9137,
+        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "production_companies": [
           {
-            "id": 33,
-            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
-            "name": "Universal Pictures",
+            "id": 82819,
+            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+            "name": "Skydance Media",
             "origin_country": "US"
           },
           {
-            "id": 2527,
-            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
-            "name": "Marc Platt Productions",
+            "id": 169668,
+            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
+            "name": "Municipal Pictures",
             "origin_country": "US"
           }
         ],
@@ -84,46 +79,61 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-19",
-        "revenue": 223041640,
-        "runtime": 137,
+        "release_date": "2025-11-11",
+        "revenue": 0,
+        "runtime": 106,
         "spoken_languages": [
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "You will be changed.",
-        "title": "Wicked: For Good",
+        "tagline": "Deck the halls, dodge the bad guys.",
+        "title": "The Family Plan 2",
         "video": false,
-        "vote_average": 6.715,
-        "vote_count": 214
+        "vote_average": 6.788,
+        "vote_count": 156
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.715,
+      "tmdb_vote_average": 6.788,
       "omdb": {
-        "Title": "Wicked: For Good",
+        "Title": "The Family Plan 2",
         "Year": "2025",
-        "Rated": "PG",
+        "Rated": "PG-13",
         "Released": "21 Nov 2025",
-        "Runtime": "138 min",
-        "Genre": "Family, Fantasy, Musical",
-        "Director": "Jon M. Chu",
-        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
-        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
-        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Runtime": "N/A",
+        "Genre": "Action, Comedy, Family",
+        "Director": "Simon Cellan Jones",
+        "Writer": "David Coggeshall",
+        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
+        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
         "Language": "English",
-        "Country": "United States",
-        "Awards": "3 wins total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States, United Kingdom",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [],
         "Metascore": "N/A",
         "imdbRating": "N/A",
         "imdbVotes": "N/A",
-        "imdbID": "tt19847976",
+        "imdbID": "tt34276058",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -132,7 +142,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -145,267 +155,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 2,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Wicked: For Good": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 12,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 2,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 1,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 2,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 6,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 4,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 8,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 5,
+            "The Family Plan 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 7,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 7,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 13,
+            "The Family Plan 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 19,
+            "The Family Plan 2": 14,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 83,
+            "The Family Plan 2": 62,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Wicked: For Good": 100,
+            "The Family Plan 2": 100,
             "isPartial": true
           }
         ]
@@ -425,55 +435,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "na_JkUK5Kno0jTP6vh_n-IO56lk",
-          "id": "vt98AlBDI9Y",
+          "etag": "6DXUs6ElZXUy4T6GawD0WN3OUEs",
+          "id": "dqolYtJGuf4",
           "snippet": {
-            "publishedAt": "2025-06-05T00:55:09Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Wicked: For Good | Official Trailer",
-            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+            "publishedAt": "2025-10-14T12:59:46Z",
+            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+            "title": "The Family Plan 2 — Official Trailer | Apple TV",
+            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Apple TV",
+            "tags": [
+              "the family plan",
+              "the family plan 2",
+              "the family plan sequel",
+              "the family plan 2 official trailer",
+              "official trailer",
+              "trailer",
+              "trailers",
+              "the family plan 2 trailer",
+              "family plan 2 trailer",
+              "mark wahlberg",
+              "the family plan 2 mark wahlberg",
+              "michelle monaghan",
+              "said taghmaoui",
+              "maggie q",
+              "zoe colletti",
+              "van crosby",
+              "mark wahlburg the family plan 2",
+              "the family plan 2 apple tv",
+              "family plan apple tv",
+              "apple tv",
+              "apple",
+              "tv",
+              "apple tv+",
+              "apple tv app",
+              "apple original",
+              "apple original film",
+              "movie",
+              "comedy"
+            ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Wicked: For Good | Official Trailer",
-              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
+              "title": "The Family Plan 2 — Official Trailer | Apple TV",
+              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13176702",
-            "likeCount": "296748",
+            "viewCount": "5591682",
+            "likeCount": "21364",
             "favoriteCount": "0",
-            "commentCount": "15076"
+            "commentCount": "657"
           }
         }
       ],
@@ -484,18 +524,20 @@
     },
     "creative": {
       "director": [
-        "Jon M. Chu"
+        "Simon Cellan Jones"
       ],
-      "writers": [],
+      "writers": [
+        "David Coggeshall"
+      ],
       "cast_top": [
-        "Ariana Grande",
-        "Cynthia Erivo",
-        "Jonathan Bailey",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Mark Wahlberg",
+        "Michelle Monaghan",
+        "Kit Harington",
+        "Zoe Colletti",
+        "Van Crosby",
+        "Theodore Lindsey",
+        "Peter Lindsey",
+        "Reda Elazouar"
       ],
       "star_power": {
         "actor_count": 8
@@ -1322,74 +1364,79 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1363123,
-      "imdb_id": "tt34276058",
-      "title": "The Family Plan 2",
-      "release_date": "2025-11-11",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-19",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Comedy"
+        "Fantasy",
+        "Adventure",
+        "Romance"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Skydance Media",
-        "Municipal Pictures"
+        "Universal Pictures",
+        "Marc Platt Productions"
       ],
-      "runtime": 106,
-      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
+      "runtime": 137,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 0,
-      "revenue": 0,
+      "budget": 150000000,
+      "revenue": 223041640,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 1.487,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/93mQVskuy8kZOXPoLve8P2E5zdD.jpg",
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
         "belongs_to_collection": {
-          "id": 1363124,
-          "name": "The Family Plan Collection",
-          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
-          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
         },
-        "budget": 0,
+        "budget": 150000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 35,
-            "name": "Comedy"
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 10749,
+            "name": "Romance"
           }
         ],
-        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
-        "id": 1363123,
-        "imdb_id": "tt34276058",
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Family Plan 2",
-        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
-        "popularity": 429.3338,
-        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 207.2776,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
-            "id": 82819,
-            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-            "name": "Skydance Media",
+            "id": 33,
+            "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 169668,
-            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
-            "name": "Municipal Pictures",
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
             "origin_country": "US"
           }
         ],
@@ -1399,61 +1446,51 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-11",
-        "revenue": 0,
-        "runtime": 106,
+        "release_date": "2025-11-19",
+        "revenue": 223041640,
+        "runtime": 137,
         "spoken_languages": [
           {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
+            "english_name": "Uighur",
+            "iso_639_1": "ug",
+            "name": ""
           },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Deck the halls, dodge the bad guys.",
-        "title": "The Family Plan 2",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.748,
-        "vote_count": 151
+        "vote_average": 6.764,
+        "vote_count": 227
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.748,
+      "tmdb_vote_average": 6.764,
       "omdb": {
-        "Title": "The Family Plan 2",
+        "Title": "Wicked: For Good",
         "Year": "2025",
-        "Rated": "PG-13",
+        "Rated": "PG",
         "Released": "21 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Comedy, Family",
-        "Director": "Simon Cellan Jones",
-        "Writer": "David Coggeshall",
-        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
-        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
+        "Runtime": "138 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Winnie Holzman, Dana Fox, L. Frank Baum",
+        "Actors": "Peter Dinklage, Jonathan Bailey, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
         "Language": "English",
-        "Country": "United States, United Kingdom",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States",
+        "Awards": "3 wins total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [],
         "Metascore": "N/A",
         "imdbRating": "N/A",
         "imdbVotes": "N/A",
-        "imdbID": "tt34276058",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -1462,7 +1499,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1475,267 +1512,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "The Family Plan 2": 1,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Family Plan 2": 1,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Family Plan 2": 1,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Family Plan 2": 3,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Family Plan 2": 3,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 11,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Family Plan 2": 3,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Family Plan 2": 2,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Family Plan 2": 4,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Family Plan 2": 5,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Family Plan 2": 5,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Family Plan 2": 5,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Family Plan 2": 7,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Family Plan 2": 7,
+            "Wicked: For Good": 1,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Family Plan 2": 7,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Family Plan 2": 7,
+            "Wicked: For Good": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Family Plan 2": 6,
+            "Wicked: For Good": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Family Plan 2": 11,
+            "Wicked: For Good": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Family Plan 2": 9,
+            "Wicked: For Good": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Family Plan 2": 9,
+            "Wicked: For Good": 7,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Family Plan 2": 11,
+            "Wicked: For Good": 13,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Family Plan 2": 14,
+            "Wicked: For Good": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Family Plan 2": 61,
+            "Wicked: For Good": 79,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "The Family Plan 2": 100,
+            "Wicked: For Good": 100,
             "isPartial": true
           }
         ]
@@ -1755,85 +1792,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "F7rumZdLkBOxvoaXnflSFjXwtAQ",
-          "id": "dqolYtJGuf4",
+          "etag": "0iEgi80KuGe5cCbf8pJwlAKs8aU",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-10-14T12:59:46Z",
-            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
-            "title": "The Family Plan 2 — Official Trailer | Apple TV",
-            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Apple TV",
-            "tags": [
-              "the family plan",
-              "the family plan 2",
-              "the family plan sequel",
-              "the family plan 2 official trailer",
-              "official trailer",
-              "trailer",
-              "trailers",
-              "the family plan 2 trailer",
-              "family plan 2 trailer",
-              "mark wahlberg",
-              "the family plan 2 mark wahlberg",
-              "michelle monaghan",
-              "said taghmaoui",
-              "maggie q",
-              "zoe colletti",
-              "van crosby",
-              "mark wahlburg the family plan 2",
-              "the family plan 2 apple tv",
-              "family plan apple tv",
-              "apple tv",
-              "apple",
-              "tv",
-              "apple tv+",
-              "apple tv app",
-              "apple original",
-              "apple original film",
-              "movie",
-              "comedy"
-            ],
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "The Family Plan 2 — Official Trailer | Apple TV",
-              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "5587487",
-            "likeCount": "21350",
+            "viewCount": "13188363",
+            "likeCount": "296796",
             "favoriteCount": "0",
-            "commentCount": "656"
+            "commentCount": "15079"
           }
         }
       ],
@@ -1844,20 +1851,18 @@
     },
     "creative": {
       "director": [
-        "Simon Cellan Jones"
+        "Jon M. Chu"
       ],
-      "writers": [
-        "David Coggeshall"
-      ],
+      "writers": [],
       "cast_top": [
-        "Mark Wahlberg",
-        "Michelle Monaghan",
-        "Kit Harington",
-        "Zoe Colletti",
-        "Van Crosby",
-        "Theodore Lindsey",
-        "Peter Lindsey",
-        "Reda Elazouar"
+        "Ariana Grande",
+        "Cynthia Erivo",
+        "Jonathan Bailey",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
       ],
       "star_power": {
         "actor_count": 8
@@ -2734,7 +2739,7 @@
         "original_language": "en",
         "original_title": "Train Dreams",
         "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-        "popularity": 115.1819,
+        "popularity": 110.0175,
         "poster_path": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
         "production_companies": [
           {
@@ -2775,12 +2780,12 @@
         "tagline": "",
         "title": "Train Dreams",
         "video": false,
-        "vote_average": 7.583,
-        "vote_count": 102
+        "vote_average": 7.5,
+        "vote_count": 108
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.583,
+      "tmdb_vote_average": 7.5,
       "omdb": {
         "Title": "Train Dreams",
         "Year": "2025",
@@ -2845,7 +2850,7 @@
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Train Dreams": 0,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -2875,7 +2880,7 @@
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Train Dreams": 0,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
@@ -2960,7 +2965,7 @@
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Train Dreams": 1,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
@@ -2970,7 +2975,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Train Dreams": 1,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
@@ -3090,7 +3095,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Train Dreams": 30,
+            "Train Dreams": 31,
             "isPartial": false
           },
           {
@@ -3115,7 +3120,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "aS7w3QXVu-81NXmyXPZZuR-neFM",
+          "etag": "xSXpvAkO0rZ2XvlBpk46HkROQGM",
           "id": "_Nk8TrBHOrA",
           "snippet": {
             "publishedAt": "2025-10-08T15:30:00Z",
@@ -3178,10 +3183,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "6894587",
-            "likeCount": "11672",
+            "viewCount": "6898956",
+            "likeCount": "11712",
             "favoriteCount": "0",
-            "commentCount": "487"
+            "commentCount": "497"
           }
         }
       ],
@@ -4030,82 +4035,82 @@
   {
     "rank": 4,
     "metadata": {
-      "tmdb_id": 1084242,
-      "imdb_id": "tt26443597",
-      "title": "Zootopia 2",
-      "release_date": "2025-11-26",
+      "tmdb_id": 1062722,
+      "imdb_id": "tt1312221",
+      "title": "Frankenstein",
+      "release_date": "2025-10-17",
       "release_year": "2025",
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure",
-        "Mystery"
+        "Drama",
+        "Horror",
+        "Fantasy"
       ],
       "production_countries": [
-        "US"
+        "US",
+        "CA"
       ],
       "language": "en",
       "studio_distributor": [
-        "Walt Disney Animation Studios"
+        "Double Dare You",
+        "Demilo Films",
+        "Bluegrass 7"
       ],
-      "runtime": 107,
-      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before."
+      "runtime": 150,
+      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
     },
     "commercial": {
-      "budget": 180000000,
-      "revenue": 0,
+      "budget": 120000000,
+      "revenue": 480678,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.004,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
-        "belongs_to_collection": {
-          "id": 1084247,
-          "name": "Zootopia Collection",
-          "poster_path": "/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg",
-          "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
-        },
-        "budget": 180000000,
+        "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+        "belongs_to_collection": null,
+        "budget": 120000000,
         "genres": [
           {
-            "id": 16,
-            "name": "Animation"
+            "id": 18,
+            "name": "Drama"
           },
           {
-            "id": 10751,
-            "name": "Family"
+            "id": 27,
+            "name": "Horror"
           },
           {
-            "id": 35,
-            "name": "Comedy"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          },
-          {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://movies.disney.com/zootopia-2",
-        "id": 1084242,
-        "imdb_id": "tt26443597",
+        "homepage": "https://www.frankensteingdt.com",
+        "id": 1062722,
+        "imdb_id": "tt1312221",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Zootopia 2",
-        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
-        "popularity": 187.9041,
-        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
+        "original_title": "Frankenstein",
+        "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+        "popularity": 275.5065,
+        "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
         "production_companies": [
           {
-            "id": 6125,
-            "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
-            "name": "Walt Disney Animation Studios",
+            "id": 101082,
+            "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
+            "name": "Double Dare You",
+            "origin_country": "US"
+          },
+          {
+            "id": 10678,
+            "logo_path": null,
+            "name": "Demilo Films",
+            "origin_country": "CA"
+          },
+          {
+            "id": 279898,
+            "logo_path": null,
+            "name": "Bluegrass 7",
             "origin_country": "US"
           }
         ],
@@ -4113,48 +4118,75 @@
           {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
           }
         ],
-        "release_date": "2025-11-26",
-        "revenue": 0,
-        "runtime": 107,
+        "release_date": "2025-10-17",
+        "revenue": 480678,
+        "runtime": 150,
         "spoken_languages": [
+          {
+            "english_name": "Danish",
+            "iso_639_1": "da",
+            "name": "Dansk"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
           }
         ],
         "status": "Released",
-        "tagline": "Zootopia will be changed furrrever...",
-        "title": "Zootopia 2",
+        "tagline": "Only monsters play God.",
+        "title": "Frankenstein",
         "video": false,
-        "vote_average": 6.5,
-        "vote_count": 20
+        "vote_average": 7.771,
+        "vote_count": 1851
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.5,
+      "tmdb_vote_average": 7.771,
       "omdb": {
-        "Title": "Zootopia 2",
+        "Title": "Frankenstein",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "26 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Animation, Action, Adventure",
-        "Director": "Jared Bush, Byron Howard",
-        "Writer": "Jared Bush",
-        "Actors": "Jason Bateman, Quinta Brunson, Fortune Feimster",
-        "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt26443597",
+        "Rated": "R",
+        "Released": "07 Nov 2025",
+        "Runtime": "149 min",
+        "Genre": "Drama, Fantasy, Horror",
+        "Director": "Guillermo del Toro",
+        "Writer": "Mary Shelley, Guillermo del Toro",
+        "Actors": "Mia Goth, Burn Gorman, Charles Dance",
+        "Plot": "A brilliant but egotistical scientist brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+        "Language": "English, Danish, French",
+        "Country": "Mexico, United States",
+        "Awards": "1 win & 2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "78/100"
+          }
+        ],
+        "Metascore": "78",
+        "imdbRating": "7.7",
+        "imdbVotes": "3,792",
+        "imdbID": "tt1312221",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -4163,7 +4195,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -4176,267 +4208,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Zootopia 2": 2,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 9,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Zootopia 2": 5,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Zootopia 2": 4,
+            "Frankenstein": 7,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Zootopia 2": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Zootopia 2": 3,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Zootopia 2": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Zootopia 2": 4,
+            "Frankenstein": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 16,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 11,
+            "Frankenstein": 4,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 7,
+            "Frankenstein": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 6,
+            "Frankenstein": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Zootopia 2": 5,
+            "Frankenstein": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Zootopia 2": 5,
+            "Frankenstein": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Zootopia 2": 4,
+            "Frankenstein": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 5,
+            "Frankenstein": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Zootopia 2": 5,
+            "Frankenstein": 7,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 10,
+            "Frankenstein": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 10,
+            "Frankenstein": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 10,
+            "Frankenstein": 15,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Zootopia 2": 10,
+            "Frankenstein": 21,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 16,
+            "Frankenstein": 29,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Zootopia 2": 27,
+            "Frankenstein": 45,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 41,
+            "Frankenstein": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Zootopia 2": 54,
+            "Frankenstein": 49,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Zootopia 2": 100,
+            "Frankenstein": 31,
             "isPartial": true
           }
         ]
@@ -4456,62 +4488,86 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "u9qCPtVa2bmOQf5GVmbMDQeTXWE",
-          "id": "A-7RMaQaygI",
+          "etag": "_nZj61-2dJeWIl-z0oRq4F1IrPE",
+          "id": "8aulMPhE12g",
           "snippet": {
-            "publishedAt": "2025-07-30T16:00:30Z",
-            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
-            "title": "Zootopia 2 | Official Trailer (2025)",
-            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
+            "publishedAt": "2025-10-01T13:00:01Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
+            "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
+                "url": "https://i.ytimg.com/vi/8aulMPhE12g/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aulMPhE12g/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aulMPhE12g/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aulMPhE12g/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/8aulMPhE12g/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Entertainment Tonight",
+            "channelTitle": "Netflix",
             "tags": [
-              "Zootopia 2",
-              "Ke Huy Quan",
-              "Quinta Brunson",
-              "Ginnifer Goodwin",
-              "Jason Bateman"
+              "Academy Awards",
+              "Adaptation",
+              "Award Season",
+              "Boris Karloff",
+              "Bride of Frankenstein",
+              "Charles Dance",
+              "Christoph Waltz",
+              "Craft",
+              "Creature",
+              "Drama",
+              "Felix Kammerer",
+              "Film",
+              "Film Festival",
+              "Frankenstein",
+              "Gothic",
+              "Guillermo del Toro",
+              "Horror",
+              "Jacob Elordi",
+              "James Whale",
+              "Mary Shelley",
+              "Mia Goth",
+              "Monster",
+              "Monster Movie",
+              "Movie",
+              "Novel",
+              "Oscar Isaac",
+              "Oscars",
+              "Victor",
+              "Victor Frankenstein"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Zootopia 2 | Official Trailer (2025)",
-              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
+              "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
+              "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "882599",
-            "likeCount": "7937",
+            "viewCount": "12914599",
+            "likeCount": "174719",
             "favoriteCount": "0",
-            "commentCount": "0"
+            "commentCount": "7490"
           }
         }
       ],
@@ -4522,21 +4578,20 @@
     },
     "creative": {
       "director": [
-        "Jared Bush",
-        "Byron Howard"
+        "Guillermo del Toro"
       ],
       "writers": [
-        "Jared Bush"
+        "Guillermo del Toro"
       ],
       "cast_top": [
-        "Ginnifer Goodwin",
-        "Jason Bateman",
-        "Ke Huy Quan",
-        "Fortune Feimster",
-        "Andy Samberg",
-        "David Strathairn",
-        "Idris Elba",
-        "Shakira"
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Christoph Waltz",
+        "Mia Goth",
+        "Felix Kammerer",
+        "Charles Dance",
+        "David Bradley",
+        "Lars Mikkelsen"
       ],
       "star_power": {
         "actor_count": 8
@@ -5363,129 +5418,94 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 701387,
-      "imdb_id": "tt12300742",
-      "title": "Bugonia",
-      "release_date": "2025-10-23",
+      "tmdb_id": 1084242,
+      "imdb_id": "tt26443597",
+      "title": "Zootopia 2",
+      "release_date": "2025-11-26",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
-        "Crime",
-        "Thriller"
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Mystery"
       ],
       "production_countries": [
-        "GR",
-        "IE",
-        "KR",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Element Pictures",
-        "Square Peg",
-        "Fremantle",
-        "Pith Quest Films",
-        "Fruit Tree",
-        "CJ ENM"
+        "Walt Disney Animation Studios"
       ],
-      "runtime": 119,
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+      "runtime": 107,
+      "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 32193187,
+      "budget": 180000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.644,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
-        "belongs_to_collection": null,
-        "budget": 50000000,
+        "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+        "belongs_to_collection": {
+          "id": 1084247,
+          "name": "Zootopia Collection",
+          "poster_path": "/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg",
+          "backdrop_path": "/1WDssJDYInLA4Avg45lgy3WM6Ly.jpg"
+        },
+        "budget": 180000000,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 16,
+            "name": "Animation"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 10751,
+            "name": "Family"
           },
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
+          {
+            "id": 9648,
+            "name": "Mystery"
           }
         ],
-        "homepage": "https://www.focusfeatures.com/bugonia",
-        "id": 701387,
-        "imdb_id": "tt12300742",
+        "homepage": "https://movies.disney.com/zootopia-2",
+        "id": 1084242,
+        "imdb_id": "tt26443597",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Bugonia",
-        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 24.9946,
-        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "original_title": "Zootopia 2",
+        "overview": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De’Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+        "popularity": 187.9041,
+        "poster_path": "/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg",
         "production_companies": [
           {
-            "id": 3353,
-            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-            "name": "Element Pictures",
-            "origin_country": "IE"
-          },
-          {
-            "id": 123620,
-            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-            "name": "Square Peg",
+            "id": 6125,
+            "logo_path": "/tzsMJBJZINu7GHzrpYzpReWhh66.png",
+            "name": "Walt Disney Animation Studios",
             "origin_country": "US"
-          },
-          {
-            "id": 121813,
-            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-            "name": "Fremantle",
-            "origin_country": "US"
-          },
-          {
-            "id": 264539,
-            "logo_path": null,
-            "name": "Pith Quest Films",
-            "origin_country": "GR"
-          },
-          {
-            "id": 138287,
-            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-            "name": "Fruit Tree",
-            "origin_country": "US"
-          },
-          {
-            "id": 128404,
-            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-            "name": "CJ ENM",
-            "origin_country": "KR"
           }
         ],
         "production_countries": [
-          {
-            "iso_3166_1": "GR",
-            "name": "Greece"
-          },
-          {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          },
-          {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
           {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-10-23",
-        "revenue": 32193187,
-        "runtime": 119,
+        "release_date": "2025-11-26",
+        "revenue": 0,
+        "runtime": 107,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -5494,48 +5514,35 @@
           }
         ],
         "status": "Released",
-        "tagline": "Of all the abductions, this one is different.",
-        "title": "Bugonia",
+        "tagline": "Zootopia will be changed furrrever...",
+        "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.698,
-        "vote_count": 393
+        "vote_average": 6.5,
+        "vote_count": 20
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.698,
+      "tmdb_vote_average": 6.5,
       "omdb": {
-        "Title": "Bugonia",
+        "Title": "Zootopia 2",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "31 Oct 2025",
-        "Runtime": "120 min",
-        "Genre": "Comedy, Crime, Sci-Fi",
-        "Director": "Yorgos Lanthimos",
-        "Writer": "Jang Joon-hwan, Will Tracy",
-        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
-        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Rated": "N/A",
+        "Released": "26 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Animation, Action, Adventure",
+        "Director": "Jared Bush, Byron Howard",
+        "Writer": "Jared Bush",
+        "Actors": "Jason Bateman, Quinta Brunson, Fortune Feimster",
+        "Plot": "Brave rabbit cop Judy Hopps and her friend, the fox Nick Wilde, team up again to crack a new case, the most perilous and intricate of their careers.",
         "Language": "English",
-        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
-        "Awards": "2 wins & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "72/100"
-          }
-        ],
-        "Metascore": "72",
-        "imdbRating": "7.4",
-        "imdbVotes": "2,099",
-        "imdbID": "tt12300742",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYjg1Mjc3MjQtMTZjNy00YWVlLWFhMWEtMWI3ZTgxYjJmNmRlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt26443597",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5544,7 +5551,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/zootopia_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5557,267 +5564,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Bugonia": 0,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Bugonia": 3,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 14,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Bugonia": 1,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Bugonia": 34,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Bugonia": 17,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Bugonia": 5,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Bugonia": 3,
+            "Zootopia 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Bugonia": 6,
+            "Zootopia 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Bugonia": 6,
+            "Zootopia 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Bugonia": 9,
+            "Zootopia 2": 10,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Bugonia": 12,
+            "Zootopia 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Bugonia": 34,
+            "Zootopia 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Bugonia": 75,
+            "Zootopia 2": 15,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Bugonia": 100,
+            "Zootopia 2": 26,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Bugonia": 70,
+            "Zootopia 2": 38,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Bugonia": 40,
+            "Zootopia 2": 53,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Bugonia": 40,
+            "Zootopia 2": 100,
             "isPartial": true
           }
         ]
@@ -5837,71 +5844,62 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "FCP9ZoMcoWGeXfN0tcq-0A_3NVk",
-          "id": "bd_5HcTujfc",
+          "etag": "M8BjuBEoMaYLhQrbkVpnCBVPDuE",
+          "id": "A-7RMaQaygI",
           "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "publishedAt": "2025-07-30T16:00:30Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Zootopia 2 | Official Trailer (2025)",
+            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Focus Features",
+            "channelTitle": "Entertainment Tonight",
             "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
+              "Zootopia 2",
+              "Ke Huy Quan",
+              "Quinta Brunson",
+              "Ginnifer Goodwin",
+              "Jason Bateman"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+              "title": "Zootopia 2 | Official Trailer (2025)",
+              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "14445012",
-            "likeCount": "53154",
+            "viewCount": "894751",
+            "likeCount": "8000",
             "favoriteCount": "0",
-            "commentCount": "3119"
+            "commentCount": "0"
           }
         }
       ],
@@ -5912,20 +5910,21 @@
     },
     "creative": {
       "director": [
-        "Yorgos Lanthimos"
+        "Jared Bush",
+        "Byron Howard"
       ],
       "writers": [
-        "Jang Joon-hwan"
+        "Jared Bush"
       ],
       "cast_top": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
+        "Ginnifer Goodwin",
+        "Jason Bateman",
+        "Ke Huy Quan",
+        "Fortune Feimster",
+        "Andy Samberg",
+        "David Strathairn",
+        "Idris Elba",
+        "Shakira"
       ],
       "star_power": {
         "actor_count": 8
@@ -7012,7 +7011,7 @@
           },
           {
             "date": "2025-04-06T00:00:00",
-            "After the Hunt": 3,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
@@ -7057,7 +7056,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "After the Hunt": 1,
+            "After the Hunt": 2,
             "isPartial": false
           },
           {
@@ -7112,7 +7111,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "After the Hunt": 17,
+            "After the Hunt": 19,
             "isPartial": false
           },
           {
@@ -7137,12 +7136,12 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "After the Hunt": 18,
+            "After the Hunt": 17,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "After the Hunt": 27,
+            "After the Hunt": 26,
             "isPartial": false
           },
           {
@@ -7152,17 +7151,17 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "After the Hunt": 58,
+            "After the Hunt": 59,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "After the Hunt": 27,
+            "After the Hunt": 25,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "After the Hunt": 15,
+            "After the Hunt": 16,
             "isPartial": false
           },
           {
@@ -7172,7 +7171,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "After the Hunt": 55,
+            "After the Hunt": 58,
             "isPartial": false
           },
           {
@@ -7197,7 +7196,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "9JPti1qplqiLvQ80yp5tFrNLy_c",
+          "etag": "K0UVdsMlsjulEToZC_mHWyXDUrE",
           "id": "A8R6DMlDtxk",
           "snippet": {
             "publishedAt": "2025-07-16T13:06:16Z",
@@ -7265,8 +7264,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "10431052",
-            "likeCount": "25767",
+            "viewCount": "10428017",
+            "likeCount": "25772",
             "favoriteCount": "0",
             "commentCount": "1388"
           }
@@ -8175,7 +8174,7 @@
         "original_language": "en",
         "original_title": "One Battle After Another",
         "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 227.3989,
+        "popularity": 199.2569,
         "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
         "production_companies": [
           {
@@ -8228,7 +8227,7 @@
         "title": "One Battle After Another",
         "video": false,
         "vote_average": 7.493,
-        "vote_count": 1622
+        "vote_count": 1627
       }
     },
     "ratings": {
@@ -8457,7 +8456,7 @@
           },
           {
             "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
+            "One Battle After Another": 2,
             "isPartial": false
           },
           {
@@ -8487,7 +8486,7 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
+            "One Battle After Another": 3,
             "isPartial": false
           },
           {
@@ -8497,12 +8496,12 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 25,
+            "One Battle After Another": 24,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 72,
+            "One Battle After Another": 71,
             "isPartial": false
           },
           {
@@ -8512,12 +8511,12 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 65,
+            "One Battle After Another": 62,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 46,
+            "One Battle After Another": 44,
             "isPartial": false
           },
           {
@@ -8527,7 +8526,7 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "One Battle After Another": 22,
+            "One Battle After Another": 21,
             "isPartial": false
           },
           {
@@ -8567,7 +8566,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "HqN3ykMIeoY9hgtahO_c4gpV3k8",
+          "etag": "RydRH6QfFZJVnv22BoOGyYBbHp8",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -8632,8 +8631,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19757746",
-            "likeCount": "54388",
+            "viewCount": "19762026",
+            "likeCount": "54397",
             "favoriteCount": "0",
             "commentCount": "3513"
           }
@@ -9486,167 +9485,179 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1062722,
-      "imdb_id": "tt1312221",
-      "title": "Frankenstein",
-      "release_date": "2025-10-17",
-      "release_year": "2025",
+      "tmdb_id": 155,
+      "imdb_id": "tt0468569",
+      "title": "The Dark Knight",
+      "release_date": "2008-07-16",
+      "release_year": "2008",
       "genres": [
         "Drama",
-        "Horror",
-        "Fantasy"
+        "Action",
+        "Crime",
+        "Thriller"
       ],
       "production_countries": [
-        "US",
-        "CA"
+        "GB",
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Double Dare You",
-        "Demilo Films",
-        "Bluegrass 7"
+        "Warner Bros. Pictures",
+        "Legendary Pictures",
+        "Syncopy",
+        "DC"
       ],
-      "runtime": 150,
-      "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation."
+      "runtime": 152,
+      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
     },
     "commercial": {
-      "budget": 120000000,
-      "revenue": 480678,
+      "budget": 185000000,
+      "revenue": 1004558444,
       "opening_weekend": null,
-      "roi": 0.004,
+      "roi": 5.43,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-        "belongs_to_collection": null,
-        "budget": 120000000,
+        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "belongs_to_collection": {
+          "id": 263,
+          "name": "The Dark Knight Collection",
+          "poster_path": "/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg",
+          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+        },
+        "budget": 185000000,
         "genres": [
           {
             "id": 18,
             "name": "Drama"
           },
           {
-            "id": 27,
-            "name": "Horror"
+            "id": 28,
+            "name": "Action"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://www.frankensteingdt.com",
-        "id": 1062722,
-        "imdb_id": "tt1312221",
+        "homepage": "https://www.warnerbros.com/movies/dark-knight/",
+        "id": 155,
+        "imdb_id": "tt0468569",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Frankenstein",
-        "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "popularity": 316.9688,
-        "poster_path": "/g4JtvGlQO7DByTI6frUobqvSL3R.jpg",
+        "original_title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 22.3928,
+        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
         "production_companies": [
           {
-            "id": 101082,
-            "logo_path": "/zjAYU6sUmYaeFeJ1yWeaqzsWAz8.png",
-            "name": "Double Dare You",
+            "id": 174,
+            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+            "name": "Warner Bros. Pictures",
             "origin_country": "US"
           },
           {
-            "id": 10678,
-            "logo_path": null,
-            "name": "Demilo Films",
-            "origin_country": "CA"
+            "id": 923,
+            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+            "name": "Legendary Pictures",
+            "origin_country": "US"
           },
           {
-            "id": 279898,
-            "logo_path": null,
-            "name": "Bluegrass 7",
+            "id": 9996,
+            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
+            "name": "Syncopy",
+            "origin_country": "GB"
+          },
+          {
+            "id": 429,
+            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+            "name": "DC",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
+            "iso_3166_1": "GB",
+            "name": "United Kingdom"
+          },
+          {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "CA",
-            "name": "Canada"
           }
         ],
-        "release_date": "2025-10-17",
-        "revenue": 480678,
-        "runtime": 150,
+        "release_date": "2008-07-16",
+        "revenue": 1004558444,
+        "runtime": 152,
         "spoken_languages": [
-          {
-            "english_name": "Danish",
-            "iso_639_1": "da",
-            "name": "Dansk"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
           },
           {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
           }
         ],
         "status": "Released",
-        "tagline": "Only monsters play God.",
-        "title": "Frankenstein",
+        "tagline": "Welcome to a world without rules.",
+        "title": "The Dark Knight",
         "video": false,
-        "vote_average": 7.761,
-        "vote_count": 1835
+        "vote_average": 8.524,
+        "vote_count": 34731
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.761,
+      "tmdb_vote_average": 8.524,
       "omdb": {
-        "Title": "Frankenstein",
-        "Year": "2025",
-        "Rated": "R",
-        "Released": "07 Nov 2025",
-        "Runtime": "149 min",
-        "Genre": "Drama, Fantasy, Horror",
-        "Director": "Guillermo del Toro",
-        "Writer": "Mary Shelley, Guillermo del Toro",
-        "Actors": "Mia Goth, Burn Gorman, Charles Dance",
-        "Plot": "A brilliant but egotistical scientist brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-        "Language": "English, Danish, French",
-        "Country": "Mexico, United States",
-        "Awards": "1 win & 2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_SX300.jpg",
+        "Title": "The Dark Knight",
+        "Year": "2008",
+        "Rated": "PG-13",
+        "Released": "18 Jul 2008",
+        "Runtime": "152 min",
+        "Genre": "Action, Crime, Drama",
+        "Director": "Christopher Nolan",
+        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
+        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
+        "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+        "Language": "English, Mandarin",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 2 Oscars. 163 wins & 165 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "7.7/10"
+            "Value": "9.1/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "86%"
+            "Value": "94%"
           },
           {
             "Source": "Metacritic",
-            "Value": "78/100"
+            "Value": "85/100"
           }
         ],
-        "Metascore": "78",
-        "imdbRating": "7.7",
-        "imdbVotes": "3,792",
-        "imdbID": "tt1312221",
+        "Metascore": "85",
+        "imdbRating": "9.1",
+        "imdbVotes": "3,087,450",
+        "imdbID": "tt0468569",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$534,987,076",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/frankenstein_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9659,267 +9670,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 33,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Frankenstein": 5,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 36,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 36,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 34,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 33,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 28,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 28,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 28,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 28,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 43,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 40,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 32,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 32,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 35,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 30,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 32,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 28,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Frankenstein": 7,
+            "The Dark Knight": 27,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 27,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 27,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 29,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 31,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 37,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Frankenstein": 3,
+            "The Dark Knight": 44,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 48,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Frankenstein": 4,
+            "The Dark Knight": 44,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Frankenstein": 6,
+            "The Dark Knight": 44,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Frankenstein": 5,
+            "The Dark Knight": 100,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Frankenstein": 6,
+            "The Dark Knight": 61,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Frankenstein": 10,
+            "The Dark Knight": 50,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Frankenstein": 6,
+            "The Dark Knight": 42,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Frankenstein": 6,
+            "The Dark Knight": 40,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Frankenstein": 7,
+            "The Dark Knight": 43,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Frankenstein": 13,
+            "The Dark Knight": 37,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Frankenstein": 12,
+            "The Dark Knight": 38,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Frankenstein": 15,
+            "The Dark Knight": 40,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Frankenstein": 20,
+            "The Dark Knight": 39,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Frankenstein": 30,
+            "The Dark Knight": 38,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Frankenstein": 49,
+            "The Dark Knight": 34,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Frankenstein": 100,
+            "The Dark Knight": 35,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Frankenstein": 50,
+            "The Dark Knight": 31,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Frankenstein": 32,
+            "The Dark Knight": 35,
             "isPartial": true
           }
         ]
@@ -9939,86 +9950,88 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "3jeX6vTDREMMQAutQ-u1NFY3RyU",
-          "id": "8aulMPhE12g",
+          "etag": "CBx4KWiOhP8_w3QBw-qZ71Esga0",
+          "id": "EXeTwQWrcwY",
           "snippet": {
-            "publishedAt": "2025-10-01T13:00:01Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-            "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2013-12-03T00:46:23Z",
+            "channelId": "UCTCjFFoX1un-j7ni4B6HJ3Q",
+            "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
+            "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/default.jpg",
+                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/8aulMPhE12g/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Rotten Tomatoes Classic Trailers",
             "tags": [
-              "Academy Awards",
-              "Adaptation",
-              "Award Season",
-              "Boris Karloff",
-              "Bride of Frankenstein",
-              "Charles Dance",
-              "Christoph Waltz",
-              "Craft",
-              "Creature",
-              "Drama",
-              "Felix Kammerer",
-              "Film",
-              "Film Festival",
-              "Frankenstein",
-              "Gothic",
-              "Guillermo del Toro",
-              "Horror",
-              "Jacob Elordi",
-              "James Whale",
-              "Mary Shelley",
-              "Mia Goth",
-              "Monster",
-              "Monster Movie",
-              "Movie",
-              "Novel",
-              "Oscar Isaac",
-              "Oscars",
-              "Victor",
-              "Victor Frankenstein"
+              "movieclips",
+              "movie clips",
+              "movieclipstrailers",
+              "new trailers",
+              "trailers HD",
+              "hd",
+              "trailers",
+              "movieclipsDOTcom",
+              "trailer",
+              "2013",
+              "official",
+              "HD",
+              "zefr",
+              "classic trailers",
+              "oldhollywoodtrailers",
+              "jslewis",
+              "Dark",
+              "Knight",
+              "The Dark Knight movie",
+              "The Dark Knight trailer",
+              "christian Bale",
+              "Heath Ledger",
+              "Aaron Eckhart",
+              "Michael Caine",
+              "Maggie Gyllenhaal",
+              "Gary Oldman",
+              "Morgan Freeman",
+              "Cillian Murphy",
+              "batman",
+              "dark knight",
+              "harvey dent"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Frankenstein | Guillermo del Toro | Official Trailer | Netflix",
-              "description": "Written and directed by Guillermo del Toro, FRANKENSTEIN is on Netflix November 7. Starring Oscar Isaac, Jacob Elordi, Mia Goth, Felix Kammerer, with Charles Dance, and Christoph Waltz.\n\nOscar-winning director Guillermo del Toro adapts Mary Shelley’s classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.\n\nWatch on Netflix: https://www.netflix.com/title/81507921\n\nAbout Netflix:\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\n\nFrankenstein | Guillermo del Toro | Official Trailer | Netflix\nhttps://www.youtube.com/@Netflix"
+              "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
+              "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "12915307",
-            "likeCount": "174688",
+            "viewCount": "21222130",
+            "likeCount": "206591",
             "favoriteCount": "0",
-            "commentCount": "7490"
+            "commentCount": "13660"
           }
         }
       ],
@@ -10029,20 +10042,18 @@
     },
     "creative": {
       "director": [
-        "Guillermo del Toro"
+        "Christopher Nolan"
       ],
-      "writers": [
-        "Guillermo del Toro"
-      ],
+      "writers": [],
       "cast_top": [
-        "Oscar Isaac",
-        "Jacob Elordi",
-        "Christoph Waltz",
-        "Mia Goth",
-        "Felix Kammerer",
-        "Charles Dance",
-        "David Bradley",
-        "Lars Mikkelsen"
+        "Christian Bale",
+        "Heath Ledger",
+        "Aaron Eckhart",
+        "Michael Caine",
+        "Maggie Gyllenhaal",
+        "Gary Oldman",
+        "Morgan Freeman",
+        "Monique Gabriela Curnen"
       ],
       "star_power": {
         "actor_count": 8
@@ -10869,16 +10880,15 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 155,
-      "imdb_id": "tt0468569",
-      "title": "The Dark Knight",
-      "release_date": "2008-07-16",
-      "release_year": "2008",
+      "tmdb_id": 157336,
+      "imdb_id": "tt0816692",
+      "title": "Interstellar",
+      "release_date": "2014-11-05",
+      "release_year": "2014",
       "genres": [
+        "Adventure",
         "Drama",
-        "Action",
-        "Crime",
-        "Thriller"
+        "Science Fiction"
       ],
       "production_countries": [
         "GB",
@@ -10886,66 +10896,50 @@
       ],
       "language": "en",
       "studio_distributor": [
-        "Warner Bros. Pictures",
         "Legendary Pictures",
         "Syncopy",
-        "DC"
+        "Lynda Obst Productions"
       ],
-      "runtime": 152,
-      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
+      "runtime": 169,
+      "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage."
     },
     "commercial": {
-      "budget": 185000000,
-      "revenue": 1004558444,
+      "budget": 165000000,
+      "revenue": 746606706,
       "opening_weekend": null,
-      "roi": 5.43,
+      "roi": 4.525,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-        "belongs_to_collection": {
-          "id": 263,
-          "name": "The Dark Knight Collection",
-          "poster_path": "/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg",
-          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
-        },
-        "budget": 185000000,
+        "backdrop_path": "/5XNQBqnBwPA9yT0jZ0p3s8bbLh0.jpg",
+        "belongs_to_collection": null,
+        "budget": 165000000,
         "genres": [
+          {
+            "id": 12,
+            "name": "Adventure"
+          },
           {
             "id": 18,
             "name": "Drama"
           },
           {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
+            "id": 878,
+            "name": "Science Fiction"
           }
         ],
-        "homepage": "https://www.warnerbros.com/movies/dark-knight/",
-        "id": 155,
-        "imdb_id": "tt0468569",
+        "homepage": "http://www.interstellarmovie.net/",
+        "id": 157336,
+        "imdb_id": "tt0816692",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Dark Knight",
-        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-        "popularity": 21.5152,
-        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "original_title": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "popularity": 35.7636,
+        "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
         "production_companies": [
-          {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
-            "origin_country": "US"
-          },
           {
             "id": 923,
             "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
@@ -10959,9 +10953,9 @@
             "origin_country": "GB"
           },
           {
-            "id": 429,
-            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-            "name": "DC",
+            "id": 13769,
+            "logo_path": null,
+            "name": "Lynda Obst Productions",
             "origin_country": "US"
           }
         ],
@@ -10975,73 +10969,68 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2008-07-16",
-        "revenue": 1004558444,
-        "runtime": 152,
+        "release_date": "2014-11-05",
+        "revenue": 746606706,
+        "runtime": 169,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to a world without rules.",
-        "title": "The Dark Knight",
+        "tagline": "Mankind was born on Earth. It was never meant to die here.",
+        "title": "Interstellar",
         "video": false,
-        "vote_average": 8.524,
-        "vote_count": 34732
+        "vote_average": 8.462,
+        "vote_count": 38275
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.524,
+      "tmdb_vote_average": 8.462,
       "omdb": {
-        "Title": "The Dark Knight",
-        "Year": "2008",
+        "Title": "Interstellar",
+        "Year": "2014",
         "Rated": "PG-13",
-        "Released": "18 Jul 2008",
-        "Runtime": "152 min",
-        "Genre": "Action, Crime, Drama",
+        "Released": "07 Nov 2014",
+        "Runtime": "169 min",
+        "Genre": "Adventure, Drama, Sci-Fi",
         "Director": "Christopher Nolan",
-        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
-        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
-        "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
-        "Language": "English, Mandarin",
-        "Country": "United States, United Kingdom",
-        "Awards": "Won 2 Oscars. 163 wins & 165 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+        "Writer": "Jonathan Nolan, Christopher Nolan",
+        "Actors": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+        "Plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "Language": "English",
+        "Country": "United States, United Kingdom, Canada",
+        "Awards": "Won 1 Oscar. 44 wins & 148 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "9.1/10"
+            "Value": "8.7/10"
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "94%"
+            "Value": "73%"
           },
           {
             "Source": "Metacritic",
-            "Value": "85/100"
+            "Value": "74/100"
           }
         ],
-        "Metascore": "85",
-        "imdbRating": "9.1",
-        "imdbVotes": "3,087,450",
-        "imdbID": "tt0468569",
+        "Metascore": "74",
+        "imdbRating": "8.7",
+        "imdbVotes": "2,423,918",
+        "imdbID": "tt0816692",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$534,987,076",
+        "BoxOffice": "$203,227,580",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/interstellar_2014\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/interstellar_2014\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -11054,267 +11043,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "The Dark Knight": 35,
+            "Interstellar": 49,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Dark Knight": 31,
+            "Interstellar": 63,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Dark Knight": 28,
+            "Interstellar": 100,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 93,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Dark Knight": 36,
+            "Interstellar": 71,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Dark Knight": 42,
+            "Interstellar": 88,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Dark Knight": 34,
+            "Interstellar": 87,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Dark Knight": 32,
+            "Interstellar": 81,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 77,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Dark Knight": 35,
+            "Interstellar": 67,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 65,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Dark Knight": 32,
+            "Interstellar": 77,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Dark Knight": 30,
+            "Interstellar": 54,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 48,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 59,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 52,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 51,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Dark Knight": 28,
+            "Interstellar": 41,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 39,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Dark Knight": 44,
+            "Interstellar": 33,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Dark Knight": 42,
+            "Interstellar": 33,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Dark Knight": 33,
+            "Interstellar": 33,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Dark Knight": 31,
+            "Interstellar": 30,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Dark Knight": 35,
+            "Interstellar": 30,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Dark Knight": 31,
+            "Interstellar": 32,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Dark Knight": 32,
+            "Interstellar": 31,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Dark Knight": 28,
+            "Interstellar": 30,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Dark Knight": 28,
+            "Interstellar": 29,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Dark Knight": 26,
+            "Interstellar": 30,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 28,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Dark Knight": 27,
+            "Interstellar": 28,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Dark Knight": 29,
+            "Interstellar": 37,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Dark Knight": 32,
+            "Interstellar": 33,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Dark Knight": 38,
+            "Interstellar": 32,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Dark Knight": 45,
+            "Interstellar": 38,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Dark Knight": 50,
+            "Interstellar": 47,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Dark Knight": 45,
+            "Interstellar": 47,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Dark Knight": 46,
+            "Interstellar": 46,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Dark Knight": 100,
+            "Interstellar": 50,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Dark Knight": 61,
+            "Interstellar": 45,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Dark Knight": 49,
+            "Interstellar": 42,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Dark Knight": 42,
+            "Interstellar": 39,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Dark Knight": 40,
+            "Interstellar": 42,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Dark Knight": 45,
+            "Interstellar": 43,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Dark Knight": 36,
+            "Interstellar": 43,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Dark Knight": 39,
+            "Interstellar": 46,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Dark Knight": 41,
+            "Interstellar": 39,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Dark Knight": 38,
+            "Interstellar": 45,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Dark Knight": 39,
+            "Interstellar": 62,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Dark Knight": 35,
+            "Interstellar": 54,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Dark Knight": 36,
+            "Interstellar": 47,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Dark Knight": 33,
+            "Interstellar": 44,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "The Dark Knight": 34,
+            "Interstellar": 45,
             "isPartial": true
           }
         ]
@@ -11334,88 +11323,72 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "i2yM2hAt5_sujAgb5W9FbQFibLc",
-          "id": "EXeTwQWrcwY",
+          "etag": "11-M0dot6zN82tEJg3ziSXYOA6g",
+          "id": "2LqzF5WauAw",
           "snippet": {
-            "publishedAt": "2013-12-03T00:46:23Z",
-            "channelId": "UCTCjFFoX1un-j7ni4B6HJ3Q",
-            "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-            "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down.",
+            "publishedAt": "2014-05-16T17:56:42Z",
+            "channelId": "UCXw-G3eDE9trcvY2sBMM_aA",
+            "title": "Interstellar Movie - Official Trailer",
+            "description": "The official Interstellar movie trailer from Christopher Nolan, starring Matthew McConaughey. http://www.InterstellarMovie.com/",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/default.jpg",
+                "url": "https://i.ytimg.com/vi/2LqzF5WauAw/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/2LqzF5WauAw/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/2LqzF5WauAw/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/2LqzF5WauAw/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/2LqzF5WauAw/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Rotten Tomatoes Classic Trailers",
+            "channelTitle": "Interstellar Movie",
             "tags": [
-              "movieclips",
-              "movie clips",
-              "movieclipstrailers",
-              "new trailers",
-              "trailers HD",
-              "hd",
-              "trailers",
-              "movieclipsDOTcom",
-              "trailer",
-              "2013",
-              "official",
-              "HD",
-              "zefr",
-              "classic trailers",
-              "oldhollywoodtrailers",
-              "jslewis",
-              "Dark",
-              "Knight",
-              "The Dark Knight movie",
-              "The Dark Knight trailer",
-              "christian Bale",
-              "Heath Ledger",
-              "Aaron Eckhart",
-              "Michael Caine",
-              "Maggie Gyllenhaal",
-              "Gary Oldman",
-              "Morgan Freeman",
-              "Cillian Murphy",
-              "batman",
-              "dark knight",
-              "harvey dent"
+              "yt:quality=high",
+              "Trailer",
+              "Official",
+              "Teaser Trailer",
+              "Trailer (Website Category)",
+              "Official Trailer",
+              "Theatrical",
+              "Quality",
+              "Christopher Nolan",
+              "Interstellar Movie",
+              "Interstellar",
+              "Matthew McConaughey (TV Actor)",
+              "Film (Invention)",
+              "Theatrical Trailer",
+              "Exclusive"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-              "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down."
+              "title": "Interstellar Movie - Official Trailer",
+              "description": "The official Interstellar movie trailer from Christopher Nolan, starring Matthew McConaughey. http://www.InterstellarMovie.com/"
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "21221788",
-            "likeCount": "206588",
+            "viewCount": "8180731",
+            "likeCount": "41009",
             "favoriteCount": "0",
-            "commentCount": "13679"
+            "commentCount": "3435"
           }
         }
       ],
@@ -11428,16 +11401,19 @@
       "director": [
         "Christopher Nolan"
       ],
-      "writers": [],
+      "writers": [
+        "Jonathan Nolan",
+        "Christopher Nolan"
+      ],
       "cast_top": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart",
+        "Matthew McConaughey",
+        "Anne Hathaway",
         "Michael Caine",
-        "Maggie Gyllenhaal",
-        "Gary Oldman",
-        "Morgan Freeman",
-        "Monique Gabriela Curnen"
+        "Jessica Chastain",
+        "Casey Affleck",
+        "Wes Bentley",
+        "Topher Grace",
+        "Mackenzie Foy"
       ],
       "star_power": {
         "actor_count": 8
@@ -12434,7 +12410,7 @@
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
@@ -12449,17 +12425,17 @@
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
@@ -12469,7 +12445,7 @@
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Now You See Me: Now You Don't": 2,
+            "Now You See Me: Now You Don't": 3,
             "isPartial": false
           },
           {
@@ -12499,7 +12475,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
@@ -12519,12 +12495,12 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Now You See Me: Now You Don't": 3,
+            "Now You See Me: Now You Don't": 2,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Now You See Me: Now You Don't": 16,
+            "Now You See Me: Now You Don't": 15,
             "isPartial": false
           },
           {
@@ -12534,7 +12510,7 @@
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -12559,7 +12535,7 @@
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -12574,17 +12550,17 @@
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -12599,7 +12575,7 @@
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
@@ -12614,17 +12590,17 @@
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Now You See Me: Now You Don't": 5,
+            "Now You See Me: Now You Don't": 4,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Now You See Me: Now You Don't": 7,
+            "Now You See Me: Now You Don't": 6,
             "isPartial": false
           },
           {
@@ -12639,32 +12615,32 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Now You See Me: Now You Don't": 6,
+            "Now You See Me: Now You Don't": 5,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Now You See Me: Now You Don't": 8,
+            "Now You See Me: Now You Don't": 7,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Now You See Me: Now You Don't": 12,
+            "Now You See Me: Now You Don't": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Now You See Me: Now You Don't": 18,
+            "Now You See Me: Now You Don't": 17,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Now You See Me: Now You Don't": 23,
+            "Now You See Me: Now You Don't": 21,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Now You See Me: Now You Don't": 89,
+            "Now You See Me: Now You Don't": 86,
             "isPartial": false
           },
           {
@@ -12674,7 +12650,7 @@
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Now You See Me: Now You Don't": 78,
+            "Now You See Me: Now You Don't": 75,
             "isPartial": true
           }
         ]
@@ -12694,7 +12670,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "HiRJdoZU3YUr8zusW5BeRfJadYE",
+          "etag": "0u9hTR8Z0V-qkDaFq96TouDlyQE",
           "id": "-E3lMRx7HRQ",
           "snippet": {
             "publishedAt": "2025-04-29T16:54:59Z",
@@ -12773,8 +12749,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "18783539",
-            "likeCount": "252298",
+            "viewCount": "18796652",
+            "likeCount": "252332",
             "favoriteCount": "0",
             "commentCount": "12047"
           }
