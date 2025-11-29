@@ -101,12 +101,12 @@
         "tagline": "Zootopia will be changed furrrever...",
         "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.649,
-        "vote_count": 97
+        "vote_average": 7.64,
+        "vote_count": 100
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.649,
+      "tmdb_vote_average": 7.64,
       "omdb": {
         "Title": "Zootopia 2",
         "Year": "2025",
@@ -383,12 +383,12 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Zootopia 2": 5,
+            "Zootopia 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 9,
+            "Zootopia 2": 10,
             "isPartial": false
           },
           {
@@ -398,7 +398,7 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 24,
+            "Zootopia 2": 25,
             "isPartial": false
           },
           {
@@ -428,7 +428,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "jB47Bc12Yyzno9QJhGJPX1dhBUM",
+          "etag": "r-S8ZqAMVLKaK6WohKIOapZiyfw",
           "id": "A-7RMaQaygI",
           "snippet": {
             "publishedAt": "2025-07-30T16:00:30Z",
@@ -480,8 +480,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1092122",
-            "likeCount": "9050",
+            "viewCount": "1104506",
+            "likeCount": "9113",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -1335,82 +1335,130 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1241983,
-      "imdb_id": "tt29768334",
-      "title": "Train Dreams",
-      "release_date": "2025-11-05",
+      "tmdb_id": 701387,
+      "imdb_id": "tt12300742",
+      "title": "Bugonia",
+      "release_date": "2025-10-23",
       "release_year": "2025",
       "genres": [
-        "Drama"
+        "Comedy",
+        "Crime",
+        "Science Fiction"
       ],
       "production_countries": [
-        "US"
+        "IE",
+        "KR",
+        "US",
+        "CA"
       ],
       "language": "en",
       "studio_distributor": [
-        "Kamala Films",
-        "Black Bear Pictures"
+        "Element Pictures",
+        "Square Peg",
+        "Fremantle",
+        "Pith Quest Films",
+        "Fruit Tree",
+        "CJ ENM"
       ],
-      "runtime": 102,
-      "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
+      "runtime": 119,
+      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
     },
     "commercial": {
-      "budget": 10000000,
-      "revenue": 0,
+      "budget": 50000000,
+      "revenue": 32857834,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.657,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+        "backdrop_path": "/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
         "belongs_to_collection": null,
-        "budget": 10000000,
+        "budget": 50000000,
         "genres": [
           {
-            "id": 18,
-            "name": "Drama"
+            "id": 35,
+            "name": "Comedy"
+          },
+          {
+            "id": 80,
+            "name": "Crime"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
           }
         ],
-        "homepage": "https://www.netflix.com/title/82020378",
-        "id": 1241983,
-        "imdb_id": "tt29768334",
+        "homepage": "https://www.focusfeatures.com/bugonia",
+        "id": 701387,
+        "imdb_id": "tt12300742",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Train Dreams",
-        "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
-        "popularity": 97.5006,
-        "poster_path": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
+        "original_title": "Bugonia",
+        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "popularity": 116.4051,
+        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
         "production_companies": [
           {
-            "id": 3540,
-            "logo_path": null,
-            "name": "Kamala Films",
+            "id": 3353,
+            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+            "name": "Element Pictures",
+            "origin_country": "IE"
+          },
+          {
+            "id": 123620,
+            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
+            "name": "Square Peg",
             "origin_country": "US"
           },
           {
-            "id": 22146,
-            "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
-            "name": "Black Bear Pictures",
+            "id": 121813,
+            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+            "name": "Fremantle",
             "origin_country": "US"
+          },
+          {
+            "id": 264539,
+            "logo_path": null,
+            "name": "Pith Quest Films",
+            "origin_country": "CA"
+          },
+          {
+            "id": 138287,
+            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
+            "name": "Fruit Tree",
+            "origin_country": "US"
+          },
+          {
+            "id": 128404,
+            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
+            "name": "CJ ENM",
+            "origin_country": "KR"
           }
         ],
         "production_countries": [
           {
+            "iso_3166_1": "IE",
+            "name": "Ireland"
+          },
+          {
+            "iso_3166_1": "KR",
+            "name": "South Korea"
+          },
+          {
             "iso_3166_1": "US",
             "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "CA",
+            "name": "Canada"
           }
         ],
-        "release_date": "2025-11-05",
-        "revenue": 0,
-        "runtime": 102,
+        "release_date": "2025-10-23",
+        "revenue": 32857834,
+        "runtime": 119,
         "spoken_languages": [
-          {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
-          },
           {
             "english_name": "English",
             "iso_639_1": "en",
@@ -1418,30 +1466,30 @@
           }
         ],
         "status": "Released",
-        "tagline": "",
-        "title": "Train Dreams",
+        "tagline": "Of all the abductions, this one is different.",
+        "title": "Bugonia",
         "video": false,
-        "vote_average": 7.427,
-        "vote_count": 144
+        "vote_average": 7.555,
+        "vote_count": 478
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.427,
+      "tmdb_vote_average": 7.555,
       "omdb": {
-        "Title": "Train Dreams",
+        "Title": "Bugonia",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "21 Nov 2025",
-        "Runtime": "102 min",
-        "Genre": "Drama",
-        "Director": "Clint Bentley",
-        "Writer": "Clint Bentley, Denis Johnson, Greg Kwedar",
-        "Actors": "Kerry Condon, Felicity Jones, Joel Edgerton",
-        "Plot": "Based on Denis Johnson's beloved novella, Train Dreams is the moving portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly-changing America of the early 20th Century.",
+        "Rated": "R",
+        "Released": "31 Oct 2025",
+        "Runtime": "120 min",
+        "Genre": "Comedy, Crime, Sci-Fi",
+        "Director": "Yorgos Lanthimos",
+        "Writer": "Jang Joon-hwan, Will Tracy",
+        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
+        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
         "Language": "English",
-        "Country": "United States",
-        "Awards": "1 win & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
+        "Awards": "2 wins & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
@@ -1449,17 +1497,17 @@
           },
           {
             "Source": "Rotten Tomatoes",
-            "Value": "97%"
+            "Value": "86%"
           },
           {
             "Source": "Metacritic",
-            "Value": "86/100"
+            "Value": "72/100"
           }
         ],
-        "Metascore": "86",
+        "Metascore": "72",
         "imdbRating": "7.4",
-        "imdbVotes": "365",
-        "imdbID": "tt29768334",
+        "imdbVotes": "2,099",
+        "imdbID": "tt12300742",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -1468,7 +1516,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -1481,267 +1529,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Train Dreams": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Train Dreams": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Train Dreams": 0,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 0,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Train Dreams": 1,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Train Dreams": 3,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 1,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 33,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 17,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 5,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 6,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 6,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Train Dreams": 4,
+            "Bugonia": 10,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Train Dreams": 3,
+            "Bugonia": 12,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Train Dreams": 2,
+            "Bugonia": 35,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Train Dreams": 3,
+            "Bugonia": 77,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Train Dreams": 9,
+            "Bugonia": 100,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Train Dreams": 13,
+            "Bugonia": 71,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Train Dreams": 39,
+            "Bugonia": 40,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Train Dreams": 100,
+            "Bugonia": 53,
             "isPartial": true
           }
         ]
@@ -1761,73 +1809,71 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "3oebDT42xywCcrUBUNdgUg8VKbM",
-          "id": "_Nk8TrBHOrA",
+          "etag": "6ixVvDiY7ZcwOwQpK-q7lX8cxBU",
+          "id": "bd_5HcTujfc",
           "snippet": {
-            "publishedAt": "2025-10-08T15:30:00Z",
-            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
-            "title": "Train Dreams | Official Trailer | Netflix",
-            "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix",
+            "publishedAt": "2025-08-28T14:00:01Z",
+            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
+            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/default.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Netflix",
+            "channelTitle": "Focus Features",
             "tags": [
-              "Clint Bentley",
-              "Denis Johnson",
-              "Drama",
-              "Felicity Jones",
-              "Greg Kwedar",
-              "Joel Edgerton",
-              "Kerry Condon",
-              "Netflix",
-              "Netflix Films",
-              "Sing Sing",
-              "Sundance",
-              "Sundance Film Festival 2025",
-              "TIFF",
-              "Toronto International Film Festival",
-              "Trailer",
-              "William H. Macy"
+              "Focus Features",
+              "Emma Stone",
+              "Jesse Plemons",
+              "Aidan Delbis",
+              "Stavros Halkias",
+              "Alicia Silverstone",
+              "Yorgos Lanthimos",
+              "Will Tracy",
+              "Ed Guiney",
+              "Andrew Lowe",
+              "Ari Aster",
+              "Lars Knudsen",
+              "Miky Lee",
+              "Jerry Kyoungboum Ko"
             ],
-            "categoryId": "24",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Train Dreams | Official Trailer | Netflix",
-              "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix"
+              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "6918294",
-            "likeCount": "12170",
+            "viewCount": "14602668",
+            "likeCount": "53798",
             "favoriteCount": "0",
-            "commentCount": "605"
+            "commentCount": "3212"
           }
         }
       ],
@@ -1838,18 +1884,20 @@
     },
     "creative": {
       "director": [
-        "Clint Bentley"
+        "Yorgos Lanthimos"
       ],
-      "writers": [],
+      "writers": [
+        "Jang Joon-hwan"
+      ],
       "cast_top": [
-        "Joel Edgerton",
-        "Felicity Jones",
-        "Nathaniel Arcand",
-        "Clifton Collins Jr.",
-        "John Diehl",
-        "Paul Schneider",
-        "Kerry Condon",
-        "William H. Macy"
+        "Emma Stone",
+        "Jesse Plemons",
+        "Aidan Delbis",
+        "Stavros Halkias",
+        "Alicia Silverstone",
+        "J. Carmen Galindez Barrera",
+        "Marc T. Lewis",
+        "Vanessa Eng"
       ],
       "star_power": {
         "actor_count": 8
@@ -2676,179 +2724,138 @@
   {
     "rank": 3,
     "metadata": {
-      "tmdb_id": 701387,
-      "imdb_id": "tt12300742",
-      "title": "Bugonia",
-      "release_date": "2025-10-23",
+      "tmdb_id": 1363123,
+      "imdb_id": "tt34276058",
+      "title": "The Family Plan 2",
+      "release_date": "2025-11-11",
       "release_year": "2025",
       "genres": [
-        "Comedy",
-        "Crime",
-        "Science Fiction"
+        "Action",
+        "Comedy"
       ],
       "production_countries": [
-        "IE",
-        "KR",
-        "US",
-        "CA"
+        "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Element Pictures",
-        "Square Peg",
-        "Fremantle",
-        "Pith Quest Films",
-        "Fruit Tree",
-        "CJ ENM"
+        "Skydance Media",
+        "Municipal Pictures"
       ],
-      "runtime": 119,
-      "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth."
+      "runtime": 106,
+      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
     },
     "commercial": {
-      "budget": 50000000,
-      "revenue": 32857834,
+      "budget": 0,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.657,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
-        "belongs_to_collection": null,
-        "budget": 50000000,
+        "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+        "belongs_to_collection": {
+          "id": 1363124,
+          "name": "The Family Plan Collection",
+          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
+        },
+        "budget": 0,
         "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
           {
             "id": 35,
             "name": "Comedy"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
           }
         ],
-        "homepage": "https://www.focusfeatures.com/bugonia",
-        "id": 701387,
-        "imdb_id": "tt12300742",
+        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
+        "id": 1363123,
+        "imdb_id": "tt34276058",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Bugonia",
-        "overview": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
-        "popularity": 116.4051,
-        "poster_path": "/oxgsAQDAAxA92mFGYCZllgWkH9J.jpg",
+        "original_title": "The Family Plan 2",
+        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+        "popularity": 315.5307,
+        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
         "production_companies": [
           {
-            "id": 3353,
-            "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
-            "name": "Element Pictures",
-            "origin_country": "IE"
-          },
-          {
-            "id": 123620,
-            "logo_path": "/ePRhZ3yb09Ya6WMzCCBYopwIYbE.png",
-            "name": "Square Peg",
+            "id": 82819,
+            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+            "name": "Skydance Media",
             "origin_country": "US"
           },
           {
-            "id": 121813,
-            "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
-            "name": "Fremantle",
+            "id": 169668,
+            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
+            "name": "Municipal Pictures",
             "origin_country": "US"
-          },
-          {
-            "id": 264539,
-            "logo_path": null,
-            "name": "Pith Quest Films",
-            "origin_country": "CA"
-          },
-          {
-            "id": 138287,
-            "logo_path": "/3I1k679J7ZLQtVFM23dJhFZQQCH.png",
-            "name": "Fruit Tree",
-            "origin_country": "US"
-          },
-          {
-            "id": 128404,
-            "logo_path": "/dP3usmr6di1jMPH738rvbxdkmSQ.png",
-            "name": "CJ ENM",
-            "origin_country": "KR"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "IE",
-            "name": "Ireland"
-          },
-          {
-            "iso_3166_1": "KR",
-            "name": "South Korea"
-          },
-          {
             "iso_3166_1": "US",
             "name": "United States of America"
-          },
-          {
-            "iso_3166_1": "CA",
-            "name": "Canada"
           }
         ],
-        "release_date": "2025-10-23",
-        "revenue": 32857834,
-        "runtime": 119,
+        "release_date": "2025-11-11",
+        "revenue": 0,
+        "runtime": 106,
         "spoken_languages": [
+          {
+            "english_name": "Mandarin",
+            "iso_639_1": "zh",
+            "name": "普通话"
+          },
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "French",
+            "iso_639_1": "fr",
+            "name": "Français"
+          },
+          {
+            "english_name": "Russian",
+            "iso_639_1": "ru",
+            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Of all the abductions, this one is different.",
-        "title": "Bugonia",
+        "tagline": "Deck the halls, dodge the bad guys.",
+        "title": "The Family Plan 2",
         "video": false,
-        "vote_average": 7.557,
-        "vote_count": 471
+        "vote_average": 6.769,
+        "vote_count": 216
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.557,
+      "tmdb_vote_average": 6.769,
       "omdb": {
-        "Title": "Bugonia",
+        "Title": "The Family Plan 2",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "31 Oct 2025",
-        "Runtime": "120 min",
-        "Genre": "Comedy, Crime, Sci-Fi",
-        "Director": "Yorgos Lanthimos",
-        "Writer": "Jang Joon-hwan, Will Tracy",
-        "Actors": "Jesse Plemons, Emma Stone, Alicia Silverstone",
-        "Plot": "Two conspiracy-obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+        "Rated": "PG-13",
+        "Released": "21 Nov 2025",
+        "Runtime": "N/A",
+        "Genre": "Action, Comedy, Family",
+        "Director": "Simon Cellan Jones",
+        "Writer": "David Coggeshall",
+        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
+        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
         "Language": "English",
-        "Country": "Ireland, United Kingdom, Canada, South Korea, United States",
-        "Awards": "2 wins & 3 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzIzNWQxMjEtZmQ3MS00OTk2LWFlZjktZDUyYWRkM2M3NWVlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.4/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "86%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "72/100"
-          }
-        ],
-        "Metascore": "72",
-        "imdbRating": "7.4",
-        "imdbVotes": "2,099",
-        "imdbID": "tt12300742",
+        "Country": "United States, United Kingdom",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt34276058",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -2857,7 +2864,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/bugonia\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -2870,267 +2877,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 2,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "Bugonia": 0,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Bugonia": 3,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 3,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 5,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 6,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "Bugonia": 1,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Bugonia": 33,
+            "The Family Plan 2": 7,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Bugonia": 17,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Bugonia": 5,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "Bugonia": 3,
+            "The Family Plan 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Bugonia": 6,
+            "The Family Plan 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "Bugonia": 6,
+            "The Family Plan 2": 9,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Bugonia": 10,
+            "The Family Plan 2": 8,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "Bugonia": 12,
+            "The Family Plan 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Bugonia": 34,
+            "The Family Plan 2": 11,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Bugonia": 77,
+            "The Family Plan 2": 10,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Bugonia": 100,
+            "The Family Plan 2": 13,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Bugonia": 70,
+            "The Family Plan 2": 19,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Bugonia": 42,
+            "The Family Plan 2": 74,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Bugonia": 49,
+            "The Family Plan 2": 100,
             "isPartial": true
           }
         ]
@@ -3150,71 +3157,85 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "L1BpUMrTfc3x9bNpT_qbSOVXCgA",
-          "id": "bd_5HcTujfc",
+          "etag": "f43vWUYj2R0BcAy04_XIvDm6PcM",
+          "id": "dqolYtJGuf4",
           "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "publishedAt": "2025-10-14T12:59:46Z",
+            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
+            "title": "The Family Plan 2 — Official Trailer | Apple TV",
+            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Focus Features",
+            "channelTitle": "Apple TV",
             "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
+              "the family plan",
+              "the family plan 2",
+              "the family plan sequel",
+              "the family plan 2 official trailer",
+              "official trailer",
+              "trailer",
+              "trailers",
+              "the family plan 2 trailer",
+              "family plan 2 trailer",
+              "mark wahlberg",
+              "the family plan 2 mark wahlberg",
+              "michelle monaghan",
+              "said taghmaoui",
+              "maggie q",
+              "zoe colletti",
+              "van crosby",
+              "mark wahlburg the family plan 2",
+              "the family plan 2 apple tv",
+              "family plan apple tv",
+              "apple tv",
+              "apple",
+              "tv",
+              "apple tv+",
+              "apple tv app",
+              "apple original",
+              "apple original film",
+              "movie",
+              "comedy"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+              "title": "The Family Plan 2 — Official Trailer | Apple TV",
+              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "14594947",
-            "likeCount": "53767",
+            "viewCount": "5626406",
+            "likeCount": "21652",
             "favoriteCount": "0",
-            "commentCount": "3208"
+            "commentCount": "667"
           }
         }
       ],
@@ -3225,20 +3246,20 @@
     },
     "creative": {
       "director": [
-        "Yorgos Lanthimos"
+        "Simon Cellan Jones"
       ],
       "writers": [
-        "Jang Joon-hwan"
+        "David Coggeshall"
       ],
       "cast_top": [
-        "Emma Stone",
-        "Jesse Plemons",
-        "Aidan Delbis",
-        "Stavros Halkias",
-        "Alicia Silverstone",
-        "J. Carmen Galindez Barrera",
-        "Marc T. Lewis",
-        "Vanessa Eng"
+        "Mark Wahlberg",
+        "Michelle Monaghan",
+        "Kit Harington",
+        "Zoe Colletti",
+        "Van Crosby",
+        "Theodore Lindsey",
+        "Peter Lindsey",
+        "Reda Elazouar"
       ],
       "star_power": {
         "actor_count": 8
@@ -4161,12 +4182,12 @@
         "tagline": "You will be changed.",
         "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.768,
-        "vote_count": 298
+        "vote_average": 6.8,
+        "vote_count": 300
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.768,
+      "tmdb_vote_average": 6.8,
       "omdb": {
         "Title": "Wicked: For Good",
         "Year": "2025",
@@ -4343,7 +4364,7 @@
           },
           {
             "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 15,
+            "Wicked: For Good": 16,
             "isPartial": false
           },
           {
@@ -4453,12 +4474,12 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 16,
+            "Wicked: For Good": 17,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 24,
+            "Wicked: For Good": 25,
             "isPartial": false
           },
           {
@@ -4468,7 +4489,7 @@
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Wicked: For Good": 99,
+            "Wicked: For Good": 96,
             "isPartial": true
           }
         ]
@@ -4488,7 +4509,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "RRAZQPZXrQQ1QRGLoUIJWlbBsSU",
+          "etag": "kWfKSqGJkXT6qTcYF3HfI6Fx-00",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -4533,10 +4554,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13314463",
-            "likeCount": "297653",
+            "viewCount": "13324545",
+            "likeCount": "297711",
             "favoriteCount": "0",
-            "commentCount": "15126"
+            "commentCount": "15134"
           }
         }
       ],
@@ -5385,74 +5406,64 @@
   {
     "rank": 5,
     "metadata": {
-      "tmdb_id": 1363123,
-      "imdb_id": "tt34276058",
-      "title": "The Family Plan 2",
-      "release_date": "2025-11-11",
+      "tmdb_id": 1241983,
+      "imdb_id": "tt29768334",
+      "title": "Train Dreams",
+      "release_date": "2025-11-05",
       "release_year": "2025",
       "genres": [
-        "Action",
-        "Comedy"
+        "Drama"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Skydance Media",
-        "Municipal Pictures"
+        "Kamala Films",
+        "Black Bear Pictures"
       ],
-      "runtime": 106,
-      "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy."
+      "runtime": 102,
+      "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America."
     },
     "commercial": {
-      "budget": 0,
+      "budget": 10000000,
       "revenue": 0,
       "opening_weekend": null,
       "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
-        "belongs_to_collection": {
-          "id": 1363124,
-          "name": "The Family Plan Collection",
-          "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
-          "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
-        },
-        "budget": 0,
+        "backdrop_path": "/u5NWHVhZ6HWc1fXnqn82cMar5St.jpg",
+        "belongs_to_collection": null,
+        "budget": 10000000,
         "genres": [
           {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 35,
-            "name": "Comedy"
+            "id": 18,
+            "name": "Drama"
           }
         ],
-        "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
-        "id": 1363123,
-        "imdb_id": "tt34276058",
+        "homepage": "https://www.netflix.com/title/82020378",
+        "id": 1241983,
+        "imdb_id": "tt29768334",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Family Plan 2",
-        "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
-        "popularity": 315.5307,
-        "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+        "original_title": "Train Dreams",
+        "overview": "A logger leads a life of quiet grace as he experiences love and loss during an era of monumental change in early 20th-century America.",
+        "popularity": 78.7,
+        "poster_path": "/l3zS4YnpOi4usyEXGJMtxSqDDyb.jpg",
         "production_companies": [
           {
-            "id": 82819,
-            "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
-            "name": "Skydance Media",
+            "id": 3540,
+            "logo_path": null,
+            "name": "Kamala Films",
             "origin_country": "US"
           },
           {
-            "id": 169668,
-            "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
-            "name": "Municipal Pictures",
+            "id": 22146,
+            "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+            "name": "Black Bear Pictures",
             "origin_country": "US"
           }
         ],
@@ -5462,9 +5473,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-11",
+        "release_date": "2025-11-05",
         "revenue": 0,
-        "runtime": 106,
+        "runtime": 102,
         "spoken_languages": [
           {
             "english_name": "Mandarin",
@@ -5475,48 +5486,51 @@
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "French",
-            "iso_639_1": "fr",
-            "name": "Français"
-          },
-          {
-            "english_name": "Russian",
-            "iso_639_1": "ru",
-            "name": "Pусский"
           }
         ],
         "status": "Released",
-        "tagline": "Deck the halls, dodge the bad guys.",
-        "title": "The Family Plan 2",
+        "tagline": "",
+        "title": "Train Dreams",
         "video": false,
-        "vote_average": 6.827,
-        "vote_count": 208
+        "vote_average": 7.395,
+        "vote_count": 148
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.827,
+      "tmdb_vote_average": 7.395,
       "omdb": {
-        "Title": "The Family Plan 2",
+        "Title": "Train Dreams",
         "Year": "2025",
         "Rated": "PG-13",
         "Released": "21 Nov 2025",
-        "Runtime": "N/A",
-        "Genre": "Action, Comedy, Family",
-        "Director": "Simon Cellan Jones",
-        "Writer": "David Coggeshall",
-        "Actors": "Michelle Monaghan, Mark Wahlberg, Kit Harington",
-        "Plot": "A former government operative is attacked, forcing him and his family to go on the run. Pursued across the country, he protects his loved ones while confronting his dark past and deadly enemies, culminating in a showdown in Las Ve...",
+        "Runtime": "102 min",
+        "Genre": "Drama",
+        "Director": "Clint Bentley",
+        "Writer": "Clint Bentley, Denis Johnson, Greg Kwedar",
+        "Actors": "Kerry Condon, Felicity Jones, Joel Edgerton",
+        "Plot": "Based on Denis Johnson's beloved novella, Train Dreams is the moving portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly-changing America of the early 20th Century.",
         "Language": "English",
-        "Country": "United States, United Kingdom",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt34276058",
+        "Country": "United States",
+        "Awards": "1 win & 3 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDkzNzkyNTktYzNhMi00YjhiLWI5YmUtZjliMTY0ZDc5NmMyXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "86/100"
+          }
+        ],
+        "Metascore": "86",
+        "imdbRating": "7.4",
+        "imdbVotes": "365",
+        "imdbID": "tt29768334",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5525,7 +5539,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_family_plan_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/train_dreams\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5538,267 +5552,267 @@
         "interest_over_time": [
           {
             "date": "2024-11-24T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-01T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-08T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2024-12-15T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-22T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
             "date": "2024-12-29T00:00:00",
-            "The Family Plan 2": 1,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 0,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-01-26T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-02-02T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-09T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-16T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-02-23T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-02T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-09T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-16T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-23T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-03-30T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-06T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-13T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-20T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-04-27T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-04T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-11T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-18T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-05-25T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-01T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-08T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-15T00:00:00",
-            "The Family Plan 2": 2,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-22T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "The Family Plan 2": 3,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-06T00:00:00",
-            "The Family Plan 2": 6,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-13T00:00:00",
-            "The Family Plan 2": 5,
+            "Train Dreams": 1,
             "isPartial": false
           },
           {
             "date": "2025-07-20T00:00:00",
-            "The Family Plan 2": 6,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-07-27T00:00:00",
-            "The Family Plan 2": 5,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-08-03T00:00:00",
-            "The Family Plan 2": 6,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-10T00:00:00",
-            "The Family Plan 2": 7,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-17T00:00:00",
-            "The Family Plan 2": 7,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-24T00:00:00",
-            "The Family Plan 2": 7,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "The Family Plan 2": 8,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-07T00:00:00",
-            "The Family Plan 2": 9,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-09-14T00:00:00",
-            "The Family Plan 2": 8,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-21T00:00:00",
-            "The Family Plan 2": 8,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-09-28T00:00:00",
-            "The Family Plan 2": 9,
+            "Train Dreams": 2,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "The Family Plan 2": 8,
+            "Train Dreams": 4,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "The Family Plan 2": 13,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "The Family Plan 2": 10,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "The Family Plan 2": 10,
+            "Train Dreams": 3,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "The Family Plan 2": 13,
+            "Train Dreams": 9,
             "isPartial": false
           },
           {
             "date": "2025-11-09T00:00:00",
-            "The Family Plan 2": 19,
+            "Train Dreams": 13,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "The Family Plan 2": 71,
+            "Train Dreams": 39,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "The Family Plan 2": 100,
+            "Train Dreams": 100,
             "isPartial": true
           }
         ]
@@ -5818,85 +5832,73 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ZV0W0WU46C1DhZrIlcfrHx8zOjg",
-          "id": "dqolYtJGuf4",
+          "etag": "pUXrp8G_Fz1UZS0a_ExYBE53ba4",
+          "id": "_Nk8TrBHOrA",
           "snippet": {
-            "publishedAt": "2025-10-14T12:59:46Z",
-            "channelId": "UC1Myj674wRVXB9I4c6Hm5zA",
-            "title": "The Family Plan 2 — Official Trailer | Apple TV",
-            "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV",
+            "publishedAt": "2025-10-08T15:30:00Z",
+            "channelId": "UCWOA1ZGywLbqmigxE4Qlvuw",
+            "title": "Train Dreams | Official Trailer | Netflix",
+            "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/default.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/dqolYtJGuf4/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/_Nk8TrBHOrA/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Apple TV",
+            "channelTitle": "Netflix",
             "tags": [
-              "the family plan",
-              "the family plan 2",
-              "the family plan sequel",
-              "the family plan 2 official trailer",
-              "official trailer",
-              "trailer",
-              "trailers",
-              "the family plan 2 trailer",
-              "family plan 2 trailer",
-              "mark wahlberg",
-              "the family plan 2 mark wahlberg",
-              "michelle monaghan",
-              "said taghmaoui",
-              "maggie q",
-              "zoe colletti",
-              "van crosby",
-              "mark wahlburg the family plan 2",
-              "the family plan 2 apple tv",
-              "family plan apple tv",
-              "apple tv",
-              "apple",
-              "tv",
-              "apple tv+",
-              "apple tv app",
-              "apple original",
-              "apple original film",
-              "movie",
-              "comedy"
+              "Clint Bentley",
+              "Denis Johnson",
+              "Drama",
+              "Felicity Jones",
+              "Greg Kwedar",
+              "Joel Edgerton",
+              "Kerry Condon",
+              "Netflix",
+              "Netflix Films",
+              "Sing Sing",
+              "Sundance",
+              "Sundance Film Festival 2025",
+              "TIFF",
+              "Toronto International Film Festival",
+              "Trailer",
+              "William H. Macy"
             ],
             "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "The Family Plan 2 — Official Trailer | Apple TV",
-              "description": "Deck the halls, dodge the bad guys. The Morgans are back for The Family Plan 2, this time in Europe. \n\nThe Family Plan 2 is now streaming on Apple TV https://apple.co/_TheFamilyPlan2\n\nDan Morgan (Mark Wahlberg) is many things: a devoted husband, a loving father, a celebrated car salesman. He’s also a former assassin. And when his past catches up to his present, he’s forced to take his unsuspecting family (Michelle Monaghan, Zoe Colletti and Van Crosby) on a road trip unlike any other.\n\nThe Family Plan 2 is an Apple Original Film hailing from Skydance Media, the sequel to “The Family Plan” will be directed by Simon Cellan Jones. David Ellison, Dana Goldberg and Don Granger will produce for Skydance, alongside Wahlberg and Stephen Levinson through Municipal Pictures. John G. Scotti will executive produce along with Cellan Jones. David Coggeshall, the writer of the first movie, has returned to pen the sequel.\n\nSubscribe to Apple TV’s YouTube channel: https://apple.co/AppleTVYouTube\n\nFollow Apple TV:\nInstagram: https://instagram.com/AppleTV\nTikTok: https://tiktok.com/@AppleTV\nFacebook: https://facebook.com/AppleTV\nX: https://X.com/AppleTV\nGiphy: https://giphy.com/AppleTV\n\nMore from Apple TV: https://apple.co/32qgOEJ\n\nApple TV is a streaming service with original stories from the most creative minds in TV and film. Watch now on the Apple TV app: https://apple.co/_AppleTVapp Subscription required for Apple TV\n\n#TheFamilyPlan2 #Trailer #AppleTV"
+              "title": "Train Dreams | Official Trailer | Netflix",
+              "description": "Based on the novella of the same name, Train Dreams is the portrait of Robert Grainier, a logger and railroad worker who leads a life of unexpected depth and beauty in the rapidly changing America of the early 20th Century.\r\n\r\nJoel Edgerton, Felicity Jones, Kerry Condon, and William H. Macy star in TRAIN DREAMS, a film from Clint Bentley that “contains all the wondrous, devastating layers of an entire life.” In select theaters November 7 and on Netflix November 21.\r\n\r\nWatch on Netflix: https://www.netflix.com/title/82020378\r\n\r\nAbout Netflix:\r\nNetflix is one of the world's leading entertainment services, with over 300 million paid memberships in over 190 countries enjoying TV series, films and games across a wide variety of genres and languages. Members can play, pause and resume watching as much as they want, anytime, anywhere, and can change their plans at any time.\r\n\r\nTrain Dreams | Official Trailer | Netflix\r\nhttps://www.youtube.com/@Netflix"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "5622391",
-            "likeCount": "21642",
+            "viewCount": "6922025",
+            "likeCount": "12201",
             "favoriteCount": "0",
-            "commentCount": "665"
+            "commentCount": "605"
           }
         }
       ],
@@ -5907,20 +5909,18 @@
     },
     "creative": {
       "director": [
-        "Simon Cellan Jones"
+        "Clint Bentley"
       ],
-      "writers": [
-        "David Coggeshall"
-      ],
+      "writers": [],
       "cast_top": [
-        "Mark Wahlberg",
-        "Michelle Monaghan",
-        "Kit Harington",
-        "Zoe Colletti",
-        "Van Crosby",
-        "Theodore Lindsey",
-        "Peter Lindsey",
-        "Reda Elazouar"
+        "Joel Edgerton",
+        "Felicity Jones",
+        "Nathaniel Arcand",
+        "Clifton Collins Jr.",
+        "John Diehl",
+        "Paul Schneider",
+        "Kerry Condon",
+        "William H. Macy"
       ],
       "star_power": {
         "actor_count": 8
@@ -6747,1401 +6747,6 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 155,
-      "imdb_id": "tt0468569",
-      "title": "The Dark Knight",
-      "release_date": "2008-07-16",
-      "release_year": "2008",
-      "genres": [
-        "Drama",
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "production_countries": [
-        "GB",
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Warner Bros. Pictures",
-        "Legendary Pictures",
-        "Syncopy",
-        "DC"
-      ],
-      "runtime": 152,
-      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
-    },
-    "commercial": {
-      "budget": 185000000,
-      "revenue": 1004558444,
-      "opening_weekend": null,
-      "roi": 5.43,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
-        "belongs_to_collection": {
-          "id": 263,
-          "name": "The Dark Knight Collection",
-          "poster_path": "/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg",
-          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
-        },
-        "budget": 185000000,
-        "genres": [
-          {
-            "id": 18,
-            "name": "Drama"
-          },
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          }
-        ],
-        "homepage": "https://www.warnerbros.com/movies/dark-knight/",
-        "id": 155,
-        "imdb_id": "tt0468569",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "The Dark Knight",
-        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-        "popularity": 24.4324,
-        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
-        "production_companies": [
-          {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 923,
-            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
-            "name": "Legendary Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 9996,
-            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
-            "name": "Syncopy",
-            "origin_country": "GB"
-          },
-          {
-            "id": 429,
-            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-            "name": "DC",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
-          },
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2008-07-16",
-        "revenue": 1004558444,
-        "runtime": 152,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          },
-          {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
-          }
-        ],
-        "status": "Released",
-        "tagline": "Welcome to a world without rules.",
-        "title": "The Dark Knight",
-        "video": false,
-        "vote_average": 8.525,
-        "vote_count": 34753
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 8.525,
-      "omdb": {
-        "Title": "The Dark Knight",
-        "Year": "2008",
-        "Rated": "PG-13",
-        "Released": "18 Jul 2008",
-        "Runtime": "152 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Christopher Nolan",
-        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
-        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
-        "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
-        "Language": "English, Mandarin",
-        "Country": "United States, United Kingdom",
-        "Awards": "Won 2 Oscars. 163 wins & 165 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "9.1/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "85/100"
-          }
-        ],
-        "Metascore": "85",
-        "imdbRating": "9.1",
-        "imdbVotes": "3,087,450",
-        "imdbID": "tt0468569",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$534,987,076",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-11-24T00:00:00",
-            "The Dark Knight": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Dark Knight": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Dark Knight": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Dark Knight": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Dark Knight": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Dark Knight": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Dark Knight": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Dark Knight": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Dark Knight": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Dark Knight": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Dark Knight": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Dark Knight": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Dark Knight": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Dark Knight": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Dark Knight": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Dark Knight": 44,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Dark Knight": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Dark Knight": 60,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Dark Knight": 48,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Dark Knight": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Dark Knight": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Dark Knight": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Dark Knight": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Dark Knight": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Dark Knight": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Dark Knight": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "The Dark Knight": 37,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "The Dark Knight": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "The Dark Knight": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "The Dark Knight": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "j0vQLZY9XaIdTHSDonvXYYuBZ7s",
-          "id": "EXeTwQWrcwY",
-          "snippet": {
-            "publishedAt": "2013-12-03T00:46:23Z",
-            "channelId": "UCTCjFFoX1un-j7ni4B6HJ3Q",
-            "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-            "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down.",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Rotten Tomatoes Classic Trailers",
-            "tags": [
-              "movieclips",
-              "movie clips",
-              "movieclipstrailers",
-              "new trailers",
-              "trailers HD",
-              "hd",
-              "trailers",
-              "movieclipsDOTcom",
-              "trailer",
-              "2013",
-              "official",
-              "HD",
-              "zefr",
-              "classic trailers",
-              "oldhollywoodtrailers",
-              "jslewis",
-              "Dark",
-              "Knight",
-              "The Dark Knight movie",
-              "The Dark Knight trailer",
-              "christian Bale",
-              "Heath Ledger",
-              "Aaron Eckhart",
-              "Michael Caine",
-              "Maggie Gyllenhaal",
-              "Gary Oldman",
-              "Morgan Freeman",
-              "Cillian Murphy",
-              "batman",
-              "dark knight",
-              "harvey dent"
-            ],
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-              "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down."
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "21228270",
-            "likeCount": "206622",
-            "favoriteCount": "0",
-            "commentCount": "13663"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Christopher Nolan"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart",
-        "Michael Caine",
-        "Maggie Gyllenhaal",
-        "Gary Oldman",
-        "Morgan Freeman",
-        "Monique Gabriela Curnen"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 7,
-    "metadata": {
       "tmdb_id": 1265063,
       "imdb_id": "tt32159989",
       "title": "After the Hunt",
@@ -8247,12 +6852,12 @@
         "tagline": "Not everything is supposed to make you comfortable.",
         "title": "After the Hunt",
         "video": false,
-        "vote_average": 5.976,
-        "vote_count": 232
+        "vote_average": 5.959,
+        "vote_count": 233
       }
     },
     "ratings": {
-      "tmdb_vote_average": 5.976,
+      "tmdb_vote_average": 5.959,
       "omdb": {
         "Title": "After the Hunt",
         "Year": "2025",
@@ -8412,7 +7017,7 @@
           },
           {
             "date": "2025-04-20T00:00:00",
-            "After the Hunt": 2,
+            "After the Hunt": 3,
             "isPartial": false
           },
           {
@@ -8472,7 +7077,7 @@
           },
           {
             "date": "2025-07-13T00:00:00",
-            "After the Hunt": 13,
+            "After the Hunt": 14,
             "isPartial": false
           },
           {
@@ -8502,7 +7107,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "After the Hunt": 22,
+            "After the Hunt": 23,
             "isPartial": false
           },
           {
@@ -8527,32 +7132,32 @@
           },
           {
             "date": "2025-09-28T00:00:00",
-            "After the Hunt": 22,
+            "After the Hunt": 23,
             "isPartial": false
           },
           {
             "date": "2025-10-05T00:00:00",
-            "After the Hunt": 34,
+            "After the Hunt": 35,
             "isPartial": false
           },
           {
             "date": "2025-10-12T00:00:00",
-            "After the Hunt": 97,
+            "After the Hunt": 100,
             "isPartial": false
           },
           {
             "date": "2025-10-19T00:00:00",
-            "After the Hunt": 74,
+            "After the Hunt": 78,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "After the Hunt": 34,
+            "After the Hunt": 35,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "After the Hunt": 20,
+            "After the Hunt": 21,
             "isPartial": false
           },
           {
@@ -8562,7 +7167,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "After the Hunt": 74,
+            "After the Hunt": 75,
             "isPartial": false
           },
           {
@@ -8587,7 +7192,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ID3-Vnm02uJerHBMptjcEaMk_JE",
+          "etag": "Pv-zfalR9uz5REulWnxY7MWsz0o",
           "id": "A8R6DMlDtxk",
           "snippet": {
             "publishedAt": "2025-07-16T13:06:16Z",
@@ -8655,10 +7260,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "10449163",
-            "likeCount": "25839",
+            "viewCount": "10451117",
+            "likeCount": "25842",
             "favoriteCount": "0",
-            "commentCount": "1407"
+            "commentCount": "1408"
           }
         }
       ],
@@ -9507,7 +8112,7 @@
     ]
   },
   {
-    "rank": 8,
+    "rank": 7,
     "metadata": {
       "tmdb_id": 1218762,
       "imdb_id": "tt24852126",
@@ -9933,7 +8538,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ZFhKIrVDk6Hf3RJ3O2hlqZ38I88",
+          "etag": "yq8hx1rkJI-8K1UWu734Gbcf7xg",
           "id": "AAEzB2LzFfM",
           "snippet": {
             "publishedAt": "2025-10-16T14:00:00Z",
@@ -10001,10 +8606,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1287796",
-            "likeCount": "12001",
+            "viewCount": "1290853",
+            "likeCount": "12016",
             "favoriteCount": "0",
-            "commentCount": "294"
+            "commentCount": "295"
           }
         }
       ],
@@ -10851,7 +9456,7 @@
     ]
   },
   {
-    "rank": 9,
+    "rank": 8,
     "metadata": {
       "tmdb_id": 1054867,
       "imdb_id": "tt30144839",
@@ -10961,12 +9566,12 @@
         "tagline": "Some search for battle, others are born into it...",
         "title": "One Battle After Another",
         "video": false,
-        "vote_average": 7.497,
-        "vote_count": 1677
+        "vote_average": 7.494,
+        "vote_count": 1680
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.497,
+      "tmdb_vote_average": 7.494,
       "omdb": {
         "Title": "One Battle After Another",
         "Year": "2025",
@@ -11231,7 +9836,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 27,
+            "One Battle After Another": 26,
             "isPartial": false
           },
           {
@@ -11256,7 +9861,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 29,
+            "One Battle After Another": 30,
             "isPartial": false
           },
           {
@@ -11276,12 +9881,12 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 35,
+            "One Battle After Another": 36,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "One Battle After Another": 21,
+            "One Battle After Another": 22,
             "isPartial": true
           }
         ]
@@ -11301,7 +9906,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "Wr9O_NGadVwL_cijFB89-ThpL0k",
+          "etag": "ds2r-NWzSOO4D_oqn1SZ8WEGMWg",
           "id": "kQUPdVxZNPk",
           "snippet": {
             "publishedAt": "2025-07-24T12:30:06Z",
@@ -11366,10 +9971,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19827176",
-            "likeCount": "54623",
+            "viewCount": "19831289",
+            "likeCount": "54634",
             "favoriteCount": "0",
-            "commentCount": "3525"
+            "commentCount": "3528"
           }
         }
       ],
@@ -12218,7 +10823,7 @@
     ]
   },
   {
-    "rank": 10,
+    "rank": 9,
     "metadata": {
       "tmdb_id": 639988,
       "imdb_id": "tt1527793",
@@ -12453,7 +11058,7 @@
           },
           {
             "date": "2025-02-23T00:00:00",
-            "No Other Choice": 10,
+            "No Other Choice": 11,
             "isPartial": false
           },
           {
@@ -12503,7 +11108,7 @@
           },
           {
             "date": "2025-05-04T00:00:00",
-            "No Other Choice": 8,
+            "No Other Choice": 9,
             "isPartial": false
           },
           {
@@ -12583,12 +11188,12 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "No Other Choice": 30,
+            "No Other Choice": 31,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "No Other Choice": 64,
+            "No Other Choice": 65,
             "isPartial": false
           },
           {
@@ -12613,7 +11218,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "No Other Choice": 51,
+            "No Other Choice": 52,
             "isPartial": false
           },
           {
@@ -12623,17 +11228,17 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "No Other Choice": 45,
+            "No Other Choice": 46,
             "isPartial": false
           },
           {
             "date": "2025-10-26T00:00:00",
-            "No Other Choice": 42,
+            "No Other Choice": 43,
             "isPartial": false
           },
           {
             "date": "2025-11-02T00:00:00",
-            "No Other Choice": 45,
+            "No Other Choice": 46,
             "isPartial": false
           },
           {
@@ -12643,7 +11248,7 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "No Other Choice": 73,
+            "No Other Choice": 76,
             "isPartial": false
           },
           {
@@ -12668,7 +11273,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ereHjYa_itRTABUcVysgerwSI_s",
+          "etag": "i6RgkyuowfxC3MRV8w3MwdgjeKg",
           "id": "HKZpuG_ezvY",
           "snippet": {
             "publishedAt": "2025-10-08T18:20:16Z",
@@ -12713,10 +11318,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "6151979",
-            "likeCount": "51045",
+            "viewCount": "6153731",
+            "likeCount": "51059",
             "favoriteCount": "0",
-            "commentCount": "1634"
+            "commentCount": "1635"
           }
         }
       ],
@@ -12744,6 +11349,1356 @@
         "Cha Seung-won",
         "Kim Woo-seung",
         "Choi So-yul"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 10,
+    "metadata": {
+      "tmdb_id": 1327862,
+      "imdb_id": "tt33088452",
+      "title": "Regretting You",
+      "release_date": "2025-10-22",
+      "release_year": "2025",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "production_countries": [
+        "US",
+        "DE"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Harbinger Pictures",
+        "Frayed Pages Media",
+        "Domain Entertainment",
+        "Constantin Film",
+        "north.five.six"
+      ],
+      "runtime": 116,
+      "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other."
+    },
+    "commercial": {
+      "budget": 30000000,
+      "revenue": 83106420,
+      "opening_weekend": null,
+      "roi": 2.77,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/m3WlBJJRbFPaut1QS0PbOG8Wezy.jpg",
+        "belongs_to_collection": null,
+        "budget": 30000000,
+        "genres": [
+          {
+            "id": 10749,
+            "name": "Romance"
+          },
+          {
+            "id": 18,
+            "name": "Drama"
+          }
+        ],
+        "homepage": "https://www.regrettingyoumovie.com",
+        "id": 1327862,
+        "imdb_id": "tt33088452",
+        "origin_country": [
+          "DE",
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Regretting You",
+        "overview": "Morgan Grant and her daughter Clara explore what's left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other.",
+        "popularity": 101.8958,
+        "poster_path": "/z4gVnxTaks3anTycwKjDmvQSuWt.jpg",
+        "production_companies": [
+          {
+            "id": 95966,
+            "logo_path": null,
+            "name": "Harbinger Pictures",
+            "origin_country": "US"
+          },
+          {
+            "id": 140519,
+            "logo_path": null,
+            "name": "Frayed Pages Media",
+            "origin_country": "US"
+          },
+          {
+            "id": 216687,
+            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+            "name": "Domain Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 47,
+            "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+            "name": "Constantin Film",
+            "origin_country": "DE"
+          },
+          {
+            "id": 220749,
+            "logo_path": null,
+            "name": "north.five.six",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          },
+          {
+            "iso_3166_1": "DE",
+            "name": "Germany"
+          }
+        ],
+        "release_date": "2025-10-22",
+        "revenue": 83106420,
+        "runtime": 116,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "Risk everything. Regret nothing.",
+        "title": "Regretting You",
+        "video": false,
+        "vote_average": 7.08,
+        "vote_count": 106
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.08,
+      "omdb": {
+        "Title": "Regretting You",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "24 Oct 2025",
+        "Runtime": "116 min",
+        "Genre": "Drama, Romance",
+        "Director": "Josh Boone",
+        "Writer": "Colleen Hoover, Susan McMartin",
+        "Actors": "Allison Williams, Mckenna Grace, Dave Franco",
+        "Plot": "A mother and daughter must grapple with what's left after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover themselves.",
+        "Language": "English, French",
+        "Country": "Germany, United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlM2MzM2MtZGU3OC00ZTM0LWFhYmYtYTQ1M2RhZTcwYjViXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "28%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "33/100"
+          }
+        ],
+        "Metascore": "33",
+        "imdbRating": "6.2",
+        "imdbVotes": "5,602",
+        "imdbID": "tt33088452",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$44,918,855",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/regretting_you\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "interest_over_time": [
+          {
+            "date": "2024-11-24T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-01T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Regretting You": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Regretting You": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Regretting You": 37,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Regretting You": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Regretting You": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Regretting You": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Regretting You": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Regretting You": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Regretting You": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Regretting You": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Regretting You": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Regretting You": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Regretting You": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Regretting You": 81,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Regretting You": 100,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Regretting You": 61,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "Regretting You": 43,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-16T00:00:00",
+            "Regretting You": 27,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-23T00:00:00",
+            "Regretting You": 35,
+            "isPartial": true
+          }
+        ]
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "7xJugmM8kAAE3G6ptgVky-OTaIs",
+          "id": "qub8lZlVlho",
+          "snippet": {
+            "publishedAt": "2025-08-05T13:00:02Z",
+            "channelId": "UCF9imwPMSGz4Vq1NiTWCC7g",
+            "title": "Regretting You | Official Trailer (2025)- McKenna Grace, Mason Thames, Allison Williams, Dave Franco",
+            "description": "When life pulls you down, love lifts you up. ❤️ Watch the Official Trailer for #RegrettingYouMovie – Only in theatres October 24.\n\nGet your tickets: https://www.regrettingyoumovie.com/ \n\nBased on the bestselling book, REGRETTING YOU introduces audiences to Morgan Grant (Allison Williams) and her daughter Clara (Mckenna Grace) as they explore what’s left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other. REGRETTING YOU is a story of growth, resilience, and self-discovery in the aftermath of tragedy, also starring Dave Franco and Mason Thames with Scott Eastwood and Willa Fitzgerald. From the best-selling author of It Ends with Us and the director of The Fault in Our Stars, in theatres this October.\n\nConnect with #RegrettingYouMovie\nInstagram: https://www.instagram.com/RegrettingYouMovie/\nX: https://x.com/Regretting_You\nFacebook: https://www.facebook.com/RegrettingYouMovie\nTikTok: https://www.tiktok.com/@RegrettingYouMovie\nThreads: https://www.threads.net/@RegrettingYouMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/qub8lZlVlho/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/qub8lZlVlho/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/qub8lZlVlho/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/qub8lZlVlho/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/qub8lZlVlho/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Paramount Pictures",
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Regretting You | Official Trailer (2025)- McKenna Grace, Mason Thames, Allison Williams, Dave Franco",
+              "description": "When life pulls you down, love lifts you up. ❤️ Watch the Official Trailer for #RegrettingYouMovie – Only in theatres October 24.\n\nGet your tickets: https://www.regrettingyoumovie.com/ \n\nBased on the bestselling book, REGRETTING YOU introduces audiences to Morgan Grant (Allison Williams) and her daughter Clara (Mckenna Grace) as they explore what’s left behind after a devastating accident reveals a shocking betrayal and forces them to confront family secrets, redefine love, and rediscover each other. REGRETTING YOU is a story of growth, resilience, and self-discovery in the aftermath of tragedy, also starring Dave Franco and Mason Thames with Scott Eastwood and Willa Fitzgerald. From the best-selling author of It Ends with Us and the director of The Fault in Our Stars, in theatres this October.\n\nConnect with #RegrettingYouMovie\nInstagram: https://www.instagram.com/RegrettingYouMovie/\nX: https://x.com/Regretting_You\nFacebook: https://www.facebook.com/RegrettingYouMovie\nTikTok: https://www.tiktok.com/@RegrettingYouMovie\nThreads: https://www.threads.net/@RegrettingYouMovie\n\nParamount Pictures Corporation (PPC), a major global producer and distributor of filmed entertainment, is a unit of Viacom (NASDAQ: VIAB, VIA), home to premier global media brands that create compelling television programs, motion pictures, short-form content, apps, games, consumer products, social media experiences, and other entertainment content for audiences in more than 180 countries.\n\nConnect with Paramount Pictures online:\nOfficial Site: http://www.paramount.com/\nTikTok: https://www.tiktok.com/@paramountpics\nInstagram: http://www.instagram.com/ParamountPics\nTwitter: https://twitter.com/paramountpics\nYouTube: https://www.youtube.com/user/Paramount\nFacebook: https://www.facebook.com/Paramount"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "11480237",
+            "likeCount": "40292",
+            "favoriteCount": "0",
+            "commentCount": "1335"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Josh Boone"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Mckenna Grace",
+        "Allison Williams",
+        "Dave Franco",
+        "Mason Thames",
+        "Willa Fitzgerald",
+        "Scott Eastwood",
+        "Clancy Brown",
+        "Sam Morelos"
       ],
       "star_power": {
         "actor_count": 8
