@@ -111,12 +111,12 @@
         "tagline": "Zootopia will be changed furrrever...",
         "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.736,
-        "vote_count": 314
+        "vote_average": 7.7,
+        "vote_count": 324
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.736,
+      "tmdb_vote_average": 7.7,
       "omdb": {
         "Title": "Zootopia 2",
         "Year": "2025",
@@ -164,273 +164,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Zootopia 2": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Zootopia 2": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Zootopia 2": 99,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Zootopia 2": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -447,7 +181,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "1yR8yWDl4u7xG1JmOgRY0pASmlc",
+          "etag": "O1NHCguaHzuZIZL9t3O4nMBkn8I",
           "id": "A-7RMaQaygI",
           "snippet": {
             "publishedAt": "2025-07-30T16:00:30Z",
@@ -499,8 +233,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1360205",
-            "likeCount": "10334",
+            "viewCount": "1368311",
+            "likeCount": "10376",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -1354,1363 +1088,6 @@
   {
     "rank": 2,
     "metadata": {
-      "tmdb_id": 1242898,
-      "imdb_id": "tt31227572",
-      "title": "Predator: Badlands",
-      "release_date": "2025-11-05",
-      "release_year": "2025",
-      "genres": [
-        "Action",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "20th Century Studios",
-        "Lawrence Gordon Productions",
-        "Davis Entertainment",
-        "Toberoff Productions",
-        "TSG Entertainment"
-      ],
-      "runtime": 107,
-      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
-    },
-    "commercial": {
-      "budget": 105000000,
-      "revenue": 174432424,
-      "opening_weekend": null,
-      "roi": 1.661,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-        "belongs_to_collection": {
-          "id": 399,
-          "name": "Predator Collection",
-          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
-          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
-        },
-        "budget": 105000000,
-        "genres": [
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 878,
-            "name": "Science Fiction"
-          },
-          {
-            "id": 12,
-            "name": "Adventure"
-          }
-        ],
-        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
-        "id": 1242898,
-        "imdb_id": "tt31227572",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Predator: Badlands",
-        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
-        "popularity": 196.4462,
-        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
-        "production_companies": [
-          {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
-            "origin_country": "US"
-          },
-          {
-            "id": 840,
-            "logo_path": null,
-            "name": "Lawrence Gordon Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 1302,
-            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
-            "name": "Davis Entertainment",
-            "origin_country": "US"
-          },
-          {
-            "id": 185309,
-            "logo_path": null,
-            "name": "Toberoff Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2025-11-05",
-        "revenue": 174432424,
-        "runtime": 107,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "First hunt. Last chance.",
-        "title": "Predator: Badlands",
-        "video": false,
-        "vote_average": 7.392,
-        "vote_count": 535
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 7.392,
-      "omdb": {
-        "Title": "Predator: Badlands",
-        "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "07 Nov 2025",
-        "Runtime": "107 min",
-        "Genre": "Action, Adventure, Sci-Fi",
-        "Director": "Dan Trachtenberg",
-        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
-        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
-        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
-        "Language": "English",
-        "Country": "United States, Australia, New Zealand, Canada",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.6/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "85%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "71/100"
-          }
-        ],
-        "Metascore": "71",
-        "imdbRating": "7.6",
-        "imdbVotes": "18,100",
-        "imdbID": "tt31227572",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "$40,000,000",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Predator: Badlands": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Predator: Badlands": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Predator: Badlands": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Predator: Badlands": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Predator: Badlands": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Predator: Badlands": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Predator: Badlands": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Predator: Badlands": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Predator: Badlands": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Predator: Badlands": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Predator: Badlands": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Predator: Badlands": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 83,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Predator: Badlands": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Predator: Badlands": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Predator: Badlands": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Predator: Badlands": 31,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "qoeuuD9Eb2vpwNu76f_lfjezC5g",
-          "id": "43R9l7EkJwE",
-          "snippet": {
-            "publishedAt": "2025-07-21T16:00:06Z",
-            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
-            "title": "Predator: Badlands | Official Trailer",
-            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "20th Century Studios",
-            "tags": [
-              "Trailer"
-            ],
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "Predator: Badlands | Official Trailer",
-              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
-            },
-            "defaultAudioLanguage": "en"
-          },
-          "statistics": {
-            "viewCount": "26226983",
-            "likeCount": "316010",
-            "favoriteCount": "0",
-            "commentCount": "26019"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Dan Trachtenberg"
-      ],
-      "writers": [],
-      "cast_top": [
-        "Elle Fanning",
-        "Dimitrius Schuster-Koloamatangi",
-        "Ravi Narayan",
-        "Michael Homick",
-        "Stefan Grube",
-        "Reuben De Jong",
-        "Cameron Brown",
-        "Alison Wright"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-10-07"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 3,
-    "metadata": {
       "tmdb_id": 533533,
       "imdb_id": "tt6604188",
       "title": "TRON: Ares",
@@ -2807,12 +1184,12 @@
         "tagline": "No going back.",
         "title": "TRON: Ares",
         "video": false,
-        "vote_average": 6.4,
-        "vote_count": 500
+        "vote_average": 6.454,
+        "vote_count": 505
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.4,
+      "tmdb_vote_average": 6.454,
       "omdb": {
         "Title": "Tron: Ares",
         "Year": "2025",
@@ -2864,273 +1241,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "TRON: Ares": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "TRON: Ares": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "TRON: Ares": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "TRON: Ares": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "TRON: Ares": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "TRON: Ares": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "TRON: Ares": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "TRON: Ares": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "TRON: Ares": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "TRON: Ares": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "TRON: Ares": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "TRON: Ares": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "TRON: Ares": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "TRON: Ares": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "TRON: Ares": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "TRON: Ares": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "TRON: Ares": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "TRON: Ares": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "TRON: Ares": 99,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "TRON: Ares": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "TRON: Ares": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "TRON: Ares": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "TRON: Ares": 19,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "TRON: Ares": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "TRON: Ares": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "TRON: Ares": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "TRON: Ares": 16,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -3147,7 +1258,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "-8ftz1VE3S2OnKGPdTGxDJwedXM",
+          "etag": "sJW3hEq3wtFC4j6Yu0akZ6Oqt8o",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -3192,10 +1303,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13417898",
-            "likeCount": "184487",
+            "viewCount": "13427659",
+            "likeCount": "184512",
             "favoriteCount": "0",
-            "commentCount": "14855"
+            "commentCount": "14858"
           }
         }
       ],
@@ -4042,7 +2153,7 @@
     ]
   },
   {
-    "rank": 4,
+    "rank": 3,
     "metadata": {
       "tmdb_id": 1180831,
       "imdb_id": "tt29232158",
@@ -4133,12 +2244,12 @@
         "tagline": "",
         "title": "Troll 2",
         "video": false,
-        "vote_average": 6.803,
-        "vote_count": 94
+        "vote_average": 6.9,
+        "vote_count": 101
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.803,
+      "tmdb_vote_average": 6.9,
       "omdb": {
         "Title": "Troll 2",
         "Year": "2025",
@@ -4177,273 +2288,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Troll 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Troll 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Troll 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Troll 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Troll 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Troll 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Troll 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Troll 2": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Troll 2": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Troll 2": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -4460,7 +2305,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "w7qDLZQv59K1vNlI-EYpjvYoWKc",
+          "etag": "znsJtrO9aEVUgBPoU1yo5SU2ZpI",
           "id": "Hzk4ovnGOyw",
           "snippet": {
             "publishedAt": "2025-10-21T13:00:04Z",
@@ -4527,10 +2372,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "2258029",
-            "likeCount": "23274",
+            "viewCount": "2270977",
+            "likeCount": "23352",
             "favoriteCount": "0",
-            "commentCount": "2054"
+            "commentCount": "2062"
           }
         }
       ],
@@ -5379,7 +3224,7 @@
     ]
   },
   {
-    "rank": 5,
+    "rank": 4,
     "metadata": {
       "tmdb_id": 701387,
       "imdb_id": "tt12300742",
@@ -5507,15 +3352,15 @@
           }
         ],
         "status": "Released",
-        "tagline": "Of all the abductions, this one is different.",
+        "tagline": "It all starts with something magnificent.",
         "title": "Bugonia",
         "video": false,
-        "vote_average": 7.544,
-        "vote_count": 604
+        "vote_average": 7.54,
+        "vote_count": 607
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.544,
+      "tmdb_vote_average": 7.54,
       "omdb": {
         "Title": "Bugonia",
         "Year": "2025",
@@ -5567,273 +3412,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Bugonia": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Bugonia": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Bugonia": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Bugonia": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Bugonia": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Bugonia": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Bugonia": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Bugonia": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Bugonia": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Bugonia": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Bugonia": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Bugonia": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Bugonia": 76,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Bugonia": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Bugonia": 71,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Bugonia": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Bugonia": 55,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Bugonia": 49,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -5847,77 +3426,9 @@
           }
         ]
       },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "Ryg5uP9RXGB32WXRC-EElyjMR2Q",
-          "id": "bd_5HcTujfc",
-          "snippet": {
-            "publishedAt": "2025-08-28T14:00:01Z",
-            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
-            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Focus Features",
-            "tags": [
-              "Focus Features",
-              "Emma Stone",
-              "Jesse Plemons",
-              "Aidan Delbis",
-              "Stavros Halkias",
-              "Alicia Silverstone",
-              "Yorgos Lanthimos",
-              "Will Tracy",
-              "Ed Guiney",
-              "Andrew Lowe",
-              "Ari Aster",
-              "Lars Knudsen",
-              "Miky Lee",
-              "Jerry Kyoungboum Ko"
-            ],
-            "categoryId": "1",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
-            "localized": {
-              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
-              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "14731305",
-            "likeCount": "54390",
-            "favoriteCount": "0",
-            "commentCount": "3278"
-          }
-        }
-      ],
+      "youtube_trailer": {
+        "error": "<HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Bugonia+official+trailer&type=video&maxResults=1&key=AIzaSyD9aZ53NNbKrX9LApcS5Sow3ezYAkYEx2I&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">"
+      },
       "tiktok": {
         "videos": [],
         "count": 0
@@ -5939,6 +3450,1097 @@
         "J. Carmen Galindez Barrera",
         "Marc T. Lewis",
         "Vanessa Eng"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-10-07"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 5,
+    "metadata": {
+      "tmdb_id": 1242898,
+      "imdb_id": "tt31227572",
+      "title": "Predator: Badlands",
+      "release_date": "2025-11-05",
+      "release_year": "2025",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "20th Century Studios",
+        "Lawrence Gordon Productions",
+        "Davis Entertainment",
+        "Toberoff Productions",
+        "TSG Entertainment"
+      ],
+      "runtime": 107,
+      "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary."
+    },
+    "commercial": {
+      "budget": 105000000,
+      "revenue": 174432424,
+      "opening_weekend": null,
+      "roi": 1.661,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+        "belongs_to_collection": {
+          "id": 399,
+          "name": "Predator Collection",
+          "poster_path": "/mm2t5dd1QFxtX6X56Z9U5ucsIb1.jpg",
+          "backdrop_path": "/u1CTqTYRUVyLwlEd1z1VJrVBp0J.jpg"
+        },
+        "budget": 105000000,
+        "genres": [
+          {
+            "id": 28,
+            "name": "Action"
+          },
+          {
+            "id": 878,
+            "name": "Science Fiction"
+          },
+          {
+            "id": 12,
+            "name": "Adventure"
+          }
+        ],
+        "homepage": "https://www.20thcenturystudios.com/movies/predator-badlands",
+        "id": 1242898,
+        "imdb_id": "tt31227572",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Predator: Badlands",
+        "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+        "popularity": 196.4462,
+        "poster_path": "/ef2QSeBkrYhAdfsWGXmp0lvH0T1.jpg",
+        "production_companies": [
+          {
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
+            "origin_country": "US"
+          },
+          {
+            "id": 840,
+            "logo_path": null,
+            "name": "Lawrence Gordon Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 1302,
+            "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+            "name": "Davis Entertainment",
+            "origin_country": "US"
+          },
+          {
+            "id": 185309,
+            "logo_path": null,
+            "name": "Toberoff Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-11-05",
+        "revenue": 174432424,
+        "runtime": 107,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "First hunt. Last chance.",
+        "title": "Predator: Badlands",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 537
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 7.4,
+      "omdb": {
+        "Title": "Predator: Badlands",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "07 Nov 2025",
+        "Runtime": "107 min",
+        "Genre": "Action, Adventure, Sci-Fi",
+        "Director": "Dan Trachtenberg",
+        "Writer": "Patrick Aison, Jim Thomas, John Thomas",
+        "Actors": "Elle Fanning, Dimitrius Schuster-Koloamatangi",
+        "Plot": "A young Predator outcast from his clan finds an unlikely ally on his journey in search of the ultimate adversary.",
+        "Language": "English",
+        "Country": "United States, Australia, New Zealand, Canada",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "71/100"
+          }
+        ],
+        "Metascore": "71",
+        "imdbRating": "7.6",
+        "imdbVotes": "18,100",
+        "imdbID": "tt31227572",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "$40,000,000",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/predator_badlands\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "error": "The request failed: Google returned a response with code 429"
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "M4_WG1tbsBrwIyC_raEV_oNtOLc",
+          "id": "43R9l7EkJwE",
+          "snippet": {
+            "publishedAt": "2025-07-21T16:00:06Z",
+            "channelId": "UC2-BeLxzUBSs0uSrmzWhJuQ",
+            "title": "Predator: Badlands | Official Trailer",
+            "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/43R9l7EkJwE/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "20th Century Studios",
+            "tags": [
+              "Trailer"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "Predator: Badlands | Official Trailer",
+              "description": "First hunt. Last chance.\n\nFrom the director of Prey, watch the brand-new trailer for Predator: Badlands, in theaters November 7.\n\n“Predator: Badlands,” which stars Elle Fanning and Dimitrius Schuster-Koloamatangi, is set in the future on a remote planet, where a young Predator, outcast from his clan, finds an unlikely ally in Thia (Fanning) and embarks on a treacherous journey in search of the ultimate adversary. The film is directed by Dan Trachtenberg and produced by John Davis, Dan Trachtenberg, Marc Toberoff, Ben Rosenblatt, Brent O’Connor."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "statistics": {
+            "viewCount": "26237824",
+            "likeCount": "316064",
+            "favoriteCount": "0",
+            "commentCount": "26025"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Dan Trachtenberg"
+      ],
+      "writers": [],
+      "cast_top": [
+        "Elle Fanning",
+        "Dimitrius Schuster-Koloamatangi",
+        "Ravi Narayan",
+        "Michael Homick",
+        "Stefan Grube",
+        "Reuben De Jong",
+        "Cameron Brown",
+        "Alison Wright"
       ],
       "star_power": {
         "actor_count": 8
@@ -6889,12 +5491,12 @@
         "tagline": "He renounced his faith to become immortal. Passion, anger, vengeance, and hatred will be unleashed into the modern world.",
         "title": "Dracula",
         "video": false,
-        "vote_average": 7.073,
-        "vote_count": 502
+        "vote_average": 7.076,
+        "vote_count": 505
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.073,
+      "tmdb_vote_average": 7.076,
       "omdb": {
         "Title": "Dracula",
         "Year": "2025",
@@ -6942,273 +5544,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Dracula": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Dracula": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Dracula": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Dracula": 44,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Dracula": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Dracula": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Dracula": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Dracula": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Dracula": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Dracula": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Dracula": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Dracula": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Dracula": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Dracula": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Dracula": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Dracula": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Dracula": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Dracula": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Dracula": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Dracula": 21,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Dracula": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Dracula": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Dracula": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Dracula": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Dracula": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Dracula": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Dracula": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Dracula": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Dracula": 39,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Dracula": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Dracula": 43,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Dracula": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Dracula": 51,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Dracula": 60,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Dracula": 60,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Dracula": 57,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Dracula": 61,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Dracula": 69,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Dracula": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Dracula": 72,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Dracula": 65,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Dracula": 56,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Dracula": 47,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Dracula": 44,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -7225,7 +5561,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "ibX5qSP0LMc0E2RcBg6V7rqgv04",
+          "etag": "_t8SqmiLQrgFxIZW7l65PxU6RO0",
           "id": "mDfdNTf4FA0",
           "snippet": {
             "publishedAt": "2025-06-05T14:08:21Z",
@@ -7270,10 +5606,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1667097",
-            "likeCount": "18326",
+            "viewCount": "1668402",
+            "likeCount": "18332",
             "favoriteCount": "0",
-            "commentCount": "1778"
+            "commentCount": "1781"
           }
         }
       ],
@@ -8122,179 +6458,132 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 155,
-      "imdb_id": "tt0468569",
-      "title": "The Dark Knight",
-      "release_date": "2008-07-16",
-      "release_year": "2008",
+      "tmdb_id": 1228246,
+      "imdb_id": "tt30274401",
+      "title": "Five Nights at Freddy's 2",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
       "genres": [
-        "Drama",
-        "Action",
-        "Crime",
+        "Horror",
         "Thriller"
       ],
       "production_countries": [
-        "GB",
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Warner Bros. Pictures",
-        "Legendary Pictures",
-        "Syncopy",
-        "DC"
+        "Blumhouse Productions",
+        "Scott Cawthon Productions"
       ],
-      "runtime": 152,
-      "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker."
+      "runtime": 104,
+      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades."
     },
     "commercial": {
-      "budget": 185000000,
-      "revenue": 1004558444,
+      "budget": 36000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 5.43,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
         "belongs_to_collection": {
-          "id": 263,
-          "name": "The Dark Knight Collection",
-          "poster_path": "/ogyw5LTmL53dVxsppcy8Dlm30Fu.jpg",
-          "backdrop_path": "/xyhrCEdB4XRkelfVsqXeUZ6rLHi.jpg"
+          "id": 1240438,
+          "name": "Five Nights at Freddy's Collection",
+          "poster_path": "/nF8M9G25maSZXl3MqytRcqS3ysJ.jpg",
+          "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
         },
-        "budget": 185000000,
+        "budget": 36000000,
         "genres": [
           {
-            "id": 18,
-            "name": "Drama"
-          },
-          {
-            "id": 28,
-            "name": "Action"
-          },
-          {
-            "id": 80,
-            "name": "Crime"
+            "id": 27,
+            "name": "Horror"
           },
           {
             "id": 53,
             "name": "Thriller"
           }
         ],
-        "homepage": "https://www.warnerbros.com/movies/dark-knight/",
-        "id": 155,
-        "imdb_id": "tt0468569",
+        "homepage": "https://www.fivenightsatfreddys.movie",
+        "id": 1228246,
+        "imdb_id": "tt30274401",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "The Dark Knight",
-        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
-        "popularity": 26.1336,
-        "poster_path": "/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+        "original_title": "Five Nights at Freddy's 2",
+        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
+        "popularity": 70.4206,
+        "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
         "production_companies": [
           {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
             "origin_country": "US"
           },
           {
-            "id": 923,
-            "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
-            "name": "Legendary Pictures",
-            "origin_country": "US"
-          },
-          {
-            "id": 9996,
-            "logo_path": "/3tvBqYsBhxWeHlu62SIJ1el93O7.png",
-            "name": "Syncopy",
-            "origin_country": "GB"
-          },
-          {
-            "id": 429,
-            "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
-            "name": "DC",
+            "id": 211144,
+            "logo_path": null,
+            "name": "Scott Cawthon Productions",
             "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "GB",
-            "name": "United Kingdom"
-          },
-          {
             "iso_3166_1": "US",
             "name": "United States of America"
           }
         ],
-        "release_date": "2008-07-16",
-        "revenue": 1004558444,
-        "runtime": 152,
+        "release_date": "2025-12-03",
+        "revenue": 0,
+        "runtime": 104,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Mandarin",
-            "iso_639_1": "zh",
-            "name": "普通话"
           }
         ],
         "status": "Released",
-        "tagline": "Welcome to a world without rules.",
-        "title": "The Dark Knight",
+        "tagline": "You there?",
+        "title": "Five Nights at Freddy's 2",
         "video": false,
-        "vote_average": 8.525,
-        "vote_count": 34774
+        "vote_average": 6.3,
+        "vote_count": 15
       }
     },
     "ratings": {
-      "tmdb_vote_average": 8.525,
+      "tmdb_vote_average": 6.3,
       "omdb": {
-        "Title": "The Dark Knight",
-        "Year": "2008",
+        "Title": "Five Nights at Freddy's 2",
+        "Year": "2025",
         "Rated": "PG-13",
-        "Released": "18 Jul 2008",
-        "Runtime": "152 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Christopher Nolan",
-        "Writer": "Jonathan Nolan, Christopher Nolan, David S. Goyer",
-        "Actors": "Christian Bale, Heath Ledger, Aaron Eckhart",
-        "Plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
-        "Language": "English, Mandarin",
-        "Country": "United States, United Kingdom",
-        "Awards": "Won 2 Oscars. 163 wins & 165 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "9.1/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "94%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "85/100"
-          }
-        ],
-        "Metascore": "85",
-        "imdbRating": "9.1",
-        "imdbVotes": "3,103,183",
-        "imdbID": "tt0468569",
+        "Released": "05 Dec 2025",
+        "Runtime": "104 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Emma Tammi",
+        "Writer": "Scott Cawthon",
+        "Actors": "Josh Hutcherson, Elizabeth Lail, Piper Rubio",
+        "Plot": "Anyone can survive five nights. This time, there will be no second chances.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt30274401",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$534,987,076",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/the_dark_knight\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8304,273 +6593,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "The Dark Knight": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "The Dark Knight": 35,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "The Dark Knight": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "The Dark Knight": 35,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "The Dark Knight": 28,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "The Dark Knight": 43,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "The Dark Knight": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "The Dark Knight": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "The Dark Knight": 31,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "The Dark Knight": 35,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "The Dark Knight": 27,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "The Dark Knight": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "The Dark Knight": 29,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "The Dark Knight": 39,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "The Dark Knight": 44,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "The Dark Knight": 49,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "The Dark Knight": 45,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "The Dark Knight": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "The Dark Knight": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "The Dark Knight": 61,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "The Dark Knight": 49,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "The Dark Knight": 42,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "The Dark Knight": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "The Dark Knight": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "The Dark Knight": 36,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "The Dark Knight": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "The Dark Knight": 41,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "The Dark Knight": 40,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "The Dark Knight": 38,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "The Dark Knight": 32,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "The Dark Knight": 36,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "The Dark Knight": 35,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "The Dark Knight": 33,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "The Dark Knight": 31,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -8587,88 +6610,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "iaUjj8nn-MPiDWtUQ8GRczfJ3zA",
-          "id": "EXeTwQWrcwY",
+          "etag": "lucYlddAwf--SG5geSxGaRk8d-k",
+          "id": "dSDpoobO6yM",
           "snippet": {
-            "publishedAt": "2013-12-03T00:46:23Z",
-            "channelId": "UCTCjFFoX1un-j7ni4B6HJ3Q",
-            "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-            "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down.",
+            "publishedAt": "2025-07-24T11:19:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Five Nights at Freddy's 2 | Official Trailer",
+            "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/default.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Rotten Tomatoes Classic Trailers",
-            "tags": [
-              "movieclips",
-              "movie clips",
-              "movieclipstrailers",
-              "new trailers",
-              "trailers HD",
-              "hd",
-              "trailers",
-              "movieclipsDOTcom",
-              "trailer",
-              "2013",
-              "official",
-              "HD",
-              "zefr",
-              "classic trailers",
-              "oldhollywoodtrailers",
-              "jslewis",
-              "Dark",
-              "Knight",
-              "The Dark Knight movie",
-              "The Dark Knight trailer",
-              "christian Bale",
-              "Heath Ledger",
-              "Aaron Eckhart",
-              "Michael Caine",
-              "Maggie Gyllenhaal",
-              "Gary Oldman",
-              "Morgan Freeman",
-              "Cillian Murphy",
-              "batman",
-              "dark knight",
-              "harvey dent"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD",
-              "description": "The Dark Knight (2008) Official Trailer #1 - Christopher Nolan Movie HD\nSubscribe to CLASSIC TRAILERS: http://bit.ly/1u43jDe\nSubscribe to TRAILERS: http://bit.ly/sxaw6h\nSubscribe to COMING SOON: http://bit.ly/H2vZUn\nLike us on FACEBOOK: http://bit.ly/1QyRMsE\nFollow us on TWITTER: http://bit.ly/1ghOWmt\n\nA skilled extractor is offered a chance to regain his old life as payment for a task considered to be impossible.\n\nWelcome to the Fandango MOVIECLIPS Trailer Vault Channel. Where trailers from the past, from recent to long ago, from a time before YouTube, can be enjoyed by all. We search near and far for original movie trailer from all decades. Feel free to send us your trailer requests and we will do our best to hunt it down."
+              "title": "Five Nights at Freddy's 2 | Official Trailer",
+              "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "21238216",
-            "likeCount": "206688",
+            "viewCount": "14562877",
+            "likeCount": "563386",
             "favoriteCount": "0",
-            "commentCount": "13660"
+            "commentCount": "33589"
           }
         }
       ],
@@ -8679,18 +6669,20 @@
     },
     "creative": {
       "director": [
-        "Christopher Nolan"
+        "Emma Tammi"
       ],
-      "writers": [],
+      "writers": [
+        "Scott Cawthon"
+      ],
       "cast_top": [
-        "Christian Bale",
-        "Heath Ledger",
-        "Aaron Eckhart",
-        "Michael Caine",
-        "Maggie Gyllenhaal",
-        "Gary Oldman",
-        "Morgan Freeman",
-        "Monique Gabriela Curnen"
+        "Josh Hutcherson",
+        "Elizabeth Lail",
+        "Piper Rubio",
+        "Matthew Lillard",
+        "Theodus Crane",
+        "Freddy Carter",
+        "Mckenna Grace",
+        "Teo Briones"
       ],
       "star_power": {
         "actor_count": 8
@@ -9517,81 +7509,86 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 1054867,
-      "imdb_id": "tt30144839",
-      "title": "One Battle After Another",
-      "release_date": "2025-09-23",
+      "tmdb_id": 83533,
+      "imdb_id": "tt1757678",
+      "title": "Avatar: Fire and Ash",
+      "release_date": "2025-12-17",
       "release_year": "2025",
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
+        "Science Fiction",
+        "Adventure",
+        "Fantasy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Warner Bros. Pictures",
-        "Ghoulardi Film Company",
-        "Domain Entertainment"
+        "20th Century Studios",
+        "Lightstorm Entertainment",
+        "TSG Entertainment"
       ],
-      "runtime": 162,
-      "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past."
+      "runtime": 197,
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
     },
     "commercial": {
-      "budget": 175000000,
-      "revenue": 202150456,
+      "budget": 250000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 1.155,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
-        "belongs_to_collection": null,
-        "budget": 175000000,
+        "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+        "belongs_to_collection": {
+          "id": 87096,
+          "name": "Avatar Collection",
+          "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+          "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
+        },
+        "budget": 250000000,
         "genres": [
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 12,
+            "name": "Adventure"
           },
           {
-            "id": 28,
-            "name": "Action"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.onebattleafteranothermovie.com",
-        "id": 1054867,
-        "imdb_id": "tt30144839",
+        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
+        "id": 83533,
+        "imdb_id": "tt1757678",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "One Battle After Another",
-        "overview": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
-        "popularity": 99.6123,
-        "poster_path": "/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg",
+        "original_title": "Avatar: Fire and Ash",
+        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "popularity": 61.7769,
+        "poster_path": "/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "production_companies": [
           {
-            "id": 174,
-            "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
-            "name": "Warner Bros. Pictures",
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
             "origin_country": "US"
           },
           {
-            "id": 178,
-            "logo_path": null,
-            "name": "Ghoulardi Film Company",
+            "id": 574,
+            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+            "name": "Lightstorm Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 216687,
-            "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
-            "name": "Domain Entertainment",
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
             "origin_country": "US"
           }
         ],
@@ -9601,78 +7598,55 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-09-23",
-        "revenue": 202150456,
-        "runtime": 162,
+        "release_date": "2025-12-17",
+        "revenue": 0,
+        "runtime": 197,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Spanish",
-            "iso_639_1": "es",
-            "name": "Español"
-          },
-          {
-            "english_name": "Telugu",
-            "iso_639_1": "te",
-            "name": "తెలుగు"
           }
         ],
         "status": "Released",
-        "tagline": "Some search for battle, others are born into it...",
-        "title": "One Battle After Another",
+        "tagline": "The world of Pandora will change forever.",
+        "title": "Avatar: Fire and Ash",
         "video": false,
-        "vote_average": 7.499,
-        "vote_count": 1743
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.499,
+      "tmdb_vote_average": 0.0,
       "omdb": {
-        "Title": "One Battle After Another",
+        "Title": "Avatar: Fire and Ash",
         "Year": "2025",
-        "Rated": "R",
-        "Released": "26 Sep 2025",
-        "Runtime": "161 min",
-        "Genre": "Action, Crime, Drama",
-        "Director": "Paul Thomas Anderson",
-        "Writer": "Paul Thomas Anderson, Thomas Pynchon",
-        "Actors": "Teyana Taylor, Leonardo DiCaprio, Regina Hall",
-        "Plot": "When their evil enemy resurfaces after 16 years, a group of ex-revolutionaries reunite to rescue the daughter of one of their own.",
-        "Language": "English, Spanish",
+        "Rated": "PG-13",
+        "Released": "19 Dec 2025",
+        "Runtime": "195 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Josh Friedman, Rick Jaffa",
+        "Actors": "Kate Winslet, Zoe Saldaña, Edie Falco",
+        "Plot": "Jake and Neytiri's family grapples with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+        "Language": "English",
         "Country": "United States",
-        "Awards": "4 wins & 8 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZmQ0NjMtNTZlMy00ZjdlLTg5ODUtYWFlNGM0YzE3MTg0XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "8.3/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "95%"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "95/100"
-          }
-        ],
-        "Metascore": "95",
-        "imdbRating": "8.3",
-        "imdbVotes": "137,751",
-        "imdbID": "tt30144839",
+        "Awards": "2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt1757678",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$69,629,424",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/one_battle_after_another\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -9682,273 +7656,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "One Battle After Another": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "One Battle After Another": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "One Battle After Another": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "One Battle After Another": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "One Battle After Another": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "One Battle After Another": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "One Battle After Another": 25,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "One Battle After Another": 77,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "One Battle After Another": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "One Battle After Another": 66,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "One Battle After Another": 46,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "One Battle After Another": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "One Battle After Another": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "One Battle After Another": 18,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "One Battle After Another": 26,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "One Battle After Another": 34,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "One Battle After Another": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "One Battle After Another": 16,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -9965,70 +7673,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "OrE11ovREw6hYQj-JPEDZZU52lY",
-          "id": "feOQFKv2Lw4",
+          "etag": "b9UW2FUoL_Oc8pq38-7vonewVdI",
+          "id": "nb_fFj_0rq8",
           "snippet": {
-            "publishedAt": "2025-03-27T16:00:51Z",
-            "channelId": "UCbxjDfYwfF8RjYBp5htJ38Q",
-            "title": "One Battle After Another  - Official Trailer - Warner Bros. UK & Ireland",
-            "description": "Watch the trailer for ONE BATTLE AFTER ANOTHER, from Writer/Director Paul Thomas Anderson. Starring Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti. In Cinemas September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Benicio del Toro and Sean Penn also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay, and produces alongside Oscar and BAFTA nominees Adam Somner and Sara Murphy, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning in September 2025.",
+            "publishedAt": "2025-07-28T15:00:09Z",
+            "channelId": "UCgjxQJ6TlKqhHax8742ZMdA",
+            "title": "Avatar: Fire and Ash | Official Trailer",
+            "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/default.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/feOQFKv2Lw4/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/sddefault.jpg",
                 "width": 640,
                 "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
               }
             },
-            "channelTitle": "Warner Bros. UK & Ireland",
-            "tags": [
-              "Benicio Del Toro",
-              "Chase Infiniti",
-              "ComingSoon",
-              "Crime",
-              "Drama",
-              "Leonardo DiCaprio",
-              "Paul Thomas Anderson",
-              "Regina Hall",
-              "Sean Penn",
-              "September2025",
-              "Teyana Taylor",
-              "Thriller",
-              "Trailer",
-              "Trailer2025",
-              "WB",
-              "WBD",
-              "WarnerBros",
-              "WarnerBrothers"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Avatar",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "One Battle After Another  - Official Trailer - Warner Bros. UK & Ireland",
-              "description": "Watch the trailer for ONE BATTLE AFTER ANOTHER, from Writer/Director Paul Thomas Anderson. Starring Leonardo DiCaprio, Sean Penn, Benicio Del Toro, Regina Hall, Teyana Taylor, and Chase Infiniti. In Cinemas September 26.\n\nFrom Warner Bros. Pictures and Academy Award-nominated, BAFTA-winning filmmaker Paul Thomas Anderson comes “One Battle After Another,” starring Academy Award and BAFTA winner Leonardo DiCaprio.\n\nOscar and BAFTA winners Benicio del Toro and Sean Penn also star alongside Regina Hall, Teyana Taylor and Chase Infiniti, as well as Wood Harris and Alana Haim.\n\nAnderson directs from his own screenplay, and produces alongside Oscar and BAFTA nominees Adam Somner and Sara Murphy, with Will Weiske executive producing.\n\nThe creative team behind the camera includes several frequent collaborators, among them directors of photography Michael Bauman and Anderson; Oscar-nominated, BAFTA-winning production designer Florencia Martin; BAFTA-nominated editor Andy Jurgensen; Oscar and BAFTA-winning costume designer Colleen Atwood; casting director Cassandra Kulukundis; and with music by Oscar- and BAFTA-nominated composer Jonny Greenwood.\n\nWarner Bros. Pictures Presents A Ghoulardi Film Company Production, A Paul Thomas Anderson Film, “One Battle After Another.” Distributed by Warner Bros. Pictures, the film will be in theaters and IMAX® nationwide on September 26, 2025, and internationally beginning in September 2025."
+              "title": "Avatar: Fire and Ash | Official Trailer",
+              "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "5649530",
-            "likeCount": "39865",
+            "viewCount": "28718831",
+            "likeCount": "605013",
             "favoriteCount": "0",
-            "commentCount": "3935"
+            "commentCount": "34183"
           }
         }
       ],
@@ -10039,20 +7732,18 @@
     },
     "creative": {
       "director": [
-        "Paul Thomas Anderson"
+        "James Cameron"
       ],
-      "writers": [
-        "Paul Thomas Anderson"
-      ],
+      "writers": [],
       "cast_top": [
-        "Leonardo DiCaprio",
-        "Sean Penn",
-        "Chase Infiniti",
-        "Benicio del Toro",
-        "Regina Hall",
-        "Teyana Taylor",
-        "Wood Harris",
-        "Tony Goldwyn"
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Oona Chaplin",
+        "Kate Winslet",
+        "Cliff Curtis",
+        "Joel David Moore"
       ],
       "star_power": {
         "actor_count": 8
@@ -11035,273 +8726,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Wicked: For Good": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Wicked: For Good": 97,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Wicked: For Good": 39,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -11318,7 +8743,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "z-WjBb2MoNM8jHhfT53Ym_3E-D0",
+          "etag": "hhAm3-N44C7HoJ1Gew4ugdBnqa4",
           "id": "vt98AlBDI9Y",
           "snippet": {
             "publishedAt": "2025-06-05T00:55:09Z",
@@ -11363,10 +8788,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13467930",
-            "likeCount": "298516",
+            "viewCount": "13471241",
+            "likeCount": "298531",
             "favoriteCount": "0",
-            "commentCount": "15168"
+            "commentCount": "15165"
           }
         }
       ],
@@ -12312,12 +9737,12 @@
         "tagline": "'Tis the season to give. And take.",
         "title": "Jingle Bell Heist",
         "video": false,
-        "vote_average": 6.092,
-        "vote_count": 76
+        "vote_average": 6.077,
+        "vote_count": 78
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.092,
+      "tmdb_vote_average": 6.077,
       "omdb": {
         "Title": "Jingle Bell Heist",
         "Year": "2025",
@@ -12365,273 +9790,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Jingle Bell Heist": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Jingle Bell Heist": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Jingle Bell Heist": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Jingle Bell Heist": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Jingle Bell Heist": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Jingle Bell Heist": 66,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Jingle Bell Heist": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -12648,7 +9807,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "3sMNGNRZGiHQwQBb6LoRfDqwaw8",
+          "etag": "gbltX6q9kzZBMs0uydqXMq6F4L8",
           "id": "AAEzB2LzFfM",
           "snippet": {
             "publishedAt": "2025-10-16T14:00:00Z",
@@ -12716,8 +9875,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1361662",
-            "likeCount": "12220",
+            "viewCount": "1362941",
+            "likeCount": "12225",
             "favoriteCount": "0",
             "commentCount": "303"
           }
