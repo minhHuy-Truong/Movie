@@ -181,7 +181,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "O1NHCguaHzuZIZL9t3O4nMBkn8I",
+          "etag": "um6TnMO8hTFuVZ_S14WX0bo8zLI",
           "id": "A-7RMaQaygI",
           "snippet": {
             "publishedAt": "2025-07-30T16:00:30Z",
@@ -233,8 +233,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1368311",
-            "likeCount": "10376",
+            "viewCount": "1378754",
+            "likeCount": "10422",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -279,7 +279,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -1184,12 +1184,12 @@
         "tagline": "No going back.",
         "title": "TRON: Ares",
         "video": false,
-        "vote_average": 6.454,
-        "vote_count": 505
+        "vote_average": 6.452,
+        "vote_count": 510
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.454,
+      "tmdb_vote_average": 6.452,
       "omdb": {
         "Title": "Tron: Ares",
         "Year": "2025",
@@ -1258,7 +1258,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "sJW3hEq3wtFC4j6Yu0akZ6Oqt8o",
+          "etag": "qoaeWp1p-beESvOZ0Ir8vtPQbJs",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -1303,10 +1303,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13427659",
-            "likeCount": "184512",
+            "viewCount": "13440206",
+            "likeCount": "184554",
             "favoriteCount": "0",
-            "commentCount": "14858"
+            "commentCount": "14859"
           }
         }
       ],
@@ -1346,7 +1346,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -2241,15 +2241,15 @@
           }
         ],
         "status": "Released",
-        "tagline": "",
+        "tagline": "A new troll has awakened!",
         "title": "Troll 2",
         "video": false,
-        "vote_average": 6.9,
-        "vote_count": 101
+        "vote_average": 6.864,
+        "vote_count": 104
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.9,
+      "tmdb_vote_average": 6.864,
       "omdb": {
         "Title": "Troll 2",
         "Year": "2025",
@@ -2305,7 +2305,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "znsJtrO9aEVUgBPoU1yo5SU2ZpI",
+          "etag": "uPuHlv05SHliWfDFbRPe9sK5q6A",
           "id": "Hzk4ovnGOyw",
           "snippet": {
             "publishedAt": "2025-10-21T13:00:04Z",
@@ -2372,10 +2372,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "2270977",
-            "likeCount": "23352",
+            "viewCount": "2290387",
+            "likeCount": "23433",
             "favoriteCount": "0",
-            "commentCount": "2062"
+            "commentCount": "2073"
           }
         }
       ],
@@ -2417,7 +2417,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -3352,15 +3352,15 @@
           }
         ],
         "status": "Released",
-        "tagline": "It all starts with something magnificent.",
+        "tagline": "Of all the abductions, this one is different.",
         "title": "Bugonia",
         "video": false,
-        "vote_average": 7.54,
-        "vote_count": 607
+        "vote_average": 7.534,
+        "vote_count": 610
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.54,
+      "tmdb_vote_average": 7.534,
       "omdb": {
         "Title": "Bugonia",
         "Year": "2025",
@@ -3426,9 +3426,77 @@
           }
         ]
       },
-      "youtube_trailer": {
-        "error": "<HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Bugonia+official+trailer&type=video&maxResults=1&key=AIzaSyD9aZ53NNbKrX9LApcS5Sow3ezYAkYEx2I&alt=json returned \"The service is currently unavailable.\". Details: \"[{'message': 'The service is currently unavailable.', 'domain': 'global', 'reason': 'backendError'}]\">"
-      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "idANSnhRPZxJsPWWV0aplSUUHz8",
+          "id": "bd_5HcTujfc",
+          "snippet": {
+            "publishedAt": "2025-08-28T14:00:01Z",
+            "channelId": "UCU4SM3j_9TNWaSu8KdGV50g",
+            "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+            "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/bd_5HcTujfc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Focus Features",
+            "tags": [
+              "Focus Features",
+              "Emma Stone",
+              "Jesse Plemons",
+              "Aidan Delbis",
+              "Stavros Halkias",
+              "Alicia Silverstone",
+              "Yorgos Lanthimos",
+              "Will Tracy",
+              "Ed Guiney",
+              "Andrew Lowe",
+              "Ari Aster",
+              "Lars Knudsen",
+              "Miky Lee",
+              "Jerry Kyoungboum Ko"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "BUGONIA - Official Trailer [HD] - Only in Theaters October 24",
+              "description": "BUGONIA. Watch the official trailer now.\nA Yorgos Lanthimos film, starring Emma Stone and Jesse Plemons. Only in theaters October 24.\n\nTwo conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.\n\nhttps://www.focusfeatures.com/bugonia \nInstagram: https://www.instagram.com/bugoniafilm/\nFacebook: https://www.facebook.com/bugoniafilm\nTwitter: https://x.com/bugoniafilm\n\nSubscribe to Focus Features: http://bit.ly/FocusFeaturesYouTube\n\nBecome a Focus Insider: https://insider.focusfeatures.com \n\nWebsite: https://www.focusfeatures.com\nInstagram: https://www.instagram.com/focusfeatures\nFacebook: https://www.facebook.com/focusfeatures\nTwitter: https://twitter.com/focusfeatures\nTikTok: https://www.tiktok.com/@focusfeatures"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "14740881",
+            "likeCount": "54456",
+            "favoriteCount": "0",
+            "commentCount": "3286"
+          }
+        }
+      ],
       "tiktok": {
         "videos": [],
         "count": 0
@@ -3467,7 +3535,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -4393,12 +4461,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.4,
-        "vote_count": 537
+        "vote_average": 7.389,
+        "vote_count": 538
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.4,
+      "tmdb_vote_average": 7.389,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -4467,7 +4535,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "M4_WG1tbsBrwIyC_raEV_oNtOLc",
+          "etag": "WDGOVVD39n64KoWkCzQ1OIhhFzc",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -4515,10 +4583,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "26237824",
-            "likeCount": "316064",
+            "viewCount": "26252709",
+            "likeCount": "316126",
             "favoriteCount": "0",
-            "commentCount": "26025"
+            "commentCount": "26032"
           }
         }
       ],
@@ -4558,7 +4626,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -5367,165 +5435,123 @@
   {
     "rank": 6,
     "metadata": {
-      "tmdb_id": 1246049,
-      "imdb_id": "tt31434030",
-      "title": "Dracula",
-      "release_date": "2025-07-30",
+      "tmdb_id": 1228246,
+      "imdb_id": "tt30274401",
+      "title": "Five Nights at Freddy's 2",
+      "release_date": "2025-12-03",
       "release_year": "2025",
       "genres": [
         "Horror",
-        "Fantasy",
-        "Romance"
+        "Thriller"
       ],
       "production_countries": [
-        "FR"
+        "US"
       ],
-      "language": "fr",
+      "language": "en",
       "studio_distributor": [
-        "EuropaCorp",
-        "Luc Besson Production",
-        "TF1 Films Production",
-        "SND",
-        "Kinology",
-        "Actarus Productions"
+        "Blumhouse Productions",
+        "Scott Cawthon Productions"
       ],
-      "runtime": 130,
-      "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love."
+      "runtime": 104,
+      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades."
     },
     "commercial": {
-      "budget": 52000000,
-      "revenue": 25788866,
+      "budget": 36000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 0.496,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
-        "belongs_to_collection": null,
-        "budget": 52000000,
+        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+        "belongs_to_collection": {
+          "id": 1240438,
+          "name": "Five Nights at Freddy's Collection",
+          "poster_path": "/nF8M9G25maSZXl3MqytRcqS3ysJ.jpg",
+          "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+        },
+        "budget": 36000000,
         "genres": [
           {
             "id": 27,
             "name": "Horror"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
-          },
-          {
-            "id": 10749,
-            "name": "Romance"
+            "id": 53,
+            "name": "Thriller"
           }
         ],
-        "homepage": "https://signature-entertainment.co.uk/distribution/titles/dracula",
-        "id": 1246049,
-        "imdb_id": "tt31434030",
+        "homepage": "https://www.fivenightsatfreddys.movie",
+        "id": 1228246,
+        "imdb_id": "tt30274401",
         "origin_country": [
-          "FR"
+          "US"
         ],
-        "original_language": "fr",
-        "original_title": "Dracula",
-        "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
-        "popularity": 255.3248,
-        "poster_path": "/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's 2",
+        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
+        "popularity": 70.4206,
+        "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
         "production_companies": [
           {
-            "id": 6896,
-            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
-            "name": "EuropaCorp",
-            "origin_country": "FR"
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
           },
           {
-            "id": 221450,
+            "id": 211144,
             "logo_path": null,
-            "name": "Luc Besson Production",
-            "origin_country": "FR"
-          },
-          {
-            "id": 356,
-            "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
-            "name": "TF1 Films Production",
-            "origin_country": "FR"
-          },
-          {
-            "id": 2902,
-            "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
-            "name": "SND",
-            "origin_country": "FR"
-          },
-          {
-            "id": 18626,
-            "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
-            "name": "Kinology",
-            "origin_country": "FR"
-          },
-          {
-            "id": 255253,
-            "logo_path": null,
-            "name": "Actarus Productions",
-            "origin_country": "FR"
+            "name": "Scott Cawthon Productions",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "FR",
-            "name": "France"
+            "iso_3166_1": "US",
+            "name": "United States of America"
           }
         ],
-        "release_date": "2025-07-30",
-        "revenue": 25788866,
-        "runtime": 130,
+        "release_date": "2025-12-03",
+        "revenue": 0,
+        "runtime": 104,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
-          },
-          {
-            "english_name": "Romanian",
-            "iso_639_1": "ro",
-            "name": "Română"
           }
         ],
         "status": "Released",
-        "tagline": "He renounced his faith to become immortal. Passion, anger, vengeance, and hatred will be unleashed into the modern world.",
-        "title": "Dracula",
+        "tagline": "You there?",
+        "title": "Five Nights at Freddy's 2",
         "video": false,
-        "vote_average": 7.076,
-        "vote_count": 505
+        "vote_average": 6.2,
+        "vote_count": 17
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.076,
+      "tmdb_vote_average": 6.2,
       "omdb": {
-        "Title": "Dracula",
+        "Title": "Five Nights at Freddy's 2",
         "Year": "2025",
-        "Rated": "N/A",
-        "Released": "06 Feb 2026",
-        "Runtime": "129 min",
-        "Genre": "Fantasy, Horror, Romance",
-        "Director": "Luc Besson",
-        "Writer": "Luc Besson, Bram Stoker",
-        "Actors": "Caleb Landry Jones, Christoph Waltz, Zoë Bleu",
-        "Plot": "When a 15th-century prince denounces God after the loss of his wife he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death, guided by a single hope - to be reunited with his l...",
+        "Rated": "PG-13",
+        "Released": "05 Dec 2025",
+        "Runtime": "104 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Emma Tammi",
+        "Writer": "Scott Cawthon",
+        "Actors": "Josh Hutcherson, Elizabeth Lail, Piper Rubio",
+        "Plot": "Anyone can survive five nights. This time, there will be no second chances.",
         "Language": "English",
-        "Country": "France",
+        "Country": "United States",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5OTYxZTUtZWFjZC00NjFmLWFhYjgtYzdjNDhmZWU3OTgxXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "6.2/10"
-          },
-          {
-            "Source": "Rotten Tomatoes",
-            "Value": "82%"
-          }
-        ],
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
         "Metascore": "N/A",
-        "imdbRating": "6.2",
-        "imdbVotes": "12,895",
-        "imdbID": "tt31434030",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt30274401",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -5534,7 +5560,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/dracula_2025_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/dracula_2025_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -5561,55 +5587,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "_t8SqmiLQrgFxIZW7l65PxU6RO0",
-          "id": "mDfdNTf4FA0",
+          "etag": "JZg2zVYFNFA_Le1AComNqxzVy4I",
+          "id": "dSDpoobO6yM",
           "snippet": {
-            "publishedAt": "2025-06-05T14:08:21Z",
-            "channelId": "UCpJN7kiUkDrH11p0GQhLyFw",
-            "title": "DRACULA Official Trailer (2025)",
-            "description": "First movie trailer for Dracula starring Caleb Landry Jones.",
+            "publishedAt": "2025-07-24T11:19:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Five Nights at Freddy's 2 | Official Trailer",
+            "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/default.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Movie Trailers Source",
-            "categoryId": "1",
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "DRACULA Official Trailer (2025)",
-              "description": "First movie trailer for Dracula starring Caleb Landry Jones."
+              "title": "Five Nights at Freddy's 2 | Official Trailer",
+              "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en"
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1668402",
-            "likeCount": "18332",
+            "viewCount": "14587317",
+            "likeCount": "563663",
             "favoriteCount": "0",
-            "commentCount": "1781"
+            "commentCount": "33604"
           }
         }
       ],
@@ -5620,18 +5646,20 @@
     },
     "creative": {
       "director": [
-        "Luc Besson"
+        "Emma Tammi"
       ],
-      "writers": [],
+      "writers": [
+        "Scott Cawthon"
+      ],
       "cast_top": [
-        "Caleb Landry Jones",
-        "Zoë Bleu Sidel",
-        "Christoph Waltz",
-        "Matilda De Angelis",
-        "Ewens Abid",
-        "Guillaume de Tonquédec",
-        "David Shields",
-        "Bertrand-Xavier Corbi"
+        "Josh Hutcherson",
+        "Elizabeth Lail",
+        "Piper Rubio",
+        "Matthew Lillard",
+        "Theodus Crane",
+        "Freddy Carter",
+        "Mckenna Grace",
+        "Teo Briones"
       ],
       "star_power": {
         "actor_count": 8
@@ -5649,7 +5677,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -6458,123 +6486,165 @@
   {
     "rank": 7,
     "metadata": {
-      "tmdb_id": 1228246,
-      "imdb_id": "tt30274401",
-      "title": "Five Nights at Freddy's 2",
-      "release_date": "2025-12-03",
+      "tmdb_id": 1246049,
+      "imdb_id": "tt31434030",
+      "title": "Dracula",
+      "release_date": "2025-07-30",
       "release_year": "2025",
       "genres": [
         "Horror",
-        "Thriller"
+        "Fantasy",
+        "Romance"
       ],
       "production_countries": [
-        "US"
+        "FR"
       ],
-      "language": "en",
+      "language": "fr",
       "studio_distributor": [
-        "Blumhouse Productions",
-        "Scott Cawthon Productions"
+        "EuropaCorp",
+        "Luc Besson Production",
+        "TF1 Films Production",
+        "SND",
+        "Kinology",
+        "Actarus Productions"
       ],
-      "runtime": 104,
-      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades."
+      "runtime": 130,
+      "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love."
     },
     "commercial": {
-      "budget": 36000000,
-      "revenue": 0,
+      "budget": 52000000,
+      "revenue": 25788866,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 0.496,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-        "belongs_to_collection": {
-          "id": 1240438,
-          "name": "Five Nights at Freddy's Collection",
-          "poster_path": "/nF8M9G25maSZXl3MqytRcqS3ysJ.jpg",
-          "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
-        },
-        "budget": 36000000,
+        "backdrop_path": "/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
+        "belongs_to_collection": null,
+        "budget": 52000000,
         "genres": [
           {
             "id": 27,
             "name": "Horror"
           },
           {
-            "id": 53,
-            "name": "Thriller"
-          }
-        ],
-        "homepage": "https://www.fivenightsatfreddys.movie",
-        "id": 1228246,
-        "imdb_id": "tt30274401",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Five Nights at Freddy's 2",
-        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
-        "popularity": 70.4206,
-        "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "production_companies": [
-          {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
-            "origin_country": "US"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 211144,
+            "id": 10749,
+            "name": "Romance"
+          }
+        ],
+        "homepage": "https://signature-entertainment.co.uk/distribution/titles/dracula",
+        "id": 1246049,
+        "imdb_id": "tt31434030",
+        "origin_country": [
+          "FR"
+        ],
+        "original_language": "fr",
+        "original_title": "Dracula",
+        "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
+        "popularity": 255.3248,
+        "poster_path": "/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+        "production_companies": [
+          {
+            "id": 6896,
+            "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+            "name": "EuropaCorp",
+            "origin_country": "FR"
+          },
+          {
+            "id": 221450,
             "logo_path": null,
-            "name": "Scott Cawthon Productions",
-            "origin_country": "US"
+            "name": "Luc Besson Production",
+            "origin_country": "FR"
+          },
+          {
+            "id": 356,
+            "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+            "name": "TF1 Films Production",
+            "origin_country": "FR"
+          },
+          {
+            "id": 2902,
+            "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+            "name": "SND",
+            "origin_country": "FR"
+          },
+          {
+            "id": 18626,
+            "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+            "name": "Kinology",
+            "origin_country": "FR"
+          },
+          {
+            "id": 255253,
+            "logo_path": null,
+            "name": "Actarus Productions",
+            "origin_country": "FR"
           }
         ],
         "production_countries": [
           {
-            "iso_3166_1": "US",
-            "name": "United States of America"
+            "iso_3166_1": "FR",
+            "name": "France"
           }
         ],
-        "release_date": "2025-12-03",
-        "revenue": 0,
-        "runtime": 104,
+        "release_date": "2025-07-30",
+        "revenue": 25788866,
+        "runtime": 130,
         "spoken_languages": [
           {
             "english_name": "English",
             "iso_639_1": "en",
             "name": "English"
+          },
+          {
+            "english_name": "Romanian",
+            "iso_639_1": "ro",
+            "name": "Română"
           }
         ],
         "status": "Released",
-        "tagline": "You there?",
-        "title": "Five Nights at Freddy's 2",
+        "tagline": "He renounced his faith to become immortal. Passion, anger, vengeance, and hatred will be unleashed into the modern world.",
+        "title": "Dracula",
         "video": false,
-        "vote_average": 6.3,
-        "vote_count": 15
+        "vote_average": 7.1,
+        "vote_count": 507
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.3,
+      "tmdb_vote_average": 7.1,
       "omdb": {
-        "Title": "Five Nights at Freddy's 2",
+        "Title": "Dracula",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "05 Dec 2025",
-        "Runtime": "104 min",
-        "Genre": "Horror, Mystery, Thriller",
-        "Director": "Emma Tammi",
-        "Writer": "Scott Cawthon",
-        "Actors": "Josh Hutcherson, Elizabeth Lail, Piper Rubio",
-        "Plot": "Anyone can survive five nights. This time, there will be no second chances.",
+        "Rated": "N/A",
+        "Released": "06 Feb 2026",
+        "Runtime": "129 min",
+        "Genre": "Fantasy, Horror, Romance",
+        "Director": "Luc Besson",
+        "Writer": "Luc Besson, Bram Stoker",
+        "Actors": "Caleb Landry Jones, Christoph Waltz, Zoë Bleu",
+        "Plot": "When a 15th-century prince denounces God after the loss of his wife he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death, guided by a single hope - to be reunited with his l...",
         "Language": "English",
-        "Country": "United States",
+        "Country": "France",
         "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
+        "Poster": "https://m.media-amazon.com/images/M/MV5BY2U5OTYxZTUtZWFjZC00NjFmLWFhYjgtYzdjNDhmZWU3OTgxXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+          },
+          {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+          }
+        ],
         "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt30274401",
+        "imdbRating": "6.2",
+        "imdbVotes": "12,895",
+        "imdbID": "tt31434030",
         "Type": "movie",
         "DVD": "N/A",
         "BoxOffice": "N/A",
@@ -6583,7 +6653,7 @@
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/dracula_2025_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/dracula_2025_2\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -6593,7 +6663,273 @@
     },
     "social": {
       "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
+        "interest_over_time": [
+          {
+            "date": "2024-12-01T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Dracula": 36,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Dracula": 45,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Dracula": 42,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Dracula": 34,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Dracula": 33,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Dracula": 31,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Dracula": 26,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Dracula": 26,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Dracula": 25,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Dracula": 27,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Dracula": 24,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Dracula": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Dracula": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Dracula": 25,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Dracula": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Dracula": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Dracula": 20,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Dracula": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Dracula": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Dracula": 21,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Dracula": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Dracula": 22,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Dracula": 25,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Dracula": 24,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Dracula": 24,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Dracula": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Dracula": 28,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Dracula": 29,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Dracula": 38,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Dracula": 39,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Dracula": 38,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Dracula": 38,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Dracula": 39,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Dracula": 39,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Dracula": 41,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Dracula": 49,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Dracula": 57,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Dracula": 58,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Dracula": 57,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Dracula": 57,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Dracula": 68,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Dracula": 100,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Dracula": 66,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "Dracula": 63,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-16T00:00:00",
+            "Dracula": 53,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-23T00:00:00",
+            "Dracula": 46,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-30T00:00:00",
+            "Dracula": 44,
+            "isPartial": true
+          }
+        ]
       },
       "x_search": {
         "attempts": [
@@ -6610,55 +6946,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "lucYlddAwf--SG5geSxGaRk8d-k",
-          "id": "dSDpoobO6yM",
+          "etag": "jkz4vOSnBrm5_1U7MQhtTx1YZ_E",
+          "id": "mDfdNTf4FA0",
           "snippet": {
-            "publishedAt": "2025-07-24T11:19:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Five Nights at Freddy's 2 | Official Trailer",
-            "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en",
+            "publishedAt": "2025-06-05T14:08:21Z",
+            "channelId": "UCpJN7kiUkDrH11p0GQhLyFw",
+            "title": "DRACULA Official Trailer (2025)",
+            "description": "First movie trailer for Dracula starring Caleb Landry Jones.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/default.jpg",
+                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/mDfdNTf4FA0/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
-            "categoryId": "24",
+            "channelTitle": "Movie Trailers Source",
+            "categoryId": "1",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Five Nights at Freddy's 2 | Official Trailer",
-              "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en"
+              "title": "DRACULA Official Trailer (2025)",
+              "description": "First movie trailer for Dracula starring Caleb Landry Jones."
             },
-            "defaultAudioLanguage": "en-US"
+            "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "14562877",
-            "likeCount": "563386",
+            "viewCount": "1670232",
+            "likeCount": "18339",
             "favoriteCount": "0",
-            "commentCount": "33589"
+            "commentCount": "1782"
           }
         }
       ],
@@ -6669,20 +7005,18 @@
     },
     "creative": {
       "director": [
-        "Emma Tammi"
+        "Luc Besson"
       ],
-      "writers": [
-        "Scott Cawthon"
-      ],
+      "writers": [],
       "cast_top": [
-        "Josh Hutcherson",
-        "Elizabeth Lail",
-        "Piper Rubio",
-        "Matthew Lillard",
-        "Theodus Crane",
-        "Freddy Carter",
-        "Mckenna Grace",
-        "Teo Briones"
+        "Caleb Landry Jones",
+        "Zoë Bleu Sidel",
+        "Christoph Waltz",
+        "Matilda De Angelis",
+        "Ewens Abid",
+        "Guillaume de Tonquédec",
+        "David Shields",
+        "Bertrand-Xavier Corbi"
       ],
       "star_power": {
         "actor_count": 8
@@ -6700,7 +7034,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -7509,87 +7843,87 @@
   {
     "rank": 8,
     "metadata": {
-      "tmdb_id": 83533,
-      "imdb_id": "tt1757678",
-      "title": "Avatar: Fire and Ash",
-      "release_date": "2025-12-17",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-19",
       "release_year": "2025",
       "genres": [
-        "Science Fiction",
+        "Fantasy",
         "Adventure",
-        "Fantasy"
+        "Romance"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "20th Century Studios",
-        "Lightstorm Entertainment",
-        "TSG Entertainment"
+        "Universal Pictures",
+        "Marc Platt Productions",
+        "dentsu"
       ],
-      "runtime": 197,
-      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
+      "runtime": 137,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 250000000,
-      "revenue": 0,
+      "budget": 150000000,
+      "revenue": 391000000,
       "opening_weekend": null,
-      "roi": null,
+      "roi": 2.607,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
         "belongs_to_collection": {
-          "id": 87096,
-          "name": "Avatar Collection",
-          "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
-          "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
         },
-        "budget": 250000000,
+        "budget": 150000000,
         "genres": [
           {
-            "id": 878,
-            "name": "Science Fiction"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
             "id": 12,
             "name": "Adventure"
           },
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 10749,
+            "name": "Romance"
           }
         ],
-        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
-        "id": 83533,
-        "imdb_id": "tt1757678",
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Avatar: Fire and Ash",
-        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-        "popularity": 61.7769,
-        "poster_path": "/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 162.1535,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
-            "id": 127928,
-            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
-            "name": "20th Century Studios",
+            "id": 33,
+            "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 574,
-            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
-            "name": "Lightstorm Entertainment",
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
             "origin_country": "US"
           },
           {
-            "id": 22213,
-            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
-            "name": "TSG Entertainment",
-            "origin_country": "US"
+            "id": 1778,
+            "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+            "name": "dentsu",
+            "origin_country": "JP"
           }
         ],
         "production_countries": [
@@ -7598,9 +7932,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-12-17",
-        "revenue": 0,
-        "runtime": 197,
+        "release_date": "2025-11-19",
+        "revenue": 391000000,
+        "runtime": 137,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -7609,44 +7943,53 @@
           }
         ],
         "status": "Released",
-        "tagline": "The world of Pandora will change forever.",
-        "title": "Avatar: Fire and Ash",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 0.0,
-        "vote_count": 0
+        "vote_average": 6.7,
+        "vote_count": 364
       }
     },
     "ratings": {
-      "tmdb_vote_average": 0.0,
+      "tmdb_vote_average": 6.7,
       "omdb": {
-        "Title": "Avatar: Fire and Ash",
+        "Title": "Wicked: For Good",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "19 Dec 2025",
-        "Runtime": "195 min",
-        "Genre": "Action, Adventure, Fantasy",
-        "Director": "James Cameron",
-        "Writer": "James Cameron, Josh Friedman, Rick Jaffa",
-        "Actors": "Kate Winslet, Zoe Saldaña, Edie Falco",
-        "Plot": "Jake and Neytiri's family grapples with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
+        "Rated": "PG",
+        "Released": "21 Nov 2025",
+        "Runtime": "137 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Stephen Schwartz, Winnie Holzman, Gregory Maguire",
+        "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
         "Language": "English",
-        "Country": "United States",
-        "Awards": "2 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt1757678",
+        "Country": "United States, Canada, Australia",
+        "Awards": "4 wins & 19 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [
+          {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+          },
+          {
+            "Source": "Metacritic",
+            "Value": "58/100"
+          }
+        ],
+        "Metascore": "58",
+        "imdbRating": "7.1",
+        "imdbVotes": "28,626",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "N/A",
+        "BoxOffice": "$270,440,920",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -7673,55 +8016,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "b9UW2FUoL_Oc8pq38-7vonewVdI",
-          "id": "nb_fFj_0rq8",
+          "etag": "Qstol1jyDco0R1WlJSL_J1Ocx4c",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-07-28T15:00:09Z",
-            "channelId": "UCgjxQJ6TlKqhHax8742ZMdA",
-            "title": "Avatar: Fire and Ash | Official Trailer",
-            "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Avatar",
+            "channelTitle": "Universal Pictures",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "Avatar: Fire and Ash | Official Trailer",
-              "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh"
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "28718831",
-            "likeCount": "605013",
+            "viewCount": "13475629",
+            "likeCount": "298557",
             "favoriteCount": "0",
-            "commentCount": "34183"
+            "commentCount": "15165"
           }
         }
       ],
@@ -7732,18 +8075,18 @@
     },
     "creative": {
       "director": [
-        "James Cameron"
+        "Jon M. Chu"
       ],
       "writers": [],
       "cast_top": [
-        "Sam Worthington",
-        "Zoe Saldaña",
-        "Sigourney Weaver",
-        "Stephen Lang",
-        "Oona Chaplin",
-        "Kate Winslet",
-        "Cliff Curtis",
-        "Joel David Moore"
+        "Ariana Grande",
+        "Cynthia Erivo",
+        "Jonathan Bailey",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
       ],
       "star_power": {
         "actor_count": 8
@@ -7761,7 +8104,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -8570,87 +8913,87 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 967941,
-      "imdb_id": "tt19847976",
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-19",
+      "tmdb_id": 83533,
+      "imdb_id": "tt1757678",
+      "title": "Avatar: Fire and Ash",
+      "release_date": "2025-12-17",
       "release_year": "2025",
       "genres": [
-        "Fantasy",
+        "Science Fiction",
         "Adventure",
-        "Romance"
+        "Fantasy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Universal Pictures",
-        "Marc Platt Productions",
-        "dentsu"
+        "20th Century Studios",
+        "Lightstorm Entertainment",
+        "TSG Entertainment"
       ],
-      "runtime": 137,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
+      "runtime": 197,
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
     },
     "commercial": {
-      "budget": 150000000,
-      "revenue": 391000000,
+      "budget": 250000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 2.607,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
         "belongs_to_collection": {
-          "id": 968080,
-          "name": "Wicked Collection",
-          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
-          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+          "id": 87096,
+          "name": "Avatar Collection",
+          "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+          "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
         },
-        "budget": 150000000,
+        "budget": 250000000,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
             "id": 12,
             "name": "Adventure"
           },
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.wickedmovie.com",
-        "id": 967941,
-        "imdb_id": "tt19847976",
+        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
+        "id": 83533,
+        "imdb_id": "tt1757678",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Wicked: For Good",
-        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 162.1535,
-        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "original_title": "Avatar: Fire and Ash",
+        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "popularity": 61.7769,
+        "poster_path": "/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "production_companies": [
           {
-            "id": 33,
-            "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
-            "name": "Universal Pictures",
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
             "origin_country": "US"
           },
           {
-            "id": 2527,
-            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
-            "name": "Marc Platt Productions",
+            "id": 574,
+            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+            "name": "Lightstorm Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 1778,
-            "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-            "name": "dentsu",
-            "origin_country": "JP"
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
@@ -8659,9 +9002,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-19",
-        "revenue": 391000000,
-        "runtime": 137,
+        "release_date": "2025-12-17",
+        "revenue": 0,
+        "runtime": 197,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -8670,53 +9013,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "You will be changed.",
-        "title": "Wicked: For Good",
+        "tagline": "The world of Pandora will change forever.",
+        "title": "Avatar: Fire and Ash",
         "video": false,
-        "vote_average": 6.751,
-        "vote_count": 363
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.751,
+      "tmdb_vote_average": 0.0,
       "omdb": {
-        "Title": "Wicked: For Good",
+        "Title": "Avatar: Fire and Ash",
         "Year": "2025",
-        "Rated": "PG",
-        "Released": "21 Nov 2025",
-        "Runtime": "137 min",
-        "Genre": "Family, Fantasy, Musical",
-        "Director": "Jon M. Chu",
-        "Writer": "Stephen Schwartz, Winnie Holzman, Gregory Maguire",
-        "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
-        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Rated": "PG-13",
+        "Released": "19 Dec 2025",
+        "Runtime": "195 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Josh Friedman, Rick Jaffa",
+        "Actors": "Kate Winslet, Zoe Saldaña, Edie Falco",
+        "Plot": "Jake and Neytiri's family grapples with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
         "Language": "English",
-        "Country": "United States, Canada, Australia",
-        "Awards": "4 wins & 19 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "58/100"
-          }
-        ],
-        "Metascore": "58",
-        "imdbRating": "7.1",
-        "imdbVotes": "28,626",
-        "imdbID": "tt19847976",
+        "Country": "United States",
+        "Awards": "2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt1757678",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$270,440,920",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -8743,55 +9077,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "hhAm3-N44C7HoJ1Gew4ugdBnqa4",
-          "id": "vt98AlBDI9Y",
+          "etag": "FCMR4BOZGInOBJOun7CZngcHSoQ",
+          "id": "nb_fFj_0rq8",
           "snippet": {
-            "publishedAt": "2025-06-05T00:55:09Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Wicked: For Good | Official Trailer",
-            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+            "publishedAt": "2025-07-28T15:00:09Z",
+            "channelId": "UCgjxQJ6TlKqhHax8742ZMdA",
+            "title": "Avatar: Fire and Ash | Official Trailer",
+            "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Avatar",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Wicked: For Good | Official Trailer",
-              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
+              "title": "Avatar: Fire and Ash | Official Trailer",
+              "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13471241",
-            "likeCount": "298531",
+            "viewCount": "28761831",
+            "likeCount": "605282",
             "favoriteCount": "0",
-            "commentCount": "15165"
+            "commentCount": "34198"
           }
         }
       ],
@@ -8802,18 +9136,18 @@
     },
     "creative": {
       "director": [
-        "Jon M. Chu"
+        "James Cameron"
       ],
       "writers": [],
       "cast_top": [
-        "Ariana Grande",
-        "Cynthia Erivo",
-        "Jonathan Bailey",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Oona Chaplin",
+        "Kate Winslet",
+        "Cliff Curtis",
+        "Joel David Moore"
       ],
       "star_power": {
         "actor_count": 8
@@ -8831,7 +9165,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
@@ -9737,12 +10071,12 @@
         "tagline": "'Tis the season to give. And take.",
         "title": "Jingle Bell Heist",
         "video": false,
-        "vote_average": 6.077,
-        "vote_count": 78
+        "vote_average": 6.088,
+        "vote_count": 80
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.077,
+      "tmdb_vote_average": 6.088,
       "omdb": {
         "Title": "Jingle Bell Heist",
         "Year": "2025",
@@ -9807,7 +10141,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "gbltX6q9kzZBMs0uydqXMq6F4L8",
+          "etag": "lGk6LtyJVsufBvTGiqIhviUerYA",
           "id": "AAEzB2LzFfM",
           "snippet": {
             "publishedAt": "2025-10-16T14:00:00Z",
@@ -9875,8 +10209,8 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "1362941",
-            "likeCount": "12225",
+            "viewCount": "1365166",
+            "likeCount": "12230",
             "favoriteCount": "0",
             "commentCount": "303"
           }
@@ -9918,7 +10252,7 @@
         "per_page": 50,
         "total": 65,
         "sourceid": "2",
-        "lastupdated": "2025-10-07"
+        "lastupdated": "2025-12-04"
       },
       [
         {
