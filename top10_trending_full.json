@@ -106,12 +106,12 @@
         "tagline": "Zootopia will be changed furrrever...",
         "title": "Zootopia 2",
         "video": false,
-        "vote_average": 7.7,
-        "vote_count": 337
+        "vote_average": 7.718,
+        "vote_count": 340
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.7,
+      "tmdb_vote_average": 7.718,
       "omdb": {
         "Title": "Zootopia 2",
         "Year": "2025",
@@ -159,273 +159,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Zootopia 2": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Zootopia 2": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Zootopia 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Zootopia 2": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Zootopia 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Zootopia 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Zootopia 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Zootopia 2": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Zootopia 2": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Zootopia 2": 23,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Zootopia 2": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Zootopia 2": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Zootopia 2": 96,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -442,60 +176,60 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "lsf3x97xUGyv4DA0TDHtIDa5t1A",
-          "id": "BjkIOU5PhyQ",
+          "etag": "AKUP35LQ0vTocdaqbteGTFJ9MP8",
+          "id": "A-7RMaQaygI",
           "snippet": {
-            "publishedAt": "2025-07-30T12:47:33Z",
-            "channelId": "UC_976xMxPgzIa290Hqtk-9g",
-            "title": "Zootopia 2 | Trailer",
-            "description": "Hopps & Wilde are BACK 🦊🐰\nGet ready for #Zootopia2, only in theaters November 26!\n\nAfter cracking the biggest case in Zootopia’s history, rookie cops Judy Hopps (voice of Ginnifer Goodwin) and Nick Wilde (voice of Jason Bateman) find their partnership isn’t as solid as they thought when Chief Bogo (voice of Idris Elba) orders them to join the Partners in Crisis counseling program. But it doesn’t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis. The trailer, poster and trailer stills are now available to download and share.\n \nWhile “Zootopia 2” introduces Gary De’Snake (voice of Ke Huy Quan), Nibbles (voice of Fortune Feimster) and quokka therapist Dr. Fuzzby (voice of Quinta Brunson), the upcoming feature film also welcomes back a herd of characters who made their debut in the Oscar®-winning film “Zootopia.” “It’s been an absolute joy to reteam with so many actors who made the first film so special, and so exciting to expand the world with our phenomenal new cast members,” said director/writer Jared Bush (chief creative officer for Walt Disney Animation Studios). “I can’t wait for audiences to see what other surprises we have in store in this brand-new adventure.”\n\nSee more from official Disney Animation:\n\nInstagram: https://www.instagram.com/disneyanimation/\nFacebook: https://www.facebook.com/DisneyAnimation\nX: https://twitter.com/disneyanimation\n\nWelcome to the official Walt Disney Animation Studios YouTube channel! There’s much from the archive that we want to share, while also giving you glimpses into our current studio--a dynamic place full of fresh voices and talent.",
+            "publishedAt": "2025-07-30T16:00:30Z",
+            "channelId": "UCdtXPiqI2cLorKaPrfpKc4g",
+            "title": "Zootopia 2 | Official Trailer (2025)",
+            "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/BjkIOU5PhyQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/A-7RMaQaygI/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Walt Disney Animation Studios",
+            "channelTitle": "Entertainment Tonight",
             "tags": [
-              "Disney",
-              "Walt Disney Animation Studios",
-              "Disney Animation",
-              "Walt Disney",
-              "Animation"
+              "Zootopia 2",
+              "Ke Huy Quan",
+              "Quinta Brunson",
+              "Ginnifer Goodwin",
+              "Jason Bateman"
             ],
-            "categoryId": "1",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
             "defaultLanguage": "en",
             "localized": {
-              "title": "Zootopia 2 | Trailer",
-              "description": "Hopps & Wilde are BACK 🦊🐰\nGet ready for #Zootopia2, only in theaters November 26!\n\nAfter cracking the biggest case in Zootopia’s history, rookie cops Judy Hopps (voice of Ginnifer Goodwin) and Nick Wilde (voice of Jason Bateman) find their partnership isn’t as solid as they thought when Chief Bogo (voice of Idris Elba) orders them to join the Partners in Crisis counseling program. But it doesn’t take long for their partnership to be put to the ultimate test when they find themselves on the twisting trail of a mystery tied to the arrival of a venomous snake in the animal metropolis. The trailer, poster and trailer stills are now available to download and share.\n \nWhile “Zootopia 2” introduces Gary De’Snake (voice of Ke Huy Quan), Nibbles (voice of Fortune Feimster) and quokka therapist Dr. Fuzzby (voice of Quinta Brunson), the upcoming feature film also welcomes back a herd of characters who made their debut in the Oscar®-winning film “Zootopia.” “It’s been an absolute joy to reteam with so many actors who made the first film so special, and so exciting to expand the world with our phenomenal new cast members,” said director/writer Jared Bush (chief creative officer for Walt Disney Animation Studios). “I can’t wait for audiences to see what other surprises we have in store in this brand-new adventure.”\n\nSee more from official Disney Animation:\n\nInstagram: https://www.instagram.com/disneyanimation/\nFacebook: https://www.facebook.com/DisneyAnimation\nX: https://twitter.com/disneyanimation\n\nWelcome to the official Walt Disney Animation Studios YouTube channel! There’s much from the archive that we want to share, while also giving you glimpses into our current studio--a dynamic place full of fresh voices and talent."
+              "title": "Zootopia 2 | Official Trailer (2025)",
+              "description": "Key Huy Quan, Fortune Feimster and Quinta Brunson join the voice cast alongside Ginnifer Goodwin and Jason Bateman in this follow-up to 2016's 'Zootopia.' 'Zootopia 2' is in theaters on Nov. 26."
             },
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "16556378",
-            "likeCount": "287698",
+            "viewCount": "1410738",
+            "likeCount": "10568",
             "favoriteCount": "0",
             "commentCount": "0"
           }
@@ -1445,12 +1179,12 @@
         "tagline": "No going back.",
         "title": "TRON: Ares",
         "video": false,
-        "vote_average": 6.489,
-        "vote_count": 523
+        "vote_average": 6.503,
+        "vote_count": 528
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.489,
+      "tmdb_vote_average": 6.503,
       "omdb": {
         "Title": "Tron: Ares",
         "Year": "2025",
@@ -1710,7 +1444,7 @@
           },
           {
             "date": "2025-09-14T00:00:00",
-            "TRON: Ares": 11,
+            "TRON: Ares": 12,
             "isPartial": false
           },
           {
@@ -1735,7 +1469,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "TRON: Ares": 42,
+            "TRON: Ares": 44,
             "isPartial": false
           },
           {
@@ -1785,7 +1519,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "tFYnEmUsT2-zOZKK5suoPoOYtNg",
+          "etag": "9ANYCrtiiNkUprInCH1jg-beBvQ",
           "id": "YShVEXb7-ic",
           "snippet": {
             "publishedAt": "2025-07-17T16:00:55Z",
@@ -1830,10 +1564,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "13458032",
-            "likeCount": "184571",
+            "viewCount": "13465354",
+            "likeCount": "184594",
             "favoriteCount": "0",
-            "commentCount": "14866"
+            "commentCount": "14867"
           }
         }
       ],
@@ -2699,7 +2433,7 @@
       "studio_distributor": [
         "Motion Blur"
       ],
-      "runtime": 102,
+      "runtime": 105,
       "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet."
     },
     "commercial": {
@@ -2741,7 +2475,7 @@
         "original_language": "no",
         "original_title": "Troll 2",
         "overview": "When a dangerous new troll unleashes devastation across their homeland, Nora, Andreas and Major Kris embark on their most perilous mission yet.",
-        "popularity": 440.9976,
+        "popularity": 450.8549,
         "poster_path": "/p6xAExLNFbHcLfvSuvLPoM8aqZU.jpg",
         "production_companies": [
           {
@@ -2759,7 +2493,7 @@
         ],
         "release_date": "2025-11-30",
         "revenue": 0,
-        "runtime": 102,
+        "runtime": 105,
         "spoken_languages": [
           {
             "english_name": "Norwegian",
@@ -2771,12 +2505,12 @@
         "tagline": "A new troll has awakened!",
         "title": "Troll 2",
         "video": false,
-        "vote_average": 6.851,
-        "vote_count": 114
+        "vote_average": 7.0,
+        "vote_count": 124
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.851,
+      "tmdb_vote_average": 7.0,
       "omdb": {
         "Title": "Troll 2",
         "Year": "2025",
@@ -2858,7 +2592,7 @@
           },
           {
             "date": "2025-01-26T00:00:00",
-            "Troll 2": 3,
+            "Troll 2": 4,
             "isPartial": false
           },
           {
@@ -2923,7 +2657,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Troll 2": 3,
+            "Troll 2": 4,
             "isPartial": false
           },
           {
@@ -2953,7 +2687,7 @@
           },
           {
             "date": "2025-06-08T00:00:00",
-            "Troll 2": 3,
+            "Troll 2": 4,
             "isPartial": false
           },
           {
@@ -2963,12 +2697,12 @@
           },
           {
             "date": "2025-06-22T00:00:00",
-            "Troll 2": 3,
+            "Troll 2": 4,
             "isPartial": false
           },
           {
             "date": "2025-06-29T00:00:00",
-            "Troll 2": 6,
+            "Troll 2": 7,
             "isPartial": false
           },
           {
@@ -3028,7 +2762,7 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Troll 2": 4,
+            "Troll 2": 5,
             "isPartial": false
           },
           {
@@ -3048,7 +2782,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Troll 2": 7,
+            "Troll 2": 8,
             "isPartial": false
           },
           {
@@ -3098,7 +2832,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "qGtAMkMeTYEL-UufTcNuJIVFkz8",
+          "etag": "nupgxiSRZ1g4MpuG1l1znRp90A4",
           "id": "Hzk4ovnGOyw",
           "snippet": {
             "publishedAt": "2025-10-21T13:00:04Z",
@@ -3165,10 +2899,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "2256494",
-            "likeCount": "23519",
+            "viewCount": "2266594",
+            "likeCount": "23581",
             "favoriteCount": "0",
-            "commentCount": "2093"
+            "commentCount": "2097"
           }
         }
       ],
@@ -4148,12 +3882,12 @@
         "tagline": "Of all the abductions, this one is different.",
         "title": "Bugonia",
         "video": false,
-        "vote_average": 7.515,
-        "vote_count": 619
+        "vote_average": 7.5,
+        "vote_count": 620
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.515,
+      "tmdb_vote_average": 7.5,
       "omdb": {
         "Title": "Bugonia",
         "Year": "2025",
@@ -4398,7 +4132,7 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Bugonia": 32,
+            "Bugonia": 31,
             "isPartial": false
           },
           {
@@ -4408,7 +4142,7 @@
           },
           {
             "date": "2025-09-07T00:00:00",
-            "Bugonia": 5,
+            "Bugonia": 4,
             "isPartial": false
           },
           {
@@ -4428,7 +4162,7 @@
           },
           {
             "date": "2025-10-05T00:00:00",
-            "Bugonia": 9,
+            "Bugonia": 10,
             "isPartial": false
           },
           {
@@ -4443,7 +4177,7 @@
           },
           {
             "date": "2025-10-26T00:00:00",
-            "Bugonia": 75,
+            "Bugonia": 74,
             "isPartial": false
           },
           {
@@ -4453,12 +4187,12 @@
           },
           {
             "date": "2025-11-09T00:00:00",
-            "Bugonia": 73,
+            "Bugonia": 72,
             "isPartial": false
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Bugonia": 40,
+            "Bugonia": 39,
             "isPartial": false
           },
           {
@@ -4468,7 +4202,7 @@
           },
           {
             "date": "2025-11-30T00:00:00",
-            "Bugonia": 49,
+            "Bugonia": 47,
             "isPartial": true
           }
         ]
@@ -4488,7 +4222,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "yyOKu08NU6w1q67QrmkhTHE5N2o",
+          "etag": "fBjIwHj97IsqwwcHadQCo0R2egg",
           "id": "bd_5HcTujfc",
           "snippet": {
             "publishedAt": "2025-08-28T14:00:01Z",
@@ -4549,10 +4283,10 @@
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "14751909",
-            "likeCount": "54513",
+            "viewCount": "14755851",
+            "likeCount": "54535",
             "favoriteCount": "0",
-            "commentCount": "3294"
+            "commentCount": "3292"
           }
         }
       ],
@@ -5403,6 +5137,1323 @@
   {
     "rank": 5,
     "metadata": {
+      "tmdb_id": 1228246,
+      "imdb_id": "tt30274401",
+      "title": "Five Nights at Freddy's 2",
+      "release_date": "2025-12-03",
+      "release_year": "2025",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "production_countries": [
+        "US"
+      ],
+      "language": "en",
+      "studio_distributor": [
+        "Blumhouse Productions",
+        "Scott Cawthon Productions"
+      ],
+      "runtime": 104,
+      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades."
+    },
+    "commercial": {
+      "budget": 36000000,
+      "revenue": 0,
+      "opening_weekend": null,
+      "roi": null,
+      "distribution": null,
+      "raw": {
+        "adult": false,
+        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+        "belongs_to_collection": {
+          "id": 1240438,
+          "name": "Five Nights at Freddy's Collection",
+          "poster_path": "/nF8M9G25maSZXl3MqytRcqS3ysJ.jpg",
+          "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
+        },
+        "budget": 36000000,
+        "genres": [
+          {
+            "id": 27,
+            "name": "Horror"
+          },
+          {
+            "id": 53,
+            "name": "Thriller"
+          }
+        ],
+        "homepage": "https://www.fivenightsatfreddys.movie",
+        "id": 1228246,
+        "imdb_id": "tt30274401",
+        "origin_country": [
+          "US"
+        ],
+        "original_language": "en",
+        "original_title": "Five Nights at Freddy's 2",
+        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
+        "popularity": 128.2784,
+        "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
+        "production_companies": [
+          {
+            "id": 3172,
+            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+            "name": "Blumhouse Productions",
+            "origin_country": "US"
+          },
+          {
+            "id": 211144,
+            "logo_path": null,
+            "name": "Scott Cawthon Productions",
+            "origin_country": "US"
+          }
+        ],
+        "production_countries": [
+          {
+            "iso_3166_1": "US",
+            "name": "United States of America"
+          }
+        ],
+        "release_date": "2025-12-03",
+        "revenue": 0,
+        "runtime": 104,
+        "spoken_languages": [
+          {
+            "english_name": "English",
+            "iso_639_1": "en",
+            "name": "English"
+          }
+        ],
+        "status": "Released",
+        "tagline": "You there?",
+        "title": "Five Nights at Freddy's 2",
+        "video": false,
+        "vote_average": 6.5,
+        "vote_count": 29
+      }
+    },
+    "ratings": {
+      "tmdb_vote_average": 6.5,
+      "omdb": {
+        "Title": "Five Nights at Freddy's 2",
+        "Year": "2025",
+        "Rated": "PG-13",
+        "Released": "05 Dec 2025",
+        "Runtime": "104 min",
+        "Genre": "Horror, Mystery, Thriller",
+        "Director": "Emma Tammi",
+        "Writer": "Scott Cawthon",
+        "Actors": "Josh Hutcherson, Elizabeth Lail, Piper Rubio",
+        "Plot": "Anyone can survive five nights. This time, there will be no second chances.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "N/A",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt30274401",
+        "Type": "movie",
+        "DVD": "N/A",
+        "BoxOffice": "N/A",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+      },
+      "rotten_unofficial": {
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\", waiting until \"domcontentloaded\"\n"
+      }
+    },
+    "streaming": {
+      "netflix_search": {
+        "message": "You are not subscribed to this API."
+      }
+    },
+    "social": {
+      "google_trends": {
+        "interest_over_time": [
+          {
+            "date": "2024-12-01T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Five Nights at Freddy's 2": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Five Nights at Freddy's 2": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Five Nights at Freddy's 2": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Five Nights at Freddy's 2": 4,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Five Nights at Freddy's 2": 12,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Five Nights at Freddy's 2": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Five Nights at Freddy's 2": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Five Nights at Freddy's 2": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Five Nights at Freddy's 2": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Five Nights at Freddy's 2": 6,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Five Nights at Freddy's 2": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Five Nights at Freddy's 2": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Five Nights at Freddy's 2": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Five Nights at Freddy's 2": 11,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Five Nights at Freddy's 2": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Five Nights at Freddy's 2": 17,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "Five Nights at Freddy's 2": 19,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-16T00:00:00",
+            "Five Nights at Freddy's 2": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-23T00:00:00",
+            "Five Nights at Freddy's 2": 28,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-30T00:00:00",
+            "Five Nights at Freddy's 2": 100,
+            "isPartial": true
+          }
+        ]
+      },
+      "x_search": {
+        "attempts": [
+          {
+            "bearer_status": 401,
+            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          },
+          {
+            "x_status": 401,
+            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+          }
+        ]
+      },
+      "youtube_trailer": [
+        {
+          "kind": "youtube#video",
+          "etag": "_AQ_0M61ouvCwVJA_GPaIPbcK-A",
+          "id": "dSDpoobO6yM",
+          "snippet": {
+            "publishedAt": "2025-07-24T11:19:16Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Five Nights at Freddy's 2 | Official Trailer",
+            "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en-US",
+            "localized": {
+              "title": "Five Nights at Freddy's 2 | Official Trailer",
+              "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "statistics": {
+            "viewCount": "14687231",
+            "likeCount": "564497",
+            "favoriteCount": "0",
+            "commentCount": "33671"
+          }
+        }
+      ],
+      "tiktok": {
+        "videos": [],
+        "count": 0
+      }
+    },
+    "creative": {
+      "director": [
+        "Emma Tammi"
+      ],
+      "writers": [
+        "Scott Cawthon"
+      ],
+      "cast_top": [
+        "Josh Hutcherson",
+        "Elizabeth Lail",
+        "Piper Rubio",
+        "Matthew Lillard",
+        "Theodus Crane",
+        "Freddy Carter",
+        "Mckenna Grace",
+        "Teo Briones"
+      ],
+      "star_power": {
+        "actor_count": 8
+      }
+    },
+    "awards": {
+      "Oscars": null,
+      "GoldenGlobes": null,
+      "FestivalSelections": null
+    },
+    "contextual": [
+      {
+        "page": 1,
+        "pages": 2,
+        "per_page": 50,
+        "total": 65,
+        "sourceid": "2",
+        "lastupdated": "2025-12-04"
+      },
+      [
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2024",
+          "value": 29184890000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2023",
+          "value": 27720709000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2022",
+          "value": 26006893000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2021",
+          "value": 23681171000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2020",
+          "value": 21354105000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2019",
+          "value": 21539982000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2018",
+          "value": 20656516000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2017",
+          "value": 19612102000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2016",
+          "value": 18804913000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2015",
+          "value": 18295019000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2014",
+          "value": 17608138000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2013",
+          "value": 16880683000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2012",
+          "value": 16253970000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2011",
+          "value": 15599732000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2010",
+          "value": 15048971000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2009",
+          "value": 14478067000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2008",
+          "value": 14769862000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2007",
+          "value": 14474228000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2006",
+          "value": 13815583000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2005",
+          "value": 13039197000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2004",
+          "value": 12217196000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2003",
+          "value": 11456450000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2002",
+          "value": 10929108000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2001",
+          "value": 10581929000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "2000",
+          "value": 10250952000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1999",
+          "value": 9631172000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1998",
+          "value": 9062817000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1997",
+          "value": 8577552000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1996",
+          "value": 8073122000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1995",
+          "value": 7639749000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1994",
+          "value": 7287236000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1993",
+          "value": 6858559000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1992",
+          "value": 6520327000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1991",
+          "value": 6158129000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1990",
+          "value": 5963144000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1989",
+          "value": 5641580000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1988",
+          "value": 5236438000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1987",
+          "value": 4855215000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1986",
+          "value": 4579631000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1985",
+          "value": 4338979000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1984",
+          "value": 4037613000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1983",
+          "value": 3634038000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1982",
+          "value": 3343789000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1981",
+          "value": 3207041000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1980",
+          "value": 2857307000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1979",
+          "value": 2627333000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1978",
+          "value": 2351599000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1977",
+          "value": 2081826000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1976",
+          "value": 1873412000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        },
+        {
+          "indicator": {
+            "id": "NY.GDP.MKTP.CD",
+            "value": "GDP (current US$)"
+          },
+          "country": {
+            "id": "US",
+            "value": "United States"
+          },
+          "countryiso3code": "USA",
+          "date": "1975",
+          "value": 1684904000000,
+          "unit": "",
+          "obs_status": "",
+          "decimal": 0
+        }
+      ]
+    ]
+  },
+  {
+    "rank": 6,
+    "metadata": {
       "tmdb_id": 1242898,
       "imdb_id": "tt31227572",
       "title": "Predator: Badlands",
@@ -5520,12 +6571,12 @@
         "tagline": "First hunt. Last chance.",
         "title": "Predator: Badlands",
         "video": false,
-        "vote_average": 7.4,
-        "vote_count": 542
+        "vote_average": 7.38,
+        "vote_count": 543
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.4,
+      "tmdb_vote_average": 7.38,
       "omdb": {
         "Title": "Predator: Badlands",
         "Year": "2025",
@@ -5820,7 +6871,7 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Predator: Badlands": 83,
+            "Predator: Badlands": 89,
             "isPartial": false
           },
           {
@@ -5860,7 +6911,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "4n3vJ7pW-Lv5Xzpc99EZZwMnpxU",
+          "etag": "zluXxOMvxhUfc0M-agbCN98RhXI",
           "id": "43R9l7EkJwE",
           "snippet": {
             "publishedAt": "2025-07-21T16:00:06Z",
@@ -5908,10 +6959,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "26278680",
-            "likeCount": "316220",
+            "viewCount": "26288934",
+            "likeCount": "316261",
             "favoriteCount": "0",
-            "commentCount": "26038"
+            "commentCount": "26041"
           }
         }
       ],
@@ -6758,7 +7809,7 @@
     ]
   },
   {
-    "rank": 6,
+    "rank": 7,
     "metadata": {
       "tmdb_id": 1246049,
       "imdb_id": "tt31434030",
@@ -6875,6 +7926,11 @@
             "name": "English"
           },
           {
+            "english_name": "German",
+            "iso_639_1": "de",
+            "name": "Deutsch"
+          },
+          {
             "english_name": "Romanian",
             "iso_639_1": "ro",
             "name": "Română"
@@ -6884,12 +7940,12 @@
         "tagline": "He renounced his faith to become immortal. Passion, anger, vengeance, and hatred will be unleashed into the modern world.",
         "title": "Dracula",
         "video": false,
-        "vote_average": 7.089,
-        "vote_count": 510
+        "vote_average": 7.096,
+        "vote_count": 516
       }
     },
     "ratings": {
-      "tmdb_vote_average": 7.089,
+      "tmdb_vote_average": 7.096,
       "omdb": {
         "Title": "Dracula",
         "Year": "2025",
@@ -6945,7 +8001,7 @@
           },
           {
             "date": "2024-12-08T00:00:00",
-            "Dracula": 24,
+            "Dracula": 25,
             "isPartial": false
           },
           {
@@ -6960,22 +8016,22 @@
           },
           {
             "date": "2024-12-29T00:00:00",
-            "Dracula": 47,
+            "Dracula": 46,
             "isPartial": false
           },
           {
             "date": "2025-01-05T00:00:00",
-            "Dracula": 43,
+            "Dracula": 42,
             "isPartial": false
           },
           {
             "date": "2025-01-12T00:00:00",
-            "Dracula": 36,
+            "Dracula": 35,
             "isPartial": false
           },
           {
             "date": "2025-01-19T00:00:00",
-            "Dracula": 34,
+            "Dracula": 36,
             "isPartial": false
           },
           {
@@ -6985,7 +8041,7 @@
           },
           {
             "date": "2025-02-02T00:00:00",
-            "Dracula": 27,
+            "Dracula": 29,
             "isPartial": false
           },
           {
@@ -7010,7 +8066,7 @@
           },
           {
             "date": "2025-03-09T00:00:00",
-            "Dracula": 21,
+            "Dracula": 22,
             "isPartial": false
           },
           {
@@ -7020,7 +8076,7 @@
           },
           {
             "date": "2025-03-23T00:00:00",
-            "Dracula": 26,
+            "Dracula": 28,
             "isPartial": false
           },
           {
@@ -7045,7 +8101,7 @@
           },
           {
             "date": "2025-04-27T00:00:00",
-            "Dracula": 22,
+            "Dracula": 23,
             "isPartial": false
           },
           {
@@ -7130,12 +8186,12 @@
           },
           {
             "date": "2025-08-24T00:00:00",
-            "Dracula": 40,
+            "Dracula": 42,
             "isPartial": false
           },
           {
             "date": "2025-08-31T00:00:00",
-            "Dracula": 43,
+            "Dracula": 44,
             "isPartial": false
           },
           {
@@ -7150,7 +8206,7 @@
           },
           {
             "date": "2025-09-21T00:00:00",
-            "Dracula": 60,
+            "Dracula": 61,
             "isPartial": false
           },
           {
@@ -7170,7 +8226,7 @@
           },
           {
             "date": "2025-10-19T00:00:00",
-            "Dracula": 74,
+            "Dracula": 76,
             "isPartial": false
           },
           {
@@ -7180,7 +8236,7 @@
           },
           {
             "date": "2025-11-02T00:00:00",
-            "Dracula": 71,
+            "Dracula": 73,
             "isPartial": false
           },
           {
@@ -7190,17 +8246,17 @@
           },
           {
             "date": "2025-11-16T00:00:00",
-            "Dracula": 57,
+            "Dracula": 56,
             "isPartial": false
           },
           {
             "date": "2025-11-23T00:00:00",
-            "Dracula": 46,
+            "Dracula": 48,
             "isPartial": false
           },
           {
             "date": "2025-11-30T00:00:00",
-            "Dracula": 45,
+            "Dracula": 46,
             "isPartial": true
           }
         ]
@@ -7220,7 +8276,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "XybfJ7-NHmrcCXdHC6fyEi3O1JQ",
+          "etag": "9suXrbj_uohXxNOVdscgookQ9xU",
           "id": "mDfdNTf4FA0",
           "snippet": {
             "publishedAt": "2025-06-05T14:08:21Z",
@@ -7265,8 +8321,8 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "1673492",
-            "likeCount": "18353",
+            "viewCount": "1674921",
+            "likeCount": "18355",
             "favoriteCount": "0",
             "commentCount": "1783"
           }
@@ -7291,1323 +8347,6 @@
         "Guillaume de Tonquédec",
         "David Shields",
         "Bertrand-Xavier Corbi"
-      ],
-      "star_power": {
-        "actor_count": 8
-      }
-    },
-    "awards": {
-      "Oscars": null,
-      "GoldenGlobes": null,
-      "FestivalSelections": null
-    },
-    "contextual": [
-      {
-        "page": 1,
-        "pages": 2,
-        "per_page": 50,
-        "total": 65,
-        "sourceid": "2",
-        "lastupdated": "2025-12-04"
-      },
-      [
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2024",
-          "value": 29184890000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2023",
-          "value": 27720709000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2022",
-          "value": 26006893000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2021",
-          "value": 23681171000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2020",
-          "value": 21354105000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2019",
-          "value": 21539982000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2018",
-          "value": 20656516000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2017",
-          "value": 19612102000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2016",
-          "value": 18804913000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2015",
-          "value": 18295019000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2014",
-          "value": 17608138000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2013",
-          "value": 16880683000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2012",
-          "value": 16253970000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2011",
-          "value": 15599732000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2010",
-          "value": 15048971000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2009",
-          "value": 14478067000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2008",
-          "value": 14769862000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2007",
-          "value": 14474228000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2006",
-          "value": 13815583000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2005",
-          "value": 13039197000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2004",
-          "value": 12217196000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2003",
-          "value": 11456450000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2002",
-          "value": 10929108000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2001",
-          "value": 10581929000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "2000",
-          "value": 10250952000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1999",
-          "value": 9631172000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1998",
-          "value": 9062817000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1997",
-          "value": 8577552000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1996",
-          "value": 8073122000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1995",
-          "value": 7639749000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1994",
-          "value": 7287236000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1993",
-          "value": 6858559000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1992",
-          "value": 6520327000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1991",
-          "value": 6158129000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1990",
-          "value": 5963144000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1989",
-          "value": 5641580000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1988",
-          "value": 5236438000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1987",
-          "value": 4855215000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1986",
-          "value": 4579631000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1985",
-          "value": 4338979000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1984",
-          "value": 4037613000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1983",
-          "value": 3634038000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1982",
-          "value": 3343789000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1981",
-          "value": 3207041000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1980",
-          "value": 2857307000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1979",
-          "value": 2627333000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1978",
-          "value": 2351599000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1977",
-          "value": 2081826000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1976",
-          "value": 1873412000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        },
-        {
-          "indicator": {
-            "id": "NY.GDP.MKTP.CD",
-            "value": "GDP (current US$)"
-          },
-          "country": {
-            "id": "US",
-            "value": "United States"
-          },
-          "countryiso3code": "USA",
-          "date": "1975",
-          "value": 1684904000000,
-          "unit": "",
-          "obs_status": "",
-          "decimal": 0
-        }
-      ]
-    ]
-  },
-  {
-    "rank": 7,
-    "metadata": {
-      "tmdb_id": 1228246,
-      "imdb_id": "tt30274401",
-      "title": "Five Nights at Freddy's 2",
-      "release_date": "2025-12-03",
-      "release_year": "2025",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "production_countries": [
-        "US"
-      ],
-      "language": "en",
-      "studio_distributor": [
-        "Blumhouse Productions",
-        "Scott Cawthon Productions"
-      ],
-      "runtime": 104,
-      "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades."
-    },
-    "commercial": {
-      "budget": 36000000,
-      "revenue": 0,
-      "opening_weekend": null,
-      "roi": null,
-      "distribution": null,
-      "raw": {
-        "adult": false,
-        "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-        "belongs_to_collection": {
-          "id": 1240438,
-          "name": "Five Nights at Freddy's Collection",
-          "poster_path": "/nF8M9G25maSZXl3MqytRcqS3ysJ.jpg",
-          "backdrop_path": "/537TH9PnmUk5X0FZaRP0wH1PJqV.jpg"
-        },
-        "budget": 36000000,
-        "genres": [
-          {
-            "id": 27,
-            "name": "Horror"
-          },
-          {
-            "id": 53,
-            "name": "Thriller"
-          }
-        ],
-        "homepage": "https://www.fivenightsatfreddys.movie",
-        "id": 1228246,
-        "imdb_id": "tt30274401",
-        "origin_country": [
-          "US"
-        ],
-        "original_language": "en",
-        "original_title": "Five Nights at Freddy's 2",
-        "overview": "One year since the supernatural nightmare at Freddy Fazbear's Pizza, the stories about what transpired there have been twisted into a campy local legend, inspiring the town's first ever Fazfest. With the truth about what transpired kept from her, Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, setting into motion a terrifying series of events that will reveal dark secrets about the true origin of Freddy's, and unleash a long-forgotten horror hidden away for decades.",
-        "popularity": 128.2784,
-        "poster_path": "/am6O7221qGtb5ba5uJKw7PfPZkJ.jpg",
-        "production_companies": [
-          {
-            "id": 3172,
-            "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
-            "name": "Blumhouse Productions",
-            "origin_country": "US"
-          },
-          {
-            "id": 211144,
-            "logo_path": null,
-            "name": "Scott Cawthon Productions",
-            "origin_country": "US"
-          }
-        ],
-        "production_countries": [
-          {
-            "iso_3166_1": "US",
-            "name": "United States of America"
-          }
-        ],
-        "release_date": "2025-12-03",
-        "revenue": 0,
-        "runtime": 104,
-        "spoken_languages": [
-          {
-            "english_name": "English",
-            "iso_639_1": "en",
-            "name": "English"
-          }
-        ],
-        "status": "Released",
-        "tagline": "You there?",
-        "title": "Five Nights at Freddy's 2",
-        "video": false,
-        "vote_average": 6.4,
-        "vote_count": 28
-      }
-    },
-    "ratings": {
-      "tmdb_vote_average": 6.4,
-      "omdb": {
-        "Title": "Five Nights at Freddy's 2",
-        "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "05 Dec 2025",
-        "Runtime": "104 min",
-        "Genre": "Horror, Mystery, Thriller",
-        "Director": "Emma Tammi",
-        "Writer": "Scott Cawthon",
-        "Actors": "Josh Hutcherson, Elizabeth Lail, Piper Rubio",
-        "Plot": "Anyone can survive five nights. This time, there will be no second chances.",
-        "Language": "English",
-        "Country": "United States",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3NmIxNTgtYjFiNS00NzliLWI0YzAtZDkxY2E0YWIxZDEwXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [],
-        "Metascore": "N/A",
-        "imdbRating": "N/A",
-        "imdbVotes": "N/A",
-        "imdbID": "tt30274401",
-        "Type": "movie",
-        "DVD": "N/A",
-        "BoxOffice": "N/A",
-        "Production": "N/A",
-        "Website": "N/A",
-        "Response": "True"
-      },
-      "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/five_nights_at_freddys_2\", waiting until \"domcontentloaded\"\n"
-      }
-    },
-    "streaming": {
-      "netflix_search": {
-        "message": "You are not subscribed to this API."
-      }
-    },
-    "social": {
-      "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Five Nights at Freddy's 2": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Five Nights at Freddy's 2": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Five Nights at Freddy's 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Five Nights at Freddy's 2": 4,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Five Nights at Freddy's 2": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Five Nights at Freddy's 2": 13,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Five Nights at Freddy's 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Five Nights at Freddy's 2": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Five Nights at Freddy's 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Five Nights at Freddy's 2": 6,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Five Nights at Freddy's 2": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Five Nights at Freddy's 2": 9,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Five Nights at Freddy's 2": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Five Nights at Freddy's 2": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Five Nights at Freddy's 2": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Five Nights at Freddy's 2": 17,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Five Nights at Freddy's 2": 20,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Five Nights at Freddy's 2": 22,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Five Nights at Freddy's 2": 30,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Five Nights at Freddy's 2": 100,
-            "isPartial": true
-          }
-        ]
-      },
-      "x_search": {
-        "attempts": [
-          {
-            "bearer_status": 401,
-            "bearer_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          },
-          {
-            "x_status": 401,
-            "x_text": "{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
-          }
-        ]
-      },
-      "youtube_trailer": [
-        {
-          "kind": "youtube#video",
-          "etag": "n-EgCqlQmsZaJDq1AkNcRQjAz2A",
-          "id": "dSDpoobO6yM",
-          "snippet": {
-            "publishedAt": "2025-07-24T11:19:16Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Five Nights at Freddy's 2 | Official Trailer",
-            "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en",
-            "thumbnails": {
-              "default": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/default.jpg",
-                "width": 120,
-                "height": 90
-              },
-              "medium": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/mqdefault.jpg",
-                "width": 320,
-                "height": 180
-              },
-              "high": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/hqdefault.jpg",
-                "width": 480,
-                "height": 360
-              },
-              "standard": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/sddefault.jpg",
-                "width": 640,
-                "height": 480
-              },
-              "maxres": {
-                "url": "https://i.ytimg.com/vi/dSDpoobO6yM/maxresdefault.jpg",
-                "width": 1280,
-                "height": 720
-              }
-            },
-            "channelTitle": "Universal Pictures",
-            "categoryId": "24",
-            "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
-            "localized": {
-              "title": "Five Nights at Freddy's 2 | Official Trailer",
-              "description": "We’re not done with you. #FNAF2movie in theaters December 5.\n\n--\n\nThey’re not just at Freddy’s anymore. \n \nIn 2023, Blumhouse’s box-office horror phenomenon Five Nights at Freddy’s, based on the blockbuster game series by Scott Cawthon, became the highest-grossing horror film of the year. Now, a shocking new chapter of animatronic terror begins. \n \nOne year has passed since the supernatural nightmare at Freddy Fazbear’s Pizza. The stories about what transpired there have been twisted into a campy local legend, inspiring the town’s first ever Fazfest. \n \nFormer security guard Mike (Josh Hutcherson) and police officer Vanessa (Elizabeth Lail) have kept the truth from Mike’s 11-year-old sister, Abby (Piper Rubio), concerning the fate of her animatronic friends. \n \nBut when Abby sneaks out to reconnect with Freddy, Bonnie, Chica, and Foxy, it will set into motion a terrifying series of events, revealing dark secrets about the true origin of Freddy’s, and unleashing a long-forgotten horror hidden away for decades.\n \nThe cast of Five Nights at Freddy’s 2 includes returning co-stars Theodus Crane as Jeremiah and the legendary Matthew Lillard as William Afton. The film features new characters played by Freddy Carter (Shadow and Bone, Pennyworth), Wayne Knight (Jurassic Park, Seinfeld), Mckenna Grace (Ghostbusters franchise, Annabelle Comes Home) and horror icon Skeet Ulrich (Scream, Riverdale). \n \nFive Nights at Freddy’s 2 is directed by acclaimed returning filmmaker Emma Tammi and is written by game series creator Scott Cawthon.\n \nThe film is produced by Blumhouse founder and CEO Jason Blum and Scott Cawthon, who together produced the first film. The executive producers are director Emma Tammi, Beatriz Sequeira, Christopher Warner, Russell Binder and Marc Mostman. \n \nThe first Freddy’s film opened to a record-shattering $80 million in October 2023 and went on to earn almost $300 million worldwide. \n\n\nSite: https://fivenightsatfreddys.movie/\nFacebook: https://www.facebook.com/FNAFMovie/\nInstagram: https://www.instagram.com/fnafmovie\nX: https://x.com/FNAFMovie\nTikTok: https://www.tiktok.com/@fnafmovie?lang=en"
-            },
-            "defaultAudioLanguage": "en-US"
-          },
-          "statistics": {
-            "viewCount": "14659799",
-            "likeCount": "564224",
-            "favoriteCount": "0",
-            "commentCount": "33657"
-          }
-        }
-      ],
-      "tiktok": {
-        "videos": [],
-        "count": 0
-      }
-    },
-    "creative": {
-      "director": [
-        "Emma Tammi"
-      ],
-      "writers": [
-        "Scott Cawthon"
-      ],
-      "cast_top": [
-        "Josh Hutcherson",
-        "Elizabeth Lail",
-        "Piper Rubio",
-        "Matthew Lillard",
-        "Theodus Crane",
-        "Freddy Carter",
-        "Mckenna Grace",
-        "Teo Briones"
       ],
       "star_power": {
         "actor_count": 8
@@ -9480,7 +9219,7 @@
         "original_language": "en",
         "original_title": "Oh. What. Fun.",
         "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
-        "popularity": 53.7385,
+        "popularity": 73.1159,
         "poster_path": "/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
         "production_companies": [
           {
@@ -9522,12 +9261,12 @@
         "tagline": "Come for the presents. Stay for the baggage.",
         "title": "Oh. What. Fun.",
         "video": false,
-        "vote_average": 6.8,
-        "vote_count": 21
+        "vote_average": 6.5,
+        "vote_count": 27
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.8,
+      "tmdb_vote_average": 6.5,
       "omdb": {
         "Title": "Oh. What. Fun.",
         "Year": "2025",
@@ -9566,273 +9305,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Oh. What. Fun.": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Oh. What. Fun.": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Oh. What. Fun.": 12,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Oh. What. Fun.": 10,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Oh. What. Fun.": 14,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Oh. What. Fun.": 100,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -9849,7 +9322,7 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "b_-fXhvS8piLUBh3ea72P8OM5rI",
+          "etag": "al8LwefZXmxHgvB85h3hgVXBQmc",
           "id": "FRfj0OHlcvo",
           "snippet": {
             "publishedAt": "2025-11-06T14:59:54Z",
@@ -9924,10 +9397,10 @@
             "defaultAudioLanguage": "en"
           },
           "statistics": {
-            "viewCount": "8499353",
-            "likeCount": "9196",
+            "viewCount": "8502945",
+            "likeCount": "9219",
             "favoriteCount": "0",
-            "commentCount": "551"
+            "commentCount": "552"
           }
         }
       ],
@@ -10776,87 +10249,87 @@
   {
     "rank": 9,
     "metadata": {
-      "tmdb_id": 967941,
-      "imdb_id": "tt19847976",
-      "title": "Wicked: For Good",
-      "release_date": "2025-11-19",
+      "tmdb_id": 83533,
+      "imdb_id": "tt1757678",
+      "title": "Avatar: Fire and Ash",
+      "release_date": "2025-12-17",
       "release_year": "2025",
       "genres": [
-        "Fantasy",
+        "Science Fiction",
         "Adventure",
-        "Romance"
+        "Fantasy"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Universal Pictures",
-        "Marc Platt Productions",
-        "dentsu"
+        "20th Century Studios",
+        "Lightstorm Entertainment",
+        "TSG Entertainment"
       ],
-      "runtime": 137,
-      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
+      "runtime": 197,
+      "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits."
     },
     "commercial": {
-      "budget": 150000000,
-      "revenue": 642000000,
+      "budget": 400000000,
+      "revenue": 0,
       "opening_weekend": null,
-      "roi": 4.28,
+      "roi": null,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+        "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
         "belongs_to_collection": {
-          "id": 968080,
-          "name": "Wicked Collection",
-          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
-          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
+          "id": 87096,
+          "name": "Avatar Collection",
+          "poster_path": "/3C5brXxnBxfkeKWwA1Fh4xvy4wr.jpg",
+          "backdrop_path": "/6qkJLRCZp9Y3ovXti5tSuhH0DpO.jpg"
         },
-        "budget": 150000000,
+        "budget": 400000000,
         "genres": [
           {
-            "id": 14,
-            "name": "Fantasy"
+            "id": 878,
+            "name": "Science Fiction"
           },
           {
             "id": 12,
             "name": "Adventure"
           },
           {
-            "id": 10749,
-            "name": "Romance"
+            "id": 14,
+            "name": "Fantasy"
           }
         ],
-        "homepage": "https://www.wickedmovie.com",
-        "id": 967941,
-        "imdb_id": "tt19847976",
+        "homepage": "https://www.avatar.com/movies/avatar-fire-and-ash",
+        "id": 83533,
+        "imdb_id": "tt1757678",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Wicked: For Good",
-        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
-        "popularity": 142.4678,
-        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+        "original_title": "Avatar: Fire and Ash",
+        "overview": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+        "popularity": 64.4738,
+        "poster_path": "/g96wHxU7EnoIFwemb2RgohIXrgW.jpg",
         "production_companies": [
           {
-            "id": 33,
-            "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
-            "name": "Universal Pictures",
+            "id": 127928,
+            "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+            "name": "20th Century Studios",
             "origin_country": "US"
           },
           {
-            "id": 2527,
-            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
-            "name": "Marc Platt Productions",
+            "id": 574,
+            "logo_path": "/8wdmrfGcDx3TJxYiiDksLzAW4pB.png",
+            "name": "Lightstorm Entertainment",
             "origin_country": "US"
           },
           {
-            "id": 1778,
-            "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
-            "name": "dentsu",
-            "origin_country": "JP"
+            "id": 22213,
+            "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+            "name": "TSG Entertainment",
+            "origin_country": "US"
           }
         ],
         "production_countries": [
@@ -10865,9 +10338,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-19",
-        "revenue": 642000000,
-        "runtime": 137,
+        "release_date": "2025-12-17",
+        "revenue": 0,
+        "runtime": 197,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -10876,53 +10349,44 @@
           }
         ],
         "status": "Released",
-        "tagline": "You will be changed.",
-        "title": "Wicked: For Good",
+        "tagline": "The world of Pandora will change forever.",
+        "title": "Avatar: Fire and Ash",
         "video": false,
-        "vote_average": 6.7,
-        "vote_count": 366
+        "vote_average": 0.0,
+        "vote_count": 0
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.7,
+      "tmdb_vote_average": 0.0,
       "omdb": {
-        "Title": "Wicked: For Good",
+        "Title": "Avatar: Fire and Ash",
         "Year": "2025",
-        "Rated": "PG",
-        "Released": "21 Nov 2025",
-        "Runtime": "137 min",
-        "Genre": "Family, Fantasy, Musical",
-        "Director": "Jon M. Chu",
-        "Writer": "Stephen Schwartz, Winnie Holzman, Gregory Maguire",
-        "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
-        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
+        "Rated": "PG-13",
+        "Released": "19 Dec 2025",
+        "Runtime": "195 min",
+        "Genre": "Action, Adventure, Fantasy",
+        "Director": "James Cameron",
+        "Writer": "James Cameron, Josh Friedman, Rick Jaffa",
+        "Actors": "Kate Winslet, Zoe Saldaña, Edie Falco",
+        "Plot": "Jake and Neytiri's family grapples with grief after Neteyam's death, encountering a new, aggressive Na'vi tribe, the Ash People, who are led by the fiery Varang, as the conflict on Pandora escalates and a new moral focus emerges.",
         "Language": "English",
-        "Country": "United States, Canada, Australia",
-        "Awards": "4 wins & 19 nominations total",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
-        "Ratings": [
-          {
-            "Source": "Internet Movie Database",
-            "Value": "7.1/10"
-          },
-          {
-            "Source": "Metacritic",
-            "Value": "58/100"
-          }
-        ],
-        "Metascore": "58",
-        "imdbRating": "7.1",
-        "imdbVotes": "28,626",
-        "imdbID": "tt19847976",
+        "Country": "United States",
+        "Awards": "2 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDYxY2I1OGMtN2Y4MS00ZmU1LTgyNDAtODA0MzAyYjI0N2Y2XkEyXkFqcGc@._V1_SX300.jpg",
+        "Ratings": [],
+        "Metascore": "N/A",
+        "imdbRating": "N/A",
+        "imdbVotes": "N/A",
+        "imdbID": "tt1757678",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$270,440,920",
+        "BoxOffice": "N/A",
         "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/avatar_fire_and_ash\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -10932,273 +10396,7 @@
     },
     "social": {
       "google_trends": {
-        "interest_over_time": [
-          {
-            "date": "2024-12-01T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-08T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-15T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-22T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2024-12-29T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-05T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-12T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-19T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-01-26T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-16T00:00:00",
-            "Wicked: For Good": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-02-23T00:00:00",
-            "Wicked: For Good": 0,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-02T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-09T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-16T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-23T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-03-30T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-06T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-20T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-04-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-04T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-11T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-18T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-05-25T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-01T00:00:00",
-            "Wicked: For Good": 15,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-08T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-15T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-22T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-06-29T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-06T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-13T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-20T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-07-27T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-03T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-10T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-17T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-24T00:00:00",
-            "Wicked: For Good": 1,
-            "isPartial": false
-          },
-          {
-            "date": "2025-08-31T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-07T00:00:00",
-            "Wicked: For Good": 2,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-14T00:00:00",
-            "Wicked: For Good": 3,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-21T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-09-28T00:00:00",
-            "Wicked: For Good": 5,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-05T00:00:00",
-            "Wicked: For Good": 11,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-12T00:00:00",
-            "Wicked: For Good": 7,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-19T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-10-26T00:00:00",
-            "Wicked: For Good": 8,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-02T00:00:00",
-            "Wicked: For Good": 16,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-09T00:00:00",
-            "Wicked: For Good": 24,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-16T00:00:00",
-            "Wicked: For Good": 100,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-23T00:00:00",
-            "Wicked: For Good": 97,
-            "isPartial": false
-          },
-          {
-            "date": "2025-11-30T00:00:00",
-            "Wicked: For Good": 36,
-            "isPartial": true
-          }
-        ]
+        "error": "The request failed: Google returned a response with code 429"
       },
       "x_search": {
         "attempts": [
@@ -11215,55 +10413,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "mJGGFXrfG2xNJgKZfTK_cOUbGfA",
-          "id": "vt98AlBDI9Y",
+          "etag": "Y8Ps8ruhEEPUepbxpjV-ssQbojA",
+          "id": "nb_fFj_0rq8",
           "snippet": {
-            "publishedAt": "2025-06-05T00:55:09Z",
-            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
-            "title": "Wicked: For Good | Official Trailer",
-            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
+            "publishedAt": "2025-07-28T15:00:09Z",
+            "channelId": "UCgjxQJ6TlKqhHax8742ZMdA",
+            "title": "Avatar: Fire and Ash | Official Trailer",
+            "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/nb_fFj_0rq8/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Universal Pictures",
+            "channelTitle": "Avatar",
             "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en-US",
+            "defaultLanguage": "en",
             "localized": {
-              "title": "Wicked: For Good | Official Trailer",
-              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
+              "title": "Avatar: Fire and Ash | Official Trailer",
+              "description": "From Director James Cameron, watch the trailer for Avatar: Fire and Ash.\nExperience the film only in theaters December 19.\n\nWith “Avatar: Fire and Ash,” James Cameron takes audiences back to Pandora in an immersive new adventure with Marine turned Na’vi leader Jake Sully (Sam Worthington), Na’vi warrior Neytiri (Zoe Saldaña), and the Sully family. The film, which has a screenplay by James Cameron & Rick Jaffa & Amanda Silver, and a story by James Cameron & Rick Jaffa & Amanda Silver & Josh Friedman & Shane Salerno, also stars Sigourney Weaver, Stephen Lang, Oona Chaplin, Cliff Curtis, Britain Dalton, Trinity Bliss, Jack Champion, Bailey Bass and Kate Winslet.\n\n——\nABOUT AVATAR\nDirector: James Cameron\nCast: Sam Worthington, Zoe Saldaña, Sigourney Weaver, Stephen Lang\nFilms: Avatar & Avatar: The Way of Water \n\nVisit our website: https://www.avatar.com/  \nFollow Avatar on Instagram: https://www.instagram.com/avatar/ \nFollow Avatar on TikTok: https://www.tiktok.com/@avatar  \nLike Avatar on Facebook: https://www.facebook.com/Avatar/  \nFollow Avatar on X: https://twitter.com/officialavatar  \n\n#Avatar #AvatarFireandAsh"
             },
             "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "13485017",
-            "likeCount": "298604",
+            "viewCount": "28860693",
+            "likeCount": "605816",
             "favoriteCount": "0",
-            "commentCount": "15170"
+            "commentCount": "34227"
           }
         }
       ],
@@ -11274,18 +10472,18 @@
     },
     "creative": {
       "director": [
-        "Jon M. Chu"
+        "James Cameron"
       ],
       "writers": [],
       "cast_top": [
-        "Ariana Grande",
-        "Cynthia Erivo",
-        "Jonathan Bailey",
-        "Jeff Goldblum",
-        "Michelle Yeoh",
-        "Ethan Slater",
-        "Marissa Bode",
-        "Colman Domingo"
+        "Sam Worthington",
+        "Zoe Saldaña",
+        "Sigourney Weaver",
+        "Stephen Lang",
+        "Oona Chaplin",
+        "Kate Winslet",
+        "Cliff Curtis",
+        "Joel David Moore"
       ],
       "star_power": {
         "actor_count": 8
@@ -12112,87 +11310,87 @@
   {
     "rank": 10,
     "metadata": {
-      "tmdb_id": 425274,
-      "imdb_id": "tt4712810",
-      "title": "Now You See Me: Now You Don't",
-      "release_date": "2025-11-12",
+      "tmdb_id": 967941,
+      "imdb_id": "tt19847976",
+      "title": "Wicked: For Good",
+      "release_date": "2025-11-19",
       "release_year": "2025",
       "genres": [
-        "Thriller",
-        "Crime",
-        "Mystery"
+        "Fantasy",
+        "Adventure",
+        "Romance"
       ],
       "production_countries": [
         "US"
       ],
       "language": "en",
       "studio_distributor": [
-        "Lionsgate",
-        "Cohen Pictures",
-        "Media Capital Technologies"
+        "Universal Pictures",
+        "Marc Platt Productions",
+        "dentsu"
       ],
-      "runtime": 112,
-      "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet."
+      "runtime": 137,
+      "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good."
     },
     "commercial": {
-      "budget": 90000000,
-      "revenue": 159000154,
+      "budget": 150000000,
+      "revenue": 642000000,
       "opening_weekend": null,
-      "roi": 1.767,
+      "roi": 4.28,
       "distribution": null,
       "raw": {
         "adult": false,
-        "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+        "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
         "belongs_to_collection": {
-          "id": 382685,
-          "name": "Now You See Me Collection",
-          "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
-          "backdrop_path": "/aaf233l8tO87BioeFnE2tsNIJkD.jpg"
+          "id": 968080,
+          "name": "Wicked Collection",
+          "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+          "backdrop_path": "/sppXb6E4BlKfZs0RgtlzMbVTZQ6.jpg"
         },
-        "budget": 90000000,
+        "budget": 150000000,
         "genres": [
           {
-            "id": 53,
-            "name": "Thriller"
+            "id": 14,
+            "name": "Fantasy"
           },
           {
-            "id": 80,
-            "name": "Crime"
+            "id": 12,
+            "name": "Adventure"
           },
           {
-            "id": 9648,
-            "name": "Mystery"
+            "id": 10749,
+            "name": "Romance"
           }
         ],
-        "homepage": "https://nowyouseeme.movie",
-        "id": 425274,
-        "imdb_id": "tt4712810",
+        "homepage": "https://www.wickedmovie.com",
+        "id": 967941,
+        "imdb_id": "tt19847976",
         "origin_country": [
           "US"
         ],
         "original_language": "en",
-        "original_title": "Now You See Me: Now You Don't",
-        "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
-        "popularity": 92.6361,
-        "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+        "original_title": "Wicked: For Good",
+        "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+        "popularity": 142.4678,
+        "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
         "production_companies": [
           {
-            "id": 1632,
-            "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
-            "name": "Lionsgate",
+            "id": 33,
+            "logo_path": "/6exxhPonOo0M995SAchY0ijpRao.png",
+            "name": "Universal Pictures",
             "origin_country": "US"
           },
           {
-            "id": 281285,
-            "logo_path": null,
-            "name": "Cohen Pictures",
+            "id": 2527,
+            "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+            "name": "Marc Platt Productions",
             "origin_country": "US"
           },
           {
-            "id": 221429,
-            "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
-            "name": "Media Capital Technologies",
-            "origin_country": "US"
+            "id": 1778,
+            "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+            "name": "dentsu",
+            "origin_country": "JP"
           }
         ],
         "production_countries": [
@@ -12201,9 +11399,9 @@
             "name": "United States of America"
           }
         ],
-        "release_date": "2025-11-12",
-        "revenue": 159000154,
-        "runtime": 112,
+        "release_date": "2025-11-19",
+        "revenue": 642000000,
+        "runtime": 137,
         "spoken_languages": [
           {
             "english_name": "English",
@@ -12212,53 +11410,53 @@
           }
         ],
         "status": "Released",
-        "tagline": "Unlock the illusion.",
-        "title": "Now You See Me: Now You Don't",
+        "tagline": "You will be changed.",
+        "title": "Wicked: For Good",
         "video": false,
-        "vote_average": 6.337,
-        "vote_count": 322
+        "vote_average": 6.7,
+        "vote_count": 366
       }
     },
     "ratings": {
-      "tmdb_vote_average": 6.337,
+      "tmdb_vote_average": 6.7,
       "omdb": {
-        "Title": "Now You See Me: Now You Don't",
+        "Title": "Wicked: For Good",
         "Year": "2025",
-        "Rated": "PG-13",
-        "Released": "14 Nov 2025",
-        "Runtime": "113 min",
-        "Genre": "Crime, Thriller",
-        "Director": "Ruben Fleischer",
-        "Writer": "Michael Lesslie, Paul Wernick, Rhett Reese",
-        "Actors": "Jesse Eisenberg, Woody Harrelson, Dave Franco",
-        "Plot": "A diamond heist reunites retired Horsemen illusionists with new performers Greenblatt, Smith and Sessa as they target dangerous criminals.",
+        "Rated": "PG",
+        "Released": "21 Nov 2025",
+        "Runtime": "137 min",
+        "Genre": "Family, Fantasy, Musical",
+        "Director": "Jon M. Chu",
+        "Writer": "Stephen Schwartz, Winnie Holzman, Gregory Maguire",
+        "Actors": "Cynthia Erivo, Ariana Grande, Jeff Goldblum",
+        "Plot": "Elphaba, the future Wicked Witch of the West and her relationship with Glinda, the Good Witch of the North. The second of a two-part feature film adaptation of the Broadway musical.",
         "Language": "English",
-        "Country": "United States, United Arab Emirates, Canada, Hungary",
-        "Awards": "N/A",
-        "Poster": "https://m.media-amazon.com/images/M/MV5BYmZmZDc1Y2EtMmU2MS00NmMzLTllZmYtNjlkODFkNjZlOGE0XkEyXkFqcGc@._V1_SX300.jpg",
+        "Country": "United States, Canada, Australia",
+        "Awards": "4 wins & 19 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BNzRhNTE4ZTYtNTM0Mi00MzU3LTk4MTktYWE3MzQ2NTU0MDNlXkEyXkFqcGc@._V1_SX300.jpg",
         "Ratings": [
           {
             "Source": "Internet Movie Database",
-            "Value": "6.3/10"
+            "Value": "7.1/10"
           },
           {
             "Source": "Metacritic",
-            "Value": "50/100"
+            "Value": "58/100"
           }
         ],
-        "Metascore": "50",
-        "imdbRating": "6.3",
-        "imdbVotes": "15,649",
-        "imdbID": "tt4712810",
+        "Metascore": "58",
+        "imdbRating": "7.1",
+        "imdbVotes": "28,626",
+        "imdbID": "tt19847976",
         "Type": "movie",
         "DVD": "N/A",
-        "BoxOffice": "$45,278,000",
-        "Production": "Lionsgate",
+        "BoxOffice": "$270,440,920",
+        "Production": "N/A",
         "Website": "N/A",
         "Response": "True"
       },
       "rotten_unofficial": {
-        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/now_you_see_me_now_you_dont_2025\", waiting until \"domcontentloaded\"\n"
+        "error": "Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\nCall log:\n  - navigating to \"https://www.rottentomatoes.comhttps//www.rottentomatoes.com/m/wicked_2024\", waiting until \"domcontentloaded\"\n"
       }
     },
     "streaming": {
@@ -12268,7 +11466,273 @@
     },
     "social": {
       "google_trends": {
-        "error": "The request failed: Google returned a response with code 429"
+        "interest_over_time": [
+          {
+            "date": "2024-12-01T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-08T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-15T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-22T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2024-12-29T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-05T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-12T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-19T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-01-26T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-02T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-09T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-16T00:00:00",
+            "Wicked: For Good": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-02-23T00:00:00",
+            "Wicked: For Good": 0,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-02T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-09T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-16T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-23T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-03-30T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-06T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-13T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-20T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-04-27T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-04T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-11T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-18T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-05-25T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-01T00:00:00",
+            "Wicked: For Good": 15,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-08T00:00:00",
+            "Wicked: For Good": 3,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-15T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-22T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-06-29T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-06T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-13T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-20T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-07-27T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-03T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-10T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-17T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-24T00:00:00",
+            "Wicked: For Good": 1,
+            "isPartial": false
+          },
+          {
+            "date": "2025-08-31T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-07T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-14T00:00:00",
+            "Wicked: For Good": 2,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-21T00:00:00",
+            "Wicked: For Good": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-09-28T00:00:00",
+            "Wicked: For Good": 5,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-05T00:00:00",
+            "Wicked: For Good": 10,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-12T00:00:00",
+            "Wicked: For Good": 7,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-19T00:00:00",
+            "Wicked: For Good": 8,
+            "isPartial": false
+          },
+          {
+            "date": "2025-10-26T00:00:00",
+            "Wicked: For Good": 9,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-02T00:00:00",
+            "Wicked: For Good": 16,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-09T00:00:00",
+            "Wicked: For Good": 23,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-16T00:00:00",
+            "Wicked: For Good": 100,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-23T00:00:00",
+            "Wicked: For Good": 95,
+            "isPartial": false
+          },
+          {
+            "date": "2025-11-30T00:00:00",
+            "Wicked: For Good": 34,
+            "isPartial": true
+          }
+        ]
       },
       "x_search": {
         "attempts": [
@@ -12285,89 +11749,55 @@
       "youtube_trailer": [
         {
           "kind": "youtube#video",
-          "etag": "AoKuuSyAdjDETixCai7_VD5H82s",
-          "id": "-E3lMRx7HRQ",
+          "etag": "FiXKZ_RY2-VCY6p-O1W5CBEDgr4",
+          "id": "vt98AlBDI9Y",
           "snippet": {
-            "publishedAt": "2025-04-29T16:54:59Z",
-            "channelId": "UCJ6nMHaJPZvsJ-HmUmj1SeA",
-            "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-            "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.",
+            "publishedAt": "2025-06-05T00:55:09Z",
+            "channelId": "UCq0OueAsdxH6b8nyAspwViw",
+            "title": "Wicked: For Good | Official Trailer",
+            "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz.",
             "thumbnails": {
               "default": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/default.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/default.jpg",
                 "width": 120,
                 "height": 90
               },
               "medium": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/mqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/mqdefault.jpg",
                 "width": 320,
                 "height": 180
               },
               "high": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/hqdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/hqdefault.jpg",
                 "width": 480,
                 "height": 360
               },
               "standard": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/sddefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/sddefault.jpg",
                 "width": 640,
                 "height": 480
               },
               "maxres": {
-                "url": "https://i.ytimg.com/vi/-E3lMRx7HRQ/maxresdefault.jpg",
+                "url": "https://i.ytimg.com/vi/vt98AlBDI9Y/maxresdefault.jpg",
                 "width": 1280,
                 "height": 720
               }
             },
-            "channelTitle": "Lionsgate Movies",
-            "tags": [
-              "Jesse Eisenberg",
-              "Woody Harrelson",
-              "Dave Franco",
-              "Isla Fisher",
-              "Justice Smith",
-              "Dominic Sessa",
-              "Ariana Greenblatt",
-              "with Rosamund Pike",
-              "Morgan Freeman",
-              "Now You See Me",
-              "sequel",
-              "series",
-              "Now You See Me 3",
-              "Now You See Me Now You Don't",
-              "Trailer",
-              "Official Trailer",
-              "Now You See Me 3 Trailer",
-              "NYSM Trailer",
-              "NYSM",
-              "NYSM 3",
-              "magician",
-              "illusions",
-              "heist",
-              "heist movie",
-              "bank heist",
-              "crime thriller",
-              "thriller",
-              "comedy",
-              "action",
-              "crime team",
-              "ruben fleischer",
-              "coming soon"
-            ],
-            "categoryId": "1",
+            "channelTitle": "Universal Pictures",
+            "categoryId": "24",
             "liveBroadcastContent": "none",
-            "defaultLanguage": "en",
+            "defaultLanguage": "en-US",
             "localized": {
-              "title": "Now You See Me: Now You Don’t (2025) Official Trailer",
-              "description": "NOW YOU SEE ME: NOW YOU DON’T – in theaters November 14, 2025. Starring Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman.\n\nSubscribe to the LIONSGATE YouTube Channel for the latest movie trailers, clips, and more: https://bit.ly/2Z6nfym\n \nhttps://www.instagram.com/nysmmovie/\nhttps://www.facebook.com/NowYouSeeMeMovie\nhttps://x.com/nysmmovie\nhttps://www.tiktok.com/@nysmmovie\n\n#NowYouSeeMe\n\nThe Four Horsemen return along with a new generation of illusionists performing mind-melding twists, turns, surprises, and magic unlike anything ever captured on film.\n\nDirected by Ruben Fleischer (Venom, Uncharted, Zombieland), NOW YOU SEE ME: NOW YOU DON’T stars Jesse Eisenberg, Woody Harrelson, Dave Franco, Isla Fisher, Justice Smith, Dominic Sessa, Ariana Greenblatt, with Rosamund Pike, and Morgan Freeman."
+              "title": "Wicked: For Good | Official Trailer",
+              "description": "The epic conclusion comes to theaters this November. Watch the #WickedForGood trailer now  🧹🫧\n\nPre-save ‘Wicked: For Good – The Soundtrack’ at https://wickedthesoundtrack.com\n-----\nTikTok: https://www.tiktok.com/@wickedmovie\nFacebook: https://www.facebook.com/wickedmovie\nX: https://twitter.com/wickedmovie\nInstagram: https://www.instagram.com/wickedmovie\nOfficial Site: https://wickedmovie.com\n\nAnd now whatever way our stories end, I know you have rewritten mine by being my friend …\n\nLast year’s global cinematic cultural sensation, which became the most successful Broadway film adaptation of all time, now reaches its epic, electrifying, emotional conclusion in Wicked: For Good. \n\nDirected once again by award-winning director Jon M. Chu and starring the spectacular returning cast, led by Academy Award® nominated superstars Cynthia Erivo and Ariana Grande, the final chapter of the untold story of the witches of Oz begins with Elphaba and Glinda estranged and living with the consequences of their choices. \n\nElphaba (Cynthia Erivo), now demonized as The Wicked Witch of the West, lives in exile, hidden within the Ozian forest while continuing her fight for the freedom of Oz’s silenced Animals and desperately trying to expose the truth she knows about The Wizard (Jeff Goldblum).  \n\nGlinda, meanwhile, has become the glamorous symbol of Goodness for all of Oz, living at the palace in Emerald City and reveling in the perks of fame and popularity. Under the instruction of Madame Morrible (Oscar® winner Michelle Yeoh), Glinda is deployed to serve as an effervescent comfort to Oz, reassuring the masses that all is well under the rule of The Wizard.  \n\nAs Glinda’s stardom expands and she prepares to marry Prince Fiyero (Olivier award winner and Emmy and SAG nominee Jonathan Bailey) in a spectacular Ozian wedding, she is haunted by her separation from Elphaba. She attempts to broker a conciliation between Elphaba and The Wizard, but those efforts will fail, driving Elphaba and Glinda only further apart. The aftershocks will transform Boq (Tony nominee Ethan Slater) and Fiyero forever, and threaten the safety of Elphaba’s sister, Nessarose (Marissa Bode), when a girl from Kansas comes crashing into all their lives. \n\nAs an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good. \n\nWicked: For Good also stars Emmy nominee Bowen Yang and Bronwyn James as Glinda’s fawning assistants, Pfannee and ShenShen and BAFTA and Grammy nominee Sharon D. Clarke (Caroline, or Change) as the voice of Elphaba’s childhood nanny, Dulcibear. \n\nThe film is produced by returning Tony and Emmy winning powerhouse Marc Platt p.g.a. and by multiple Tony winner David Stone. The executive producers are Stephen Schwartz, David Nicksay, Jared LeBoff, Winnie Holzman and Dana Fox. The first film, Wicked, released in November 2024, earned 10 Academy Award® nominations, including Best Picture, and won the Oscars® for Costume Design and Production Design. To date, the film has grossed $750 million worldwide. \n\nWicked: For Good is based on the generation-defining musical stage play with music and lyrics by legendary Grammy and Oscar® winning composer and lyricist Stephen Schwartz and book by Winnie Holzman, from the bestselling novel by Gregory Maguire. The screenplay is by Winnie Holzman and Winnie Holzman & Dana Fox. The film score is by John Powell & Stephen Schwartz, with music and lyrics by Stephen Schwartz."
             },
-            "defaultAudioLanguage": "en"
+            "defaultAudioLanguage": "en-US"
           },
           "statistics": {
-            "viewCount": "19299995",
-            "likeCount": "253595",
+            "viewCount": "13488337",
+            "likeCount": "298634",
             "favoriteCount": "0",
-            "commentCount": "12116"
+            "commentCount": "15172"
           }
         }
       ],
@@ -12378,18 +11808,18 @@
     },
     "creative": {
       "director": [
-        "Ruben Fleischer"
+        "Jon M. Chu"
       ],
       "writers": [],
       "cast_top": [
-        "Jesse Eisenberg",
-        "Dominic Sessa",
-        "Ariana Greenblatt",
-        "Justice Smith",
-        "Rosamund Pike",
-        "Woody Harrelson",
-        "Dave Franco",
-        "Isla Fisher"
+        "Ariana Grande",
+        "Cynthia Erivo",
+        "Jonathan Bailey",
+        "Jeff Goldblum",
+        "Michelle Yeoh",
+        "Ethan Slater",
+        "Marissa Bode",
+        "Colman Domingo"
       ],
       "star_power": {
         "actor_count": 8
