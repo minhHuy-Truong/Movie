@@ -1,9 +1,4 @@
 name: API and Web Scrape Automation
-on:
-  schedule:
-    - cron: "0 */6
-    * * *"  # Chạy mỗi 2 giờ
-  workflow_dispatch:  # Cho phép chạy thủ công
 permissions:
   contents: write   # 👈 Thêm quyền ghi vào repo để có thể push
 jobs:
